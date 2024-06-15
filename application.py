@@ -3,9 +3,9 @@ from flask_cors import CORS
 import json
 from datetime import date
 
-app = Flask(__name__)
+application = Flask(__name__)
 # TODO: update the CORS configuration
-cors = CORS(app)
+cors = CORS(application)
 
 def get_questions_for_date(date):
     with open('backend_questions.json', 'r') as f:
@@ -33,7 +33,7 @@ def calculate_days_past_april_14_2024(input_date):
     except ValueError:
         return None  # Return None if the input date format is invalid
 
-@app.route('/api/questions/<date_string>')
+@application.route('/api/questions/<date_string>')
 def get_data_by_date(date_string, methods=['GET']):
     """
       Args:
@@ -43,4 +43,4 @@ def get_data_by_date(date_string, methods=['GET']):
     return jsonify(get_questions_for_date(date_obj))
 
 if __name__ == '__main__':
-    app.run(debug=True)  # Set debug=True for easier development
+    application.run(debug=True)  # Set debug=True for easier development
