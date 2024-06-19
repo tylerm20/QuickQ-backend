@@ -1,11 +1,15 @@
+import os
+import json
+from dotenv import load_dotenv
 from flask import Flask, jsonify, request
 from flask_cors import CORS
-import json
 from datetime import date
 
+load_dotenv()  # Load environment variables from .env file
 application = Flask(__name__)
 # TODO: update the CORS configuration
 cors = CORS(application)
+is_dev_mode = os.getenv('FLASK_ENV') == 'development'
 
 def get_questions_for_date(date):
     with open('backend_questions.json', 'r') as f:
@@ -39,8 +43,12 @@ def get_data_by_date(date_string, methods=['GET']):
       Args:
         date_string (str): The input date in the format 'YYYY-MM-DD'.
     """
+    api_key = request.headers.get('Authorization').replace('Bearer ', '', 1)  # Extract the key without 'Bearer '
+    if api_key != os.getenv('API_KEY'):
+        return jsonify({"error": "Invalid API key"}), 401  # Unauthorized
+
     date_obj = date.fromisoformat(date_string)
     return jsonify(get_questions_for_date(date_obj))
 
 if __name__ == '__main__':
-    application.run(debug=True)  # Set debug=True for easier development
+    application.run(debug=is_dev_mode)
