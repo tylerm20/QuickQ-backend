@@ -3175,7 +3175,7 @@
         {
             "category": "World History",
             "question": "This person is said to have caused the \"Miracle of the Sun\" after appearing to three children in F\u00e1tima, Portugal. The prayer most commonly recited during the rosary is addressed to this figure, and calls her \"full of grace\". The doctrine of the Immaculate Conception concerns this figure, whose titles include \"Queen of Heaven\". Catholics affirm the \"perpetual virginity\" of what mother of Jesus?",
-            "answers": ["Mary"],
+            "answers": ["Mary", "Virgin Mary", "Mary, mother of Jesus"],
             "used": "TRUE"
         },
         {
@@ -3211,7 +3211,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This nation recently elected its first female president who will also be its first Jewish president. The current president goes by his initials, AMLO, and created the Moreno Party which is representing by the newly elected Claudia Sheinbaum. This nation is one of the top two trading partners with the United States, and US companies have recently been moving more manufacturing to this country in what has been called \"friendshoring\" -- shifting production from geopolitical foes to allies. Name this North American nation.",
+            "question": "This nation recently elected its first female president who will also be its first Jewish president. The current president goes by his initials, AMLO, and created the Moreno Party which is represented by the newly elected Claudia Sheinbaum. This nation is one of the top two trading partners with the United States, and US companies have recently been moving more manufacturing to this country in what has been called \"friendshoring\" -- shifting production from geopolitical foes to allies. Name this North American nation.",
             "answers": ["Mexico"],
             "used": "TRUE"
         },
@@ -3231,8 +3231,8 @@
     [
         {
             "category": "Current Events",
-            "question": "This Louisiana native was born Stephanie A. Gregory in 1979. She was a key witness in the trial which led to the first criminal conviction of the US President. In the trial the prosecution argued that Michael Cohen paid this person $130,000 to deny she had an affair a decade earlier with Donald Trump. Name this pornstar whose affair with Donald Trump led to his conviction on 34 counts of falsifying business records.",
-            "answers": ["Stormy Daniels"],
+            "question": "This Louisiana native was born Stephanie A. Gregory in 1979. She was a key witness in the trial which led to the first criminal conviction of a US President. In the trial the prosecution argued that Michael Cohen paid this person $130,000 to deny she had an affair a decade earlier with Donald Trump. Name this pornstar whose affair with Donald Trump led to his conviction on 34 counts of falsifying business records.",
+            "answers": ["Stormy Daniels", "Stormy", "Daniels"],
             "used": "TRUE"
         },
         {
@@ -3249,7 +3249,7 @@
         {
             "category": "Geography",
             "question": "The \"Six Arrows\" represent the ideology of this country's founder, who introduced the Latin alphabet to it and banned the wearing of fezzes. This country contains the largest population of Kurds in its southeast, and its first president was Mustafa Kemal Atat\u00fcrk. In 1922, the Ottoman Empire was replaced by what country which contains the transcontinental city of Istanbul?",
-            "answers": ["Turkey"],
+            "answers": ["Turkey", "Republic of Türkiye", "Türkiye"],
             "used": "TRUE"
         },
         {
@@ -3279,7 +3279,7 @@
         {
             "category": "US History",
             "question": "This Supreme Court case involved multiple same-sex couples who challenged state bans on same-sex marriage. The Court held that the Fourteenth Amendment requires states to license and recognize marriages between two people of the same sex. Name this landmark 2015 case that legalized same-sex marriage nationwide.",
-            "answers": ["Obergefell v. Hodges", "Obergerfell"],
+            "answers": ["Obergefell v. Hodges", "Obergerfell", "Hodges"],
             "used": "TRUE",
             "source": ""
         }
@@ -3299,7 +3299,7 @@
         },
         {
             "category": "Current Events",
-            "question": "Morgan Spurlock, the creator of this 2004 documentary film died on May 23, 2024. The film follows a filmmaker who embarks on a 30-day experiment, consuming only McDonald's food for every meal. The film documents the detrimental effects of this diet on his physical and psychological health, as well as the broader implications of the fast-food industry's marketing and influence on public health. Name which sparked widespread debate about the dangers of fast food and its contribution to the obesity epidemic. ",
+            "question": "Morgan Spurlock, the creator of this 2004 documentary film died on May 23, 2024. The film follows a filmmaker who embarks on a 30-day experiment, consuming only McDonald's food for every meal. The film documents the detrimental effects of this diet on his physical and psychological health, as well as the broader implications of the fast-food industry's marketing and influence on public health. Name this film which sparked widespread debate about the dangers of fast food and its contribution to the obesity epidemic. ",
             "answers": ["Super Size Me"],
             "used": "TRUE"
         },
@@ -3419,7 +3419,7 @@
         },
         {
             "category": "Current Events",
-            "question": "Bruhat Soma won this competition in a lightning-round tiebreaker in May 2024. This annual event began in 1925 with nine contestants and has since grown to include millions of participants from across the United States and several other countries. It is open to students who have not passed the eighth grade and have not reached their 15th birthday. Name this prestigious competition that has been broadcast on national television since 1946 and is known for its challenging words and impressive displays of spelling prowess.",
+            "question": "Bruhat Soma won this competition in a lightning-round tiebreaker in May 2024. This annual event began in 1925 with nine contestants and has since grown to include millions of participants from across the United States and several other countries. It is open to students who have not passed the eighth grade and have not reached their 15th birthday. Name this prestigious competition hosted in Washington, D.C. that is known for its challenging words and impressive displays of spelling prowess.",
             "answers": ["Scripps Spelling Bee"],
             "used": "TRUE"
         },
@@ -3532,12 +3532,12 @@
         {
             "category": "Sports",
             "question": "This team relocated to Los Angeles in 2016 after playing in St. Louis since 1995. They won Super Bowl LVI in 2022, defeating the Cincinnati Bengals at their home stadium, SoFi Stadium. Their star defensive tackle, Aaron Donald, is a three-time NFL Defensive Player of the Year and a Super Bowl champion. Sean McVay, their head coach, is the youngest head coach in NFL history to lead a team to the Super Bowl. Name this team that shares SoFi Stadium with the Los Angeles Chargers. ",
-            "answers": ["L.A. Rams", "Rams", "LA Rams"],
+            "answers": ["L.A. Rams", "Rams", "LA Rams", "Los Angeles Rams"],
             "used": "TRUE"
         },
         {
             "category": "Arts & Literature",
-            "question": "The blood from the right half of this figure was said to bring the dead back to life. Stheno and Euryale were siblings of this child of Ceto, who gave birth to Chrysaor upon her death. A body part of this figure was placed upon the Aegis shield by Athena. This figure was transformed into a monster after Poseidon assaulted her at a temple to Athena, and was slain by Perseus. Identify this gorgon whose gaze petrified men",
+            "question": "The blood from the right half of this figure was said to bring the dead back to life. Stheno and Euryale were siblings of this child of Ceto, who gave birth to Chrysaor upon her death. A body part of this figure was placed upon the Aegis shield by Athena. This figure was transformed into a monster after Poseidon assaulted her at a temple to Athena, and was slain by Perseus. Identify this gorgon whose gaze petrified men.",
             "answers": ["Medusa"],
             "used": "TRUE"
         },
@@ -3559,6 +3559,374 @@
             "answers": ["Boston", "Boston Massachussetts"],
             "used": "TRUE",
             "source": ""
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This figure skater became the first American woman and the second woman to land a triple axel in competition. She won the U.S. Figure Skating Championships in 1991 and 1994, but her career was overshadowed by her association with the attack on fellow skater Nancy Kerrigan in 1994. She pleaded guilty to hindering prosecution and was banned for life from the U.S. Figure Skating Association. Name this controversial figure skater portrayed by Margot Robbie in a 2017 film.",
+            "answers": ["Tonya Harding"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Paul Robeson played the title character of this play in its longest-running New York theatre production. The main character of this play is convinced by a handkerchief that his wife is cheating on him. In this play, Emilia is killed for exposing the treachery of her husband Iago. Desdemona is smothered with a pillow in what Shakespeare play about a \"Moor of Venice\"?",
+            "answers": ["Othello"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "One of this leader's speeches discusses a \"frightful despotism\" and forbids \"entangling\nalliances.\" The Newburgh Conspiracy and the Conway Cabal were plots to replace this leader with\nHoratio Gates after this leader's losses at Germantown and Brandywine. After issuing his\nfarewell address warning against political parties, this leader retired to Mount Vernon. Name this President of the United States.",
+            "answers": ["George Washington"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This neo-noir mystery film follows an aspiring actress named Betty, who befriends an amnesiac woman named Rita after she survives a car crash. As they try to uncover Rita's identity, they become entangled in a web of dreams, illusions, and Hollywood conspiracies. This film is known for its surreal imagery, non-linear narrative, and ambiguous ending, leaving much open to interpretation. Name this 2001 film directed by David Lynch, named after a famous Los Angeles road that is often cited as one of the greatest films of the 21st century.",
+            "answers": ["Mulholland Drive", "Mullholland Dr"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This city was home to the Francis Scott Key Bridge which collapsed on March 26, 2024 after a cargo ship named Dali collided with the bridge. The city, located on the Patapsco River in Maryland, was a major shipbuilding center during World War II and is home to Fort McHenry, where \"The Star-Spangled Banner\" was written during the War of 1812. It is also known for its distinct neighborhoods, such as Fells Point and Federal Hill, and its unique culinary traditions, including a famous crab cake. Name this city, nicknamed \"Charm City,\" that is the largest city in Maryland.",
+            "answers": ["Baltimore"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "Juan Sebastian Elcano continued one of this explorer's expeditions after they were killed by forces under Lapu-Lapu at the Battle of Mactan. This explorer's voyage to the Spice Islands made them the first to discover a strait south of South America, which was later named for them. Name this Portuguese explorer who died while attempting the first circumnavigation of the earth.",
+            "answers": ["Ferdinand Magellan", "Magellan"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "An airport in this city is nicknamed \"The Busiest Square Mile on Earth\". The South Shore Line is a commuter train connecting this city to South Bend. The codes MDW and ORD are used for airports in this city. This city's elevated trains, nicknamed the \"El\", converge in a downtown area named the Loop. Midway Airport and O'Hare Airport serve what most populous city in Illinois?",
+            "answers": ["Chicago"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "Orbital resonance with Jupiter causes certain points called Kirkwood gaps in one region to be devoid of these objects. Some of these objects that share sections of Jupiter's orbit are called trojans. Vesta and Ceres are the largest of these objects, one of which hit Earth and caused the K-T extinction. What rocky bodies are found most commonly between Mars and Jupiter in a namesake \"belt\"?",
+            "answers": ["asteroids", "asteroid"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "Al Smith's adherence to this faith may have caused his election loss to Herbert Hoover. Prejudice against Italian immigrants to America was partially driven by their adherence to this faith, along with Irish-American immigrants such as the Kennedys. In 2020, Joe Biden became the second president in American history to be a member of what \"Roman\" Christian denomination?",
+            "answers": ["Roman Catholic", "Catholic", "Catholicism"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "In early June, this news organization's executive editor abruptly resigned after disagreements with the organization's CEO, Will Lewis. This newspaper, founded in 1877, gained national prominence for its investigative reporting during the Watergate scandal in the early 1970s. Reporters Bob Woodward and Carl Bernstein played a crucial role in uncovering the Nixon administration's involvement in the break-in at the Democratic National Committee headquarters. Name this newspaper, owned by Jeff Bezos which is headquartered in Washington D.C.",
+            "answers": ["The Washington Post", "Washington Post"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "The KGB may have killed a leader of this group, Dag Hammarskj\u00f6ld, in a plane crash over present-day Zambia. An \"educational, scientific, and cultural organization\" within this group recognizes world heritage sites. This group's Security Council gives unilateral vetoes to five permanent members, including Russia. What international organization headquartered in New York has 193 member states?",
+            "answers": ["United Nations", "UN", "U.N."],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "This scientist discovered that the plane of polarization for linearly polarized light can be rotated using an external magnetic field. This scientist's law of induction describes how a magnetic field can produce an electromotive force. This scientist used an ice pail to demonstrate electromagnetic shielding in his namesake cage. Name this English physicist who lends his name to the SI unit of capacitance.",
+            "answers": ["Michael Faraday", "Faraday"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This quarterback, nicknamed \"Joe Cool\" for his calm demeanor under pressure, led the San Francisco 49ers to four Super Bowl victories in the 1980s. He is renowned for engineering numerous come-from-behind victories, including \"The Catch,\" a last-minute touchdown pass to Dwight Clark in the 1981 NFC Championship Game against the Dallas Cowboys. Name this three-time Super Bowl MVP who is considered one of the greatest quarterbacks in NFL history.",
+            "answers": ["Joe Montana"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "Women in this country may wear a bathrobe-like summer dress known as a yukata. A silk dress from this country is held together by a belt called an obi and may feature designs of Sakura, or cherry blossoms. Ladies-in-waiting like Lady Murasaki during the Heian period were some of the first to wear kimonos in what country, where they're worn by women living in Tokyo?",
+            "answers": ["Japan", "Nippon"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "John Grimes' upbringing in this city is the subject of James Baldwin's novel Go Tell It On the\nMountain. A musician plays piano in this city in the poem \"The Weary Blues.\" An author from this\ncity asked \"What happens to a dream deferred?\" in a poem titled for a Black majority\nneighborhood in it. Langston Hughes was part of the Harlem Renaissance centered in\nwhat American city?",
+            "answers": [
+                "New York City",
+                " NYC",
+                " New York",
+                " New York New York"
+            ],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This artist, born David Robert Jones, adopted his stage name to avoid confusion with Davy Jones of The Monkees. Known for his flamboyant alter egos, including the Thin White Duke, he constantly reinvented his image and sound throughout his career. His music spanned genres like glam rock, art rock, soul, and electronica, with iconic albums like \"The Rise and Fall of Ziggy Stardust and the Spiders from Mars,\" \"Heroes,\" and \"Let's Dance.\" Name this legendary British musician known for his distinctive voice and theatrical performances.",
+            "answers": ["David Bowie"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "At least 14 Jordanian citizens have died in 2024 during this event due to intense heat. A practice similar to this one, but which can take place at any time of year, is Umrah.\nParticipants in this practice throw stones at a wall in a ritual \"Stoning of the Devil\" and reenact\nHajar's search for water by running between two hills. Participants in this event walk seven times\naround the Kaaba at the center of the Masjid al-Haram. The Fifth Pillar of Islam is\nwhat pilgrimage to Mecca?",
+            "answers": [
+                "Hajj",
+                " pilgrimage",
+                " Mecca",
+                " pilgrimage to Mecca"
+            ],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "This leader won the Nobel Prize in Literature for A History of the English-Speaking Peoples. This politician was demoted after the Gallipolli campaign during World War I. The \"Blood, Sweat, and Tears\" speech was given by this man, who succeeded Neville Chamberlain and declared \"We shall never surrender\" during a war where London was bombed. Name this prime minister who led Britain through World War II.",
+            "answers": ["Winson Churchill", "Churchill"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "A faction opposed to this ideology was led by Patrick Henry. This ideology names a series of texts published under the name \"Publius\" to promote the Constitution, as well as a party that supported the first national bank, a strong central government, and opposed the Democratic-Republicans. Alexander Hamilton wrote most of the \"Papers\" named for what ideology that names an early American political party?",
+            "answers": ["Federalist", "Federalist Papers", "Federalism"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "This element is purified by reducing its oxide in molten cryolite in the Hall-H\u00e9roult process.\nThe Bayer process is used to obtain this element from its ore. It's not chromium, but a\ncharacteristic red color is formed when oxygen and this element form rubies. Bauxite is this\nelement's most common ore. Identify this thirteenth element often used to make foil,\nwith atomic symbol Al.",
+            "answers": ["aluminum"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This coach, born in 1913 and known for his houndstooth hat, is considered one of the greatest college football coaches of all time. He led the University of Alabama to six national championships and 13 Southeastern Conference (SEC) titles during his 25-year tenure as head coach. Name this legendary coach whose statue stands outside Bryant-Denny Stadium in Tuscaloosa, Alabama.",
+            "answers": ["Bear Bryant", "Bryant"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "This country considered giving the mountain Halti to a neighbor to celebrate that neighbor's 100th birthday. This country's capital was named Christiania until merging with another village in 1925. A museum in this country is dedicated to painter Edvard Munch. This country's west coast, on the Atlantic ocean, is famous for its fjords. Name this Scandinavian country whose capital city is Oslo",
+            "answers": ["Norway", "Kongeriket Norge"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This modern-day country was the center of an ancient culture which practiced the black-figure and red-figure styles of painting on pottery. The Elgin Marbles were taken from a building in this country. The sculpture Winged Victory from this country represents the goddess Nike. Praxiteles, a sculptor from this country, created a sculpture of the god Hermes. What country is home to the Parthenon?",
+            "answers": ["Greece", "Hellas"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film, featuring memorable scenes of beach volleyball and shirtless pilots, became the highest-grossing film of 1986. Its soundtrack, including Kenny Loggins' \"Danger Zone,\" topped the Billboard charts. The film's iconic motorcycle scene, with Tom Cruise sporting aviator sunglasses and a leather jacket, has been referenced and parodied numerous times in popular culture. Name this film about fighter pilots starring Tom Cruise as Pete \"Maverick\" Mitchell.",
+            "answers": ["Top Gun"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "An event involving this activist occurred nine months after a similar one involving 15-year-old\nClaudette Colvin. After one action taken by this activist, carpools and taxis were organized to\nprotest the National City Lines company. A year-long public transit boycott in Montgomery,\nAlabama, was sparked by the arrest of what civil rights activist who refused to give up\nher bus seat to a white person?",
+            "answers": ["Rosa Parks"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "The word \"algebra\" comes from a word in this language meaning \"computation\". Maltese is descended from a historic dialect of this language. This is the most-spoken language whose writing system conventionally omits vowels and is written from right to left. The most-spoken Semitic language is what language whose \u201cclassical\u201d form is used in the Qur\u2019an and is also spoken in cities like Cairo and Dubai?",
+            "answers": ["Arabic", "al'arabbiyah"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This nation's hocket team, comprised of veteran professional players who had dominated international hockey for years, entered the 1980 Winter Olympics in Lake Placid as heavy favorites. They had won the gold medal in four of the previous five Winter Olympic Games and had recently defeated the young and inexperienced U.S. team 10-3 in an exhibition match. In a shocking upset, the U.S. team defeated this team 4-3 in a medal-round game, which became known as the \"Miracle on Ice.\" Against which country did the United States achieve this iconic victory?",
+            "answers": [
+                "Soviet Union",
+                "USSR",
+                "U.S.S.R.The Soviet Union (miracle)"
+            ],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": ". In a novel from this country, a \"yellow bakkie\" is owned by a servant of Maureen and Bamford.\nArthur Jarvis is murdered by Absalom, the son of Stephen Kumalo, in a novel from this country.\nThe novel July's People was written by this country's author Nadine Gordimer. Alan Paton wrote\nCry, the Beloved Country in what country where many authors wrote about apartheid?",
+            "answers": ["South Africa", "RSA", "Republic of South Africa"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This holiday was celebrated on Monday, June 17, 2024. It is an Islamic holiday, also known as the \"Feast of Sacrifice\", and it commemorates Ibrahim's (Abraham's) willingness to sacrifice his son as an act of obedience to God. It is celebrated on the 10th day of Dhu al-Hijjah, the twelfth and final month of the Islamic lunar calendar, and typically lasts for four days. Name this important Islamic festival that follows the annual Hajj pilgrimage.",
+            "answers": ["Eid al-Adha", "Eid-ul-Adha", "Bakrid", "Eid"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "This revolutionary became a symbol of socialist revolution after his execution in Bolivia in 1967. He played a key role in the Cuban Revolution, serving as a guerrilla leader alongside Fidel Castro. He later held positions in the new Cuban government, including Minister of Industries. His iconic portrait, taken by Alberto Korda, has become one of the most reproduced images in the world. Name this Marxist revolutionary born in Argentina. ",
+            "answers": ["Che Guevara"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "The Late Heavy Bombardment was a period of intense meteorite impacts on this planet. Banded\niron formations provide evidence for a \"great oxygenation event\" on this planet. A mass extinction\ncalled the Great Dying occurred at the end of this planet's Permian period. The Cambrian\nexplosion saw a rapid emergence of life on what 4.5 billion year old planet?",
+            "answers": ["Earth"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This band, originally named On a Friday, formed in Abingdon, Oxfordshire, England in 1985. They achieved critical acclaim and commercial success with their third album, OK Computer, which is often cited as one of the greatest albums of all time. Their musical style has evolved throughout their career, incorporating elements of alternative rock, electronica, and experimental music. Name this band known for songs like \"Creep,\" \"Karma Police,\" and \"Paranoid Android,\" fronted by Thom Yorke.",
+            "answers": ["Radiohead", "radio head"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "This competitor was recently banned from Nathan's Hot Dog Eating Contesr contest on Coney Island due to a sponsorship conflict. Historically, he has dominated the Nathan's Hot Dog Eating Contest, winning a record 16 titles. In 2021, he set a new world record by consuming 76 hot dogs and buns in 10 minutes. He also holds numerous other eating records in various disciplines, including chicken wings, pizza, and Twinkies. Name this competitive eating legend who has become synonymous with the Fourth of July hot dog eating tradition.",
+            "answers": ["Joey Chestnut"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "This politician served as a Continental Army officer during the American Revolution and later became a successful lawyer in New York. He served as a U.S. Senator from New York and narrowly lost the presidential election of 1800 to Thomas Jefferson, resulting in him becoming Vice President. He killed his political rival, Alexander Hamilton, in a duel in 1804, and was later tried for treason in 1807 for his alleged conspiracy to create an independent nation in the Western territories. Name this controversial figure in early American history.",
+            "answers": ["Aaron Burr"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "The story of the Pied Piper originated in this country. In a story from this country, a wife convinces her husband to abandon his children in the forest, and later in that story a girl pushes an old woman into an oven. In another story from this country, the name of a man who spins straw into gold is revealed to be Rumpelstiltskin. Name this country of Brothers Grimm stories such as \u201cHansel and Gretel.\u201d",
+            "answers": ["Germany"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This South Korean dark comedy thriller film follows a poor family, the Kims, who scheme their way into working for a wealthy family, the Parks. The film explores themes of social class, inequality, and the parasitic relationships that can develop between those of different socioeconomic statuses. Name this 2019 film directed by Bong Joon-ho, which won four Academy Awards, including Best Picture, Best Director, Best Original Screenplay, and Best International Feature Film, making history as the first non-English language film to win Best Picture.",
+            "answers": ["Parasite"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "Early on in this conflict, the defensive \"Maginot Line\" completely failed to deter an invasion. In\nthis conflict, the slogan \"Work, Family, Fatherland\" was adopted by a regime led by former war\nhero Philippe P\u00e9tain. In this conflict, a French regime based in the city of Vichy was\nresisted by the \"Free French\". Name this conflict during which France was led by a Nazi\npuppet government.",
+            "answers": ["World War II", "WWII", "Second World War"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "One sports team based in this city are nicknamed the \"Toffees\" and play at Goodison Park. A\nteam named for this city came back from a 3-0 deficit to win the Champions League in the\n\"Miracle of Istanbul\". The song \"You'll Never Walk Alone\" is associated with a team in this city,\nwhich plays against Everton in the Merseyside Derby. Name this city whose\nnamesake club is a longtime rival of Manchester United.",
+            "answers": ["Liverpool"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "Buddy Holly died in a plane crash near this state's Mason City. This state's highest point is located on a farm near the town of Sibley and is called Hawkeye Point. This state's exclave of Carter Lake lies on the west bank of the Missouri River on its border with Nebraska. Illinois shares the \"Quad Cities\" with what Midwestern state, the southern neighbor of Minnesota, whose capital is Des Moines?",
+            "answers": ["Iowa"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "This anatomical system can be affected by Charcot-Marie-Tooth disease, and the Nodes of\nRanvier are found between Schwann cells, a type of glial cell, in this system. Multiple sclerosis\nattacks the myelin sheath of cells in this system, and synaptic clefts are crossed by molecules like\nacetylcholine and adrenaline to carry impulses throughout it. Neurons are found in\nwhat system which includes the brain?",
+            "answers": ["nervous system", "nervous"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This neo-noir science fiction film, set in a dystopian Los Angeles in 2019, follows a blade runner named Rick Deckard who is tasked with hunting down and \"retiring\" four escaped replicants, bioengineered beings indistinguishable from humans. The film is known for its distinctive visuals, philosophical themes about artificial intelligence and what it means to be human, and iconic quotes like \"All those moments will be lost in time, like tears in rain.\" Name this 1982 film directed by Ridley Scott and based on the novel Do Androids Dream of Electric Sheep? by Philip K. Dick.",
+            "answers": ["Blade Runner"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "In the largest democratic election in history, this man was reelected to a third consecutive term as prime minister. This man will lead a coaltion government for this first time as his party, the Bharatiya Janata Party, did not win an absolute majority of seats. Although his BJP did not win a majority of seats, their alliance known as the National Democratic Alliance won 293 out of the 543 seats. Name this 14th prime minister of India who was born in 1950.",
+            "answers": ["Narendra Modi", "Modi"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This player, known for his defensive prowess and intensity, was involved in one of the most infamous incidents in NBA history, the \"Malice at the Palace\" brawl in 2004. He won the NBA Defensive Player of the Year Award in 2004 and was a key member of the Los Angeles Lakers championship team in 2010. Name this player, who legally changed his name to Metta World Peace in 2011.",
+            "answers": ["Ron Artest", "Metta World Peace", "Artest"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "This country's Queen Christina abdicated to live with the Pope. In the Thirty\nYears' War, this country's king was nicknamed \"Lion of the North.\" A chemist from this country\nwas nicknamed the \"merchant of death\" for inventing dynamite. Russia's Peter the Great won the\nGreat Northern War against this country, which was home to Alfred Nobel. Name\nthis country led from Stockholm.",
+            "answers": ["Sweden", "Sverige"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "4. The first confirmed discovery of one type of these objects looked at variations in pulsar timing. The Kepler satellite uses transits to look for these objects outside the Solar System. Astronomers are looking for these objects in the \"habitable zone\" as possible sites of extraterrestrial life. Gas giants are one kind of what objects which orbit stars, such as Venus and the Earth?",
+            "answers": ["planets", "exoplanet"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "This conflict, ended by the Treaty of Ghent, which restored pre-war boundaries, resulted in no significant territorial changes for either side. One of its key battles, the Battle of New Orleans, was a decisive American victory led by Andrew Jackson, yet it occurred after the peace treaty had been signed. Other notable events include the burning of Washington D.C. and the British bombardment of Fort McHenry, which inspired Francis Scott Key to write \"The Star-Spangled Banner.\" Name this war fought between the United States and Great Britain from 1812 to 1815.",
+            "answers": ["War of 1812"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "A sports team was named for these animals to honor an author who died in that team's city. The narrator of one poem says that one of these animals \"will leave me, as my Hopes have flown before\". In that poem, this animal is told to \"get thee back\" to \"the Night's Plutonian shore!\". This animal sits on a bust of Pallas after \"rapping at my chamber door\". What bird repeats the word \"nevermore\"?",
+            "answers": ["a raven", "ravens baltimore ravens"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "The U.S. Army blasted heavy metal to lure this country's leader Manuel Noriega out of hiding in Operation Just Cause. Walter Reed's research on yellow fever aided in the completion of a project that began after this country's independence from Colombia. That project, overseen by Theodore Roosevelt, improved Pacific-Atlantic ship travel. What Central American country's isthmus is home to a namesake canal?",
+            "answers": ["Panama", "Panama Canal"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "This businessman had a pay package work over $45 billion in stock options approved by shareholders after a Deleware judge initially struck the package down. He also recently dropped a lawsuit against OpenAI, where he was a cofounder, in which he claimed the company had breached its pledge to remain a nonprofit company. Name this entrepenuer who took Twitter private and acts of the CEO of Tesla and SpaceX.",
+            "answers": ["Elon Musk (pay package)"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "In 1889, this state was devastated by a flood in Johnstown. Labor leaders staged the Homestead\nStrike in this state. The working-class \"Yinz\" in one of this state's cities were employed by Andrew\nCarnegie's company, making it the center of the steel industry. To this day, nobody knows how a\ncrack formed on the bell in this state's Independence Hall. Name this state home to\nPhiladelphia.",
+            "answers": ["Pennsylvania"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "A stickler for fundamentals and discipline, this coach is often quoted for saying, \"Winning isn't everything, it's the only thing.\" This coach led the Green Bay Packers to five NFL championships in seven years, including the first two Super Bowls. His name now graces the Super Bowl trophy. Name this legendary coach whose name is synonymous with excellence and leadership in the world of sports.",
+            "answers": ["Vince Lombardi", "Lombardi"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "This city, which lost to the forces of Epaminondas at the Battle of Leuctra against Thebes, was home to slaves called helots. Lysander won the Battle of Aegospotami for this city to end a war against the Delian League. This city's King Leonidas led 300 men in a last stand at the battle of Thermopylae. Name this militaristic Greek city-state that won the Peloponnesian War against Athens",
+            "answers": ["Sparta", "Lacedaemon"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This British comedy-drama series follows a dry-witted and unnamed woman as she navigates life in London while dealing with grief, family dysfunction, and complicated relationships. The show is known for breaking the fourth wall, with the main character frequently addressing the audience directly. Created by and starring Phoebe Waller-Bridge, it is based on her 2013 one-woman show of the same name. Name this critically acclaimed series that won multiple Emmy Awards, including Outstanding Comedy Series and Outstanding Lead Actress in a Comedy Series.",
+            "answers": ["Fleabag"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "It's not the NGA's sculpture garden, but Louise Bourgeois created a bronze spider for one of these places. Frank Gehry designed one of these buildings in Bilbao, Spain. Frank Lloyd Wright designed a spiral-shaped ramp for another of these museums, which is located on Fifth Avenue in New York City. Name these art museums founded by a philanthropist with the first name Solomon.",
+            "answers": [
+                "Guggenheim",
+                " Guggenheim Museums",
+                " Solomon R. Guggenheim Museum"
+            ],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "Kupffer cells produce bilirubin in this organ from the breakdown of certain cells. This organ is primarily responsible for storing glucose as glycogen in humans. Deoxygenated blood is carried from the spleen to this organ by the portal vein. Bile is produced by this organ and then transported to the gallbladder for storage. Alcohol abuse harms what largest internal organ in humans?",
+            "answers": ["liver"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "The governance of this country's indigenous Haida people is based on a traditional gift-giving\nceremony called the potlatch. James Evans developed a syllabic alphabet in this country which is\nnow used for languages such as Cree and Inuktitut, the most-spoken language among its Inuit\npeople. The \"First Nations\" are the indigenous people of what country where the\nSquamish people lived in British Columbia?",
+            "answers": ["Canada"],
+            "used": "FALSE"
         }
     ]
 ]
