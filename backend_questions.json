@@ -3653,9 +3653,11 @@
             "question": "John Grimes' upbringing in this city is the subject of James Baldwin's novel Go Tell It On the\nMountain. A musician plays piano in this city in the poem \"The Weary Blues.\" An author from this\ncity asked \"What happens to a dream deferred?\" in a poem titled for a Black majority\nneighborhood in it. Langston Hughes was part of the Harlem Renaissance centered in\nwhat American city?",
             "answers": [
                 "New York City",
-                " NYC",
-                " New York",
-                " New York New York"
+                "NYC",
+                "New York",
+                "New York New York",
+                "Harlem",
+                "Harlem New York"
             ],
             "used": "FALSE"
         },
