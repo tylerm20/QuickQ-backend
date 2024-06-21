@@ -3672,12 +3672,7 @@
         {
             "category": "Current Events",
             "question": "At least 14 Jordanian citizens have died in 2024 during this event due to intense heat. A practice similar to this one, but which can take place at any time of year, is Umrah.\nParticipants in this practice throw stones at a wall in a ritual \"Stoning of the Devil\" and reenact\nHajar's search for water by running between two hills. Participants in this event walk seven times\naround the Kaaba at the center of the Masjid al-Haram. The Fifth Pillar of Islam is\nwhat pilgrimage to Mecca?",
-            "answers": [
-                "Hajj",
-                " pilgrimage",
-                " Mecca",
-                " pilgrimage to Mecca"
-            ],
+            "answers": ["Hajj", "pilgrimage", "Mecca", "pilgrimage to Mecca"],
             "used": "FALSE"
         },
         {
@@ -3695,7 +3690,7 @@
         {
             "category": "Science",
             "question": "This element is purified by reducing its oxide in molten cryolite in the Hall-H\u00e9roult process.\nThe Bayer process is used to obtain this element from its ore. It's not chromium, but a\ncharacteristic red color is formed when oxygen and this element form rubies. Bauxite is this\nelement's most common ore. Identify this thirteenth element often used to make foil,\nwith atomic symbol Al.",
-            "answers": ["aluminum"],
+            "answers": ["aluminum", "al"],
             "used": "FALSE"
         },
         {
