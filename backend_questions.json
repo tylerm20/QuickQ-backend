@@ -3825,13 +3825,13 @@
     [
         {
             "category": "Entertainment",
-            "question": "This neo-noir science fiction film, set in a dystopian Los Angeles in 2019, follows a blade runner named Rick Deckard who is tasked with hunting down and \"retiring\" four escaped replicants, bioengineered beings indistinguishable from humans. The film is known for its distinctive visuals, philosophical themes about artificial intelligence and what it means to be human, and iconic quotes like \"All those moments will be lost in time, like tears in rain.\" Name this 1982 film directed by Ridley Scott and based on the novel Do Androids Dream of Electric Sheep? by Philip K. Dick.",
+            "question": "This neo-noir science fiction film, set in a dystopian Los Angeles in 2019, follows Rick Deckard who is tasked with hunting down and \"retiring\" four escaped replicants, bioengineered beings indistinguishable from humans. The film is known for its distinctive visuals, philosophical themes about artificial intelligence and what it means to be human, and iconic quotes like \"All those moments will be lost in time, like tears in rain.\" Name this 1982 film directed by Ridley Scott and based on the novel Do Androids Dream of Electric Sheep? by Philip K. Dick.",
             "answers": ["Blade Runner"],
             "used": "FALSE"
         },
         {
             "category": "Current Events",
-            "question": "In the largest democratic election in history, this man was reelected to a third consecutive term as prime minister. This man will lead a coaltion government for this first time as his party, the Bharatiya Janata Party, did not win an absolute majority of seats. Although his BJP did not win a majority of seats, their alliance known as the National Democratic Alliance won 293 out of the 543 seats. Name this 14th prime minister of India who was born in 1950.",
+            "question": "In the largest democratic election in history, this man was reelected to a third consecutive term as prime minister. This man will lead a coaltion government for the first time as his party, the Bharatiya Janata Party, did not win an absolute majority of seats. Although his BJP did not win a majority of seats, their alliance known as the National Democratic Alliance won 293 out of the 543 seats. Name this 14th prime minister of India who was born in 1950.",
             "answers": ["Narendra Modi", "Modi"],
             "used": "FALSE"
         },
@@ -3849,13 +3849,13 @@
         },
         {
             "category": "Science",
-            "question": "4. The first confirmed discovery of one type of these objects looked at variations in pulsar timing. The Kepler satellite uses transits to look for these objects outside the Solar System. Astronomers are looking for these objects in the \"habitable zone\" as possible sites of extraterrestrial life. Gas giants are one kind of what objects which orbit stars, such as Venus and the Earth?",
+            "question": "The first confirmed discovery of one type of these objects looked at variations in pulsar timing. The Kepler satellite uses transits to look for these objects outside the Solar System. Astronomers are looking for these objects in the \"habitable zone\" as possible sites of extraterrestrial life. Gas giants are one kind of what objects which orbit stars, such as Venus and the Earth?",
             "answers": ["planets", "exoplanet"],
             "used": "FALSE"
         },
         {
             "category": "US History",
-            "question": "This conflict, ended by the Treaty of Ghent, which restored pre-war boundaries, resulted in no significant territorial changes for either side. One of its key battles, the Battle of New Orleans, was a decisive American victory led by Andrew Jackson, yet it occurred after the peace treaty had been signed. Other notable events include the burning of Washington D.C. and the British bombardment of Fort McHenry, which inspired Francis Scott Key to write \"The Star-Spangled Banner.\" Name this war fought between the United States and Great Britain from 1812 to 1815.",
+            "question": "This conflict, ended by the Treaty of Ghent, resulted in no significant territorial changes for either side. One of its key battles, the Battle of New Orleans, was a decisive American victory led by Andrew Jackson, yet it occurred after the peace treaty had been signed. Other notable events include the burning of Washington D.C. and the British bombardment of Fort McHenry, which inspired Francis Scott Key to write \"The Star-Spangled Banner.\" Name this war fought between the United States and Great Britain from 1812 to 1815.",
             "answers": ["War of 1812"],
             "used": "FALSE"
         },
