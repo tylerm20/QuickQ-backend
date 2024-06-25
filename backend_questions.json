@@ -3876,7 +3876,7 @@
         {
             "category": "Current Events",
             "question": "This businessman had a pay package work over $45 billion in stock options approved by shareholders after a Deleware judge initially struck the package down. He also recently dropped a lawsuit against OpenAI, where he was a cofounder, in which he claimed the company had breached its pledge to remain a nonprofit company. Name this entrepenuer who took Twitter private and acts of the CEO of Tesla and SpaceX.",
-            "answers": ["Elon Musk (pay package)"],
+            "answers": ["Elon Musk"],
             "used": "FALSE"
         },
         {
@@ -3908,8 +3908,8 @@
             "question": "It's not the NGA's sculpture garden, but Louise Bourgeois created a bronze spider for one of these places. Frank Gehry designed one of these buildings in Bilbao, Spain. Frank Lloyd Wright designed a spiral-shaped ramp for another of these museums, which is located on Fifth Avenue in New York City. Name these art museums founded by a philanthropist with the first name Solomon.",
             "answers": [
                 "Guggenheim",
-                " Guggenheim Museums",
-                " Solomon R. Guggenheim Museum"
+                "Guggenheim Museums",
+                "Solomon R. Guggenheim Museum"
             ],
             "used": "FALSE"
         },
