@@ -4037,5 +4037,159 @@
             "answers": ["atoms", " atom"],
             "used": "FALSE"
         }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This Netflix historical drama chronicles the life of Queen Elizabeth II, starting with her early years and ascension to the throne. Claire Foy and Olivia Colman have both portrayed the monarch in different stages of her life. The show delves into the personal and political challenges faced by the royal family, including the Suez Crisis, the Aberfan disaster, and Princess Margaret's relationship with Peter Townsend. Notably, the series has received numerous awards, including Golden Globes and Emmys. What is the name of this critically acclaimed show?",
+            "answers": ["The Crown"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This Spanish writer, once captured by Barbary pirates, is best known for a two-part novel published in 1605 and 1615. It follows a delusional nobleman who sets out to revive chivalry, accompanied by his pragmatic squire, Sancho Panza.  The novel's characters and themes, deeply ingrained in Western culture, have inspired countless adaptations. It is considered one of the most important works of literature ever written. Who was this author of Don Quixote?",
+            "answers": ["Miguel de Cervantes", "Cervantes"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This American League baseball team plays in the oldest active ballpark in Major League Baseball, known for its iconic Green Monster wall. After selling Babe Ruth to the Yankees in 1920, they endured a long \"Curse of the Bambino,\" finally winning the World Series in 2004. They've won nine titles and boast legendary players like Ted Williams, Carl Yastrzemski, and David Ortiz.  What is the name of this Boston-based team?",
+            "answers": ["Boston Red Sox", "Red Sox"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "This country was the primary battleground of a 17th-century conflict that pitted Roundheads, supporters of Parliament, against Cavaliers, those loyal to the monarchy. Religious and political tensions fueled the conflict, leading to the execution of King Charles I in 1649.  A period of republican rule under Oliver Cromwell followed, but the monarchy was eventually restored in 1660 with Charles II ascending to the throne. Which country was the main setting for this civil war?",
+            "answers": ["England", "Britain", "Great Britain"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "This dormant stratovolcano, located in the Caucasus Mountains, has two summits, both volcanic domes. It's the highest peak in Russia and the European continent, with the western summit reaching 5,642 meters above sea level. While sulfurous gases are still emitted on its eastern slopes, it is a popular destination for mountaineering and tourism. Notably, it's the 10th most prominent peak in the world, and its glaciers feed several rivers including the Kuban and Malka. What is this mountain called?",
+            "answers": ["Mount Elbrus", "Mt Elbrus", "Elbrus"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "The de Broglie wavelength of a particle equals Planck's constant divided by this quantity. This\nquantity and position can't be measured with high accuracy at the same time according to\nHeisenberg's uncertainty principle. The conservation of this quantity's angular form, whose rate\nof change is torque, explains why gyroscopes work. What quantity is equal to an\nobject's mass times its velocity?",
+            "answers": ["momentum"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "This state was initially claimed by the Dutch in the 17th century under the name New Netherland, with New Amsterdam as its capital.  It was one of the original Thirteen Colonies and played a crucial role in the American Revolution, hosting numerous significant battles. The state's constitution was adopted in 1777 and heavily influenced the United States Constitution. In the 19th century, it was a major center of immigration and commerce, with Ellis Island serving as a gateway for millions of newcomers to the country. Which state is this?",
+            "answers": ["New York"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This nation became the first to retrieve soil samples from the dark side of the moon in June 2024. The nation launched its first satellite, Dong Fang Hong I, in 1970 from the Jiuquan Satellite Launch Center using a Long March-1 rocket. It later successfully sent its first crewed mission, Shenzhou 5, into space in 2003, making it the third country to independently achieve human spaceflight. Name this Asian nation which is led by Xi Jinping.",
+            "answers": ["China", "PRC", "People's Republic of China"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "This Republican politician, known for his \"Front Porch Campaign,\" served as the 25th president of the United States from 1897 until his assassination in 1901. A Civil War veteran and former governor of Ohio, his presidency was marked by the Spanish-American War and the annexation of Hawaii. He was shot by an anarchist named Leon Czolgosz while attending the Pan-American Exposition in Buffalo, New York, and died eight days later. Who was this president?",
+            "answers": ["William McKinley"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "This West African nation, the most populous on the continent, is known for its diverse landscape, ranging from tropical rainforests in the south to savannas in the north. Its largest city, Lagos, is a major economic and cultural hub, while its capital, Abuja, is a planned city built in the 1980s. It is a significant oil producer, with its petroleum industry playing a crucial role in its economy. It is also home to the Niger River delta, one of the world's largest wetlands. What is the name of this country?",
+            "answers": ["Nigeria"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Based on a comic book series of the same name, this post-apocalyptic horror television series premiered in 2010 and ran for 11 seasons. The story follows a group of survivors, led by former sheriff's deputy Rick Grimes, as they navigate a world overrun by zombies, referred to as \"walkers.\" The show explores themes of survival, morality, and the breakdown of society. What is the name of this show that was filmed primarily in Georgia?",
+            "answers": ["The Walking Dead"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "The rate at which this process occurs is over 100 times normal rates due to human activity in\nthe Holocene epoch. The non-avian dinosaurs underwent this process following a meteor\nimpact 65 million years ago. Species at risk of this process are classified as endangered or critically\nendangered. Name this process in which all members of a species die out",
+            "answers": ["extinction", " extinct"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Donald Sutherland, one of the stars of this TV series passed away in June 2024. The series, set during the Korean War, followed the lives of medical personnel stationed at the 4077th Mobile Army Surgical Hospital. It featured characters like the irreverent Hawkeye Pierce, the by-the-book Margaret Houlihan, and the wise-cracking Corporal Klinge Its final episode, \"Goodbye, Farewell and Amen,\" remains the most-watched television finale in U.S. history. What is the name of this critically acclaimed and beloved series?",
+            "answers": ["M*A*S*H", "MASH", "M.A.S.H."],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This country is the setting for one of the most iconic works of art in the world, a woodblock print by Katsushika Hokusai created in the early 19th century. The artwork depicts a massive wave towering over boats with this nation's iconic mountain visible in the background. The artwork is often referred to as \"The Great Wave\" or \"The Great Wave off Kanagawa\" and is renowned for its striking composition and use of Prussian blue pigment. Which country is the setting for this iconic artwork?",
+            "answers": ["Japan"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This Major League Baseball team, originally known as the Brown Stockings, adopted its current name in 1900 after a sportswriter remarked on their \"cardinal red\" stockings. They play their home games at Busch Stadium, which opened in 2006, and are one of the most successful franchises in baseball history, with 11 World Series championships.  Their mascot, Fredbird, is a beloved figure among fans.  Hall-of-Famers such as Stan Musial, Bob Gibson, and Ozzie Smith have donned this team's uniform.",
+            "answers": ["St. Louis Cardinals", "Cardinals"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "Fought near a Central Pacific atoll sharing its name, this pivotal World War II naval battle saw the U.S. Navy, aided by codebreakers who deciphered a JN-25b message, decisively defeat the Imperial Japanese Navy. The Americans lost the Yorktown, but sank four Japanese aircraft carriers\u2014Akagi, Kaga, Soryu, and Hiryu\u2014crippling Japan's naval strength. Occurring six months after the attack on Pearl Harbor, this battle is considered a turning point in the Pacific Theater. What is the name of this battle?",
+            "answers": ["Battle of Midway", "Midway"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "This state was initially part of North Carolina and was later known as the Southwest Territory. It was the 16th state admitted to the Union on June 1, 1796, with John Sevier as its first governor. Its nickname, \"The Volunteer State,\" stems from its significant contributions to the War of 1812 and the Mexican-American War. During the Civil War, it was the last state to secede and the first to be readmitted to the Union, with both Union and Confederate sympathizers within its borders. Which state is this?",
+            "answers": ["Tennessee"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "This French Enlightenment writer, known for his wit and satire, penned plays such as \"Za\u00efre\" and \"Oedipe,\" as well as the epic poem \"La Henriade.\" He championed civil liberties, freedom of religion, and separation of church and state, often criticizing the Catholic Church and organized religion. His most famous works include the satirical novella \"Candide\" and the philosophical dictionary \"Dictionnaire philosophique.\" A vocal advocate for social reform, he spent time imprisoned in the Bastille and exiled in England. Who was this influential figure?",
+            "answers": [
+                "Voltaire",
+                "Fran\u00e7ois-Marie Arouet",
+                "M de Voltaire"
+            ],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "A molecule containing this element can be exfoliated by Scotch tape. This element and\nhydrogen are often not labeled on structural diagrams. The atomic mass unit is based on an\nisotope of this element. Graphene and graphite are allotropes of this element. Organic chemistry\nis centered around the properties of this element, which all life is based on. Name this\nsixth element with a symbol matching its first letter.",
+            "answers": ["carbon"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "This river is immortalized in Richard Wagner's opera cycle, \"Der Ring des Nibelungen,\" as the dwelling place of water spirits who guard a treasure of gold. Flowing from the Swiss Alps, this river passes through major European cities like Basel, Strasbourg, Cologne, and Rotterdam before emptying into the North Sea. Its scenic middle section is known for its numerous castles. Historically, it has served as a vital trade route and a natural border between nations, playing a significant role in European conflicts. What is the name of this river?",
+            "answers": ["Rhine River", "The Rhine"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Formed in Los Angeles in 1971, this band's members originally included Glenn Frey, Don Henley, Bernie Leadon, and Randy Meisner. Their debut album, released in 1972, featured hits like \"Take It Easy\" and \"Witchy Woman.\"  Known for their harmonies and blend of rock, country, and folk influences, they achieved immense commercial success throughout the 1970s with albums like \"Desperado,\" \"One of These Nights,\" and \"Hotel California.\" The band broke up in 1980 but reunited in 1994 for the \"Hell Freezes Over\" tour and album. What is the name of this iconic American band?",
+            "answers": ["The Eagles"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This Indian-born British author, known for his magical realism and historical fiction, faced controversy and a fatwa for his 1988 novel \"The Satanic Verses.\" His works often explore themes of migration, identity, and the clash of cultures.  He won the Booker Prize in 1981 for \"Midnight's Children,\" a sprawling epic about India's transition from British colonialism to independence.  Other notable works include \"Shame,\" \"The Moor's Last Sigh,\" and \"Shalimar the Clown.\" Who is this acclaimed yet controversial author who was attacked on stage in 2022? ",
+            "answers": ["Salman Rushdie", "Rushdie"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This baseball player, sometimes considered the greatest all-around player of all time passed away in June 2024. Nicknamed the \"Say Hey Kid,\" this baseball legend was a 24-time All-Star, 12-time Gold Glove Award winner, and two-time National League MVP. Known for his iconic over-the-shoulder catch in the 1954 World Series, he spent the majority of his career with the New York/San Francisco Giants before finishing with the New York Mets. Name this member of the 3,000 hit club with 660 career home runs which rank him among the all-time leaders.",
+            "answers": ["Willie Mays"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "Nicknamed \"Mr. Hockey,\" this right winger played 26 seasons with the Detroit Red Wings, winning four Stanley Cups. He is known for the a special hat trick\u2014a goal, an assist, and a fight\u2014in a single game.  He was the first player to reach 800 goals and holds the record for most NHL games played with 1,767. His sons Mark and Marty also played professional hockey, even teaming up with him in the WHA. Who is this legendary hockey player?",
+            "answers": ["Gordie Howe", "How"],
+            "used": "FALSE"
+        }
     ]
 ]
