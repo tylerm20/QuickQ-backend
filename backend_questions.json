@@ -3875,7 +3875,7 @@
     [
         {
             "category": "Current Events",
-            "question": "This businessman had a pay package work over $45 billion in stock options approved by shareholders after a Deleware judge initially struck the package down. He also recently dropped a lawsuit against OpenAI, where he was a cofounder, in which he claimed the company had breached its pledge to remain a nonprofit company. Name this entrepenuer who took Twitter private and acts of the CEO of Tesla and SpaceX.",
+            "question": "This businessman had a pay package worth over $45 billion in stock options approved by shareholders after a Deleware judge initially struck the package down. He also recently dropped a lawsuit against OpenAI, where he was a cofounder, in which he claimed the company had breached its pledge to remain a nonprofit company. Name this entrepenuer who took Twitter private and acts of the CEO of Tesla and SpaceX.",
             "answers": ["Elon Musk"],
             "used": "TRUE"
         },
@@ -3893,7 +3893,7 @@
         },
         {
             "category": "World History",
-            "question": "This city, which lost to the forces of Epaminondas at the Battle of Leuctra against Thebes, was home to slaves called helots. Lysander won the Battle of Aegospotami for this city to end a war against the Delian League. This city's King Leonidas led 300 men in a last stand at the battle of Thermopylae. Name this militaristic Greek city-state that won the Peloponnesian War against Athens",
+            "question": "This city, which lost to the forces of Epaminondas at the Battle of Leuctra against Thebes, was home to slaves called helots. Lysander won the Battle of Aegospotami for this city to end a war against the Delian League. This city's King Leonidas led 300 men in a last stand at the battle of Thermopylae. Name this militaristic Greek city-state that won the Peloponnesian War against Athens.",
             "answers": ["Sparta", "Lacedaemon"],
             "used": "TRUE"
         },
