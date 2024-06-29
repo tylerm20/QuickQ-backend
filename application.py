@@ -32,7 +32,7 @@ def calculate_days_past_april_14_2024(input_date):
             return None  # Return None if the input date is before April 14, 2024
 
         days_passed = (input_date - start_date).days
-        return days_passed
+        return days_passed + 5
 
     except ValueError:
         return None  # Return None if the input date format is invalid

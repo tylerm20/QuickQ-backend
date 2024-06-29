@@ -4109,7 +4109,7 @@
         },
         {
             "category": "Science",
-            "question": "The rate at which this process occurs is over 100 times normal rates due to human activity in\nthe Holocene epoch. The non-avian dinosaurs underwent this process following a meteor\nimpact 65 million years ago. Species at risk of this process are classified as endangered or critically\nendangered. Name this process in which all members of a species die out",
+            "question": "The rate at which this process occurs is over 100 times normal rates due to human activity in\nthe Holocene epoch. The non-avian dinosaurs underwent this process following a meteor\nimpact 65 million years ago. Species at risk of this process are classified as endangered or critically\nendangered. Name this process in which all members of a species die out.",
             "answers": ["extinction", " extinct"],
             "used": "FALSE"
         },
@@ -4193,276 +4193,269 @@
         }
     ],
     [
-        [
-            {
-                "category": "Sports",
-                "question": "This team, which plays its home games at T-Mobile Park, joined the American League as an expansion team in 1977. Their name reflects the city's strong maritime heritage, and their mascot, the Mariner Moose, is a beloved figure among fans. They have never won a World Series, but they hold the MLB record for most wins in a single season, achieving 116 wins in 2001. What is the name of this team, whose iconic logo features a compass rose and a stylized \"S\"?",
-                "answers": ["Seattle Mariners", "Mariners"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Arts & Literature",
-                "question": "This Italian Renaissance master, born in 1483, is renowned for his graceful and harmonious paintings. He was a child prodigy, apprenticed to the renowned painter Pietro Perugino at a young age. He was commissioned by Pope Julius II to paint the papal apartments in the Vatican, including his masterpiece, The School of Athens. Despite his untimely death at the age of 37, he left behind a vast body of work, including Madonnas, portraits, and frescoes. Name this artist, considered one of the three great masters of the High Renaissance, alongside Leonardo da Vinci and Michelangelo. ",
-                "answers": ["Raphael"],
-                "used": "FALSE"
-            },
-            {
-                "category": "World History",
-                "question": "This historic document was sealed at Runnymede in 1215, following a rebellion of English barons against King John; it limited the power of the monarchy, guaranteeing certain rights and liberties to all free men; it established the principle of habeas corpus, preventing unlawful detention; it served as an inspiration for future legal documents such as the United States Constitution. Name this charter, which was written in Latin and means \"Great Charter.\"",
-                "answers": ["Magna Carta"],
-                "used": "FALSE"
-            },
-            {
-                "category": "US History",
-                "question": "Born in rural Mississippi in 1954, this influential figure overcame a challenging childhood to become a media mogul, actress, and philanthropist. She hosted a wildly popular daytime talk show for 25 seasons, which became known for its focus on self-improvement and empowerment. She also founded a successful magazine, launched a cable network, and even acted in films like \"The Color Purple\" and \"Beloved.\" Name this influential figure who is sometimes referred to as the first Black woman billionaire.",
-                "answers": ["Oprah Winfrey"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Science",
-                "question": "These mammals, belonging to the order Lagomorpha, are known for their distinctive long ears, short fluffy tails, and powerful hind legs. Unlike rodents, they possess two pairs of upper incisors, with a smaller pair located directly behind the larger front teeth. Their diet consists primarily of grasses and leafy greens, and they have a unique digestive system that includes hindgut fermentation. Due to their high reproductive rate, they are often used in scientific research, particularly in studies related to reproduction, genetics, and immunology. What are these animals called?",
-                "answers": ["Rabbit", "bunny"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Entertainment",
-                "question": "This actress, whose trademark large eyes and distinctive voice made her a Hollywood icon, was born Ruth Elizabeth Davis in Lowell, Massachusetts, in 1908. She rose to fame in the 1930s and 1940s, known for her fierce independence and willingness to play unsympathetic characters. She had a legendary feud with fellow actress Joan Crawford, which culminated in their collaboration on the 1962 film \"What Ever Happened to Baby Jane?\".  Name this two-time Academy Award winner, whose career spanned six decades and included memorable roles in films like \"Jezebel,\" \"Dark Victory,\" and \"All About Eve.\"",
-                "answers": ["Bette Davis"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Geography",
-                "question": "This country, whose name is derived from the Greek word \"Aigyptos,\" is home to the oldest and only remaining Seven Wonders of the Ancient World. Its capital, the largest city in Africa, is a major cultural and economic hub. It shares a border with Libya to the west and Sudan to the south. Name this nation on the Nile River, whose ancient civilization flourished for over 3,000 years. ",
-                "answers": ["Egypt"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Current Events",
-                "question": "This nation led by President William Ruto had mass protests in June 2024 relating to a finance bill which proposed a large increase in taxes. The bill was passed on June 20, and protesters stormed the Parliament building on June 25 which led to the military being deployed to support the police. President Ruto then reversed course stating he would not sign the bill. Name this African nation home to more than 50 million people with a capital of Nairobi. ",
-                "answers": ["Kenya"],
-                "used": "FALSE"
-            }
-        ],
-        [
-            {
-                "category": "Geography",
-                "question": "This river, whose name means \"Lion River\" in Sanskrit, is one of the longest in Asia, flowing over 3,000 kilometers from its source in the Tibetan Plateau to its delta in the Arabian Sea; it's home to a blind freshwater dolphin species found only in this river system; its basin was the cradle of the one of the world's earliest urban civilizations; it's a major source of irrigation and hydroelectric power for Pakistan and India. Name this river, which holds cultural and economic significance for millions of people.",
-                "answers": ["Indus River", "Indis"],
-                "used": "FALSE"
-            },
-            {
-                "category": "World History",
-                "question": "This barrier was nicknamed the \u201canti-fascist protection rampart\u201d by Soviet officials. Constructed in 1961, it stood as a physical and ideological division between East and West Germany during the Cold War; its initial purpose was to prevent East Germans from defecting to the West; it became a symbol of communist repression and the Iron Curtain; its fall in 1989 marked a pivotal moment in the collapse of the Soviet Union and the end of the Cold War. Name this infamous barrier, whose graffiti-covered remnants are now a popular tourist attraction.",
-                "answers": ["Berlin Wall"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Arts & Literature",
-                "question": "This fresco painting, located on the ceiling of the Sistine Chapel in Vatican City, depicts a scene from the biblical Book of Genesis; it\u2019s one of nine panels illustrating the creation story and is considered one of the most replicated religious paintings of all time; it portrays God reaching out to Adam, their fingers nearly touching, in a moment that symbolizes the divine spark of life; it was painted by Michelangelo between 1508 and 1512. Name this famous artwork, whose composition and symbolism have been widely studied and interpreted. ",
-                "answers": [
-                    "The Creation of Adam",
-                    "The Creation of Man",
-                    "Creazione di Adamo"
-                ],
-                "used": "FALSE"
-            },
-            {
-                "category": "Entertainment",
-                "question": "This TV show, created by David Lynch and Mark Frost, gained a cult following for its surreal atmosphere and unconventional storytelling; its central mystery revolves around the murder of homecoming queen Laura Palmer in the fictional town in Washington; its haunting theme song, composed by Angelo Badalamenti, became instantly recognizable; the show's dream sequences and supernatural elements added to its unique allure. Name this series, revived in 2017 after a 26-year hiatus. ",
-                "answers": ["Twin Peaks"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Science",
-                "question": "This element, first discovered during a solar eclipse in 1868, gets its name from the Greek word for sun. It's the second most abundant element in the universe, after hydrogen, yet it's relatively rare on Earth; it's lighter than air, which is why it's used to fill balloons and blimps; at extremely low temperatures, it becomes a superfluid, meaning it can flow without any friction. What is this noble gas, known for its ability to alter the pitch of human voices when inhaled?",
-                "answers": ["Helium", "He"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Sports",
-                "question": "This athlete, nicknamed \u201cHammerin\u2019 Hank,\u201d faced racial prejudice and death threats throughout his career, especially as he approached Babe Ruth\u2019s home run record; he began his professional baseball career in the Negro leagues before joining the Milwaukee Braves; in 1974, he broke Babe Ruth\u2019s record of 714 career home runs, finishing his career with 755; he was inducted into the Baseball Hall of Fame in 1982. Name this baseball legend who played the majority of his career with the Atlanta Braves. ",
-                "answers": ["Hank Aaron"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Current Events",
-                "question": "This man's podcast, where he hosts long form interviews, is commonly believed to be the most popular in the United States. His podcast has been both praised for its diverse conversations and criticized for spreading misinformation. He began his career as a standup comedian in the 1980s and gained recognition as a co-host on the reality show \"Fear Factor.\" Name this man who has worked as a commentator for UFC and is known to hold black belts in Brazilian Jiu-Jitsu and Taekwondo.",
-                "answers": ["Joe Rogan"],
-                "used": "FALSE"
-            },
-            {
-                "category": "US History",
-                "question": "This influential politician was born in 1947 and graduated from Wellesley College in 1969, where she gave a commencement speech that received national attention. She served as First Lady of the United States from 1993 to 2001 and played a key role in the administration's health care reform efforts. In 2000, she was elected as the first female senator from New York, serving until 2009 when she was appointed Secretary of State. In 2016, she became the first woman to be nominated for president by a major U.S. political party. Name this politician who ran against Donald Trump in the 2016 presidential election.",
-                "answers": [
-                    "Hillary Clinton",
-                    "Hillary Rodham",
-                    "Hillary Rodham Clinton"
-                ],
-                "used": "FALSE"
-            }
-        ],
-        [
-            {
-                "category": "Geography",
-                "question": "This mountain range in Greece, whose name is shared with several other mountains around the world, is a designated National Park and a UNESCO Biosphere Reserve. Its highest peak, Mytikas, reaches 9,570 feet above sea level, making it the highest point in Greece. It\u2019s known for its dramatic landscape of steep slopes, deep gorges, and diverse ecosystems, including alpine meadows, forests, and rocky peaks.  Name this mountain, often shrouded in clouds, where Zeus was said to rule from his throne. ",
-                "answers": ["Mount Olympus", "Mt Olympus", "Olympus"],
-                "used": "FALSE"
-            },
-            {
-                "category": "US History",
-                "question": "This widowed president was known as the \u201cveto mayor\u201d for rejecting wasteful spending while leading Buffalo, New York; during the Civil War, he hired a substitute to fulfill his draft obligations so he could support his family; after serving as governor of New York, his non-consecutive terms in office make him the 22nd and 24th president. Name this man, who shares his surname with an Ohio city and whose daughter Ruth became the namesake of a popular candy bar after she was born in the White House.",
-                "answers": ["Grover Cleveland"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Entertainment",
-                "question": "This Australian rock band, formed in Sydney in 1973, is known for their signature hard rock sound, characterized by powerful vocals, bluesy guitar riffs, and energetic live performances. Their original lead singer, Bon Scott, died in 1980 and was replaced by Brian Johnson. Their 1980 album \"Back in Black,\" a tribute to Scott, became one of the best-selling albums of all time. They have sold over 200 million records worldwide and were inducted into the Rock and Roll Hall of Fame in 2003. Name this band, famous for hits like \"Highway to Hell,\" \"Thunderstruck,\" and \"You Shook Me All Night Long.\"",
-                "answers": ["AC/DC", "acdc", "ac dc"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Sports",
-                "question": "This Syracuse University football star earned All-American honors three times and was a first-round NFL draft pick in 1957; he led the league in rushing yards in eight of his nine seasons with the Cleveland Browns; he retired from football at the peak of his career in 1965 to pursue acting; he was inducted into the Pro Football Hall of Fame in 1971.  Name this man, widely considered one of the greatest running backs in NFL history.",
-                "answers": ["Jim Brown"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Science",
-                "question": "This organ's electrical system, known as the sinoatrial (SA) node, acts as the body's natural pacemaker. It consists of four chambers, two atria and two ventricles, separated by valves that ensure one-way blood flow. This fist-sized organ, located slightly to the left of the center of the chest, beats about 100,000 times a day and pumps approximately 2,000 gallons of blood throughout the body. What is this vital organ, whose proper function is essential for life? ",
-                "answers": ["Heart"],
-                "used": "FALSE"
-            },
-            {
-                "category": "World History",
-                "question": "This World War II battle, named after a city on the Volga River, marked the first major German defeat on the Eastern Front; it saw intense urban combat, with soldiers fighting from house to house and even hand-to-hand in the city's rubble; during the harsh winter, Soviet forces encircled and captured the German Sixth Army; it resulted in an estimated two million casualties, making it one of the bloodiest battles in human history.  Name this five-month long battle that led to the gradual retreat of German forces from Soviet territory. ",
-                "answers": ["Battle of Stalingrad"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Current Events",
-                "question": "This nation is currenlty holding Evan Gershkovich, a reporter for the Wall Street Journal, as a prisoner on charges of espionage. This nation also arrested WNBA star Brittney Griner for charges related to cannabis. The United States performed a prisoner exchange with this nation, exchanging Viktor Bout, a convicted arms dealer, for Griner on December 8, 2022. Name this nation which is led from the Kremlin and has been engaged in a war in Ukraine.",
-                "answers": ["Russia"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Arts & Literature",
-                "question": "This artist\u2019s childhood was marked by tragedy, with his mother and sister dying of tuberculosis when he was young; he was a pioneer of Expressionism, a style that emphasized emotional intensity and often used distorted forms and colors; his most famous work, depicting a figure with a contorted face and a blood-red sky, was inspired by a panic attack he experienced while walking along a fjord; he created several versions of this iconic painting, including oil, tempera, and pastel versions. Name this Norwegian artist who painted \u201cThe Scream.\u201d",
-                "answers": [
-                    "Edvard Munch",
-                    "Monk",
-                    "Edward Monk",
-                    "Edward Munch"
-                ],
-                "used": "FALSE"
-            }
-        ],
-        [
-            {
-                "category": "Arts & Literature",
-                "question": "This novel, first published in Lippincott's Monthly Magazine in 1890, sparked controversy for its themes of hedonism and immorality. Its title character, a young man of extraordinary beauty, wishes that his portrait would age instead of him, a wish that is mysteriously granted. As Dorian indulges in a life of pleasure and sin, his portrait reflects the corruption of his soul, while he himself remains untouched by time. Name this only novel by Oscar Wilde, a cautionary tale about the dangers of vanity and the pursuit of pleasure.",
-                "answers": ["The Picture of Dorian Gray", "Dorian Gray"],
-                "used": "FALSE"
-            },
-            {
-                "category": "World History",
-                "question": "This battle, fought in 480 BC, saw a small force of Greek warriors, including the legendary 300 Spartans led by King Leonidas, hold off a massive Persian army under Xerxes I for three days; it took place at a narrow pass called Thermopylae, meaning \"Hot Gates\"; despite their valiant defense and the use of phalanx formations, the Greeks were ultimately betrayed and outflanked, leading to their defeat; this battle has become a symbol of courage, sacrifice, and the defense of freedom against overwhelming odds. Name this battle, which was famously depicted in the 2006 film \"300.\" ",
-                "answers": [
-                    "Battle of Thermopylae",
-                    "Thermopali",
-                    "Battle of Thermopali"
-                ],
-                "used": "FALSE"
-            },
-            {
-                "category": "US History",
-                "question": "This Virginia-born politician served as governor of the Indiana Territory from 1801 to 1812, during which he fought against Tecumseh\u2019s Confederacy in the Battle of Tippecanoe; his victory earned him the nickname \u201cOld Tippecanoe\u201d and helped him win the presidency in 1840 with the slogan \u201cTippecanoe and Tyler Too\u201d; his inauguration speech was the longest on record, lasting nearly two hours in freezing temperatures; he died from pneumonia just 31 days into his term, making his the shortest presidency in US history. Name this president whose death led to the first transfer of presidential power to a vice president.",
-                "answers": ["William Henry Harrison"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Entertainment",
-                "question": "This actor, born in Dorking, England, trained at the prestigious Central School of Speech and Drama; he gained recognition for his Shakespearean roles on stage, notably his performances as Hamlet, Richard III, and Othello; he was married three times, including a tumultuous relationship with actress Vivien Leigh. Name this influential figure in 20th-century theater and cinema, who directed and starred in several film adaptations of Shakespeare's plays, winning an Academy Award for Best Actor and Best Picture for his 1948 film \"Hamlet.\"",
-                "answers": ["Laurence Olivier", "olivier", "lawrence olivie"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Current Events",
-                "question": "This international organization appointed Mark Rutte, a prime minister from the Netherlands as its next leader. Established in 1949 with the signing of its namesake treaty, this intergovernmental military alliance is headquartered in Brussels, Belgium. Its original purpose was to provide collective security against the Soviet Union during the Cold War. It currently has 32 member states from North America and Europe. Its core principle is collective defense, meaning an attack against one member is considered an attack against all. Name this organization whose actions include the intervention in Bosnia and Herzegovina and the ongoing support for Ukraine.",
-                "answers": [
-                    "NATO",
-                    "N.A.T.O.",
-                    "North Atlantic Treaty Organization"
-                ],
-                "used": "FALSE"
-            },
-            {
-                "category": "Science",
-                "question": "This animal\u2019s stomach is actually comprised of four compartments: the rumen, reticulum, omasum, and abomasum; they\u2019re known for their ability to digest cellulose, a complex carbohydrate found in plants, thanks to a symbiotic relationship with microbes in their rumen; their digestive process involves regurgitating and rechewing their food, a process called \u201cchewing the cud\u201d; their milk is a major source of nutrition for humans worldwide, providing protein, calcium, and other essential nutrients. Name this common farm animal, known for its gentle nature and black-and-white markings.",
-                "answers": ["Cow", "cows", "bovine"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Sports",
-                "question": "This NBA team, founded in 1989, shares its name with the state animal of Minnesota, the grey wolf; their logo features a howling wolf silhouetted against a blue and green background, representing the state's forests and lakes; they play their home games at the Target Center in Minneapolis, Minnesota; despite reaching the Western Conference Finals in 2004, they have yet to win an NBA championship. Name this team, whose current roster includes Karl-Anthony Towns and Anthony Edwards.",
-                "answers": ["Minnesota Timberwolves", "Timberwolves"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Geography",
-                "question": "This historic city, named after the Greek goddess of wisdom and warfare, is built around a rocky outcrop called the Acropolis, which houses the iconic Parthenon temple. It hosted the first modern Olympic Games in 1896 and is home to the Panathenaic Stadium, the only stadium in the world built entirely of marble. It's considered the birthplace of democracy, with its ancient political system serving as a model for many modern governments. Name this bustling metropolis, the capital of Greece.",
-                "answers": ["Athens"],
-                "used": "FALSE"
-            }
-        ],
-        [
-            {
-                "category": "US History",
-                "question": "This future president was born into a wealthy New York family and endured a sickly childhood with asthma; during the Spanish-American War, he led a volunteer cavalry regiment known as the Rough Riders; he briefly served as New York City\u2019s police commissioner and is famous for his trust-busting policies against monopolies. Name this conservationist who was awarded the Nobel Peace Prize for negotiating an end to the Russo-Japanese War.",
-                "answers": ["Theodore Roosevelt", "Teddy Roosevelt"],
-                "used": "FALSE"
-            },
-            {
-                "category": "World History",
-                "question": "This pivotal battle, fought in 1066, saw the Norman forces of William the Conqueror defeat the English army under King Harold Godwinson; it took place near the present-day town of Battle, East Sussex, England, and lasted a full day; the Normans' victory marked the end of Anglo-Saxon rule in England and the beginning of the Norman Conquest; it's depicted in the famous Bayeux Tapestry, a 70-meter-long embroidered cloth that tells the story of the battle in intricate detail. Name this battle, which changed the course of English history.",
-                "answers": ["Battle of Hastings", "Hastings"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Science",
-                "question": "This is the only bone in the human body that\u2019s wider in the middle than at the ends; the strongest part of this bone is the shaft, which can withstand forces of up to 1,800 to 2,500 pounds in a healthy adult. This bone\u2019s name comes from the Latin meaning thigh. Name this longest and strongest bone in the human body, essential for walking, running, and jumping.",
-                "answers": ["Femur", "thighbone"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Geography",
-                "question": "This landform, part of the Southern Alps, is composed of three summits: Low Peak, Middle Peak, and High Peak; it holds great cultural significance to the indigenous M\u0101ori people, who consider it the most sacred peak; its name, in the M\u0101ori language, translates to \"Cloud Piercer\"; it was renamed in 1851 after a British explorer, although the dual name is now officially recognized. Name this landform, the highest mountain in New Zealand.",
-                "answers": ["Aoraki / Mount Cook", "Aoraki", "Mount Cook"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Sports",
-                "question": "This left-handed athlete, born in Prague, Czechoslovakia, defected to the United States in 1975 at the age of 18; known for her aggressive serve-and-volley style, she won 18 Grand Slam singles titles, including a record nine Wimbledon championships; she was a dominant force in doubles, partnering with Pam Shriver to win 20 Grand Slam titles; she held the world No. 1 ranking in singles for a total of 332 weeks, a record at the time. Name this tennis legend who won a total of 59 Grand Slam titles in singles, doubles, and mixed doubles.",
-                "answers": ["Martina Navratilova"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Current Events",
-                "question": "Luis Arce, the president of this nation withstood an attempted coup d'\u00e9tat on June 26, 2024. Army commander General Juan Jos\u00e9 Z\u00fa\u00f1iga sent troops to seize Plaza Murillo, the central plaza in La Paz, and storm the Casa Grande del Pueblo, the presidential palace. This nation shares Lake Titicaca, South America's largest lake by volume, with its neighbor Peru. It's known for the Uyuni Salt Flats, the world's largest salt flat, and being a significant producer of tin and lithium. Name this country, formerly known as Upper Peru during Spanish colonial rule.",
-                "answers": ["Bolivia"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Arts & Literature",
-                "question": "This author\u2019s real name was Eric Arthur Blair, and he was born in Motihari, British India, in 1903. He served in the Indian Imperial Police in Burma before returning to England to pursue a writing career. He adopted his pen name from a river in Suffolk, England. His most famous works, two dystopian novels published in 1945 and 1949, are still widely read and analyzed for their social and political commentary. Name this author, whose works include \"Animal Farm\" and \"Nineteen Eighty-Four.\" ",
-                "answers": ["George Orwell"],
-                "used": "FALSE"
-            },
-            {
-                "category": "Entertainment",
-                "question": "This reality TV show, created by Charlie Parsons in 1992, was first aired as Expedition Robinson in Sweden; it features a group of strangers marooned in a remote location, where they must compete in challenges to secure food, shelter, and immunity from elimination; the contestants, known as \u201ccastaways,\u201d are gradually voted off the island until only one remains; it has spawned numerous international adaptations, becoming a global phenomenon. Name this popular series, known for its tagline \"Outwit, Outplay, Outlast.\"",
-                "answers": ["Survivor"],
-                "used": "FALSE"
-            }
-        ]
+        {
+            "category": "Sports",
+            "question": "This team, which plays its home games at T-Mobile Park, joined the American League as an expansion team in 1977. Their name reflects the city's strong maritime heritage, and their mascot, the Mariner Moose, is a beloved figure among fans. They have never won a World Series, but they hold the MLB record for most wins in a single season, achieving 116 wins in 2001. What is the name of this team, whose iconic logo features a compass rose and a stylized \"S\"?",
+            "answers": ["Seattle Mariners", "Mariners"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This Italian Renaissance master, born in 1483, is renowned for his graceful and harmonious paintings. He was a child prodigy, apprenticed to the renowned painter Pietro Perugino at a young age. He was commissioned by Pope Julius II to paint the papal apartments in the Vatican, including his masterpiece, The School of Athens. Despite his untimely death at the age of 37, he left behind a vast body of work, including Madonnas, portraits, and frescoes. Name this artist, considered one of the three great masters of the High Renaissance, alongside Leonardo da Vinci and Michelangelo. ",
+            "answers": ["Raphael"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "This historic document was sealed at Runnymede in 1215, following a rebellion of English barons against King John; it limited the power of the monarchy, guaranteeing certain rights and liberties to all free men; it established the principle of habeas corpus, preventing unlawful detention; it served as an inspiration for future legal documents such as the United States Constitution. Name this charter, which was written in Latin and means \"Great Charter.\"",
+            "answers": ["Magna Carta"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "Born in rural Mississippi in 1954, this influential figure overcame a challenging childhood to become a media mogul, actress, and philanthropist. She hosted a wildly popular daytime talk show for 25 seasons, which became known for its focus on self-improvement and empowerment. She also founded a successful magazine, launched a cable network, and even acted in films like \"The Color Purple\" and \"Beloved.\" Name this influential figure who is sometimes referred to as the first Black woman billionaire.",
+            "answers": ["Oprah Winfrey"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "These mammals, belonging to the order Lagomorpha, are known for their distinctive long ears, short fluffy tails, and powerful hind legs. Unlike rodents, they possess two pairs of upper incisors, with a smaller pair located directly behind the larger front teeth. Their diet consists primarily of grasses and leafy greens, and they have a unique digestive system that includes hindgut fermentation. Due to their high reproductive rate, they are often used in scientific research, particularly in studies related to reproduction, genetics, and immunology. What are these animals called?",
+            "answers": ["Rabbit", "bunny"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actress, whose trademark large eyes and distinctive voice made her a Hollywood icon, was born Ruth Elizabeth Davis in Lowell, Massachusetts, in 1908. She rose to fame in the 1930s and 1940s, known for her fierce independence and willingness to play unsympathetic characters. She had a legendary feud with fellow actress Joan Crawford, which culminated in their collaboration on the 1962 film \"What Ever Happened to Baby Jane?\".  Name this two-time Academy Award winner, whose career spanned six decades and included memorable roles in films like \"Jezebel,\" \"Dark Victory,\" and \"All About Eve.\"",
+            "answers": ["Bette Davis"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "This country, whose name is derived from the Greek word \"Aigyptos,\" is home to the oldest and only remaining Seven Wonders of the Ancient World. Its capital, the largest city in Africa, is a major cultural and economic hub. It shares a border with Libya to the west and Sudan to the south. Name this nation on the Nile River, whose ancient civilization flourished for over 3,000 years. ",
+            "answers": ["Egypt"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This nation led by President William Ruto had mass protests in June 2024 relating to a finance bill which proposed a large increase in taxes. The bill was passed on June 20, and protesters stormed the Parliament building on June 25 which led to the military being deployed to support the police. President Ruto then reversed course stating he would not sign the bill. Name this African nation home to more than 50 million people with a capital of Nairobi. ",
+            "answers": ["Kenya"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "question": "This river, whose name means \"Lion River\" in Sanskrit, is one of the longest in Asia, flowing over 3,000 kilometers from its source in the Tibetan Plateau to its delta in the Arabian Sea; it's home to a blind freshwater dolphin species found only in this river system; its basin was the cradle of the one of the world's earliest urban civilizations; it's a major source of irrigation and hydroelectric power for Pakistan and India. Name this river, which holds cultural and economic significance for millions of people.",
+            "answers": ["Indus River", "Indis"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "This barrier was nicknamed the \u201canti-fascist protection rampart\u201d by Soviet officials. Constructed in 1961, it stood as a physical and ideological division between East and West Germany during the Cold War; its initial purpose was to prevent East Germans from defecting to the West; it became a symbol of communist repression and the Iron Curtain; its fall in 1989 marked a pivotal moment in the collapse of the Soviet Union and the end of the Cold War. Name this infamous barrier, whose graffiti-covered remnants are now a popular tourist attraction.",
+            "answers": ["Berlin Wall"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This fresco painting, located on the ceiling of the Sistine Chapel in Vatican City, depicts a scene from the biblical Book of Genesis; it\u2019s one of nine panels illustrating the creation story and is considered one of the most replicated religious paintings of all time; it portrays God reaching out to Adam, their fingers nearly touching, in a moment that symbolizes the divine spark of life; it was painted by Michelangelo between 1508 and 1512. Name this famous artwork, whose composition and symbolism have been widely studied and interpreted. ",
+            "answers": [
+                "The Creation of Adam",
+                "The Creation of Man",
+                "Creazione di Adamo"
+            ],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This TV show, created by David Lynch and Mark Frost, gained a cult following for its surreal atmosphere and unconventional storytelling; its central mystery revolves around the murder of homecoming queen Laura Palmer in the fictional town in Washington; its haunting theme song, composed by Angelo Badalamenti, became instantly recognizable; the show's dream sequences and supernatural elements added to its unique allure. Name this series, revived in 2017 after a 26-year hiatus. ",
+            "answers": ["Twin Peaks"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "This element, first discovered during a solar eclipse in 1868, gets its name from the Greek word for sun. It's the second most abundant element in the universe, after hydrogen, yet it's relatively rare on Earth; it's lighter than air, which is why it's used to fill balloons and blimps; at extremely low temperatures, it becomes a superfluid, meaning it can flow without any friction. What is this noble gas, known for its ability to alter the pitch of human voices when inhaled?",
+            "answers": ["Helium", "He"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This athlete, nicknamed \u201cHammerin\u2019 Hank,\u201d faced racial prejudice and death threats throughout his career, especially as he approached Babe Ruth\u2019s home run record; he began his professional baseball career in the Negro leagues before joining the Milwaukee Braves; in 1974, he broke Babe Ruth\u2019s record of 714 career home runs, finishing his career with 755; he was inducted into the Baseball Hall of Fame in 1982. Name this baseball legend who played the majority of his career with the Atlanta Braves. ",
+            "answers": ["Hank Aaron"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This man's podcast, where he hosts long form interviews, is commonly believed to be the most popular in the United States. His podcast has been both praised for its diverse conversations and criticized for spreading misinformation. He began his career as a standup comedian in the 1980s and gained recognition as a co-host on the reality show \"Fear Factor.\" Name this man who has worked as a commentator for UFC and is known to hold black belts in Brazilian Jiu-Jitsu and Taekwondo.",
+            "answers": ["Joe Rogan"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "This influential politician was born in 1947 and graduated from Wellesley College in 1969, where she gave a commencement speech that received national attention. She served as First Lady of the United States from 1993 to 2001 and played a key role in the administration's health care reform efforts. In 2000, she was elected as the first female senator from New York, serving until 2009 when she was appointed Secretary of State. In 2016, she became the first woman to be nominated for president by a major U.S. political party. Name this politician who ran against Donald Trump in the 2016 presidential election.",
+            "answers": [
+                "Hillary Clinton",
+                "Hillary Rodham",
+                "Hillary Rodham Clinton"
+            ],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "question": "This mountain range in Greece, whose name is shared with several other mountains around the world, is a designated National Park and a UNESCO Biosphere Reserve. Its highest peak, Mytikas, reaches 9,570 feet above sea level, making it the highest point in Greece. It\u2019s known for its dramatic landscape of steep slopes, deep gorges, and diverse ecosystems, including alpine meadows, forests, and rocky peaks.  Name this mountain, often shrouded in clouds, where Zeus was said to rule from his throne. ",
+            "answers": ["Mount Olympus", "Mt Olympus", "Olympus"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "This widowed president was known as the \u201cveto mayor\u201d for rejecting wasteful spending while leading Buffalo, New York; during the Civil War, he hired a substitute to fulfill his draft obligations so he could support his family; after serving as governor of New York, his non-consecutive terms in office make him the 22nd and 24th president. Name this man, who shares his surname with an Ohio city and whose daughter Ruth became the namesake of a popular candy bar after she was born in the White House.",
+            "answers": ["Grover Cleveland"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This Australian rock band, formed in Sydney in 1973, is known for their signature hard rock sound, characterized by powerful vocals, bluesy guitar riffs, and energetic live performances. Their original lead singer, Bon Scott, died in 1980 and was replaced by Brian Johnson. Their 1980 album \"Back in Black,\" a tribute to Scott, became one of the best-selling albums of all time. They have sold over 200 million records worldwide and were inducted into the Rock and Roll Hall of Fame in 2003. Name this band, famous for hits like \"Highway to Hell,\" \"Thunderstruck,\" and \"You Shook Me All Night Long.\"",
+            "answers": ["AC/DC", "acdc", "ac dc"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This Syracuse University football star earned All-American honors three times and was a first-round NFL draft pick in 1957; he led the league in rushing yards in eight of his nine seasons with the Cleveland Browns; he retired from football at the peak of his career in 1965 to pursue acting; he was inducted into the Pro Football Hall of Fame in 1971.  Name this man, widely considered one of the greatest running backs in NFL history.",
+            "answers": ["Jim Brown"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "This organ's electrical system, known as the sinoatrial (SA) node, acts as the body's natural pacemaker. It consists of four chambers, two atria and two ventricles, separated by valves that ensure one-way blood flow. This fist-sized organ, located slightly to the left of the center of the chest, beats about 100,000 times a day and pumps approximately 2,000 gallons of blood throughout the body. What is this vital organ, whose proper function is essential for life? ",
+            "answers": ["Heart"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "This World War II battle, named after a city on the Volga River, marked the first major German defeat on the Eastern Front; it saw intense urban combat, with soldiers fighting from house to house and even hand-to-hand in the city's rubble; during the harsh winter, Soviet forces encircled and captured the German Sixth Army; it resulted in an estimated two million casualties, making it one of the bloodiest battles in human history.  Name this five-month long battle that led to the gradual retreat of German forces from Soviet territory. ",
+            "answers": ["Battle of Stalingrad"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This nation is currenlty holding Evan Gershkovich, a reporter for the Wall Street Journal, as a prisoner on charges of espionage. This nation also arrested WNBA star Brittney Griner for charges related to cannabis. The United States performed a prisoner exchange with this nation, exchanging Viktor Bout, a convicted arms dealer, for Griner on December 8, 2022. Name this nation which is led from the Kremlin and has been engaged in a war in Ukraine.",
+            "answers": ["Russia"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This artist\u2019s childhood was marked by tragedy, with his mother and sister dying of tuberculosis when he was young; he was a pioneer of Expressionism, a style that emphasized emotional intensity and often used distorted forms and colors; his most famous work, depicting a figure with a contorted face and a blood-red sky, was inspired by a panic attack he experienced while walking along a fjord; he created several versions of this iconic painting, including oil, tempera, and pastel versions. Name this Norwegian artist who painted \u201cThe Scream.\u201d",
+            "answers": ["Edvard Munch", "Monk", "Edward Monk", "Edward Munch"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "question": "This novel, first published in Lippincott's Monthly Magazine in 1890, sparked controversy for its themes of hedonism and immorality. Its title character, a young man of extraordinary beauty, wishes that his portrait would age instead of him, a wish that is mysteriously granted. As Dorian indulges in a life of pleasure and sin, his portrait reflects the corruption of his soul, while he himself remains untouched by time. Name this only novel by Oscar Wilde, a cautionary tale about the dangers of vanity and the pursuit of pleasure.",
+            "answers": ["The Picture of Dorian Gray", "Dorian Gray"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "This battle, fought in 480 BC, saw a small force of Greek warriors, including the legendary 300 Spartans led by King Leonidas, hold off a massive Persian army under Xerxes I for three days; it took place at a narrow pass called Thermopylae, meaning \"Hot Gates\"; despite their valiant defense and the use of phalanx formations, the Greeks were ultimately betrayed and outflanked, leading to their defeat; this battle has become a symbol of courage, sacrifice, and the defense of freedom against overwhelming odds. Name this battle, which was famously depicted in the 2006 film \"300.\" ",
+            "answers": [
+                "Battle of Thermopylae",
+                "Thermopali",
+                "Battle of Thermopali"
+            ],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "This Virginia-born politician served as governor of the Indiana Territory from 1801 to 1812, during which he fought against Tecumseh\u2019s Confederacy in the Battle of Tippecanoe; his victory earned him the nickname \u201cOld Tippecanoe\u201d and helped him win the presidency in 1840 with the slogan \u201cTippecanoe and Tyler Too\u201d; his inauguration speech was the longest on record, lasting nearly two hours in freezing temperatures; he died from pneumonia just 31 days into his term, making his the shortest presidency in US history. Name this president whose death led to the first transfer of presidential power to a vice president.",
+            "answers": ["William Henry Harrison"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actor, born in Dorking, England, trained at the prestigious Central School of Speech and Drama; he gained recognition for his Shakespearean roles on stage, notably his performances as Hamlet, Richard III, and Othello; he was married three times, including a tumultuous relationship with actress Vivien Leigh. Name this influential figure in 20th-century theater and cinema, who directed and starred in several film adaptations of Shakespeare's plays, winning an Academy Award for Best Actor and Best Picture for his 1948 film \"Hamlet.\"",
+            "answers": ["Laurence Olivier", "olivier", "lawrence olivie"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This international organization appointed Mark Rutte, a prime minister from the Netherlands as its next leader. Established in 1949 with the signing of its namesake treaty, this intergovernmental military alliance is headquartered in Brussels, Belgium. Its original purpose was to provide collective security against the Soviet Union during the Cold War. It currently has 32 member states from North America and Europe. Its core principle is collective defense, meaning an attack against one member is considered an attack against all. Name this organization whose actions include the intervention in Bosnia and Herzegovina and the ongoing support for Ukraine.",
+            "answers": [
+                "NATO",
+                "N.A.T.O.",
+                "North Atlantic Treaty Organization"
+            ],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "This animal\u2019s stomach is actually comprised of four compartments: the rumen, reticulum, omasum, and abomasum; they\u2019re known for their ability to digest cellulose, a complex carbohydrate found in plants, thanks to a symbiotic relationship with microbes in their rumen; their digestive process involves regurgitating and rechewing their food, a process called \u201cchewing the cud\u201d; their milk is a major source of nutrition for humans worldwide, providing protein, calcium, and other essential nutrients. Name this common farm animal, known for its gentle nature and black-and-white markings.",
+            "answers": ["Cow", "cows", "bovine"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA team, founded in 1989, shares its name with the state animal of Minnesota, the grey wolf; their logo features a howling wolf silhouetted against a blue and green background, representing the state's forests and lakes; they play their home games at the Target Center in Minneapolis, Minnesota; despite reaching the Western Conference Finals in 2004, they have yet to win an NBA championship. Name this team, whose current roster includes Karl-Anthony Towns and Anthony Edwards.",
+            "answers": ["Minnesota Timberwolves", "Timberwolves"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "This historic city, named after the Greek goddess of wisdom and warfare, is built around a rocky outcrop called the Acropolis, which houses the iconic Parthenon temple. It hosted the first modern Olympic Games in 1896 and is home to the Panathenaic Stadium, the only stadium in the world built entirely of marble. It's considered the birthplace of democracy, with its ancient political system serving as a model for many modern governments. Name this bustling metropolis, the capital of Greece.",
+            "answers": ["Athens"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "This future president was born into a wealthy New York family and endured a sickly childhood with asthma; during the Spanish-American War, he led a volunteer cavalry regiment known as the Rough Riders; he briefly served as New York City\u2019s police commissioner and is famous for his trust-busting policies against monopolies. Name this conservationist who was awarded the Nobel Peace Prize for negotiating an end to the Russo-Japanese War.",
+            "answers": ["Theodore Roosevelt", "Teddy Roosevelt"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "This pivotal battle, fought in 1066, saw the Norman forces of William the Conqueror defeat the English army under King Harold Godwinson; it took place near the present-day town of Battle, East Sussex, England, and lasted a full day; the Normans' victory marked the end of Anglo-Saxon rule in England and the beginning of the Norman Conquest; it's depicted in the famous Bayeux Tapestry, a 70-meter-long embroidered cloth that tells the story of the battle in intricate detail. Name this battle, which changed the course of English history.",
+            "answers": ["Battle of Hastings", "Hastings"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "This is the only bone in the human body that\u2019s wider in the middle than at the ends; the strongest part of this bone is the shaft, which can withstand forces of up to 1,800 to 2,500 pounds in a healthy adult. This bone\u2019s name comes from the Latin meaning thigh. Name this longest and strongest bone in the human body, essential for walking, running, and jumping.",
+            "answers": ["Femur", "thighbone"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "This landform, part of the Southern Alps, is composed of three summits: Low Peak, Middle Peak, and High Peak; it holds great cultural significance to the indigenous M\u0101ori people, who consider it the most sacred peak; its name, in the M\u0101ori language, translates to \"Cloud Piercer\"; it was renamed in 1851 after a British explorer, although the dual name is now officially recognized. Name this landform, the highest mountain in New Zealand.",
+            "answers": ["Aoraki / Mount Cook", "Aoraki", "Mount Cook"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This left-handed athlete, born in Prague, Czechoslovakia, defected to the United States in 1975 at the age of 18; known for her aggressive serve-and-volley style, she won 18 Grand Slam singles titles, including a record nine Wimbledon championships; she was a dominant force in doubles, partnering with Pam Shriver to win 20 Grand Slam titles; she held the world No. 1 ranking in singles for a total of 332 weeks, a record at the time. Name this tennis legend who won a total of 59 Grand Slam titles in singles, doubles, and mixed doubles.",
+            "answers": ["Martina Navratilova"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Luis Arce, the president of this nation withstood an attempted coup d'\u00e9tat on June 26, 2024. Army commander General Juan Jos\u00e9 Z\u00fa\u00f1iga sent troops to seize Plaza Murillo, the central plaza in La Paz, and storm the Casa Grande del Pueblo, the presidential palace. This nation shares Lake Titicaca, South America's largest lake by volume, with its neighbor Peru. It's known for the Uyuni Salt Flats, the world's largest salt flat, and being a significant producer of tin and lithium. Name this country, formerly known as Upper Peru during Spanish colonial rule.",
+            "answers": ["Bolivia"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This author\u2019s real name was Eric Arthur Blair, and he was born in Motihari, British India, in 1903. He served in the Indian Imperial Police in Burma before returning to England to pursue a writing career. He adopted his pen name from a river in Suffolk, England. His most famous works, two dystopian novels published in 1945 and 1949, are still widely read and analyzed for their social and political commentary. Name this author, whose works include \"Animal Farm\" and \"Nineteen Eighty-Four.\" ",
+            "answers": ["George Orwell"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This reality TV show, created by Charlie Parsons in 1992, was first aired as Expedition Robinson in Sweden; it features a group of strangers marooned in a remote location, where they must compete in challenges to secure food, shelter, and immunity from elimination; the contestants, known as \u201ccastaways,\u201d are gradually voted off the island until only one remains; it has spawned numerous international adaptations, becoming a global phenomenon. Name this popular series, known for its tagline \"Outwit, Outplay, Outlast.\"",
+            "answers": ["Survivor"],
+            "used": "FALSE"
+        }
     ]
 ]
