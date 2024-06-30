@@ -4302,56 +4302,6 @@
     ],
     [
         {
-            "category": "Geography",
-            "question": "This mountain range in Greece, whose name is shared with several other mountains around the world, is a designated National Park and a UNESCO Biosphere Reserve. Its highest peak, Mytikas, reaches 9,570 feet above sea level, making it the highest point in Greece. It\u2019s known for its dramatic landscape of steep slopes, deep gorges, and diverse ecosystems, including alpine meadows, forests, and rocky peaks.  Name this mountain, often shrouded in clouds, where Zeus was said to rule from his throne. ",
-            "answers": ["Mount Olympus", "Mt Olympus", "Olympus"],
-            "used": "FALSE"
-        },
-        {
-            "category": "US History",
-            "question": "This widowed president was known as the \u201cveto mayor\u201d for rejecting wasteful spending while leading Buffalo, New York; during the Civil War, he hired a substitute to fulfill his draft obligations so he could support his family; after serving as governor of New York, his non-consecutive terms in office make him the 22nd and 24th president. Name this man, who shares his surname with an Ohio city and whose daughter Ruth became the namesake of a popular candy bar after she was born in the White House.",
-            "answers": ["Grover Cleveland"],
-            "used": "FALSE"
-        },
-        {
-            "category": "Entertainment",
-            "question": "This Australian rock band, formed in Sydney in 1973, is known for their signature hard rock sound, characterized by powerful vocals, bluesy guitar riffs, and energetic live performances. Their original lead singer, Bon Scott, died in 1980 and was replaced by Brian Johnson. Their 1980 album \"Back in Black,\" a tribute to Scott, became one of the best-selling albums of all time. They have sold over 200 million records worldwide and were inducted into the Rock and Roll Hall of Fame in 2003. Name this band, famous for hits like \"Highway to Hell,\" \"Thunderstruck,\" and \"You Shook Me All Night Long.\"",
-            "answers": ["AC/DC", "acdc", "ac dc"],
-            "used": "FALSE"
-        },
-        {
-            "category": "Sports",
-            "question": "This Syracuse University football star earned All-American honors three times and was a first-round NFL draft pick in 1957; he led the league in rushing yards in eight of his nine seasons with the Cleveland Browns; he retired from football at the peak of his career in 1965 to pursue acting; he was inducted into the Pro Football Hall of Fame in 1971.  Name this man, widely considered one of the greatest running backs in NFL history.",
-            "answers": ["Jim Brown"],
-            "used": "FALSE"
-        },
-        {
-            "category": "Science",
-            "question": "This organ's electrical system, known as the sinoatrial (SA) node, acts as the body's natural pacemaker. It consists of four chambers, two atria and two ventricles, separated by valves that ensure one-way blood flow. This fist-sized organ, located slightly to the left of the center of the chest, beats about 100,000 times a day and pumps approximately 2,000 gallons of blood throughout the body. What is this vital organ, whose proper function is essential for life? ",
-            "answers": ["Heart"],
-            "used": "FALSE"
-        },
-        {
-            "category": "World History",
-            "question": "This World War II battle, named after a city on the Volga River, marked the first major German defeat on the Eastern Front; it saw intense urban combat, with soldiers fighting from house to house and even hand-to-hand in the city's rubble; during the harsh winter, Soviet forces encircled and captured the German Sixth Army; it resulted in an estimated two million casualties, making it one of the bloodiest battles in human history.  Name this five-month long battle that led to the gradual retreat of German forces from Soviet territory. ",
-            "answers": ["Battle of Stalingrad"],
-            "used": "FALSE"
-        },
-        {
-            "category": "Current Events",
-            "question": "This nation is currenlty holding Evan Gershkovich, a reporter for the Wall Street Journal, as a prisoner on charges of espionage. This nation also arrested WNBA star Brittney Griner for charges related to cannabis. The United States performed a prisoner exchange with this nation, exchanging Viktor Bout, a convicted arms dealer, for Griner on December 8, 2022. Name this nation which is led from the Kremlin and has been engaged in a war in Ukraine.",
-            "answers": ["Russia"],
-            "used": "FALSE"
-        },
-        {
-            "category": "Arts & Literature",
-            "question": "This artist\u2019s childhood was marked by tragedy, with his mother and sister dying of tuberculosis when he was young; he was a pioneer of Expressionism, a style that emphasized emotional intensity and often used distorted forms and colors; his most famous work, depicting a figure with a contorted face and a blood-red sky, was inspired by a panic attack he experienced while walking along a fjord; he created several versions of this iconic painting, including oil, tempera, and pastel versions. Name this Norwegian artist who painted \u201cThe Scream.\u201d",
-            "answers": ["Edvard Munch", "Monk", "Edward Monk", "Edward Munch"],
-            "used": "FALSE"
-        }
-    ],
-    [
-        {
             "category": "Arts & Literature",
             "question": "This novel, first published in Lippincott's Monthly Magazine in 1890, sparked controversy for its themes of hedonism and immorality. Its title character, a young man of extraordinary beauty, wishes that his portrait would age instead of him, a wish that is mysteriously granted. As Dorian indulges in a life of pleasure and sin, his portrait reflects the corruption of his soul, while he himself remains untouched by time. Name this only novel by Oscar Wilde, a cautionary tale about the dangers of vanity and the pursuit of pleasure.",
             "answers": ["The Picture of Dorian Gray", "Dorian Gray"],
