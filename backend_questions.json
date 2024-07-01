@@ -4195,14 +4195,14 @@
     [
         {
             "category": "Sports",
-            "question": "This team, which plays its home games at T-Mobile Park, joined the American League as an expansion team in 1977. Their name reflects the city's strong maritime heritage, and their mascot, the Mariner Moose, is a beloved figure among fans. They have never won a World Series, but they hold the MLB record for most wins in a single season, achieving 116 wins in 2001. What is the name of this team, whose iconic logo features a compass rose and a stylized \"S\"?",
+            "question": "This baseball team, which plays its home games at T-Mobile Park, joined the American League as an expansion team in 1977. Their name reflects the city's strong maritime heritage, and their mascot, the Mariner Moose, is a beloved figure among fans. They have never won a World Series, but they hold the MLB record for most wins in a single season, achieving 116 wins in 2001. What is the name of this team, whose iconic logo features a compass rose and a stylized \"S\"?",
             "answers": ["Seattle Mariners", "Mariners"],
             "used": "FALSE"
         },
         {
             "category": "Arts & Literature",
-            "question": "This Italian Renaissance master, born in 1483, is renowned for his graceful and harmonious paintings. He was a child prodigy, apprenticed to the renowned painter Pietro Perugino at a young age. He was commissioned by Pope Julius II to paint the papal apartments in the Vatican, including his masterpiece, The School of Athens. Despite his untimely death at the age of 37, he left behind a vast body of work, including Madonnas, portraits, and frescoes. Name this artist, considered one of the three great masters of the High Renaissance, alongside Leonardo da Vinci and Michelangelo. ",
-            "answers": ["Raphael"],
+            "question": "This Italian Renaissance master, born in 1483, was a child prodigy. He apprenticed to the renowned painter Pietro Perugino at a young age. He was commissioned by Pope Julius II to paint the papal apartments in the Vatican, including his masterpiece, The School of Athens. Despite his untimely death at the age of 37, he left behind a vast body of work, including Madonnas, portraits, and frescoes. Name this artist, considered one of the three great masters of the High Renaissance, alongside Leonardo da Vinci and Michelangelo. ",
+            "answers": ["Raphael", "Raffaello Sanzio da Urbino"],
             "used": "FALSE"
         },
         {
@@ -4214,19 +4214,19 @@
         {
             "category": "US History",
             "question": "Born in rural Mississippi in 1954, this influential figure overcame a challenging childhood to become a media mogul, actress, and philanthropist. She hosted a wildly popular daytime talk show for 25 seasons, which became known for its focus on self-improvement and empowerment. She also founded a successful magazine, launched a cable network, and even acted in films like \"The Color Purple\" and \"Beloved.\" Name this influential figure who is sometimes referred to as the first Black woman billionaire.",
-            "answers": ["Oprah Winfrey"],
+            "answers": ["Oprah Winfrey", "Oprah"],
             "used": "FALSE"
         },
         {
             "category": "Science",
             "question": "These mammals, belonging to the order Lagomorpha, are known for their distinctive long ears, short fluffy tails, and powerful hind legs. Unlike rodents, they possess two pairs of upper incisors, with a smaller pair located directly behind the larger front teeth. Their diet consists primarily of grasses and leafy greens, and they have a unique digestive system that includes hindgut fermentation. Due to their high reproductive rate, they are often used in scientific research, particularly in studies related to reproduction, genetics, and immunology. What are these animals called?",
-            "answers": ["Rabbit", "bunny"],
+            "answers": ["Rabbit", "bunny", "rabbits", "bunnies"],
             "used": "FALSE"
         },
         {
             "category": "Entertainment",
             "question": "This actress, whose trademark large eyes and distinctive voice made her a Hollywood icon, was born Ruth Elizabeth Davis in Lowell, Massachusetts, in 1908. She rose to fame in the 1930s and 1940s, known for her fierce independence and willingness to play unsympathetic characters. She had a legendary feud with fellow actress Joan Crawford, which culminated in their collaboration on the 1962 film \"What Ever Happened to Baby Jane?\".  Name this two-time Academy Award winner, whose career spanned six decades and included memorable roles in films like \"Jezebel,\" \"Dark Victory,\" and \"All About Eve.\"",
-            "answers": ["Bette Davis"],
+            "answers": ["Bette Davis", "Betty Davis", "Davis"],
             "used": "FALSE"
         },
         {
@@ -4237,7 +4237,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This nation led by President William Ruto had mass protests in June 2024 relating to a finance bill which proposed a large increase in taxes. The bill was passed on June 20, and protesters stormed the Parliament building on June 25 which led to the military being deployed to support the police. President Ruto then reversed course stating he would not sign the bill. Name this African nation home to more than 50 million people with a capital of Nairobi. ",
+            "question": "This nation led by President William Ruto had mass protests in June 2024 relating to a finance bill which proposed a large increase in taxes. The bill was passed on June 20. Protesters stormed the Parliament building on June 25 which led to the military being deployed to support the police. President Ruto then reversed course stating he would not sign the bill. Name this African nation home to more than 50 million people with a capital of Nairobi.",
             "answers": ["Kenya"],
             "used": "FALSE"
         }
@@ -4320,7 +4320,7 @@
         {
             "category": "US History",
             "question": "This Virginia-born politician served as governor of the Indiana Territory from 1801 to 1812, during which he fought against Tecumseh\u2019s Confederacy in the Battle of Tippecanoe; his victory earned him the nickname \u201cOld Tippecanoe\u201d and helped him win the presidency in 1840 with the slogan \u201cTippecanoe and Tyler Too\u201d; his inauguration speech was the longest on record, lasting nearly two hours in freezing temperatures; he died from pneumonia just 31 days into his term, making his the shortest presidency in US history. Name this president whose death led to the first transfer of presidential power to a vice president.",
-            "answers": ["William Henry Harrison"],
+            "answers": ["William Henry Harrison", "Harrison", "Henry Harrison"],
             "used": "FALSE"
         },
         {
