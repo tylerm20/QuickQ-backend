@@ -4407,5 +4407,312 @@
             "answers": ["Survivor"],
             "used": "FALSE"
         }
+    ],
+    [
+        {
+            "category": "Geography",
+            "question": "Though it initially forms at the confluence of the Paranaiba and Grande rivers, it ultimately flows into the R\u00edo de la Plata estuary. Forming the border between Paraguay and Argentina, it is the second-longest river in South America. Home to the Itaipu Dam, the world's second-largest hydroelectric power plant, it is a major waterway for transportation and commerce. Which river's name translates to \"like the sea\" in the Tupi language? ",
+            "answers": ["Paran\u00e1 River", "parana"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This man's memoir \"On Call\" debuted as a New York Times bestseller in June 2024. This physician and immunologist, born in Brooklyn, New York in 1940, joined the National Institutes of Health (NIH) in 1968 and became director of the National Institute of Allergy and Infectious Diseases (NIAID) in 1984; he has served as a key advisor to seven US presidents on various public health crises, including HIV/AIDS, Ebola, and Zika; Name this man who became a household name during the COVID-19 pandemic, providing regular updates and guidance to the public.",
+            "answers": ["Anthony Fauci", "Fauci", "Tony Fauci"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This MLB team won the World Series in 1984 with a team led by Kirk Gibson and Jack Morris, their most recent World Series appearance was in 2012. Their mascot is Paws, a fierce-looking tiger, and their home stadium is Comerica Park, known for its Ferris wheel and carousel. They have a rich history with legendary players like Ty Cobb, Al Kaline, and Miguel Cabrera. Which Major League Baseball team plays in the Motor City and wears the Old English \"D\" on their caps?",
+            "answers": ["Detroit Tigers", "Tigers"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "Though they primarily feed on nectar, some species also consume pollen, tree sap, or even decaying animal matter. Their wings are covered in tiny scales, creating their vibrant colors and patterns. They undergo complete metamorphosis, transforming from egg to larva (caterpillar) to pupa (chrysalis) to adult. Known for their role in pollination and their symbolic representation of transformation, what are these insects belonging to the order Lepidoptera?",
+            "answers": ["Butterfly"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Though he initially trained as a lawyer, he later devoted his life to art, co-founding the Der Blaue Reiter (The Blue Rider) group with Franz Marc. Born in Moscow, he was a pioneer of abstract art, exploring the emotional and spiritual power of color and form. Known for his \"Compositions\" series and his book \"Concerning the Spiritual in Art,\" he taught at the Bauhaus school in Germany. Which artist's painting \"Composition VIII\" is considered a masterpiece of abstract expressionism?",
+            "answers": ["Wassily Kandinsky", "Candinsky"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Though it was initially adapted from a teleplay of the same name, it became a landmark film for its exploration of the American jury system. Set entirely in a jury room, it follows twelve jurors deliberating the guilt or innocence of a young man accused of murder. Known for its tense atmosphere and powerful performances, it features a cast including Henry Fonda, Lee J. Cobb, and E.G. Marshall. Which 1957 drama film examines themes of justice, doubt, and the importance of individual conscience?",
+            "answers": ["12 Angry Men", "twelve angry men"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "Though it initially began as a conflict between Protestant and Catholic states within the Holy Roman Empire, it eventually involved most of the major European powers. Marked by devastating battles like White Mountain and L\u00fctzen, it saw the rise of military leaders like Albrecht von Wallenstein and Gustavus Adolphus. Ending with the Peace of Westphalia in 1648, it resulted in significant political and religious changes in Europe. Which war, lasting from 1618 to 1648, is considered one of the longest and most destructive conflicts in European history?",
+            "answers": ["Thirty Years' War", "thirty year war"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "Initially established as a haven for debtors and those imprisoned for minor offenses, it was the last of the original Thirteen Colonies. This state's capitall was originally called Terminus due to its location at the end of a railroad line. Named after King George II, it was founded by James Oglethorpe in 1733. Known for its peaches and peanuts, it was the fourth state to ratify the U.S. Constitution. Name this state that was home to Jimmy Carter.",
+            "answers": ["Georgia"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "Though she initially rose to fame alongside her sister Serena, she became the first African American woman to be ranked No. 1 in the world in the Open Era. Known for her powerful serve and aggressive baseline game, she has won seven Grand Slam singles titles, five at Wimbledon and two at the US Open. She has also won 14 Grand Slam doubles titles with her sister Serena. Which tennis star's signature fashion sense includes designing her own tennis apparel line, EleVen?",
+            "answers": ["Venus Williams", "Venus"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "Though it initially declared independence in 1948, it traces its historical roots to ancient Judah. Bordered by Lebanon, Syria, Jordan, and Egypt, its topography ranges from the coastal plain to the Negev Desert. Home to the Dead Sea, the lowest point on Earth, it also boasts the port city of Haifa and the ancient city of Jerusalem. Which Middle Eastern country is the world's only Jewish-majority state?",
+            "answers": ["Israel"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "Serving as Secretary of State under James K. Polk, he was the only president from Pennsylvania. His nickname was \"Old Buck,\" and he was a lifelong bachelor. Believing the issue of slavery would be settled by the Supreme Court, his presidency was dominated by the escalating tensions leading to the Civil War. Who was the 15th President of the United States?",
+            "answers": ["James Buchanan", "Buchanan"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "Though it primarily functions as a digestive organ, it also plays a role in immune response and hormone production. Its lining contains gastric glands that secrete hydrochloric acid and enzymes like pepsin. It is connected to the esophagus by the cardiac sphincter and to the small intestine by the pyloric sphincter. Known for its J-shape and ability to expand to accommodate food, what is this organ located in the upper left abdomen?",
+            "answers": ["Stomach", "the stomach"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Though it was initially a box office flop, it has become a beloved holiday classic. Set in the fictional town of Bedford Falls, it tells the story of George Bailey, a man who sacrifices his dreams for the sake of his family and community. Featuring iconic scenes like the angel Clarence earning his wings and George wishing he had never been born, it stars Jimmy Stewart and Donna Reed. Which 1946 film explores themes of redemption, kindness, and the value of every life?",
+            "answers": ["It's a Wonderful Life"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "Though it initially aimed to restore imperial rule, it led to the modernization and Westernization of Japan. Triggered by the arrival of Commodore Matthew Perry and the signing of unequal treaties, it saw the overthrow of the Tokugawa Shogunate and the return of power to the emperor. It led to the abolition of the feudal system, the establishment of a constitutional monarchy, and the rapid industrialization and militarization of Japan. Which period marked a turning point in Japanese history, transforming the nation into a major world power?",
+            "answers": ["Meiji Restoration"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Though it was initially a commercial failure, it is now considered one of the greatest American novels.  Set in the mid-19th century, it features a diverse crew of characters like Starbuck, Queequeg, and Pip. Narrated by Ishmael, a young sailor who joins the crew of the Pequod, it explores themes of obsession, revenge, and the relationship between man and nature. Which novel features Captain Ahab's relentless pursuit of a white whale?",
+            "answers": ["Moby Dick"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "Initially airing on Tuesdays before moving to Sundays, it became the first news program to win a primetime Emmy. Though it once featured a segment called \"Point/Counterpoint,\" it's best known for in-depth investigations and interviews. Originally co-hosted by Mike Wallace and Harry Reasoner, its ticking stopwatch has become an iconic symbol in broadcast journalism. What is this long-running news magazine program?",
+            "answers": ["60 Minutes", "sixty minutes"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "question": "Though he initially studied under Arnold Sommerfeld, he later became a colleague of Niels Bohr in Copenhagen. He won the Nobel Prize in Physics in 1932 for his work on quantum mechanics. His uncertainty principle states that it is impossible to simultaneously know both the position and momentum of a particle with perfect accuracy. Who led the German nuclear weapons program during World War II?",
+            "answers": ["Werner Heisenberg", "heisenberg"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "Though they were initially discovered by the Spanish conquistador \u00c1lvar N\u00fa\u00f1ez Cabeza de Vaca in 1541, they were named after a river which means \"big water\" in the Guaran\u00ed language. Straddling the border between Argentina and Brazil, they are actually a system of 275 waterfalls, with the Devil's Throat being the most impressive.  Surrounded by lush rainforest and home to diverse wildlife, they are one of the Seven Natural Wonders of the World. What is this majestic waterfall system located in South America?",
+            "answers": ["Iguazu Falls", "Iguacu falls"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "Though this team hold the NFL record for most consecutive sold-out home games, their first winning season didn't occur until 1983. Their logo is inspired by a transformation mask from the Kwakwaka'wakw tribe, and their fight song is a parody of the ballad \"Louie, Louie.\" Coached by Pete Carroll since 2010, their \"Legion of Boom\" defense led them to a Super Bowl victory in 2014. Which NFL team, known for its loud \"12th Man\" fan base, plays its home games at Lumen Field in Seattle, Washington? ",
+            "answers": ["Seattle Seahawks", "Seahawks"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Though this movie was initially based on a Stephen King novel, the author famously disliked Stanley Kubrick's film adaptation. Set in the isolated Overlook Hotel, it features a family facing supernatural forces during a harsh winter. Known for its eerie atmosphere and iconic scenes like the twins in the hallway and the \"Here's Johnny!\" line, it stars Jack Nicholson as Jack Torrance, a struggling writer who descends into madness. What is this 1980 psychological horror film?",
+            "answers": ["The Shining"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "Though he initially ran a haberdashery with a friend in Kansas City, he became the 33rd president after Franklin D. Roosevelt's death in 1945. He authorized the use of atomic bombs against Japan and led the U.S. during the early years of the Cold War. Known for his \"The buck stops here\" sign on his desk, he also implemented the a namesake doctrine and the Marshall Plan. Who unexpectedly won the 1948 presidential election against Thomas E. Dewey?",
+            "answers": ["Harry S. Truman", "Harry Truman", "Truman"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This TV news network hosted the first 2024 US Presidential Debate between Joe Biden and Donald Trump. The debate was moderated by two of this network's journalists, Dana Bash and Jake Tapper. This network's first broadcast was about the attempted assassination of Vernon Jordan, and anchored by a husband and wife team. Founded by Ted Turner, it was the first all-news television channel in the United States. Name this cable news channel that is headquartered in Atlanta, Georgia.",
+            "answers": ["CNN", "Cable News Network"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "Though it initially aimed for political and societal reform, it ultimately led to the rise and fall of Napoleon Bonaparte. Sparked by economic inequality and Enlightenment ideals, it saw the storming of the Bastille and the establishment of the First French Republic. The Reign of Terror, led by Maximilien Robespierre, resulted in the execution of thousands by guillotine. Which period of radical social and political upheaval in France and its colonies began in 1789?",
+            "answers": ["French Revolution"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Though he initially studied medicine, he switched to English literature and became a pioneer of African literature written in English. Born in Ogidi, Nigeria, he is best known for his debut novel, \"Things Fall Apart,\" which explores the impact of colonialism on Igbo society. His other works include \"No Longer at Ease,\" \"Arrow of God,\" and \"A Man of the People.\" Which author's writings often address the clash between traditional African values and Western influences?",
+            "answers": ["Chinua Achebe", "Achebe"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "question": "Though he initially worked as a patent clerk in Switzerland, he became a Nobel laureate in Physics in 1921. His theories of special and general relativity revolutionized our understanding of space, time, and gravity. Known for his famous equation E=mc\u00b2, he also made significant contributions to the development of quantum mechanics. Which scientist, born in Ulm, Germany, is considered one of the most influential figures in the history of science?",
+            "answers": ["Albert Einstein", "Einstein"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "Though he initially ruled over a small kingdom in Anshan, he conquered the Median Empire and established the Achaemenid Empire. Known for his tolerant policies towards conquered peoples, he allowed the Jews to return to Jerusalem and rebuild their temple. His conquest of Babylon was facilitated by diverting the Euphrates River, and his legacy is preserved in the a namesake, alliterative cylinder. Which ruler is considered the founder of the Persian Empire?",
+            "answers": [
+                "Cyrus the Great",
+                "Cyprus",
+                "Cyrus II of Persia",
+                "Cyrus"
+            ],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "This rock formation was initially named after Sir Henry Ayers, the eighth Premier of South Australia. It is composed of arkose, a type of sandstone rich in feldspar.It is a sacred site for the Anangu people, who believe it was created during the Dreamtime. Its surface appears to change color throughout the day, especially at dawn and dusk, due to the sunlight's angle and the rock's mineral composition. What is this large sandstone monolith in central Australia, a UNESCO World Heritage Site often referred to by its Aboriginal name?",
+            "answers": ["Uluru", "Ayers Rock"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Though it was initially conceived as a representation of Dante Alighieri, the poet of the \"Divine Comedy,\" it later became a symbol of universal contemplation and human intellect. Originally part of Rodin's monumental sculptural group \"The Gates of Hell,\" it depicts a nude male figure seated on a rock, deep in thought. Numerous casts of this sculpture exist worldwide, with the most famous one located at the Mus\u00e9e Rodin in Paris. What is this iconic bronze sculpture by Auguste Rodin?",
+            "answers": ["The Thinker"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "Calvin Coolidge is the only US president to have been born on this day. Three US presidents, John Adams, Thomas Jefferson, and James Monroe, have died on this date which marks a US holiday. This holiday, established in 1776 to commemorate the signing of the Declaration of Independence, wasn't officially declared a federal holiday until 1870; Most historians have concluded that the Declaration was signed nearly a month after its adoption, on August 2, 1776, and not on this day as is commonly believed. Name this holday that is traditionally celebrated with parades, barbecues, and fireworks displays.",
+            "answers": [
+                "4th of July",
+                "Fourth of July",
+                "July 4",
+                "July Fourth",
+                "Independence Day",
+                "American Independence Day"
+            ],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Though this TV show was initially canceled after three seasons, it was revived by Netflix for two additional seasons. Set in Newport Beach, California, it follows the dysfunctional Bluth family after their real estate business goes bankrupt. Known for its satirical humor, meta-references, and recurring jokes like \"chicken dance\" and \"never nude,\" it features an ensemble cast including Jason Bateman, Portia de Rossi, and Will Arnett. What is this critically acclaimed comedy series narrated by Ron Howard?",
+            "answers": ["Arrested Development"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This US soccer player was the youngest player to score 20 goals in a calendar year for the U.S. She became a two-time World Cup champion and Olympic gold medalist. Known for her signature \"teapot\" goal celebration and her advocacy for gender equality in sports, she co-captained the USWNT with Carli Lloyd and Megan Rapinoe from 2018 to 2020. Scoring her first World Cup goal in 2011, she gained early recognition as a member of the U.S. under-20 women's national soccer team. Which striker played for the San Diego Wave FC in 2023?",
+            "answers": ["Alex Morgan", "Morgan"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "Though initially founded as a safe haven for English Catholics, it was the seventh state to ratify the U.S. Constitution. Home to Fort McHenry, it was the site of the Battle of Antietam, the bloodiest single-day battle in American history. Known for its blue crabs and Old Bay seasoning, its flag features the coats of arms of the Calvert and Crossland families. Which state is home to the U.S. Naval Academy?",
+            "answers": ["Maryland"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "question": "Though it was initially revealed to the Prophet Muhammad over 23 years, it is divided into 114 chapters called surahs. Written in classical Arabic, it is considered the holy book of Islam and the word of God. Containing stories of prophets like Abraham, Moses, and Jesus, it also provides guidance on various aspects of life, including faith, worship, morality, and law. Which book is the central religious text of Islam, revered by Muslims worldwide?",
+            "answers": ["The Quran", "Koran", "The koran", "the quoran"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This US state with 99 counties became the 29th state in 1846. Home to the National Mississippi River Museum & Aquarium, it is the only state bordered by two navigable rivers. Known for its rolling plains and cornfields, it is also home to the Bridges of Madison County. Name this state of 3 million people whose capital and most populous is Des Moines.",
+            "answers": ["Iowa"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This politician called for a snap election to be held for the French Parliament to be held on June 30 and July 7, 2024. This man served as Minister of Economics, Industry and Digital Affairs under President Fran\u00e7ois Hollande from 2014 to 2016 and Deputy Secretary-General to the President from 2012 to 2014. He is a part of the Renaissance Party which he helped to found in 2016. Name this French politician who in 2017, was elected the 25th President of France becoming the youngest person to hold the position at age 39.",
+            "answers": ["Emmanuel Macron"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "Founded in 1898 as the Morgan Athletic Club in Chicago, this team is the oldest continuously operating professional American football club. They relocated to St. Louis in 1960 and then to Arizona in 1988. Their mascot is Big Red, and their home stadium is State Farm Stadium, known for its retractable roof and field. They lost to the Pittsburgh Steelers in Super Bowl XLIII. Which NFL team is quarterbacked by Kyler Murray?",
+            "answers": ["Arizona Cardinals", "Cardinals"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "Though he initially embarked on a grand tour of Asia, he was forced to return home early after an assassination attempt in Japan. Known for his close relationship with his cousin, Kaiser Wilhelm II of Germany, his reign saw the disastrous Russo-Japanese War and the Bloody Sunday massacre. Married to Alexandra Feodorovna, a granddaughter of Queen Victoria, he was the last Emperor of Russia. Who was overthrown in the February Revolution of 1917?",
+            "answers": [
+                "Tsar Nicholas II",
+                "Nicholas",
+                "Nicholas the second",
+                "Nikolai II"
+            ],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Though she initially gained recognition with hits like \"Holiday\" and \"Borderline,\" her career skyrocketed with the release of her second album.  Known for her provocative image, elaborate stage shows, and numerous reinventions, she has sold over 300 million records worldwide. Appearing in films like \"Desperately Seeking Susan\" and \"Evita,\" she has also been a successful businesswoman and fashion icon. Which singer's 1984 performance of \"Like a Virgin\" at the MTV Video Music Awards became a cultural phenomenon?",
+            "answers": ["Madonna"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "Though they primarily walk sideways, some species can also swim. Their exoskeleton is made of chitin, and they must molt to grow. They belong to the order Decapoda, meaning \"ten-footed,\" and their claws are modified legs. Known for their pincers and ability to regenerate lost limbs, what are these crustaceans found in oceans, freshwater, and on land?",
+            "answers": ["crab", "crabs"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "Though it is the smallest and shallowest of the world's oceans, it is home to a diverse range of marine life, including polar bears, walruses, and narwhals. Covered in sea ice for most of the year, its central surface is covered by a perennial drifting polar ice pack. It is surrounded by landmasses such as Greenland, Canada, Alaska, Russia, and Norway. Which ocean is home to the North Pole?",
+            "answers": ["Arctic Ocean"],
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
     ]
 ]
