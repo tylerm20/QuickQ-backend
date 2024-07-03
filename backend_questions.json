@@ -4309,7 +4309,7 @@
         },
         {
             "category": "World History",
-            "question": "This battle, fought in 480 BC, saw a small force of Greek warriors, including the legendary 300 Spartans led by King Leonidas, hold off a massive Persian army under Xerxes I for three days; it took place at a narrow pass called Thermopylae, meaning \"Hot Gates\"; despite their valiant defense and the use of phalanx formations, the Greeks were ultimately betrayed and outflanked, leading to their defeat; this battle has become a symbol of courage, sacrifice, and the defense of freedom against overwhelming odds. Name this battle, which was famously depicted in the 2006 film \"300.\" ",
+            "question": "This battle, fought in 480 BC, saw a small force of Greek warriors, including the legendary 300 Spartans led by King Leonidas, hold off a massive Persian army under Xerxes I for three days; it took place at a narrow pass called \"Hot Gates\" in Greek; despite their valiant defense and the use of phalanx formations, the Greeks were ultimately betrayed and outflanked, leading to their defeat; this battle has become a symbol of courage, sacrifice, and the defense of freedom against overwhelming odds. Name this battle, which was famously depicted in the 2006 film \"300.\" ",
             "answers": [
                 "Battle of Thermopylae",
                 "Thermopali",
@@ -4347,7 +4347,7 @@
         },
         {
             "category": "Sports",
-            "question": "This NBA team, founded in 1989, shares its name with the state animal of Minnesota, the grey wolf; their logo features a howling wolf silhouetted against a blue and green background, representing the state's forests and lakes; they play their home games at the Target Center in Minneapolis, Minnesota; despite reaching the Western Conference Finals in 2004, they have yet to win an NBA championship. Name this team, whose current roster includes Karl-Anthony Towns and Anthony Edwards.",
+            "question": "This NBA team, founded in 1989, shares its name with their state animal, the grey wolf; their logo features a howling wolf silhouetted against a blue and green background, representing the state's forests and lakes; they play their home games at the Target Center in Minneapolis, Minnesota; despite reaching the Western Conference Finals in 2004, they have yet to win an NBA championship. Name this team, whose current roster includes Karl-Anthony Towns and Anthony Edwards.",
             "answers": ["Minnesota Timberwolves", "Timberwolves"],
             "used": "FALSE"
         },
