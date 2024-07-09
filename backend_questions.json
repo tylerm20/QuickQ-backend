@@ -4655,8 +4655,14 @@
     [
         {
             "category": "Arts & Literature",
-            "question": "Though it was initially revealed to the Prophet Muhammad over 23 years, it is divided into 114 chapters called surahs. Written in classical Arabic, it is considered the holy book of Islam and the word of God. Containing stories of prophets like Abraham, Moses, and Jesus, it also provides guidance on various aspects of life, including faith, worship, morality, and law. Which book is the central religious text of Islam, revered by Muslims worldwide?",
-            "answers": ["The Quran", "Koran", "The koran", "the quoran"],
+            "question": "Though it was initially revealed to the Prophet Muhammad over 23 years, it is divided into 114 chapters called surahs. Containing stories of prophets like Abraham, Moses, and Jesus, it also provides guidance on various aspects of life, including faith, worship, morality, and law. Written in classical Arabic, it is considered the holy book of Islam and the word of God. Which book is the central religious text of Islam, revered by Muslims worldwide?",
+            "answers": [
+                "The Quran",
+                "Koran",
+                "The koran",
+                "the quoran",
+                "quaran"
+            ],
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4669,7 +4675,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This politician called for a snap election to be held for the French Parliament to be held on June 30 and July 7, 2024. This man served as Minister of Economics, Industry and Digital Affairs under President Fran\u00e7ois Hollande from 2014 to 2016 and Deputy Secretary-General to the President from 2012 to 2014. He is a part of the Renaissance Party which he helped to found in 2016. Name this French politician who in 2017, was elected the 25th President of France becoming the youngest person to hold the position at age 39.",
+            "question": "This politician called for a snap election to be held for the French Parliament on June 30 and July 7, 2024. This man served as Minister of Economics, Industry and Digital Affairs under President Fran\u00e7ois Hollande from 2014 to 2016 and Deputy Secretary-General to the President from 2012 to 2014. He is a part of the Renaissance Party which he helped to found in 2016. Name this French politician who in 2017, was elected the 25th President of France becoming the youngest person to hold the position at age 39.",
             "answers": ["Emmanuel Macron"],
             "used": "FALSE",
             "source": "Marty Heavey"
@@ -4688,7 +4694,8 @@
                 "Tsar Nicholas II",
                 "Nicholas",
                 "Nicholas the second",
-                "Nikolai II"
+                "Nikolai II",
+                "Czar Nicholas II"
             ],
             "used": "FALSE",
             "source": "Marty Heavey"
