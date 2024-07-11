@@ -4725,8 +4725,8 @@
     [
         {
             "category": "Geography",
-            "question": "This Great Lake, the second-largest by surface area, is home to over 30,000 islands, including Manitoulin Island, the world's largest freshwater island. It experiences a unique weather phenomenon known as \"lake effect snow,\" which can produce heavy snowfall in the surrounding areas. Its name comes from a Native American tribe that inhabited the region. Name this lake, a crucial route for fur traders and explorers during the early European settlement of North America.",
-            "answers": ["Lake Huron"],
+            "question": "This Great Lake is home to over 30,000 islands, including Manitoulin Island, the world's largest freshwater island. It experiences a unique weather phenomenon known as \"lake effect snow,\" which can produce heavy snowfall in the surrounding areas. Its name comes from a Native American tribe that inhabited the region. Name this lake, a crucial route for fur traders and explorers during the early European settlement of North America, which is the second-largest Great Lake by surface area.",
+            "answers": ["Lake Huron", "Huron"],
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4746,7 +4746,7 @@
         },
         {
             "category": "Sports",
-            "question": "This athlete transitioned from judo to mixed martial arts (MMA) after winning a bronze medal at the 2008 Beijing Olympics. In MMA, she became the first UFC Women's Bantamweight Champion, known for her signature armbar submission. She was also the first woman inducted into the UFC Hall of Fame. Who is this athlete, known for her trailblazing career in combat sports and outspoken personality?",
+            "question": "This athlete transitioned from judo to mixed martial arts (MMA) after winning a bronze medal at the 2008 Beijing Olympics. In MMA, she became the first UFC Women's Bantamweight Champion, known for her signature armbar submission. She was also the first woman inducted into the UFC Hall of Fame. Who is this athlete, who also acted in the film Furious 7?",
             "answers": ["Ronda Rousey", "Rowsy"],
             "used": "FALSE",
             "source": "Marty Heavey"
