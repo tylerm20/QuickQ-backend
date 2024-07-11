@@ -4812,7 +4812,7 @@
         {
             "category": "Current Events",
             "question": "This puzzle toy celebrated its 50th birthday in 2024. It was most popular in the 1980s, when it was estimated that one-fifth of the world's population had tried it. The was originally called the Magic Cube, but it now bears the name of its inventor, a Hungarian sculptor and architecture professor. Consisting of 26 smaller cubes, or \"cubies,\" each of the six faces is covered by nine stickers, each of one of six solid colors. Name this this puzzle which requires the solver to strategize to return it to a state where each face shows a single solid color.",
-            "answers": ["Rubik's cube (50th anniversary)"],
+            "answers": ["Rubik's cube", "Rubix Cube", "Rubiks"],
             "used": "FALSE",
             "source": "Marty Heavey"
         },
