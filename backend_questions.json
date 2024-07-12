@@ -4785,6 +4785,9 @@
             "category": "Science",
             "question": "This animal, whose scientific name is Equus caballus, has a single toe on each foot, protected by a hoof, and its teeth continually erupt throughout its lifetime. It is a herbivore with a digestive system adapted for grazing, and its eyes are positioned on the sides of its head, providing a wide field of vision. This animal has played a significant role in human history, used for transportation, agriculture, and warfare. What is the name of this majestic creature, known for its speed, strength, and intelligence?",
             "answers": ["Horse", "equine"],
+            "incorrect1": "Dog",
+            "incorrect2": "Ox",
+            "incorrect3": "Cow",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4792,6 +4795,9 @@
             "category": "Sports",
             "question": "This athlete made her professional tennis debut in 1995 at the Bell Challenge and won her first Grand Slam title at the US Open in 1999. She has won a record 13 Grand Slam doubles titles with her sister. She holds the Open Era record for most Grand Slam singles titles, with 23 wins. She also won four Olympic gold medals, one in singles and three in doubles. Who is this dominant American tennis player, considered one of the greatest athletes of all time?",
             "answers": ["Serena Williams"],
+            "incorrect1": "Venus Williams",
+            "incorrect2": "Maria Sharpova",
+            "incorrect3": "Steffi Graf",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4799,6 +4805,9 @@
             "category": "Geography",
             "question": "This country, known for its comic book tradition, has produced internationally acclaimed works like The Adventures of Tintin and The Smurfs. It is also home to the Atomium, a giant model of an iron crystal built for the 1958 Brussels World's Fair.  The country is divided into three distinct regions: Flanders, Wallonia, and Brussels, each with its own language and cultural identity. What is the name of this country, famous for its waffles, chocolate, and beer, located in Western Europe? ",
             "answers": ["Belgium"],
+            "incorrect1": "Netherlands",
+            "incorrect2": "Luxembourg",
+            "incorrect3": "Austria",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4806,6 +4815,9 @@
             "category": "Arts & Literature",
             "question": "This writer, while studying medicine at I.M. Sechenov First Moscow State Medical University, wrote short stories under the pseudonym Antosha Chekhonte. He wrote about the lives of ordinary people in late 19th-century Russia, often with a melancholic and humorous tone. Some of his most famous works include \"The Seagull,\" \"Uncle Vanya,\" and \"The Cherry Orchard.\" Who was this Russian playwright and short-story writer, considered a master of realism and a major influence on modern theater?",
             "answers": ["Anton Chekhov", "Chekov"],
+            "incorrect1": "Fyodor Dostoevsky",
+            "incorrect2": "Leo Tolstoy",
+            "incorrect3": "Pyotr Ilyich Tchaikovsky",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4813,6 +4825,9 @@
             "category": "Current Events",
             "question": "This puzzle toy celebrated its 50th birthday in 2024. It was most popular in the 1980s, when it was estimated that one-fifth of the world's population had tried it. The was originally called the Magic Cube, but it now bears the name of its inventor, a Hungarian sculptor and architecture professor. Consisting of 26 smaller cubes, or \"cubies,\" each of the six faces is covered by nine stickers, each of one of six solid colors. Name this this puzzle which requires the solver to strategize to return it to a state where each face shows a single solid color.",
             "answers": ["Rubik's cube", "Rubix Cube", "Rubiks"],
+            "incorrect1": "Mastermind",
+            "incorrect2": "Bop It",
+            "incorrect3": "Simon Says",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4820,6 +4835,9 @@
             "category": "US History",
             "question": "This famous civil rights leader was imprisoned for larceny and breaking and entering in 1946. While in prison, he joined the Nation of Islam and became a vocal advocate for Black nationalism. He later made a pilgrimage to Mecca, which led to a shift in his views towards racial reconciliation. Name this civil rights leader, assassinated in 1965, who changed his surname to a single letter to symbolize his rejection of his slave name.",
             "answers": ["Malcolm X", "Malcolm Little"],
+            "incorrect1": "Martin Luther King Jr.",
+            "incorrect2": "Muhammad Ali",
+            "incorrect3": "John Lewis",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4827,6 +4845,9 @@
             "category": "Entertainment",
             "question": "This British band, known for their elaborate stage shows and philosophical lyrics, rose to prominence during the psychedelic rock era of the 1960s. They are renowned for their use of experimental sounds, extended compositions, and concept albums. Their iconic albums, including \"The Dark Side of the Moon\" and \"The Wall,\" explored themes of alienation, madness, and social critique. Who is this influential band, whose members included Roger Waters, David Gilmour, Nick Mason, and Syd Barrett, considered pioneers of progressive rock?",
             "answers": ["Pink Floyd"],
+            "incorrect1": "Led Zeppelin",
+            "incorrect2": "Sex Pistols",
+            "incorrect3": "Rolling Stones",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4834,6 +4855,9 @@
             "category": "World History",
             "question": "Born on the island of Corsica in 1769, this military and political leader rose to power during the French Revolution. He crowned himself Emperor of the French in 1804. His military campaigns, including victories at Austerlitz and Jena-Auerstedt, led to the establishment of the French Empire across much of Europe. Who was this influential figure, ultimately defeated at the Battle of Waterloo in 1815, who left a lasting impact on European history?",
             "answers": ["Napoleon Bonaparte", "Napoleon"],
+            "incorrect1": "Henri Giraud",
+            "incorrect2": "Winston Churchill",
+            "incorrect3": "Arthur Wellesley",
             "used": "FALSE",
             "source": "Marty Heavey"
         }
