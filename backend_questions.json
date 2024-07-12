@@ -4841,7 +4841,7 @@
     [
         {
             "category": "Current Events",
-            "question": "Launched in 2017 as an extension of \"The Run-Up,\" this news podcast quickly garnered a massive following, reaching one million listeners a day within a year. Hosted by Michael Barbaro and Sabrina Tavernise, its weekday episodes typically feature interviews with New York Times journalists about a topical news story. What is the name of this popular podcast? ",
+            "question": "The opening theme for this podcast is composed by the musical duo Wonderly, which constists of Jim Brunberg and Ben Landsverk. Launched in 2017 as an extension of \"The Run-Up,\" this news podcast quickly garnered a massive following, reaching one million listeners a day within a year. Hosted by Michael Barbaro and Sabrina Tavernise, its weekday episodes typically feature interviews with New York Times journalists about a topical news story. What is the name of this popular podcast?",
             "answers": ["The Daily", "daily"],
             "used": "FALSE",
             "source": "Marty Heavey"
@@ -4855,8 +4855,8 @@
         },
         {
             "category": "Arts & Literature",
-            "question": "This epic poem, traditionally attributed to Homer, tells the story of the Trojan War, focusing on the wrath of Achilles and his conflict with Agamemnon. It features iconic characters like Hector, Paris, and Helen of Troy, and includes scenes such as the duel between Hector and Achilles and the Trojan Horse stratagem. What is the name of this ancient Greek epic poem, considered one of the foundational works of Western literature?",
-            "answers": ["The Iliad"],
+            "question": "This epic poem tells the story of the Trojan War, focusing on the wrath of Achilles and his conflict with Agamemnon. It features iconic characters like Hector, Paris, and Helen of Troy, and includes scenes such as the duel between Hector and Achilles and the Trojan Horse stratagem. What is the name of this ancient Greek epic poem, traditionally attributed to Homer, considered one of the foundational works of Western literature?",
+            "answers": ["The Iliad", "illiad"],
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4890,7 +4890,7 @@
         },
         {
             "category": "Sports",
-            "question": "This team, founded in 1901 as the Washington Senators, relocated to Minnesota in 1961 and adopted their current name. Their home stadium, Target Field, opened in 2010 and features a unique limestone fa\u00e7ade. They have won three World Series championships, in 1924, 1987, and 1991. They are known for their \"Bomba Squad\" nickname, referring to their powerful offense and home run hitting ability. What is the name of this Major League Baseball team, whose mascot are named T.C. and Minnie?",
+            "question": "This team, founded in 1901 as the Washington Senators, relocated in 1961 and adopted their current name. Their home stadium, Target Field, opened in 2010 and features a unique limestone fa\u00e7ade. They have won three World Series championships, in 1924, 1987, and 1991. They are known for their \"Bomba Squad\" nickname, referring to their powerful offense and home run hitting ability. What is the name of this Minnesota Major League Baseball team, whose mascot are named T.C. and Minnie?",
             "answers": ["Minnesota Twins", "Twins"],
             "used": "FALSE",
             "source": "Marty Heavey"
