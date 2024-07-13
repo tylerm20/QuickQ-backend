@@ -4867,6 +4867,9 @@
             "category": "Current Events",
             "question": "The opening theme for this podcast is composed by the musical duo Wonderly, which constists of Jim Brunberg and Ben Landsverk. Launched in 2017 as an extension of \"The Run-Up,\" this news podcast quickly garnered a massive following, reaching one million listeners a day within a year. Hosted by Michael Barbaro and Sabrina Tavernise, its weekday episodes typically feature interviews with New York Times journalists about a topical news story. What is the name of this popular podcast?",
             "answers": ["The Daily", "daily"],
+            "incorrect1": "Matter of Opinion",
+            "incorrect2": "Pod Save America",
+            "incorrect3": "The Headlines",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4874,6 +4877,9 @@
             "category": "US History",
             "question": "This state was the site a series of violent confrontations between pro-slavery and anti-slavery forces in the 1850s. It is also known for its significant role in the civil rights movement, as the location of the landmark Brown v. Board of Education Supreme Court case in 1954. Amelia Earhart was born in this state in 1897, and it is home to the Eisenhower Presidential Library and Museum.  Which state is this, nicknamed \"The Sunflower State\"?",
             "answers": ["Kansas"],
+            "incorrect1": "Missouri",
+            "incorrect2": "Texas",
+            "incorrect3": "South Carolina",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4881,6 +4887,9 @@
             "category": "Arts & Literature",
             "question": "This epic poem tells the story of the Trojan War, focusing on the wrath of Achilles and his conflict with Agamemnon. It features iconic characters like Hector, Paris, and Helen of Troy, and includes scenes such as the duel between Hector and Achilles and the Trojan Horse stratagem. What is the name of this ancient Greek epic poem, traditionally attributed to Homer, considered one of the foundational works of Western literature?",
             "answers": ["The Iliad", "illiad"],
+            "incorrect1": "The Odyssey",
+            "incorrect2": "Dionysiaca ",
+            "incorrect3": "Beowulf",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4888,6 +4897,9 @@
             "category": "World History",
             "question": "This Egyptian pharaoh, known as Ozymandias in Greek, had a reign that lasted for 66 years and is believed to have fathered over 100 children. He led his armies in the Battle of Kadesh against the Hittites, resulting in the earliest known peace treaty. He also ordered the construction of the Abu Simbel temples. Who was this pharaoh, often considered one of the greatest rulers of ancient Egypt? ",
             "answers": ["Rameses II", "Ramseys"],
+            "incorrect1": "Tutankhamun",
+            "incorrect2": "Cleopatra VII",
+            "incorrect3": "Akhenaten",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4895,6 +4907,9 @@
             "category": "Entertainment",
             "question": "This Martin Scorsese film, set in South Boston, follows an undercover cop infiltrating an Irish-American organized crime ring and a mole leaking information to the mob. It won four Academy Awards, including Best Picture and Best Director. The film's soundtrack features \"I'm Shipping Up to Boston\" by the Dropkick Murphys. Starring Leonardo DiCaprio, Matt Damon, and Jack Nicholson, it is known for its intense plot twists and gritty portrayal of Boston's criminal underworld. What is the name of this critically acclaimed crime thriller?",
             "answers": ["The Departed"],
+            "incorrect1": "The Town",
+            "incorrect2": "Goodfellas",
+            "incorrect3": "The Irishman",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4902,6 +4917,9 @@
             "category": "Science",
             "question": "This insect, which has existed for over 320 million years, can survive for up to a week without its head. It can hold its breath for 40 minutes and run up to three miles per hour. Its exoskeleton contains chitin, a tough, protective substance also found in the shells of crustaceans. There are over 4,000 species of this insect worldwide, but only about 30 are considered pests. What is the name of this resilient creature, often associated with unsanitary conditions?",
             "answers": ["Cockroach"],
+            "incorrect1": "Dung Beetle",
+            "incorrect2": "Grasshopper",
+            "incorrect3": "Praying Mantis",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4909,6 +4927,9 @@
             "category": "Geography",
             "question": "This mountain range is the source of the Garonne River, which flows through southwestern France. It is home to a special desman, a semi-aquatic mammal found nowhere else in the world. This range played a crucial role in the Reconquista, the centuries-long Christian effort to reclaim the Iberian Peninsula from Muslim rule. It also forms a natural border between Spain and France, and is home to Andorra, a small independent principality. What is the name of this mountain range?",
             "answers": ["Pyrenees"],
+            "incorrect1": "French Alps",
+            "incorrect2": "Dolomites",
+            "incorrect3": "Balkan Mountains",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4916,6 +4937,9 @@
             "category": "Sports",
             "question": "This team, founded in 1901 as the Washington Senators, relocated in 1961 and adopted their current name. Their home stadium, Target Field, opened in 2010 and features a unique limestone fa\u00e7ade. They have won three World Series championships, in 1924, 1987, and 1991. They are known for their \"Bomba Squad\" nickname, referring to their powerful offense and home run hitting ability. What is the name of this Minnesota Major League Baseball team, whose mascot are named T.C. and Minnie?",
             "answers": ["Minnesota Twins", "Twins"],
+            "incorrect1": "Washington Nationals",
+            "incorrect2": "Seattle Mariners",
+            "incorrect3": "Baltimore Orioles",
             "used": "FALSE",
             "source": "Marty Heavey"
         }
@@ -4925,6 +4949,9 @@
             "category": "Arts & Literature",
             "question": "This artist found his breakthrough with the painting \"House by the Railroad\" in 1925. His wife, Jo Nivison, was not only his life partner but also his muse and model for many of his paintings. He is best known for his depictions of solitary figures in urban settings, such as \"Nighthawks\" and \"Automat.\" Who is this American realist painter, considered a master of capturing the mood and atmosphere of modern life?",
             "answers": ["Edward Hopper"],
+            "incorrect1": "Norman Rockwell",
+            "incorrect2": "Winslow Homer",
+            "incorrect3": "Grant Wood",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4932,6 +4959,9 @@
             "category": "Sports",
             "question": "This athlete, born in Sherwood Content, Jamaica, briefly played professional soccer after retiring from track. He achieved a \"triple-triple,\" winning gold medals in the 100m, 200m, and 4x100m relay at three consecutive Olympic Games. He holds world records in both the 100m and 200m sprints, and his 100m record of 9.58 seconds has stood since 2009. Who is this athlete, considered the fastest person ever recorded?",
             "answers": ["Usain Bolt", "Bolt"],
+            "incorrect1": "Tyson Gay",
+            "incorrect2": "Carl Lewis",
+            "incorrect3": "Andre De Grasse",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4939,6 +4969,9 @@
             "category": "World History",
             "question": "This movement began in 1517 with the posting of the \"Ninety-Five Theses,\" criticizing the Catholic Church's sale of indulgences. It led to the establishment of new Christian denominations like Lutheranism and Calvinism, emphasizing salvation through faith alone. The printing press played a crucial role in spreading this movement's ideas, leading to widespread religious and political upheaval across Europe. What was this 16th-century movement that challenged the Catholic Church's authority?",
             "answers": ["Protestant Reformation", "The Reformation"],
+            "incorrect1": "Spanish Inquisition",
+            "incorrect2": "French Revolution",
+            "incorrect3": "Charismatic Movement",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4946,6 +4979,9 @@
             "category": "US History",
             "question": "This politician was a Democrat from Tennesse and a vocal opponent of the Fourteenth Amendment. He served as a tailor's apprentice before his political career. He often clashed with Radical Republicans over Reconstruction which led him to be the first president to be impeached by the House of Representatives. Name this 17th US President who ascended to the presidency upon Lincoln's assassination.",
             "answers": ["Andrew Johnson"],
+            "incorrect1": "Andrew Jackson",
+            "incorrect2": "James Garfield",
+            "incorrect3": "Ulysses S. Grant",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4953,6 +4989,9 @@
             "category": "Science",
             "question": "These bones come in five distinct types: cervical, thoracic, lumbar, sacral, and coccygeal. They are connected by facet joints and discs, allowing for flexibility and shock absorption, and they protect the spinal cord. While humans typically have 33 of these bones, the number can vary slightly from person to person. What are these individual bones that make up the backbone and support the body's structure?",
             "answers": ["Vertebrae"],
+            "incorrect1": "Carpals",
+            "incorrect2": "Metacarpals",
+            "incorrect3": "Coccyx",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4960,6 +4999,9 @@
             "category": "Geography",
             "question": "This Great Lake, the smallest by surface area, is the only one that does not border the state of Michigan. It holds four times the water volume of Lake Erie and has the lowest mean surface elevation of all the Great Lakes. Home to the Thousand Islands region, an archipelago of nearly 2,000 islands, this lake was formed by glacial activity during the last ice age. What is the name of this lake, the easternmost of the Great Lakes, that borders both Canada and the United States?",
             "answers": ["Lake Ontario"],
+            "incorrect1": "Lake Huron",
+            "incorrect2": "Lake Michigan",
+            "incorrect3": "Lake Erie",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4967,6 +5009,9 @@
             "category": "Current Events",
             "question": "This political commenator reported to prison on July 1, 2024 after being sentenced to four months in prison for contempt of Congress in 2022. This man was the acting director of the research project Biosphere 2 in 1993, and he served as an executive producer of 18 films from 1991 to 2016. He served as the White House's chief strategist for the first seven months of U.S. president Donald Trump's presidency. Name this man who helped found Breitbart news and served on the board of the Cambridge Analytica.",
             "answers": ["Steve Bannon"],
+            "incorrect1": "Roger Stone",
+            "incorrect2": "Michael Flynn",
+            "incorrect3": "Michael Cohen",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4974,6 +5019,9 @@
             "category": "Entertainment",
             "question": "The TV show's theme song, \"Frolic,\" was composed by Luciano Michelini, and its title is a satirical response to the excessive enthusiasm often seen in American society. The HBO comedy series, co-created by and starring Larry David, the co-creator of Seinfeld, is known for its semi-improvised dialogue and cringe humor. What is the name of this critically acclaimed show, which follows the misadventures of a semi-retired television writer and producer in Los Angeles?",
             "answers": ["Curb Your Enthusiasm"],
+            "incorrect1": "Seinfeld",
+            "incorrect2": "Friends",
+            "incorrect3": "The Office",
             "used": "FALSE",
             "source": "Marty Heavey"
         }
@@ -4983,6 +5031,9 @@
             "category": "Arts & Literature",
             "question": "This artist apprenticed under Filippo Lippi and was commissioned by the Medici family to paint several works, including portraits of family members. His most famous works, \"The Birth of Venus\" and \"Primavera,\" depict mythological scenes with graceful figures and intricate details. Who is this Italian Renaissance painter, known for his contributions to the Early Renaissance style in Florence?",
             "answers": ["Sandro Botticelli", "Botticelli"],
+            "incorrect1": "Raphael",
+            "incorrect2": "Michaelangelo",
+            "incorrect3": "Leanardo Da Vinci",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4990,6 +5041,9 @@
             "category": "World History",
             "question": "This man was born into a Muslim family in the Yunnan Province of China and was captured and castrated as a young boy, later becoming a trusted advisor to the Yongle Emperor. He commanded seven voyages across the Indian Ocean with a fleet of over 300 ships and 28,000 crew members. His expeditions were known for their massive treasure ships. Who is this Chinese explorer, diplomat, and fleet admiral, considered a key figure in China's maritime history during the Ming dynasty?",
             "answers": ["Zheng He", "Cheng Ho"],
+            "incorrect1": "Gaozu of Tang",
+            "incorrect2": "Wu of Han",
+            "incorrect3": "Qi Shi Huang",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -4997,6 +5051,9 @@
             "category": "Geography",
             "question": "This inland sea, named for its hydrogen sulfide layer, is connected to the Mediterranean Sea through the Bosporus Strait and the Sea of Marmara. It is bordered by six countries and is a vital waterway for trade and transportation. Ancient Greek colonists once called it the \"Inhospitable Sea.\" Which sea is this, known for its sturgeon population and its role in the geopolitical landscape of Eastern Europe and Western Asia?",
             "answers": ["Black Sea"],
+            "incorrect1": "Dead Sea",
+            "incorrect2": "Bay of Bengal",
+            "incorrect3": "Bering Sea",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5004,6 +5061,9 @@
             "category": "Current Events",
             "question": "This British politician was elected prime minister on July 4, 2024. He was born in London in 1962 and grew up in Surrey. In 2014, he was appointed Knight Commander of the Order of the Bath for his services to law and criminal justice. He has been Member of Parliament for Holborn and St Pancras since 2015. Name this man who has served as the leader of the Labour Party since 2020.",
             "answers": ["Keir Starmer", "Sir Keir Starmer"],
+            "incorrect1": "Rishi Sunak",
+            "incorrect2": "David Cameron",
+            "incorrect3": "Liz Truss",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5011,6 +5071,9 @@
             "category": "Entertainment",
             "question": "This Netflix political thriller, a remake of a 1990 British miniseries, was the first original series produced for the streaming platform. It follows Frank Underwood, a ruthless politician who manipulates his way to power, and his equally ambitious wife, Claire. Starring Kevin Spacey, Robin Wright, and Michael Kelly, it garnered critical acclaim and numerous award nominations. What is the name of this show, known for its dark and cynical portrayal of Washington, D.C. politics?",
             "answers": ["House of Cards"],
+            "incorrect1": "Anatomy of a Scandal",
+            "incorrect2": "Downton Abbey",
+            "incorrect3": "The Crown",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5018,6 +5081,9 @@
             "category": "US History",
             "question": "This state was home to the Coeur d'Alene people for thousands of years before European explorers arrived. It was admitted to the Union as the 43rd state in 1890 and is known for its vast wilderness areas, including the Frank Church\u2013River of No Return Wilderness, the largest contiguous wilderness area in the contiguous United States. This state's capital is Boise and it was the site of the controversial Ruby Ridge incident in 1992. Which state is this, nicknamed the \"Gem State?\"",
             "answers": ["Idaho"],
+            "incorrect1": "Montana",
+            "incorrect2": "Wyoming",
+            "incorrect3": "Nevada",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5025,6 +5091,9 @@
             "category": "Science",
             "question": "This Scottish-born inventor, inspired by his mother and wife's hearing impairments, initially focused on improving devices for the deaf. He founded the Volta Laboratory, where he collaborated with other scientists on various inventions. He experimented with aeronautics, developing early versions of hydrofoils and airplanes, but he is best known as the inventor of the telephone. Who was this prolific inventor, a founding member of the National Geographic Society? ",
             "answers": ["Alexander Graham Bell"],
+            "incorrect1": "Thomas Edison",
+            "incorrect2": "Benjamin Franklin",
+            "incorrect3": "Nikola Tesla",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5032,6 +5101,9 @@
             "category": "Sports",
             "question": "This team, founded in 1968, starting playing at the Fiserv Forum in 2018. Kareem Abdul-Jabbar, formerly known as Lew Alcindor, led this team to their first NBA championship in 1971. In 2021, Giannis Antetokounmpo, nicknamed the \"Greek Freak,\" led this team to their second NBA championship, earning the Finals MVP award. What is the name of this NBA team, known for their green and cream uniforms?",
             "answers": ["Milwaukee Bucks", "Bucks"],
+            "incorrect1": "Utah Jazz",
+            "incorrect2": "New Orleans Pelicans",
+            "incorrect3": "Miami Heat",
             "used": "FALSE",
             "source": "Marty Heavey"
         }
@@ -5041,6 +5113,9 @@
             "category": "Entertainment",
             "question": "This actor, known for his distinctive method acting style, received an Academy Award nomination for his breakthrough role as Michael Corleone. He is famous for his passionate delivery of lines like \"Say hello to my little friend!\" in \"Scarface.\" A recipient of the \"Triple Crown of Acting,\" he has won numerous awards, including an Oscar, two Tonys, and two Emmys. Who is this legendary actor, known for his roles in iconic films like \"Serpico\" and \"Dog Day Afternoon\"?",
             "answers": ["Al Pacino"],
+            "incorrect1": "Robert De Niro",
+            "incorrect2": "Jack Nicholson",
+            "incorrect3": "Joe Pesci",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5048,6 +5123,9 @@
             "category": "Geography",
             "question": "This body of water, containing over 250 small islands, islets, and reefs, is a crucial shipping route, with over $3 trillion in trade passing through it annually. Its Spratly Islands are claimed by six different countries, leading to ongoing territorial disputes. Historically, it was a major trade route for Chinese, Indian, and Arab merchants. What is the name of this marginal sea, a major source of geopolitical tension in Southeast Asia?",
             "answers": ["South China Sea"],
+            "incorrect1": "Bay of Bengal",
+            "incorrect2": "Bering Strait",
+            "incorrect3": "English Channel",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5055,6 +5133,9 @@
             "category": "Arts & Literature",
             "question": "This author's debut novel, \"Go Tell It on the Mountain,\" explored his religious upbringing in Harlem. His essay \"The Fire Next Time\" became a powerful meditation on race and religion in the United States. A close friend of Maya Angelou and Toni Morrison, he often explored themes of identity, sexuality, and social injustice. Who was this influential American writer?",
             "answers": ["James Baldwin"],
+            "incorrect1": "James Patterson",
+            "incorrect2": "Ta-Nehisi Coates",
+            "incorrect3": "Nikki Giovanni",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5062,6 +5143,9 @@
             "category": "Sports",
             "question": "This athlete wore the number 99, was nicknamed \"The Great One,\" and began his NHL career with the Edmonton Oilers. He holds the record for most goals and assists in NHL history, with a combined total of 2,857 points. He won four Stanley Cup championships with the Edmonton Oilers and was awarded the Conn Smythe Trophy twice. He was inducted into the Hockey Hall of Fame in 1999. Who is this legendary Canadian ice hockey player, widely regarded as the greatest of all time?",
             "answers": ["Wayne Gretzky", "Gretsky"],
+            "incorrect1": "Bobby Orr",
+            "incorrect2": "Mario Lemieux",
+            "incorrect3": "Guy Lafleur",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5069,6 +5153,9 @@
             "category": "Science",
             "question": "This Italian physicist invented the first electric battery in 1800, known as the voltaic pile, by stacking discs of copper and zinc. He engaged in a scientific rivalry with Luigi Galvani, whose experiments with frogs led to the discovery of animal electricity. The unit of electric potential is named after him. Who was this pioneer in the study of electrical phenomena? ",
             "answers": ["Alessandro Volta", "Volta"],
+            "incorrect1": "Heinrich Hertz",
+            "incorrect2": "André-Marie Ampère",
+            "incorrect3": "Nikola Tesla",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5076,6 +5163,9 @@
             "category": "Current Events",
             "question": "This pop star has a claim to the song of the summer with her hit, \"Espresso\". The former child actress, who started her musical journey posting covers on YouTube, gained initial recognition for her role in the Disney Channel series \"Girl Meets World.\"  With hits like \"Nonsense\" and \"Skin,\" which became her first entry on the US Billboard Hot 100 chart, this singer-songwriter has cemented her status as a rising star. Who is this pop star?",
             "answers": ["Sabrina Carpenter"],
+            "incorrect1": "Sabrina Gomez",
+            "incorrect2": "Dua Lipa",
+            "incorrect3": "Vanessa Hudgens",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5083,6 +5173,9 @@
             "category": "World History",
             "question": "This battle, one of the final major offensives of World War II in Europe, began on April 16, 1945. It involved over 2.5 million Soviet soldiers and 6,250 tanks, making it one of the largest battles in history. During this battle, Adolf Hitler committed suicide in his F\u00fchrerbunker. The city's defenders surrendered on May 2, 1945, marking the end of the battle and a significant turning point in the war. What was the name of this battle, which ultimately led to the collapse of Nazi Germany?",
             "answers": ["Battle of Berlin", "Fall of Berlin"],
+            "incorrect1": "Battle of the Somme",
+            "incorrect2": "Battle of Flanders",
+            "incorrect3": "Hamburger Hill",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5090,6 +5183,9 @@
             "category": "US History",
             "question": "This US state was the first home to the\u00a0Ringling Brothers circus in 1884. Joseph McCarthy began his political career as a circuit judge in 1939 in this state, and the Republican Party was founded here in 1854. This state was historically home to the Menominee and Ho-Chunk tribes and has a capital of Madison. Name this state which is led by Governor Tony Evers.",
             "answers": ["Wisconsin"],
+            "incorrect1": "Minnesota",
+            "incorrect2": "Kentucky",
+            "incorrect3": "Tennessee",
             "used": "FALSE",
             "source": "Marty Heavey"
         }
