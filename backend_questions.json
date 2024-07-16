@@ -5189,5 +5189,337 @@
             "used": "FALSE",
             "source": "Marty Heavey"
         }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "This Southwestern city broke multiple heat records in July 2024, including reaching its highest temperature of 120 degrees Fahrenheit and having at least 7 days in a row above 115 degrees. The desert city, founded in 1905, is home to the iconic Fremont Street Experience, a pedestrian mall with a 1,500-foot-long LED canopy displaying light shows. Name this city that experiences over 300 days of sunshine annually and is located in Clark County. It is known for iconic gambling and nightlife experiences.",
+            "answers": ["Las Vegas", "Vegas"],
+            "incorrect1": "Phoenix",
+            "incorrect2": "Atlanta",
+            "incorrect3": "Los Angeles",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "This bustling Southeast Asian city is situated on the Chao Phraya River delta, and is often referred to as the \"Venice of the East\" due to its network of canals. It is home to the Grand Palace, the official residence of the Thai monarch, as well as Wat Arun, a temple famous for its towering spires. Name this city that is about 25 miles from the Gulf of Thailand, that is also known for signature dishes like Pad Thai and Tom Yum Goong.",
+            "answers": ["Bangkok"],
+            "incorrect1": "Kuala Lumpur",
+            "incorrect2": "Phuket",
+            "incorrect3": "Taipei",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This Oxford professor, known for his high fantasy works, created the intricate world of Middle-earth, complete with detailed languages and histories. His most famous novels, \"The Hobbit\" and \"The Lord of the Rings\" trilogy, explore themes of good versus evil, the power of language, and the importance of nature. His experiences in World War I had a profound impact on his writing, often drawing parallels between the horrors of war and his characters' struggles. Who is this beloved author?",
+            "answers": [
+                "J.R.R. Tolkien",
+                "Tolkein",
+                "John Ronald Reuel Tolkien"
+            ],
+            "incorrect1": "C.S. Lewis",
+            "incorrect2": "Peter Jackson",
+            "incorrect3": "H.P. Lovecraft",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This Italian poet's love for Beatrice Portinari, whom he met as a child, is a recurring theme in his poetry. He was born in Florence in 1265 and was deeply involved in the city's political struggles, which led to his exile in 1302. He is best known for his epic poem which describes a journey through Hell, Purgatory, and Paradise. Who is this influential figure in Italian literature and Renaissance thought, the author of the Divine Comedy?",
+            "answers": ["Dante", "Dante Alighieri"],
+            "incorrect1": "Homer",
+            "incorrect2": "Ovid",
+            "incorrect3": "Socrates",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This American heavy metal band, formed in Los Angeles in 1981, is considered one of the pioneers of thrash metal. Their early albums, including \"Kill 'Em All\" and \"Ride the Lightning,\" showcased a raw and aggressive sound that helped to define the genre. They achieved mainstream success with their self-titled 1991 album, also known as \"The Black Album,\" which featured the hit singles \"Enter Sandman\" and \"Nothing Else Matters.\" Their music often deals with themes of social injustice, personal struggles, and addiction. Who is this iconic band that has sold over 125 million albums worldwide?",
+            "answers": ["Metallica"],
+            "incorrect1": "AC/DC",
+            "incorrect2": "Iron Maiden",
+            "incorrect3": "Van Halen",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA team reached the NBA Finals in 1995 led by Shaquille O'Neal and Penny Hardaway, but were swept by the Houston Rockets. In 2009, they made it back to the finals with Dwight Howard as their star player, but ultimately lost to the Los Angeles Lakers. The team's colors are blue, black, and silver, and their logo features a stylized basketball with a star. Which team was founded in 1989 and the first major professional sports franchise in Central Florida.",
+            "answers": ["Orlando Magic", "Magic"],
+            "incorrect1": "Miami Heat",
+            "incorrect2": "Tampa Bay Rays",
+            "incorrect3": "Memphis Grizzlies",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "Fluent in French and skilled in violin playing, this historical figure designed his own unique plow based on European models. He was a passionate advocate for religious freedom, leading to the passage of the Virginia Statute for Religious Freedom. During his presidency, the Louisiana Purchase doubled the size of the United States, dramatically expanding its territory. Who is this Founding Father, best known for drafting the Declaration of Independence? ",
+            "answers": ["Thomas Jefferson"],
+            "incorrect1": "Benjamin Franklin",
+            "incorrect2": "George Washington",
+            "incorrect3": "John Adams",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "This mathematician collaborated with Charles Babbage on his Analytical Engine, a mechanical general-purpose computer. Her notes on the engine include what is now recognized as the first algorithm intended to be carried out by a machine. She, the daughter of the poet Lord Byron, is often credited as the world's first computer programmer. She recognized the potential of computers to go beyond mere calculation and envisioned their use for broader applications. Who is this pioneering figure in computer science?",
+            "answers": ["Ada Lovelace"],
+            "incorrect1": "Alan Turing",
+            "incorrect2": "Allegra Byron",
+            "incorrect3": "Grace Hopper",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "question": "This bone, the second longest in the human body, forms the medial part of the ankle joint and articulates with the femur at the knee joint. Its shaft is triangular in cross section and features several important landmarks, including a namesake tuberosity, which serves as the attachment point for the patellar ligament. Fractures of this bone are common, especially in athletes and individuals with osteoporosis. What is this weight-bearing bone that connects the knee to the ankle?",
+            "answers": ["Tibia", "shinbone"],
+            "incorrect1": "Fibula",
+            "incorrect2": "Ulna",
+            "incorrect3": "Femur",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This religious figure is believed to have lived in ancient Persia, sometime between 1700 and 600 BCE, and his teachings are considered the foundation of one of the world's oldest religions. He is said to have received divine revelations from Ahura Mazda, the supreme god of his religion. His name is often associated with the concept of dualism, the eternal struggle between good and evil, which is a central theme in his religion, Zoroastrianism. Who is this prophet and founder of one of the world's oldest religions? ",
+            "answers": ["Zoroaster"],
+            "incorrect1": "Confucius",
+            "incorrect2": "Siddhartha Gautama",
+            "incorrect3": "Jesus Christ",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "This city is nicknamed \"Egoli,\" meaning \"City of Gold,\" and was founded in 1886 following the discovery of gold on the Witwatersrand ridge. It is the largest city in South Africa by population and houses the Apartheid Museum and Constitution Hill, a former prison and military fort that now houses the Constitutional Court. Despite not being one of the three capitals of the country, it serves as the seat of the Constitutional Court. What is this economic and cultural hub of South Africa?",
+            "answers": ["Johannesburg"],
+            "incorrect1": "Cape Town",
+            "incorrect2": "Lagos",
+            "incorrect3": "Kinshasa",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This politician graduated from Harvard Business School, worked in the oil industry, and owned the Texas Rangers before he served as the governor of Texas from 1995-2000. He was later elected president in an election which was contested in the Supreme Court and signed major tax cuts and No Child Left Behind Act. Name this 43rd president of the United States who served from 2001-2009.",
+            "answers": ["George W. Bush"],
+            "incorrect1": "Ronald Reagan",
+            "incorrect2": "Bill Clinton",
+            "incorrect3": "Jimmy Carter",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA team, originally founded in Vancouver in 1995. They have a dedicated fan base known for their \"Grit and Grind\" mantra, reflecting the team's tough and tenacious playing style. They now have exciting young stars like Desmond Bane, Jaren Jackson Jr., and Ja Morant. What is this NBA team that plays their home games at the FedExForum in Memphis?",
+            "answers": ["Memphis Grizzlies", "Grizzlies"],
+            "incorrect1": "Miami Heat",
+            "incorrect2": "Toronto Raptors",
+            "incorrect3": "Oklahoma City Thunder",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This Atlantic hurricane, the second of the 2024 season, rapidly intensified into a Category 5 storm, making it the earliest-forming Category 5 hurricane on record. It caused significant damage in the Caribbean, particularly in the Cayman Islands and Grenada, before making landfall as a Category 1 hurricane in Texas. It caused widespread power outages and flooding in Texas, and was responsible for multiple deaths. What was the name of this atypical hurricane, known for its rapid intensification and early formation in the season?",
+            "answers": ["Hurricane Beryl", "Beryl"],
+            "incorrect1": "Hurricane Alice",
+            "incorrect2": "Hurricane James",
+            "incorrect3": "Hurricane Bonnie",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This American sitcom, which ran for nine seasons from 1989 to 1998, known for its observational humor, quirky characters, and catchphrases like \"yada yada yada\" and \"master of my domain.\". It is often described as \"a show about nothing.\" It follows the daily lives of four friends living in New York City: Jerry, a stand-up comedian; George, his neurotic best friend; Elaine, his on-again, off-again girlfriend; and Cosmo, his eccentric neighbor. What is the name of this iconic sitcom that has left a lasting impact on American pop culture?",
+            "answers": ["Seinfeld"],
+            "incorrect1": "Friends",
+            "incorrect2": "The Office",
+            "incorrect3": "Cheers",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This French artist, known for his vibrant use of color and light, was a leading figure in the Impressionist movement. His paintings often depicted scenes of everyday life, such as dance halls, cafes, female figures, and portraits. His most famous works include \"Bal du moulin de la Galette,\" \"Luncheon of the Boating Party,\" and \"The Bathers.\" Despite suffering from rheumatoid arthritis in his later years, he continued to paint prolifically. Who is this celebrated painter?",
+            "answers": ["Pierre-Auguste Renoir", "Pierre Renoir", "Renoir"],
+            "incorrect1": "Claude Monet",
+            "incorrect2": "Edgar Degas",
+            "incorrect3": "Paul Cezanne",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "question": "During this period of English history, the Domesday Book, a manuscript record of the \"Great Survey\" of much of England and parts of Wales, was completed. This historical event began in 1066 with the Battle of Hastings, where William the Conqueror defeated the Anglo-Saxon King Harold Godwinson. It led to profound changes in England's language, culture, and legal system, as Norman French became the language of the ruling class.",
+            "answers": ["Norman Conquest", "Norman Rule"],
+            "incorrect1": "Spanish Inquisition",
+            "incorrect2": "Ottoman Empire",
+            "incorrect3": "Viking Conquest",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This famous Renaissance fresco, painted by Raphael between 1509 and 1511, is located in the Apostolic Palace in Vatican City. It depicts a gathering of ancient philosophers, mathematicians, and scientists engaged in lively discussion and debate. The central figures are Plato and Aristotle, representing the two main schools of ancient Greek philosophy. It is one of four frescoes in the Stanza della Segnatura, each representing a different branch of knowledge. What is the name of this iconic artwork, often considered a masterpiece of Renaissance art?",
+            "answers": ["The School of Athens", "school of athens"],
+            "incorrect1": "Creation of Adam",
+            "incorrect2": "The Sistine Madonna",
+            "incorrect3": "Disputation of the Holy Sacrament",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "This Swiss city is situated at the northwestern tip of a lake bearing the same name. The Limmat River runs through it, offering picturesque views and recreational opportunities. Its well-preserved historic center features landmarks like the Grossm\u00fcnster cathedral and the Fraum\u00fcnster church. It is the largest city in the country by population and a major financial center, often considered one of the most livable cities in the world. Which city is this?",
+            "answers": ["Zurich"],
+            "incorrect1": "Geneva",
+            "incorrect2": "Vienna",
+            "incorrect3": "Budapest",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This US state, not Georgia, is the leading peach producer east of the Mississippi River and is home to the only tea plantation in the contiguous United States. This state also boasts the oldest landscaped gardens in America, Middleton Place, which dates back to 1741. The first state to secede from the Union, this state's flag features a palmetto tree and crescent moon, symbols stemming from the Revolutionary War defense of Fort Moultrie. What is this state?",
+            "answers": ["South Carolina"],
+            "incorrect1": "Louisiana",
+            "incorrect2": "North Carolina",
+            "incorrect3": "Maryland",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This American rock band's self-titled debut album, released in 1967, reached number two on the Billboard 200 chart. Their music often explored themes of rebellion, freedom, and the dark side of the American dream. Their hit songs, including \"Light My Fire,\" \"Break on Through (To the Other Side),\" and \"Riders on the Storm,\" are considered classics of rock music. They are known for their psychedelic sound, poetic lyrics, and charismatic frontman, Jim Morrison. Who are they?",
+            "answers": ["The Doors"],
+            "incorrect1": "The Ramones",
+            "incorrect2": "Led Zeppelin",
+            "incorrect3": "Pink Floyd",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "These invertebrates belong to several different phyla, including Annelida, Nematoda, and Platyhelminthes, and their body shape and size vary greatly depending on the species. Some are segmented and have a distinct head and tail, while others are ribbon-shaped and lack distinct body segments. While many are beneficial, some species can be parasitic and cause harm to plants and animals. Name these animals found in nearly all environments on Earth, that play a crucial role in maintaining soil health by aerating and enriching it.",
+            "answers": ["Worm", "earthworms", "worms"],
+            "incorrect1": "Beetle",
+            "incorrect2": "Termite",
+            "incorrect3": "Ant",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This European prime minister met with former president Donald Trump after the July 2024 NATO Summit. This man leads the Fidesz political party and served as prime minister from 1998-2002. He was then re-elected to the office in 2010 and has held it since. In the wake of the Revolutions of 1989, this man entered politics after studying law at E\u00f6tv\u00f6s Lor\u00e1nd University. Name this nationalistic prime minister of Hungary.",
+            "answers": ["Viktor Orban", "Orban"],
+            "incorrect1": "Robert Fico",
+            "incorrect2": "Anik\u00f3 L\u00e9vai",
+            "incorrect3": "P\u00e9ter Magyar",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL team, established in 1960, has won five Super Bowl championships and is known for its iconic star logo and enthusiastic fan base. They hold the NFL record for most consecutive winning seasons with 20. They play their home games at a state-of-the-art stadium in Arlington, Texas, and are one of the most valuable sports franchises in the world. Their rich history includes legendary players like Roger Staubach, Emmitt Smith, and Troy Aikman. What is this iconic American football team?",
+            "answers": ["Dallas Cowboys", "Cowboys"],
+            "incorrect1": "Houston Texans",
+            "incorrect2": "Atlanta Falcons",
+            "incorrect3": "Pittsburgh Steelers",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "question": "This Pulitzer Prize-winning novel, published in 1960, is set in a fictional Alabama town during the Great Depression. It is narrated from the perspective of a young girl named Scout Finch, who learns valuable lessons about racial injustice and prejudice through the experiences of her father, Atticus Finch, a lawyer defending a black man wrongly accused of rape. The novel deals with themes of morality, compassion, and the importance of standing up for what is right. What is the title of this classic American novel by Harper Lee?",
+            "answers": ["To Kill a Mockingbird"],
+            "incorrect1": "Catcher in the Rye",
+            "incorrect2": "Lord of the Flies",
+            "incorrect3": "Fahrenheit 451",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL team, established in 1999, replaced a previous franchise that had relocated to Tennessee. They began play as an expansion team in 2002, making them the youngest franchise currently competing in the NFL. The team's colors are Deep Steel Blue, Battle Red, and Liberty White, and their logo features a bull head with a star. They play their home games at NRG Stadium and are the only NFL team to have never appeared in a conference championship game. Which team is this, representing the fourth-largest city in the United States?",
+            "answers": ["Houston Texans", "Texans"],
+            "incorrect1": "Dallas Cowboys",
+            "incorrect2": "Arizona Cardinals",
+            "incorrect3": "Jacksonville Jaguars",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This 1777 battle, fought in upstate New York, was a major turning point in the American Revolutionary War. British General John Burgoyne's invasion from Canada was thwarted, leading to his surrender. The American victory boosted morale and convinced France to ally with the colonists. The battle consisted of two separate engagements, Freeman's Farm and Bemis Heights, fought eighteen days apart. What is the name of this significant Revolutionary War battle?",
+            "answers": ["Battle of Saratoga", "Saratoga", "Saratoga Campaign"],
+            "incorrect1": "Battle of Delaware",
+            "incorrect2": "Battle of Gettysburg",
+            "incorrect3": "Battle of Yorktown",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This drug manufactured by Novo Nordisk, was originally developed to treat type 2 diabetes. It mimics a naturally occurring hormone that regulates appetite and metabolism, leading to decreased food intake and increased calorie burning. While lauded for its effectiveness in managing obesity, this injectable drug has also faced scrutiny for potential side effects like nausea and pancreatitis. Name this that medication gained notoriety in 2023 due to its off-label use for weight loss.",
+            "answers": ["Ozempic", "Wegovy"],
+            "incorrect1": "Insulin",
+            "incorrect2": "Adderall",
+            "incorrect3": "Lipitor",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "These small canids, found on every continent except Antarctica, are known for their intelligence and distinctive bushy tails. They are opportunistic omnivores, with a diet that includes rodents, rabbits, fruits, and insects. Many species exhibit seasonal changes in coat color, and some, like the fennec variety, have adaptations for surviving in extreme desert environments. What are these resourceful and versatile mammals, often featured in folklore and mythology?",
+            "answers": ["Fox"],
+            "incorrect1": "Squirrel",
+            "incorrect2": "Dog",
+            "incorrect3": "Wolf",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This US state played a crucial role in the development of the American ski industry, with the first ski lift being installed in Gunstock Mountain Resort in 1937. The first colony to declare its independence from British rule, this state's motto, \"Live Free or Die,\" is prominently displayed on its license plates. Home to the tallest peak in the northeastern United States, Mount Washington, what is this state with a capital of Concord?",
+            "answers": ["New Hampshire"],
+            "incorrect1": "Vermont",
+            "incorrect2": "Massachusetts",
+            "incorrect3": "New York",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "This major African river has a unique \"boomerang\" shape, flowing in a wide arc through several West African countries. Its source is in the Guinea Highlands, and it travels northeast into the Sahara Desert before turning southeast and eventually emptying into the Gulf of Guinea. Its fertile basin supports a wide variety of plant and animal life, and its annual floods play a crucial role in agriculture. Which river, the third longest in Africa, is a vital lifeline of West Africa?",
+            "answers": ["Niger River"],
+            "incorrect1": "Nile River",
+            "incorrect2": "Amazon River",
+            "incorrect3": "Brahmaputra River",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This Italian film, set during the Holocaust, combines comedy and drama to tell the story of a Jewish man who uses his imagination and humor to shield his son from the horrors of a concentration camp. The film is partly inspired by Rubino Romeo Salmoni's book, \"In the End, I Beat Hitler\". The film won three Academy Awards, including Best Foreign Language Film and Best Actor for Roberto Benigni, who also directed and co-wrote the screenplay. Which film is this, with the italian title La vita \u00e8 bella, praised for its heartwarming message and unique approach to a difficult subject matter?",
+            "answers": ["Life Is Beautiful", "La vita \u00e8 bella"],
+            "incorrect1": "The Sound of Music",
+            "incorrect2": "The Pianist",
+            "incorrect3": "Casablanca",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
     ]
 ]
