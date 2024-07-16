@@ -5203,7 +5203,7 @@
         },
         {
             "category": "Geography",
-            "question": "This bustling Southeast Asian city is situated on the Chao Phraya River delta, and is often referred to as the \"Venice of the East\" due to its network of canals. It is home to the Grand Palace, the official residence of the Thai monarch, as well as Wat Arun, a temple famous for its towering spires. Name this city that is about 25 miles from the Gulf of Thailand, that is also known for signature dishes like Pad Thai and Tom Yum Goong.",
+            "question": "This bustling Southeast Asian city is situated on the Chao Phraya River delta and is often referred to as the \"Venice of the East\" due to its network of canals. It is home to the Grand Palace, the official residence of the Thai monarch, as well as Wat Arun, a temple famous for its towering spires. Name this city that is about 25 miles from the Gulf of Thailand, that is also known for signature dishes like Pad Thai and Tom Yum Goong.",
             "answers": ["Bangkok"],
             "incorrect1": "Kuala Lumpur",
             "incorrect2": "Phuket",
@@ -5213,7 +5213,7 @@
         },
         {
             "category": "Arts & Literature",
-            "question": "This Oxford professor, known for his high fantasy works, created the intricate world of Middle-earth, complete with detailed languages and histories. His most famous novels, \"The Hobbit\" and \"The Lord of the Rings\" trilogy, explore themes of good versus evil, the power of language, and the importance of nature. His experiences in World War I had a profound impact on his writing, often drawing parallels between the horrors of war and his characters' struggles. Who is this beloved author?",
+            "question": "This Oxford professor, known for his high fantasy works, created the intricate world of Middle-earth, complete with detailed languages and histories. His experiences in World War I had a profound impact on his writing, often drawing parallels between the horrors of war and his characters', such as Frodo Baggins, struggles. His most famous novels, \"The Hobbit\" and \"The Lord of the Rings\" trilogy, explore themes of good versus evil, the power of language, and the importance of nature. Who is this beloved author?",
             "answers": [
                 "J.R.R. Tolkien",
                 "Tolkein",
@@ -5247,7 +5247,7 @@
         },
         {
             "category": "Sports",
-            "question": "This NBA team reached the NBA Finals in 1995 led by Shaquille O'Neal and Penny Hardaway, but were swept by the Houston Rockets. In 2009, they made it back to the finals with Dwight Howard as their star player, but ultimately lost to the Los Angeles Lakers. The team's colors are blue, black, and silver, and their logo features a stylized basketball with a star. Which team was founded in 1989 and the first major professional sports franchise in Central Florida.",
+            "question": "This NBA team reached the NBA Finals in 1995 led by Shaquille O'Neal and Penny Hardaway, but were swept by the Houston Rockets. In 2009, they made it back to the finals with Dwight Howard as their star player, but ultimately lost to the Los Angeles Lakers. The team's colors are blue, black, and silver, and their logo features a stylized basketball with a star. Which team was founded in 1989 and became the first major professional sports franchise in Central Florida?",
             "answers": ["Orlando Magic", "Magic"],
             "incorrect1": "Miami Heat",
             "incorrect2": "Tampa Bay Rays",
