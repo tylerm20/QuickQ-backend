@@ -5163,7 +5163,7 @@
             "category": "Current Events",
             "question": "This pop star has a claim to the song of the summer with her hit, \"Espresso\". The former child actress, who started her musical journey posting covers on YouTube, gained initial recognition for her role in the Disney Channel series \"Girl Meets World.\"  With hits like \"Nonsense\" and \"Skin,\" which became her first entry on the US Billboard Hot 100 chart, this singer-songwriter has cemented her status as a rising star. Who is this pop star?",
             "answers": ["Sabrina Carpenter"],
-            "incorrect1": "Sabrina Gomez",
+            "incorrect1": "Selena Gomez",
             "incorrect2": "Dua Lipa",
             "incorrect3": "Vanessa Hudgens",
             "used": "FALSE",
@@ -5309,7 +5309,7 @@
         },
         {
             "category": "US History",
-            "question": "This politician graduated from Harvard Business School, worked in the oil industry, and owned the Texas Rangers before he served as the governor of Texas from 1995-2000. He was later elected president in an election which was contested in the Supreme Court and signed major tax cuts and No Child Left Behind Act. Name this 43rd president of the United States who served from 2001-2009.",
+            "question": "This politician graduated from Harvard Business School, worked in the oil industry, and owned the Texas Rangers before he served as the governor of Texas from 1995-2000. He was later elected president in an election which was contested in the Supreme Court and signed major tax cuts and the No Child Left Behind Act. Name this 43rd president of the United States who served from 2001-2009.",
             "answers": ["George W. Bush"],
             "incorrect1": "Ronald Reagan",
             "incorrect2": "Bill Clinton",
@@ -5319,7 +5319,7 @@
         },
         {
             "category": "Sports",
-            "question": "This NBA team, originally founded in Vancouver in 1995. They have a dedicated fan base known for their \"Grit and Grind\" mantra, reflecting the team's tough and tenacious playing style. They now have exciting young stars like Desmond Bane, Jaren Jackson Jr., and Ja Morant. What is this NBA team that plays their home games at the FedExForum in Memphis?",
+            "question": "This NBA team was originally founded in Vancouver in 1995. They have a dedicated fan base known for their \"Grit and Grind\" mantra, reflecting the team's tough and tenacious playing style. They now have exciting young stars like Desmond Bane, Jaren Jackson Jr., and Ja Morant. What is this NBA team that plays their home games at the FedExForum in Memphis?",
             "answers": ["Memphis Grizzlies", "Grizzlies"],
             "incorrect1": "Miami Heat",
             "incorrect2": "Toronto Raptors",
