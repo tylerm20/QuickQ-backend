@@ -5362,7 +5362,12 @@
         {
             "category": "World History",
             "question": "During this period of English history, the Domesday Book, a manuscript record of the \"Great Survey\" of much of England and parts of Wales, was completed. This historical event began in 1066 with the Battle of Hastings, where William the Conqueror defeated the Anglo-Saxon King Harold Godwinson. It led to profound changes in England's language, culture, and legal system, as Norman French became the language of the ruling class.",
-            "answers": ["Norman Conquest", "Norman Rule"],
+            "answers": [
+                "Norman Conquest",
+                "Norman Rule",
+                "Norman",
+                "Norman Reign"
+            ],
             "incorrect1": "Spanish Inquisition",
             "incorrect2": "Ottoman Empire",
             "incorrect3": "Viking Conquest",
@@ -5518,6 +5523,339 @@
             "incorrect1": "The Sound of Music",
             "incorrect2": "The Pianist",
             "incorrect3": "Casablanca",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "question": "This monarch's desire for a male heir led to the establishment of the Church of England, after his request for an annulment from his first wife was denied by the Pope. Known for his athleticism in his youth, he later became corpulent and suffered from a leg ulcer. He was a patron of the arts and an accomplished musician, even composing a few pieces himself. During his reign, he had six wives, two of whom were executed. Who is this infamous king?",
+            "answers": ["Henry VIII", "Henry the eight", "Henry"],
+            "incorrect1": "Queen Victoria",
+            "incorrect2": "Elizabeth I",
+            "incorrect3": "Henry V",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "This inventor's Wardenclyffe Tower project, aimed at wireless power transmission, was never completed due to funding issues. He developed the AC induction motor, which is widely used today, and held over 300 patents for various inventions. He engaged in a rivalry with Thomas Edison over the best type of electrical current for widespread use. Born in what is now Croatia, he immigrated to the United States in 1884 and became a naturalized citizen. Who is this pioneering figure in electrical engineering?",
+            "answers": ["Nikola Tesla", "Tesla"],
+            "incorrect1": "Alessandro Volta",
+            "incorrect2": "Heinrich Hertz",
+            "incorrect3": "Andr\u00e9-Marie Amp\u00e8re",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This naval base was bombed by Japanese forces on December 7, 1941, resulting in the deaths of an estimated 2,403 Americans and over 3,800 civilians. The attack on this base sank or heavily damaged twelve U.S. Navy ships, including eight battleships, and destroyed 188 U.S. aircraft. The attack on this base ultimately led to the United States' entry into World War II. Name this base which was the subject of the \"Day of Infany Speech.\"",
+            "answers": ["Pearl Harbor", "Pearl Harbor Hawaii"],
+            "incorrect1": "Fort Campbell",
+            "incorrect2": "Fort Hood",
+            "incorrect3": "Guantanamo Bay",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "This city, situated on the Yamuna River, is home to the Red Fort, a UNESCO World Heritage Site that served as the residence of Mughal emperors. It is also home to the Jama Masjid, one of the largest mosques in India, and the Lotus Temple, a Bah\u00e1\u02bc\u00ed House of Worship known for its distinctive lotus-shaped structure. This city has served as the capital of several empires and kingdoms throughout history, including the Delhi Sultanate and the Mughal Empire. What is the name of this bustling metropolis that is the capital of India?",
+            "answers": ["Delhi", "New Delhi"],
+            "incorrect1": "Mumbai",
+            "incorrect2": "Lahore",
+            "incorrect3": "Kathmandu",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This Major League Baseball team, originally established in 1961, briefly went by the name \"California\" before reverting to its original city in its official title in 2005. Their home stadium, in Anaheim, is one of the oldest active ballparks in the MLB. The team's sole World Series victory came in 2002, with a roster featuring players like Troy Glaus and Garret Anderson. What is this team, previos home to two-way sensation Shohei Ohtani, and currently rostering Mike Trout?",
+            "answers": ["Los Angeles Angels", "Angels"],
+            "incorrect1": "Los Angeles Dodgers",
+            "incorrect2": "New York Yankees",
+            "incorrect3": "San Francisco Giants",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film's iconic shower scene, featuring Bernard Herrmann's screeching violin score, is considered one of the most terrifying moments in cinematic history. Shot in black and white to avoid excessive gore, it took seven days to film. The film's protagonist, Marion Crane, is killed off surprisingly early, defying traditional storytelling conventions. The film's antagonist, Norman Bates, is a motel owner with a deeply disturbed psyche and an unhealthy obsession with his mother. What is the title of this 1960 Alfred Hitchcock thriller that redefined the horror genre?",
+            "answers": ["Psycho"],
+            "incorrect1": "Vertigo",
+            "incorrect2": "Carrie",
+            "incorrect3": "The Shining",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "In this state, a gunman shot at former president Donald Trump while he was holding a campaign rally. The rally was being held near the town of Butler in this state. Prior to becoming a state, the southeast portion of the state was a Swedish Empire colony known as New Sweden between 1638 and 1655. The state is home to cities like Allentown and Reading. Name this state, the first largest by population which is nicknamed the Keystone State.",
+            "answers": ["Pennsylvania"],
+            "incorrect1": "Michigan",
+            "incorrect2": "Nevada",
+            "incorrect3": "Wisconsin",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This play, set in late 1940s Brooklyn, follows the final days of Willy Loman, an aging salesman struggling with disillusionment and despair. The play delves into Willy's fractured relationships with his sons, Biff and Happy, and his wife, Linda, as he grapples with his failures and regrets. It critiques the American Dream and its emphasis on material success and popularity. What is the title of this Pulitzer Prize-winning play by Arthur Miller?",
+            "answers": ["Death of a Salesman"],
+            "incorrect1": "Our Town",
+            "incorrect2": "The Glass Menagerie",
+            "incorrect3": "A Raisin in the Sun",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "question": "Premiering in 1938, this play, set in the fictional town of Grover's Corners, New Hampshire, explores the universal themes of life, love, and death through the everyday lives of its inhabitants. It features a Stage Manager who narrates the action and interacts with the audience, breaking the fourth wall. This play won the Pulitzer Prize for Drama in 1938 and has become a classic of American theater. What is the title of this three-act play?",
+            "answers": ["Our Town"],
+            "incorrect1": "A Raisin in the Sun",
+            "incorrect2": "A Streetcar Named Desire",
+            "incorrect3": "Fences",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This lawyer from Illinois engaged in a series of debates with Stephen Douglas in 1858, focusing on the issue of slavery's expansion. Though he lost the Senate race that year, these debates elevated his national profile, contributing to his successful presidential bid two years later. During these debates, he famously asked, \"A house divided against itself cannot stand.\" Who is this historical figure known for his beard and stovepipe hat?",
+            "answers": ["Abraham Lincoln", "Lincoln"],
+            "incorrect1": "Franklin Pierce",
+            "incorrect2": "Theodore Roosevelt",
+            "incorrect3": "John C. Calhoun",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "Early in this philosopher's career, he worked as a journalist, often writing about social and economic issues. His most ambitious work, \"Das Kapital,\" remained unfinished at the time of his death. He collaborated with Friedrich Engels on numerous projects, including the seminal work \"The Communist Manifesto.\" Who is this influential thinker whose ideas have shaped political and economic discourse for generations?",
+            "answers": ["Karl Marx", "Carl Marks", "Marx"],
+            "incorrect1": "Friedrich Nietzsche",
+            "incorrect2": "Adam Smith",
+            "incorrect3": "Vladimir Lenin",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "Former president Donald Trump chose this senator to be his vice presidential running mate for the 2024 election. He served in the Marine Corps during the Iraq war before going to Ohio State and then Yale Law School. Prior to becoming a senator for the state of Ohio, he was best known for his memoir which described his troubled upbringing in Middletown Ohio. Name this author of Hillbilly Elegy.",
+            "answers": ["J.D. Vance", "JD Vance", "Vance"],
+            "incorrect1": "Kamala Harris",
+            "incorrect2": "Vivek Ramaswamy",
+            "incorrect3": "Doug Burgum",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This TV show, known for its mockumentary style, follows the lives of three interconnected families living in Los Angeles. It features an ensemble cast with memorable characters like Phil Dunphy, the goofy dad, and Jay Pritchett, the patriarch. Winning 22 Primetime Emmy Awards, it tackled themes like adoption, same-sex marriage, and cultural differences. What is the name of this critically acclaimed sitcom that aired for 11 seasons?",
+            "answers": ["Modern Family"],
+            "incorrect1": "Friends",
+            "incorrect2": "New Girl",
+            "incorrect3": "Parks and Recreation",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This team, initially known as the Montreal Expos, relocated to the United States in 2005. Their mascot, Screech the Eagle, was chosen through a fan contest in 2005.  The team secured their first World Series championship in 2019, becoming the first team in MLB history to win all road games in a World Series. What is the name of this baseball team that plays its home games in Washington, D.C.?",
+            "answers": ["Washington Nationals", "Nationals"],
+            "incorrect1": "Baltimore Orioles",
+            "incorrect2": "Detriot Tigers",
+            "incorrect3": "Miami Marlins",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "This element, isolated by Daniel Rutherford in 1772, was originally named \"noxious air\" due to its inability to support life. It exists as a diatomic gas under standard conditions and is relatively inert, making it useful for preserving food and other materials. This element is a key component of amino acids, the building blocks of proteins, and is essential for plant growth. What is this element that makes up about 78% of Earth's atmosphere?",
+            "answers": ["Nitrogen", "n"],
+            "incorrect1": "Carbon",
+            "incorrect2": "Oxygen",
+            "incorrect3": "Hydrogen",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "This city, situated on the northern tip of the North China Plain, is surrounded by mountains on three sides, giving it a strategic location throughout history. Home to the Forbidden City, a vast palace complex that served as the imperial palace for centuries, it also boasts the Temple of Heaven, a UNESCO World Heritage Site where emperors prayed for good harvests. In 2008, it hosted the Summer Olympics, showcasing its modern infrastructure and cultural heritage. What is the name of this city, the capital of China and one of the world's most populous cities?",
+            "answers": ["Beijing", "Pekking"],
+            "incorrect1": "Shanghai",
+            "incorrect2": "Tokyo",
+            "incorrect3": "Bangkok",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "This former Pakistani prime minister has been accused on treason by the government of his political rival, Shehbaz Sharif. On July 13, while this politician was imprisoned, his conviction for a breach of national marriage laws was overturned on appeal. However, he remains in prison on corruptions charges. Before this man served as prime minister he was the captain of Pakistan's national cricket team in the 1980s and 1990s, including for Pakistan's 1992 World Cup victory. Name this man who leads Pakistan's PTI party.",
+            "answers": [
+                "Imran Khan",
+                "Imran Kahn",
+                "Khan",
+                "Imran Ahmed Khan Niazi"
+            ],
+            "incorrect1": "Benjamin Netanyahu",
+            "incorrect2": "Ali Khamenei",
+            "incorrect3": "Narendra Modi",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "This geological formation, consisting of approximately 40,000 interlocking basalt columns, is the result of an ancient volcanic eruption. Located on the coast of County Antrim in Northern Ireland, it was declared a UNESCO World Heritage site in 1986. This natural wonder, featured in legends as a crossing built by a Fionn mac Cumhaill--a giant--, is a popular tourist attraction known for its unique hexagonal columns. What is this natural wonder called?",
+            "answers": ["Giant's Causeway", "Cloch\u00e1n an Aifir"],
+            "incorrect1": "Cliffs of Moher",
+            "incorrect2": "Aran Islands",
+            "incorrect3": "Victoria Falls",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This author's debut novel, \"The Bluest Eye,\" explored the damaging effects of racism and beauty standards on a young black girl. She was the first African-American woman to win the Nobel Prize in Literature, awarded for her profound exploration of African-American identity and experience. Her most celebrated work, \"Beloved,\" tells the haunting story of a former slave haunted by the ghost of her daughter. This author also served as an editor at Random House, where she championed the works of many Black writers. Who is this influential novelist and essayist?",
+            "answers": ["Toni Morrison", "Morrison"],
+            "incorrect1": "Maya Angelou",
+            "incorrect2": "James Baldwin",
+            "incorrect3": "bell hooks",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This band, formed in Los Angeles in 1983, is known for their eclectic mix of funk, rock, and punk music. Their breakthrough album, \"Blood Sugar Sex Magik,\" released in 1991, catapulted them to international fame. Their iconic logo, a stylized asterisk, has become synonymous with their brand. They have won six Grammy Awards and were inducted into the Rock and Roll Hall of Fame in 2012. What is the name of this band, known for hits like \"Under the Bridge\" and \"Californication\"?",
+            "answers": ["Red Hot Chili Peppers"],
+            "incorrect1": "Nirvana",
+            "incorrect2": "Foo Fighters",
+            "incorrect3": "Pearl Jam",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL team, founded in 1960, holds the unfortunate distinction of losing four consecutive Super Bowls between 1990 and 1993. Led by quarterback Jim Kelly and running back Thurman Thomas during their Super Bowl runs, they were known for their high-powered \"K-Gun\" offense. The team's name was inspired by an All-America Football Conference (AAFC) franchise that played in the same city. Name this team that plays its home games at Highmark Stadium in Orchard Park, New York.",
+            "answers": ["Buffalo Bills", "Bills"],
+            "incorrect1": "New York Jets",
+            "incorrect2": "New York Giants",
+            "incorrect3": "Cincinnati Bengals",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This monarch's reign saw the rise of the British Empire, the Industrial Revolution, and significant social reforms. During her time, Britain abolished slavery, expanded suffrage, and saw advancements in science and technology. She was the first British monarch to travel by train and to be photographed. Known for her strict moral code and devotion to her husband, Prince Albert, she mourned his death for the rest of her life, wearing black until her own passing. Who is this iconic queen?",
+            "answers": ["Queen Victoria", "Victoria", "Alexandrina Victoria"],
+            "incorrect1": "Elizabeth II",
+            "incorrect2": "Charles III",
+            "incorrect3": "Alexander the Great",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "Found on every continent except Antarctica, this type of bird is known for its ability to mimic human speech and other sounds. With over 350 species, this bird is found in a variety of habitats, from rainforests to deserts. Some species of this bird can live for over 50 years, and many form strong pair bonds with their mates. What is this colorful and intelligent bird known for its curved beak and zygodactyl feet (two toes facing forward and two toes facing backward)?",
+            "answers": ["Parrot"],
+            "incorrect1": "Eagle",
+            "incorrect2": "Hawk",
+            "incorrect3": "Gull",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This city was bombed by a B-29 Superfortress bomber named \"Enola Gay\" which was piloted by Colonel Paul Tibbets. The bombing of this city resulted in the immediate deaths of an estimated 80,000 people, with tens of thousands more dying later from radiation exposure. This mission was the first use of a nuclear weapon in warfare, leading to Japan's surrender and the end of World War II. It was also a turning point in history, marking the beginning of the Atomic Age. Name this city which was bombed by an atomic bomb nicknamed \"Little Boy.\"",
+            "answers": ["Hiroshima", "Hiroshima Japan"],
+            "incorrect1": "Tokyo",
+            "incorrect2": "Iwo Jima",
+            "incorrect3": "Dresden",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "question": "This painting, depicting the Infanta Margarita and her entourage, is known for its complex composition and enigmatic atmosphere. It features a self-portrait of the artist at work on a large canvas, the back of which is visible to the viewer. The painting also includes a mirror reflecting the image of King Philip IV and Queen Mariana, suggesting their presence in the room. What is the title of this famous masterpiece by Diego Vel\u00e1zquez?",
+            "answers": ["Las Meninas"],
+            "incorrect1": "Guernica",
+            "incorrect2": "The Birth of the World",
+            "incorrect3": "The Third of May 1808",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "This iconic peak, whose name means \"meadow peak\" in German, has four distinct faces aligned almost perfectly with the cardinal directions. Located on the border between Switzerland and Italy, it stands at 4,478 meters (14,692 feet) tall. The mountain's distinctive pyramidal shape has been featured in numerous works of art and literature and has become synonymous with the Swiss Alps. The first successful ascent of this mountain took place in 1865, but it resulted in tragedy as four climbers died during the descent. What is the name of this iconic mountain?",
+            "answers": ["Matterhorn", "Cervino", "Mt Cervin", "Mount Cervin"],
+            "incorrect1": "Mount Everest",
+            "incorrect2": "Mount Blanc",
+            "incorrect3": "Mount Kilimanjaro",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This state, once part of Massachusetts, became the 23rd to join the Union in 1820 as part of the Missouri Compromise. It's famous for its rocky coastline, lobster industry, and is the easternmost point in the contiguous United States. Additionally, it's the only state with a one-syllable name and the only state that borders just one other state. Name this state.",
+            "answers": ["Maine"],
+            "incorrect1": "Wisconsin",
+            "incorrect2": "New Hampshire",
+            "incorrect3": "Utah",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "This inventor's most famous creation, a safer alternative to nitroglycerin, was initially used for mining and construction but also found applications in warfare. He held 355 patents for various inventions, including synthetic rubber and leather. He was a polyglot, fluent in six languages, and had a lifelong interest in literature and philosophy. Upon his death, he bequeathed his fortune to establish the prestigious awards that bear his name. Who is this inventor and philanthropist?",
+            "answers": ["Alfred Nobel", "Nobel"],
+            "incorrect1": "Marie Curie",
+            "incorrect2": "Alexander Fleming",
+            "incorrect3": "Albert Einstein",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This city hosted the 2024 Republican National Convention. This city is home to the world's largest music festival, Summerfest, and also boasts a rich brewing history, earning it the nickname \"Brew City.\"  Additionally, it is home to the Harley-Davidson Museum, showcasing the legacy of the famous motorcycle brand. Name this city on Lake Michigan's shores which is also known for its iconic Bronze Fonz statue, a tribute to the popular character from the TV show \"Happy Days.\"",
+            "answers": ["Milwaukee", "Milwaukee Wisconsin"],
+            "incorrect1": "Chicago",
+            "incorrect2": "Cleveland",
+            "incorrect3": "Dallas",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film, featuring a wormhole near Saturn, explores a future where humanity seeks a new home due to Earth's deteriorating environment. The film's scientific advisor, Kip Thorne, ensured the accurate depiction of black holes and gravitational time dilation. A key plot point revolves around the protagonist's daughter, who ages much slower than him due to the effects of relativity. What is the title of this 2014 science fiction film directed by Christopher Nolan?",
+            "answers": ["Interstellar"],
+            "incorrect1": "The Martian",
+            "incorrect2": "Ad Astra",
+            "incorrect3": "Arrival",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL team, established in 1919, is the only community-owned franchise in the league. It boasts the most NFL championships with 13 wins, including four Super Bowl titles. Coached by the legendary Vince Lombardi during their first two Super Bowl victories, they were the only team to defeat the AFL before the merger. Name this historic team that plays at Lambeau Field, nicknamed the \"Frozen Tundra.\"",
+            "answers": ["Green Bay Packers", "Packers"],
+            "incorrect1": "Chicago Bears",
+            "incorrect2": "Detroit Lions",
+            "incorrect3": "Minnesota Vikings",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "Convened in response to the Protestant Reformation, this council addressed doctrinal challenges and aimed to reform the Catholic Church from within. Held in three sessions over eighteen years in a city in Northern Italy, it reaffirmed traditional Catholic teachings on salvation, the sacraments, and the authority of the Pope. This council also established seminaries for the education of priests and sought to address abuses within the clergy. What was this significant council in Catholic history?",
+            "answers": ["Council of Trent"],
+            "incorrect1": "Spanish Inquisition",
+            "incorrect2": "Council of Florence",
+            "incorrect3": "Council of Five Elders",
             "used": "FALSE",
             "source": "Marty Heavey"
         }
