@@ -5518,7 +5518,7 @@
         },
         {
             "category": "Entertainment",
-            "question": "This Italian film, set during the Holocaust, combines comedy and drama to tell the story of a Jewish man who uses his imagination and humor to shield his son from the horrors of a concentration camp. The film is partly inspired by Rubino Romeo Salmoni's book, \"In the End, I Beat Hitler\". The film won three Academy Awards, including Best Foreign Language Film and Best Actor for Roberto Benigni, who also directed and co-wrote the screenplay. Which film is this, with the italian title La vita \u00e8 bella, praised for its heartwarming message and unique approach to a difficult subject matter?",
+            "question": "This Italian film, set during the Holocaust, combines comedy and drama to tell the story of a Jewish man who uses his imagination and humor to shield his son from the horrors of a concentration camp. The film is partly inspired by Rubino Romeo Salmoni's book, \"In the End, I Beat Hitler\". The film won three Academy Awards, including Best Foreign Language Film and Best Actor for Roberto Benigni, who also directed and co-wrote the screenplay. Which film, with the italian title La vita \u00e8 bella, is praised for its heartwarming message and unique approach to a difficult subject matter?",
             "answers": ["Life Is Beautiful", "La vita \u00e8 bella"],
             "incorrect1": "The Sound of Music",
             "incorrect2": "The Pianist",
