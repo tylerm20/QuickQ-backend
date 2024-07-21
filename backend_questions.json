@@ -5560,7 +5560,7 @@
         },
         {
             "category": "Geography",
-            "question": "This city, situated on the Yamuna River, is home to the Red Fort, a UNESCO World Heritage Site that served as the residence of Mughal emperors. It is also home to the Jama Masjid, one of the largest mosques in India, and the Lotus Temple, a Bah\u00e1\u02bc\u00ed House of Worship known for its distinctive lotus-shaped structure. This city has served as the capital of several empires and kingdoms throughout history, including the Delhi Sultanate and the Mughal Empire. What is the name of this bustling metropolis that is the capital of India?",
+            "question": "This city, situated on the Yamuna River, is home to the Red Fort, a UNESCO World Heritage Site that served as the residence of Mughal emperors. It is also home to the Jama Masjid, one of the largest mosques in India, and the Lotus Temple, a Bah\u00e1\u02bc\u00ed House of Worship known for its distinctive lotus-shaped structure. This city has served as the capital of several empires and kingdoms throughout history, including the the Mughal Empire. What is the name of this bustling metropolis that is the capital of India?",
             "answers": ["Delhi", "New Delhi"],
             "incorrect1": "Mumbai",
             "incorrect2": "Lahore",
@@ -5590,7 +5590,7 @@
         },
         {
             "category": "Current Events",
-            "question": "In this state, a gunman shot at former president Donald Trump while he was holding a campaign rally. The rally was being held near the town of Butler in this state. Prior to becoming a state, the southeast portion of the state was a Swedish Empire colony known as New Sweden between 1638 and 1655. The state is home to cities like Allentown and Reading. Name this state, the first largest by population which is nicknamed the Keystone State.",
+            "question": "In this state, a gunman shot at former president Donald Trump while he was holding a campaign rally. The rally was being held near the town of Butler in this state. Prior to becoming a state, the southeast portion of the state was a Swedish Empire colony known as New Sweden between 1638 and 1655. The state is home to cities like Allentown and Reading. Name this state, the fifth largest by population, which is nicknamed the Keystone State.",
             "answers": ["Pennsylvania"],
             "incorrect1": "Michigan",
             "incorrect2": "Nevada",
