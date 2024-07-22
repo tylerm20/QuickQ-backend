@@ -5622,7 +5622,7 @@
         },
         {
             "category": "US History",
-            "question": "This lawyer from Illinois engaged in a series of debates with Stephen Douglas in 1858, focusing on the issue of slavery's expansion. Though he lost the Senate race that year, these debates elevated his national profile, contributing to his successful presidential bid two years later. During these debates, he famously asked, \"A house divided against itself cannot stand.\" Who is this historical figure known for his beard and stovepipe hat?",
+            "question": "This lawyer from Illinois engaged in a series of debates with Stephen Douglas in 1858, focusing on the issue of slavery's expansion. Though he lost the Senate race that year, these debates elevated his national profile, contributing to his successful presidential bid two years later. During these debates, he famously stated, \"A house divided against itself cannot stand.\" Who is this historical figure known for his beard and stovepipe hat?",
             "answers": ["Abraham Lincoln", "Lincoln"],
             "incorrect1": "Franklin Pierce",
             "incorrect2": "Theodore Roosevelt",
@@ -5642,7 +5642,7 @@
         },
         {
             "category": "Current Events",
-            "question": "Former president Donald Trump chose this senator to be his vice presidential running mate for the 2024 election. He served in the Marine Corps during the Iraq war before going to Ohio State and then Yale Law School. Prior to becoming a senator for the state of Ohio, he was best known for his memoir which described his troubled upbringing in Middletown Ohio. Name this author of Hillbilly Elegy.",
+            "question": "Former president Donald Trump chose this senator to be his vice presidential running mate for the 2024 election. He served in the Marine Corps during the Iraq war before going to Ohio State and then Yale Law School. Prior to becoming a senator for the state of Ohio, he was best known for his memoir which described his troubled upbringing in Middletown, Ohio. Name this author of Hillbilly Elegy.",
             "answers": ["J.D. Vance", "JD Vance", "Vance"],
             "incorrect1": "Kamala Harris",
             "incorrect2": "Vivek Ramaswamy",
