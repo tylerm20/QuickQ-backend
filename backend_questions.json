@@ -5709,7 +5709,7 @@
         },
         {
             "category": "Geography",
-            "question": "This geological formation, consisting of approximately 40,000 interlocking basalt columns, is the result of an ancient volcanic eruption. Located on the coast of County Antrim in Northern Ireland, it was declared a UNESCO World Heritage site in 1986. This natural wonder, featured in legends as a crossing built by a Fionn mac Cumhaill--a giant--, is a popular tourist attraction known for its unique hexagonal columns. What is this natural wonder called?",
+            "question": "This geological formation, consisting of approximately 40,000 interlocking basalt columns, is the result of an ancient volcanic eruption. Located on the coast of County Antrim in Northern Ireland, it was declared a UNESCO World Heritage site in 1986. This natural wonder, featured in legends as a crossing built by the giant Fionn mac Cumhaill, is a popular tourist attraction known for its unique hexagonal columns. What is this natural wonder called?",
             "answers": ["Giant's Causeway", "Cloch\u00e1n an Aifir"],
             "incorrect1": "Cliffs of Moher",
             "incorrect2": "Aran Islands",
@@ -5719,7 +5719,7 @@
         },
         {
             "category": "Arts & Literature",
-            "question": "This author's debut novel, \"The Bluest Eye,\" explored the damaging effects of racism and beauty standards on a young black girl. She was the first African-American woman to win the Nobel Prize in Literature, awarded for her profound exploration of African-American identity and experience. Her most celebrated work, \"Beloved,\" tells the haunting story of a former slave haunted by the ghost of her daughter. This author also served as an editor at Random House, where she championed the works of many Black writers. Who is this influential novelist and essayist?",
+            "question": "This author's debut novel, \"The Bluest Eye,\" explored the damaging effects of racism and beauty standards on a young black girl. She was the first African-American woman to win the Nobel Prize in Literature, awarded for her profound exploration of African-American identity and experience. Her most celebrated work, \"Beloved,\" tells the story of a former slave haunted by the ghost of her daughter. This author also served as an editor at Random House, where she championed the works of many Black writers. Who is this influential novelist and essayist?",
             "answers": ["Toni Morrison", "Morrison"],
             "incorrect1": "Maya Angelou",
             "incorrect2": "James Baldwin",
