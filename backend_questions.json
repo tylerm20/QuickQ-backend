@@ -5694,7 +5694,7 @@
     [
         {
             "category": "Current Events",
-            "question": "This former Pakistani prime minister has been accused on treason by the government of his political rival, Shehbaz Sharif. On July 13, while this politician was imprisoned, his conviction for a breach of national marriage laws was overturned on appeal. However, he remains in prison on corruptions charges. Before this man served as prime minister he was the captain of Pakistan's national cricket team in the 1980s and 1990s, including for Pakistan's 1992 World Cup victory. Name this man who leads Pakistan's PTI party.",
+            "question": "This former Pakistani prime minister has been accused of treason by the government of his political rival, Shehbaz Sharif. On July 13, while this politician was imprisoned, his conviction for a breach of national marriage laws was overturned on appeal. However, he remains in prison on corruptions charges. Before this man served as prime minister he was the captain of Pakistan's national cricket team in the 1980s and 1990s, including for Pakistan's 1992 World Cup victory. Name this man who leads Pakistan's PTI party.",
             "answers": [
                 "Imran Khan",
                 "Imran Kahn",
@@ -5856,6 +5856,514 @@
             "incorrect1": "Spanish Inquisition",
             "incorrect2": "Council of Florence",
             "incorrect3": "Council of Five Elders",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This artist released his debut album at age 12 with Motown Records. He's a talented multi-instrumentalist, playing the harmonica, piano, and drums. He won an Academy Award for Best Original Song for \"I Just Called to Say I Love You\" from the film \"The Woman in Red.\" A strong advocate for social justice, he campaigned to make Martin Luther King Jr.'s birthday a national holiday. Who is this legendary musician known for hits like \"Superstition\" and \"Signed, Sealed, Delivered I'm Yours?\"",
+            "answers": ["Stevie Wonder"],
+            "incorrect1": "Ray Charles",
+            "incorrect2": "Marvin Gaye",
+            "incorrect3": "Smokey Robinson",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This athlete's number 42 was retired across all of Major League Baseball in 1997, a first for any professional sport. Before breaking the color barrier in baseball, he served in the U.S. Army during World War II. He won the inaugural Rookie of the Year Award in 1947 and was inducted into the Baseball Hall of Fame in 1962. Who is this legendary Brooklyn Dodger?",
+            "answers": ["Jackie Robinson"],
+            "incorrect1": "Hank Aaron",
+            "incorrect2": "Willie Mays",
+            "incorrect3": "Roberto Clemente",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This region's inhabitants developed the first known written language, cuneiform, used to record everything from laws and religious texts to epic poems like the \"Epic of Gilgamesh.\" It is also home to the ancient city of Babylon, known for its Hanging Gardens, one of the Seven Wonders of the Ancient World. Situated between the Tigris and Euphrates rivers, it is often called the \"cradle of civilization.\" What is this historical region in the Middle East?",
+            "answers": ["Mesopotamia", "Fertile Crescent"],
+            "incorrect1": "Anatolia",
+            "incorrect2": "Persia",
+            "incorrect3": "Egypt",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This protest movement, sparked by the financial crisis of 2007-2008, began in Zuccotti Park in New York City's Financial District and quickly spread across the United States and globally. Protesters criticized income inequality, corporate greed, and the influence of money in politics, adopting the slogan \"We are the 99%.\" While the occupation of Zuccotti Park ended after two months, this movement's impact on political discourse and activism continues to be felt today. What was the name of this movement?",
+            "answers": ["Occupy Wall Street"],
+            "incorrect1": "#MeToo",
+            "incorrect2": "Civil Rights Movement",
+            "incorrect3": "#DeleteUber",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This former lawyer and military general participated in the War of 1812 and led American forces in the Battle of New Orleans. He was known for his populist appeal and his support for the common man, earning him the nickname \"Old Hickory.\" His presidency was marked by the Indian Removal Act, which led to the forced displacement of Native American tribes in what is now known as the Trail of Tears. Who was this controversial figure who served as the seventh president of the United States?",
+            "answers": ["Andrew Jackson"],
+            "incorrect1": "",
+            "incorrect2": "",
+            "incorrect3": "",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "This shallow body of water, bordered by eight countries including Iran, Iraq, and Saudi Arabia, is a vital waterway for global oil transportation. It is home to numerous islands, including Bahrain, and its warm waters support diverse marine life, such as dugongs and hawksbill turtles. Its strategic importance has led to conflicts, including the Iran-Iraq War and the Gulf War. What is this body of water called?",
+            "answers": ["Persian Gulf"],
+            "incorrect1": "Gulf of Mexico",
+            "incorrect2": "Caribbean Sea",
+            "incorrect3": "Gulf of Oman",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "This organ, inhabited by trillions of bacteria collectively known as the gut microbiota, plays a crucial role in the final stages of digestion. It is also involved in the synthesis of certain vitamins, including vitamin K and some B vitamins. It is responsible for absorbing water and electrolytes from indigestible food matter, forming stool. Divided into four main sections: the cecum, colon, rectum, and anal canal. What is this organ?",
+            "answers": ["Large Intestine"],
+            "incorrect1": "Pancreas",
+            "incorrect2": "Gallbladder",
+            "incorrect3": "Small Intestine",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This collection of Middle Eastern folk tales, narrated by Scheherazade to King Shahryar, features a vast array of characters like Sinbad the Sailor, Aladdin, and Ali Baba. Its stories, originating from various cultures including Persian, Indian, and Arabic, were compiled over centuries. The frame story involves Scheherazade using her storytelling to delay her execution, keeping the king captivated for over three years. What is the name of this famous collection?",
+            "answers": [
+                "One Thousand and One Nights",
+                "1001 nights",
+                "arabian nights",
+                "1001 arabian nights",
+                ""
+            ],
+            "incorrect1": "Dune",
+            "incorrect2": "The Book of the New Sun",
+            "incorrect3": "The Left Hand of Darkness",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "question": "This sea, home to the deepest point in the Atlantic Ocean, is known for its crystal-clear turquoise waters and white-sandy beaches. It is also a major shipping route, with the Panama Canal connecting it to the Pacific Ocean. Its islands are known for their vibrant cultures, diverse ecosystems, and rich history, including a significant period of European colonialism and the transatlantic slave trade. What is the name of this sea, a popular tourist destination and an important part of the world's ecosystem?",
+            "answers": ["Caribbean Sea", "Caribbean Ocean", "Caribbean"],
+            "incorrect1": "Mediterranean Sea",
+            "incorrect2": "South China Sea",
+            "incorrect3": "Arabian Sea",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA team, originally the Charlotte Hornets, relocated to New Orleans in 2002 before adopting their current name in 2013, inspired by the state bird. They achieved their first playoff series victory in 2008, led by Chris Paul, and most recently made the playoffs in 2022 with a roster headlined by Zion Williamson and Brandon Ingram. What is the name of this team, whose colors of navy blue, red, and gold represent the city's Mardi Gras celebrations?",
+            "answers": ["New Orleans Pelicans", "Pelicans"],
+            "incorrect1": "Charlotte Hornets",
+            "incorrect2": "Orlando Magic",
+            "incorrect3": "Toronto Raptors",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This ruler's reign was marked by the establishment of the oprichnina, a state police force known for its brutality and reign of terror. He came to power at the age of three and was crowned tsar at sixteen. He expanded the Russian territory significantly, conquering Kazan and Astrakhan Khanates. He is also known for his volatile temper and violent outbursts, which earned him his infamous nickname. Who is this first Tsar of Russia?",
+            "answers": [
+                "Ivan the Terrible",
+                "Ivan IV Vasilyevich",
+                "Ivan",
+                "Ivan IV"
+            ],
+            "incorrect1": "Peter the Great",
+            "incorrect2": "Catherine the Great",
+            "incorrect3": "Nicholas II",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This, a training ground for climbers preparing for Himalayan expeditions, had five climbers die within one week at the beginning of its climbing season. The active volcano, last erupting in 1707, is the highest peak in its home nation. It is considered one of its nation's \"Three Holy Mountains\" and is a UNESCO World Heritage site. Its iconic snow-capped peak has been depicted in countless works of art and is a popular tourist destination. What is the name of this stratovolcano located in Japan?",
+            "answers": ["Mount Fuji", "Mt Fuji", "Fuji"],
+            "incorrect1": "Mount Everest",
+            "incorrect2": "K2",
+            "incorrect3": "Mount Kilamanjaro",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "Financed by both state and federal government bonds, as well as by company-issued mortgage bonds, this ambitious project was completed on May 10, 1869, at Promontory Summit, Utah, with the ceremonial driving of a golden spike. It connected the existing eastern U.S. rail network at Council Bluffs, Iowa, with the Pacific coast at the Oakland Long Wharf on San Francisco Bay. This 1,911-mile continuous railroad line was built by three private companies over public lands provided by extensive U.S. land grants. What is this groundbreaking project that revolutionized transportation and spurred economic growth in the United States?",
+            "answers": ["Transcontinental Railroad"],
+            "incorrect1": "Hoover Dam",
+            "incorrect2": "Interstate Highway System",
+            "incorrect3": "Northern Pacific Railway",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "These internal organs are protected by a thin membrane called the pleura and are divided into lobes: three on the right and two on the left. Located in the thoracic cavity, they are essential for respiration and maintaining homeostasis. They are lined with over 300 million tiny air sacs called alveoli and are responsible for the exchange of oxygen and carbon dioxide between the body and the environment. What are these vital organs that inflate and deflate with each breath we take?",
+            "answers": ["Lungs"],
+            "incorrect1": "Heart",
+            "incorrect2": "Liver",
+            "incorrect3": "Kidneys",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This first-person shooter franchise, originally developed by Bungie and now by 343 Industries, features a Spartan supersoldier named Master Chief as its protagonist. Its storyline centers on an interstellar war between humanity and a theocratic alliance of aliens known as the Covenant. The series has expanded to include novels, comic books, and a live-action television series. What is the name of this popular video game franchise?",
+            "answers": ["Halo"],
+            "incorrect1": "Destiny",
+            "incorrect2": "Gears of War",
+            "incorrect3": "Killzone",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This 14th-century collection of tales, set against the backdrop of the Black Death in Florence, is structured as a frame narrative, with ten young people telling each other stories over ten days while escaping the plague. The stories, ranging from humorous anecdotes to tragic romances, offer a vivid glimpse into medieval society and explore themes of love, wit, and the human condition. What is the title of this masterpiece by Giovanni Boccaccio?",
+            "answers": ["The Decameron", "The Human Comedy", "Decameron"],
+            "incorrect1": "The Canterbury Tales",
+            "incorrect2": "The Prince",
+            "incorrect3": "The Divine Comedy",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "This labor leader and civil rights activist, co-founder of the National Farm Workers Association (later the United Farm Workers), organized grape boycotts and hunger strikes to protest the working conditions of farmworkers. A strong believer in nonviolence, he often employed fasting as a means of protest. Born in Yuma, Arizona, he experienced firsthand the hardships of migrant farm work. He advocated for better wages, working conditions, and basic human rights for farmworkers. Who is this iconic figure in American labor history who is celebrated with a federal holiday on March 31 each year?",
+            "answers": ["Cesar Chavez"],
+            "incorrect1": "",
+            "incorrect2": "",
+            "incorrect3": "",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This medical drama, set in Seattle, Washington, follows the lives of surgical interns, residents, and attendings as they navigate personal and professional challenges. Its first episode aired in 2005 as a mid-season replacement, and it has since become one of the longest-running primetime medical dramas in American television history. The show's title is a play on words, referencing both the main character's name and a classic anatomy textbook. What is this show known for its dramatic twists, love triangles, and heartbreaking departures?",
+            "answers": ["Grey's Anatomy"],
+            "incorrect1": "House",
+            "incorrect2": "Scrubs",
+            "incorrect3": "ER",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "The President of this American University resigned amid controversy after being accused of plagiarism in their academic work. This came after the president, Claudine Gay, testified in front on Congress on the campus's response to accusations of anti-semitism. The hearing led to the resignation of another university presidenty, Liz Magill, from University of Pennsylvania. This university is located in Cambridge, Massachusetts, and it is part of the historic Ivy League. Name this university, the oldest in the United States.",
+            "answers": ["Harvard University", "Harvard"],
+            "incorrect1": "UCLA",
+            "incorrect2": "USC",
+            "incorrect3": "Princeton University",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA team, holding the league's record for the most consecutive three-pointers made in a game at 27, boasts two NBA championships, won in the mid-1990s. Led by legendary center Hakeem Olajuwon during their championship runs, they were known for their \"Clutch City\" resilience. Their home court, the Toyota Center, is a state-of-the-art arena located in downtown Houston. What is the name of this team, whose red and white color scheme pays homage to the city's aerospace industry?",
+            "answers": ["Houston Rockets", "Rockets"],
+            "incorrect1": "San Antonio Spurs",
+            "incorrect2": "Dallas Mavericks",
+            "incorrect3": "Memphis Grizzlies",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This dystopian novel, set in a totalitarian theocracy where fertile women are forced into sexual servitude, is narrated by Offred, whose name reflects her status as property of the Commander. The story unfolds in Gilead, a former United States where environmental pollution and declining birth rates have led to extreme social and religious control. The novel's color-coded clothing system, where Handmaids wear red, Wives wear blue, and Aunts wear brown, symbolizes the rigid social hierarchy. What is the title of this novel by Margaret Atwood?",
+            "answers": ["The Handmaid's Tale"],
+            "incorrect1": "The Testaments",
+            "incorrect2": "The Hunger Game",
+            "incorrect3": "Nineteen Eighty-Four",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "This physicist, born in Vienna, Austria, taught at several universities throughout Europe and eventually became the director of the School of Theoretical Physics at the Dublin Institute for Advanced Studies. He shared the Nobel Prize in Physics in 1933 with Paul Dirac. His namesake equation describes the wave function of a quantum-mechanical system, is also known for a thought experiment involving a cat in a box, illustrating the concept of quantum superposition. Who is this key figure in the development of quantum mechanics?",
+            "answers": ["Erwin Schr\u00f6dinger", "Schrodinger"],
+            "incorrect1": "Max Planck",
+            "incorrect2": "Albert Einstein",
+            "incorrect3": "Niels Bohr",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "Named after a Danish explorer in Russian service, this sea is home to a diverse array of marine life, including walruses, seals, and numerous whale species. It is also an important fishing ground, with large populations of salmon, pollock, and crab. This sea is known for its harsh weather conditions, with frequent storms and high winds. It separates the continents of Asia and North America, with a namesake strait connecting it to the Arctic Ocean. What is the name of this marginal sea of the Pacific Ocean?",
+            "answers": ["Bering Sea"],
+            "incorrect1": "Baltic Sea",
+            "incorrect2": "Black Sea",
+            "incorrect3": "Caspian Sea",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This neurologist, who fled Vienna in 1938 due to the Nazi annexation of Austria, is famous for his groundbreaking theories on the unconscious mind and the development of psychoanalysis. His work explored concepts like the id, ego, and superego, and his \"Interpretation of Dreams\" remains a seminal text in psychology. He also introduced the concept of defense mechanisms, such as repression and denial, and his ideas continue to influence fields like psychology, literature, and art. Who is this influential figure?",
+            "answers": ["Sigmund Freud", "Freud"],
+            "incorrect1": "Carl Jung",
+            "incorrect2": "Alfred Adler",
+            "incorrect3": "Wilhelm Reich",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "question": "This artist's most famous work, \"A Sunday Afternoon on the Island of La Grande Jatte,\" showcases his meticulous technique of applying tiny dots of color to create a vibrant and shimmering effect. He developed this technique, known as pointillism, as part of the Neo-Impressionist movement. Despite his tragically short career, cut short by an early death at age 31, his innovative approach to color and light has had a lasting impact on the art world. Who is this influential French artist?",
+            "answers": ["Georges Seurat"],
+            "incorrect1": "Georges Braque",
+            "incorrect2": "Vincent Van Gough",
+            "incorrect3": "Paul Gauguin",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This first-person shooter franchise, originally focused on World War II settings, has since expanded to include modern and futuristic warfare scenarios. It is known for its fast-paced multiplayer mode and its immersive single-player campaigns. The series has spawned numerous spin-offs and has become one of the best-selling video game franchises of all time. What is the name of this popular military-themed video game series?",
+            "answers": ["Call of Duty"],
+            "incorrect1": "Battlefield",
+            "incorrect2": "Medal of Honor",
+            "incorrect3": "Counter Strike",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This rebel militia launched a drone attack against Tel Aviv, Israel which killed at least one person. Israel then responded by bombing parts Yemen controlled by this rebel group. The primarily Zaidi Shia Muslim group, named after its founder, has been engaged in a protracted conflict in Yemen since 2014. They control the capital Sana'a and much of the northern highlands. They are supported by Iran and have launched numerous missile and drone attacks against Saudi Arabia. What is the name of this Yemeni rebel group?",
+            "answers": ["Houthi", "Houthi militia", "Houthi rebels"],
+            "incorrect1": "Al-Qaeda",
+            "incorrect2": "ISIS",
+            "incorrect3": "National Liberation Army",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This country achieved independence on August 15, 1947, following a long struggle marked by nonviolent resistance. The independence movement saw widespread civil disobedience, including the Salt March, a protest against the British salt monopoly. The newly independent nation adopted a secular constitution, guaranteeing religious freedom for its diverse population. This country, once known as the \"Jewel in the Crown\" of the British Empire, is now the world's largest democracy. What is this country whose resistance was led by figures like Mahatma Gandhi?",
+            "answers": ["India"],
+            "incorrect1": "Australia",
+            "incorrect2": "Pakistan",
+            "incorrect3": "Thailand",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This standoff, precipitated by the covert deployment of Soviet ballistic missiles, involved a U.S. naval blockade to prevent further shipments of military supplies. The situation escalated as both superpowers prepared for potential military action. Ultimately, a secret agreement was reached: the Soviet Union would dismantle its missiles in exchange for a U.S. pledge not to invade Cuba and the removal of American Jupiter missiles from Turkey. What is the name of this 13-day confrontation that brought the world to the brink of nuclear war?",
+            "answers": [
+                "Cuban Missile Crisis",
+                "October Crisis",
+                "Crisis in Cuba",
+                "Carribean Crisis"
+            ],
+            "incorrect1": "",
+            "incorrect2": "",
+            "incorrect3": "",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "This natural wonder, visible from outer space, is actually composed of over 2,900 individual reefs and 900 islands, stretching for 2,300 kilometers (1,400 miles). Home to over 1,500 species of fish, 411 types of hard coral, and one-third of the world's soft corals, it is the world's largest coral reef system. What is this iconic landmark, located off the coast of Queensland, Australia?",
+            "answers": ["Great Barrier Reef"],
+            "incorrect1": "Ningaloo Reef",
+            "incorrect2": "Red Sea Coral Reef",
+            "incorrect3": "Red Sea Coral Reef",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "This element, discovered by Humphry Davy in 1808 through electrolysis, is essential for the formation and maintenance of bones and teeth. In its pure form, it is a soft, silvery-white metal that readily reacts with water and air. It plays a crucial role in muscle contraction, nerve transmission, and blood clotting. Found abundantly in dairy products, leafy green vegetables, and certain types of fish, it is the most abundant mineral in the human body. What is this element, with an atomic number of 20?",
+            "answers": ["Calcium", "Ca"],
+            "incorrect1": "Potassium",
+            "incorrect2": "Sodium",
+            "incorrect3": "Magnesium",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This team, originally established in New Orleans in 1974, relocated to Salt Lake City in 1979. Their iconic purple mountain logo symbolizes the majestic landscape of their home state. They reached the NBA Finals twice in the late 1990s, led by legendary duo John Stockton and Karl Malone. Despite never winning a championship, they are known for their passionate fan base and their high-altitude home court, the Vivint Arena. What is the name of this team?",
+            "answers": ["Utah Jazz", "Jazz"],
+            "incorrect1": "Phoenix Suns",
+            "incorrect2": "Denver Nuggets",
+            "incorrect3": "Portland Trail Blazers",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "question": "This civilization's Old Kingdom period, characterized by political stability and economic prosperity, saw the construction of one of the wonders of the ancient world. This period is also known for the development of hieroglyphic writing, a complex system of pictograms and phonetic symbols used to record religious texts, historical events, and everyday life. The society was highly centralized, with the pharaoh considered a living god and holding absolute power. What is this ancient civilization located along the Nile River?",
+            "answers": ["Egypt"],
+            "incorrect1": "Nubia",
+            "incorrect2": "Kush",
+            "incorrect3": "Libya",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This science fiction horror film, set aboard a commercial spaceship in the distant future, features a creature designed by Swiss artist H.R. Giger. Its tagline, \"In space, no one can hear you scream,\" became iconic. The film's protagonist, Ellen Ripley, was a groundbreaking female action hero who survived encounters with the deadly xenomorph. What is the title of this 1979 Ridley Scott film that spawned a successful franchise?",
+            "answers": ["Alien"],
+            "incorrect1": "Predator",
+            "incorrect2": "The Thing",
+            "incorrect3": "Event Horizon",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This artist's vibrant and dynamic paintings, such as \"The Raising of the Cross\" and \"The Descent from the Cross,\" are characterized by their rich colors, dramatic lighting, and swirling compositions. He was a master of the Baroque style, known for his depiction of religious and mythological scenes, as well as portraits and landscapes. He was also a diplomat, serving as an envoy for the rulers of the Spanish Netherlands. Who is this influential Flemish artist?",
+            "answers": ["Peter Paul Rubens", "Rubens"],
+            "incorrect1": "Rembrandt van Rijn",
+            "incorrect2": "Anthony van Dyck",
+            "incorrect3": "Anthony van Dyck",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "This hilly city, built on seven hills overlooking the Tagus River, is famous for its colorful tiled facades, melancholic fado music, and iconic yellow trams. It is the westernmost capital city in mainland Europe and is known for its mild climate and stunning views. Rebuilt after a devastating earthquake in 1755, it boasts a unique blend of architectural styles, from Gothic and Manueline to Baroque and Neoclassical. What is this charming city, the capital of Portugal?",
+            "answers": ["Lisbon"],
+            "incorrect1": "Madrid",
+            "incorrect2": "Rome",
+            "incorrect3": "Athens",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This lawyer, known for his sharp wit and brilliant legal mind, argued 32 cases before the Supreme Court and won 29 of them. He served as the chief counsel for the NAACP Legal Defense and Educational Fund, where he played a pivotal role in dismantling segregation in the landmark Brown v. Board of Education case. In 1967, he became the first African American to be appointed to the Supreme Court, serving for 24 years until his retirement in 1991. Who is this groundbreaking figure in American legal history?",
+            "answers": ["Thurgood Marshall"],
+            "incorrect1": "",
+            "incorrect2": "",
+            "incorrect3": "",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This movement, founded by Tarana Burke in 2006, gained widespread attention in 2017 following allegations of sexual misconduct against film producer Harvey Weinstein. It has since become a global phenomenon, empowering survivors to share their stories and holding perpetrators accountable. It has sparked conversations about power dynamics, consent, and the prevalence of sexual harassment and assault in various industries. What is the name of this movement that has empowered survivors and sparked a cultural reckoning?",
+            "answers": ["#MeToo", "Me too", "metoo"],
+            "incorrect1": "#TimesUp",
+            "incorrect2": "Occupy Wall Street",
+            "incorrect3": "Gaslighting",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA team, founded in 1970 as an expansion team, play their home games at Rocket Mortgage FieldHouse, which they share with the Monsters of the American Hockey League. They experienced a period of dominance in the mid-2010s led by LeBron James, Kyrie Irving, and Kevin Love, culminating in their first NBA championship in 2016. TheyWhat is this team, known for its wine and gold color scheme?",
+            "answers": ["Cleveland Cavaliers", "Cavaliers"],
+            "incorrect1": "Boston Celtics",
+            "incorrect2": "Los Angeles Lakers",
+            "incorrect3": "Chicago Bulls",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "Once a popular ingredient in Victorian-era cosmetics and wallpapers due to its vibrant green pigment, this element is now known for its toxicity and association with poisoning. It is a metalloid found in the Earth's crust and can contaminate groundwater. In small doses, it was historically used as a medicine, but prolonged exposure can lead to various health problems, including skin lesions and cancer. What is this element, represented by the symbol As on the periodic table?",
+            "answers": ["Arsenic"],
+            "incorrect1": "Lead",
+            "incorrect2": "Mercury",
+            "incorrect3": "Cadmium",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This neo-noir psychological thriller follows Leonard Shelby, a man suffering from anterograde amnesia, who uses tattoos, Polaroid photos, and notes to investigate his wife's murder. The film's narrative unfolds in a non-linear fashion, with scenes presented in reverse chronological order, mirroring the protagonist's fragmented memory. What is the title of this 2000 film directed by Christopher Nolan?",
+            "answers": ["Memento"],
+            "incorrect1": "Inception",
+            "incorrect2": "Eternal Sunshine of the Spotless Mind",
+            "incorrect3": "Shutter Island\n",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "On July 21, 2024, this politician was endorsed by President Joe Biden to be his party's nominee for the 2024 US presidential election. This politician was born in Oakland, California and rose through the ranks in California politics starting as a prosecutor. In 2016, she became the second African-American woman and the first South Asian American to serve in the U.S. Senate. She ran for president in 2020 but withdrew before primary voting began. Name this woman who became the first female vice president in US history when in 2020.",
+            "answers": ["Kamala Harris"],
+            "incorrect1": "Josh Shapiro",
+            "incorrect2": "J.D. Vance",
+            "incorrect3": "Gavin Newsom",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "This physicist's work on black-body radiation led to the development of a revolutionary theory that proposed energy is emitted and absorbed in discrete units, or \"quanta.\" He received the Nobel Prize in Physics in 1918 for his discovery of energy quanta. His constant, denoted by the symbol 'h', is a fundamental constant of nature that relates the energy of a photon to its frequency. He is considered one of the founders of quantum mechanics. Who is this groundbreaking physicist?",
+            "answers": ["Max Planck"],
+            "incorrect1": "Albert Einstein",
+            "incorrect2": "Niels Bohr",
+            "incorrect3": "Werner Heisenberg",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This gymnast, nicknamed the \"Flying Squirrel,\" made history as the first African-American to win the Olympic individual all-around title. She also led the U.S. women's gymnastics team, dubbed the \"Fierce Five,\" to gold at the 2012 London Olympics. In 2016, she became the first reigning Olympic all-around champion to return to compete in a subsequent Olympics since Nadia Com\u0103neci in 1980. Who is this accomplished American gymnast?",
+            "answers": ["Gabby Douglas"],
+            "incorrect1": "Simone Biles",
+            "incorrect2": "Aly Raisman",
+            "incorrect3": "McKayla Maroney",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This explorer's initial voyage to India, lasting over ten months, encountered storms, scurvy, and hostile rulers along the African coast. His fleet consisted of four ships, including the flagship S\u00e3o Gabriel. His arrival in Calicut, India, in 1498, opened up a direct maritime route from Europe to Asia, bypassing the traditional land routes controlled by Arab traders. He later served as the Portuguese viceroy of India and died in Kochi in 1524. Who is this pioneering figure in European exploration?",
+            "answers": ["Vasco da Gama", "vasco degama"],
+            "incorrect1": "Ferdinand Magellan",
+            "incorrect2": "Christopher Columbus",
+            "incorrect3": "Amerigo Vespucci",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "Home to the Irrawaddy River, the country's most important commercial waterway, this Southeast Asian nation also boasts the world's largest book, housed in the Kuthodaw Pagoda. It is bordered by India, Bangladesh, China, Laos, and Thailand. This country is also home to the ancient city of Bagan, which boasts over 2,000 Buddhist temples and pagodas. What is this country which was once known as Burma?",
+            "answers": ["Myanmar", "Burma"],
+            "incorrect1": "Cambodia",
+            "incorrect2": "Laos",
+            "incorrect3": "Vietnam",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This educator secretly funded legal challenges to segregation laws while publicly advocating for a gradual approach to racial equality. Born into slavery in Virginia, he became a leading voice for vocational education for African Americans. He founded the Tuskegee Institute, a school that emphasized practical skills and self-reliance. His autobiography, \"Up from Slavery,\" chronicled his remarkable journey from bondage to prominence. Who is this influential figure in African-American history?",
+            "answers": ["Booker T. Washington"],
+            "incorrect1": "Martin Luther King Jr.",
+            "incorrect2": "Rutherford B. Hayes",
+            "incorrect3": "Frederick Douglass",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This iconic painting, depicting a late-night diner scene with four solitary figures, is known for its stark contrast of light and shadow, creating a sense of isolation and loneliness. Painted in 1942, it captures the mood of urban alienation in wartime America. The artist, inspired by a diner he saw in Greenwich Village, New York City, used his wife and himself as models for two of the figures. What is the title of this famous work by Edward Hopper?",
+            "answers": ["Nighthawks"],
+            "incorrect1": "Automat",
+            "incorrect2": "Early Sunday Morning",
+            "incorrect3": "The Scream",
             "used": "FALSE",
             "source": "Marty Heavey"
         }
