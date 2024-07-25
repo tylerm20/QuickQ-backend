@@ -5884,7 +5884,7 @@
         {
             "category": "World History",
             "question": "This region's inhabitants developed the first known written language, cuneiform, used to record everything from laws and religious texts to epic poems like the \"Epic of Gilgamesh.\" It is also home to the ancient city of Babylon, known for its Hanging Gardens, one of the Seven Wonders of the Ancient World. Situated between the Tigris and Euphrates rivers, it is often called the \"cradle of civilization.\" What is this historical region in the Middle East?",
-            "answers": ["Mesopotamia", "Fertile Crescent"],
+            "answers": ["Mesopotamia", "Fertile Crescent", "Sumer", "Akkadia"],
             "incorrect1": "Anatolia",
             "incorrect2": "Persia",
             "incorrect3": "Egypt",
@@ -5938,8 +5938,7 @@
                 "One Thousand and One Nights",
                 "1001 nights",
                 "arabian nights",
-                "1001 arabian nights",
-                ""
+                "1001 arabian nights"
             ],
             "incorrect1": "Dune",
             "incorrect2": "The Book of the New Sun",
