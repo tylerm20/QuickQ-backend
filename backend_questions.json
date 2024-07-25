@@ -5960,7 +5960,7 @@
         },
         {
             "category": "Sports",
-            "question": "This NBA team, originally the Charlotte Hornets, relocated to New Orleans in 2002 before adopting their current name in 2013, inspired by the state bird. They achieved their first playoff series victory in 2008, led by Chris Paul, and most recently made the playoffs in 2022 with a roster headlined by Zion Williamson and Brandon Ingram. What is the name of this team, whose colors of navy blue, red, and gold represent the city's Mardi Gras celebrations?",
+            "question": "This NBA team achieved its first playoff series victory in 2008, led by Chris Paul, and most recently made the playoffs in 2022 with a roster headlined by Zion Williamson and Brandon Ingram. The team, originally the Charlotte Hornets, relocated to New Orleans in 2002 before adopting their current name in 2013, inspired by the state bird. What is the name of this team, whose colors of navy blue, red, and gold represent the city's Mardi Gras celebrations?",
             "answers": ["New Orleans Pelicans", "Pelicans"],
             "incorrect1": "Charlotte Hornets",
             "incorrect2": "Orlando Magic",
@@ -5985,7 +5985,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This, a training ground for climbers preparing for Himalayan expeditions, had five climbers die within one week at the beginning of its climbing season. The active volcano, last erupting in 1707, is the highest peak in its home nation. It is considered one of its nation's \"Three Holy Mountains\" and is a UNESCO World Heritage site. Its iconic snow-capped peak has been depicted in countless works of art and is a popular tourist destination. What is the name of this stratovolcano located in Japan?",
+            "question": "This mountain, a training ground for climbers preparing for Himalayan expeditions, had five climbers die within one week at the beginning of its climbing season. The active volcano, last erupting in 1707, is the highest peak in its home nation. It is considered one of its nation's \"Three Holy Mountains\" and is a UNESCO World Heritage site. Its iconic snow-capped peak has been depicted in countless works of art and is a popular tourist destination. What is the name of this stratovolcano located in Japan?",
             "answers": ["Mount Fuji", "Mt Fuji", "Fuji"],
             "incorrect1": "Mount Everest",
             "incorrect2": "K2",
