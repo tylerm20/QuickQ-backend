@@ -5905,9 +5905,9 @@
             "category": "US History",
             "question": "This former lawyer and military general participated in the War of 1812 and led American forces in the Battle of New Orleans. He was known for his populist appeal and his support for the common man, earning him the nickname \"Old Hickory.\" His presidency was marked by the Indian Removal Act, which led to the forced displacement of Native American tribes in what is now known as the Trail of Tears. Who was this controversial figure who served as the seventh president of the United States?",
             "answers": ["Andrew Jackson"],
-            "incorrect1": "",
-            "incorrect2": "",
-            "incorrect3": "",
+            "incorrect1": "Zachary Taylor",
+            "incorrect2": "James K. Polk",
+            "incorrect3": "Martin Van Buren",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5933,7 +5933,7 @@
         },
         {
             "category": "Arts & Literature",
-            "question": "This collection of Middle Eastern folk tales, narrated by Scheherazade to King Shahryar, features a vast array of characters like Sinbad the Sailor, Aladdin, and Ali Baba. Its stories, originating from various cultures including Persian, Indian, and Arabic, were compiled over centuries. The frame story involves Scheherazade using her storytelling to delay her execution, keeping the king captivated for over three years. What is the name of this famous collection?",
+            "question": "This collection of Middle Eastern folk tales, narrated by Scheherazade to King Shahryar, features a vast array of characters like Sinbad the Sailor, Aladdin, and Ali Baba. Its stories, originating from various cultures including Persian, Indian, and Arabic, were compiled over centuries. The frame story involves Scheherazade using her storytelling to delay her execution, keeping the king captivated for almost three years. What is the name of this famous collection?",
             "answers": [
                 "One Thousand and One Nights",
                 "1001 nights",
@@ -6040,9 +6040,9 @@
             "category": "US History",
             "question": "This labor leader and civil rights activist, co-founder of the National Farm Workers Association (later the United Farm Workers), organized grape boycotts and hunger strikes to protest the working conditions of farmworkers. A strong believer in nonviolence, he often employed fasting as a means of protest. Born in Yuma, Arizona, he experienced firsthand the hardships of migrant farm work. He advocated for better wages, working conditions, and basic human rights for farmworkers. Who is this iconic figure in American labor history who is celebrated with a federal holiday on March 31 each year?",
             "answers": ["Cesar Chavez"],
-            "incorrect1": "",
-            "incorrect2": "",
-            "incorrect3": "",
+            "incorrect1": "Dolores Huerta",
+            "incorrect2": "Rodolfo \"Corky\" Gonzales",
+            "incorrect3": "Reies Tijerina",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6167,9 +6167,9 @@
                 "Crisis in Cuba",
                 "Carribean Crisis"
             ],
-            "incorrect1": "",
-            "incorrect2": "",
-            "incorrect3": "",
+            "incorrect1": "Suez Crisis",
+            "incorrect2": "Berlin Blockade",
+            "incorrect3": "Bay of Pigs Invasion",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6249,9 +6249,9 @@
             "category": "US History",
             "question": "This lawyer, known for his sharp wit and brilliant legal mind, argued 32 cases before the Supreme Court and won 29 of them. He served as the chief counsel for the NAACP Legal Defense and Educational Fund, where he played a pivotal role in dismantling segregation in the landmark Brown v. Board of Education case. In 1967, he became the first African American to be appointed to the Supreme Court, serving for 24 years until his retirement in 1991. Who is this groundbreaking figure in American legal history?",
             "answers": ["Thurgood Marshall"],
-            "incorrect1": "",
-            "incorrect2": "",
-            "incorrect3": "",
+            "incorrect1": "Clarence Thomas",
+            "incorrect2": "John Marshall Harlan",
+            "incorrect3": "William J. Brennan Jr.",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
