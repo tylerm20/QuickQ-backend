@@ -6037,8 +6037,8 @@
     [
         {
             "category": "US History",
-            "question": "This labor leader and civil rights activist, co-founder of the National Farm Workers Association (later the United Farm Workers), organized grape boycotts and hunger strikes to protest the working conditions of farmworkers. A strong believer in nonviolence, he often employed fasting as a means of protest. Born in Yuma, Arizona, he experienced firsthand the hardships of migrant farm work. He advocated for better wages, working conditions, and basic human rights for farmworkers. Who is this iconic figure in American labor history who is celebrated with a federal holiday on March 31 each year?",
-            "answers": ["Cesar Chavez"],
+            "question": "Born in Yuma, Arizona, this labor leader experienced firsthand the hardships of migrant farm work. He advocated for better wages, working conditions, and basic human rights for farmworkers. This civil rights activist, co-founder of the National Farm Workers Association (later the United Farm Workers), organized grape boycotts and hunger strikes to protest the working conditions of farmworkers. A strong believer in nonviolence, he often employed fasting as a means of protest. Who is this iconic figure in American labor history who is celebrated with a federal holiday on March 31 each year?",
+            "answers": ["Cesar Chavez", "Chavez"],
             "incorrect1": "Dolores Huerta",
             "incorrect2": "Rodolfo \"Corky\" Gonzales",
             "incorrect3": "Reies Tijerina",
@@ -6048,7 +6048,7 @@
         {
             "category": "Entertainment",
             "question": "This medical drama, set in Seattle, Washington, follows the lives of surgical interns, residents, and attendings as they navigate personal and professional challenges. Its first episode aired in 2005 as a mid-season replacement, and it has since become one of the longest-running primetime medical dramas in American television history. The show's title is a play on words, referencing both the main character's name and a classic anatomy textbook. What is this show known for its dramatic twists, love triangles, and heartbreaking departures?",
-            "answers": ["Grey's Anatomy"],
+            "answers": ["Grey's Anatomy", "Grays Anatomy"],
             "incorrect1": "House",
             "incorrect2": "Scrubs",
             "incorrect3": "ER",
@@ -6057,7 +6057,7 @@
         },
         {
             "category": "Current Events",
-            "question": "The President of this American University resigned amid controversy after being accused of plagiarism in their academic work. This came after the president, Claudine Gay, testified in front on Congress on the campus's response to accusations of anti-semitism. The hearing led to the resignation of another university presidenty, Liz Magill, from University of Pennsylvania. This university is located in Cambridge, Massachusetts, and it is part of the historic Ivy League. Name this university, the oldest in the United States.",
+            "question": "The President of this American University resigned amid controversy after being accused of plagiarism in her academic work. This came after the president, Claudine Gay, testified in front on Congress on the campus's response to accusations of anti-semitism. The hearing led to the resignation of another university presidenty, Liz Magill, from University of Pennsylvania. This university is located in Cambridge, Massachusetts, and it is part of the historic Ivy League. Name this university, the oldest in the United States.",
             "answers": ["Harvard University", "Harvard"],
             "incorrect1": "UCLA",
             "incorrect2": "USC",
