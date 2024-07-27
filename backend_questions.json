@@ -6139,7 +6139,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This rebel militia launched a drone attack against Tel Aviv, Israel which killed at least one person. Israel then responded by bombing parts Yemen controlled by this rebel group. The primarily Zaidi Shia Muslim group, named after its founder, has been engaged in a protracted conflict in Yemen since 2014. They control the capital Sana'a and much of the northern highlands. They are supported by Iran and have launched numerous missile and drone attacks against Saudi Arabia. What is the name of this Yemeni rebel group?",
+            "question": "This rebel militia launched a drone attack against Tel Aviv, Israel which killed at least one person. Israel then responded by bombing parts Yemen controlled by this rebel group. The primarily Zaidi Shia Muslim group, named after its founder, has been engaged in a protracted conflict in Yemen since 2014. They control the capital Sana'a and much of the northern highlands. They are supported by Iran and have launched numerous missile and drone attacks against Saudi Arabia as well as container ships entering the Red Sea. What is the name of this Yemeni rebel group?",
             "answers": ["Houthi", "Houthi militia", "Houthi rebels"],
             "incorrect1": "Al-Qaeda",
             "incorrect2": "ISIS",
@@ -6177,7 +6177,7 @@
             "question": "This natural wonder, visible from outer space, is actually composed of over 2,900 individual reefs and 900 islands, stretching for 2,300 kilometers (1,400 miles). Home to over 1,500 species of fish, 411 types of hard coral, and one-third of the world's soft corals, it is the world's largest coral reef system. What is this iconic landmark, located off the coast of Queensland, Australia?",
             "answers": ["Great Barrier Reef"],
             "incorrect1": "Ningaloo Reef",
-            "incorrect2": "Red Sea Coral Reef",
+            "incorrect2": "Raja Ampat",
             "incorrect3": "Red Sea Coral Reef",
             "used": "FALSE",
             "source": "Marty Heavey"
