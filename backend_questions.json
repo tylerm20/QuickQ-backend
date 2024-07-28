@@ -6230,7 +6230,7 @@
             "answers": ["Peter Paul Rubens", "Rubens"],
             "incorrect1": "Rembrandt van Rijn",
             "incorrect2": "Anthony van Dyck",
-            "incorrect3": "Anthony van Dyck",
+            "incorrect3": "Caravaggio",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6266,7 +6266,7 @@
         },
         {
             "category": "Sports",
-            "question": "This NBA team, founded in 1970 as an expansion team, play their home games at Rocket Mortgage FieldHouse, which they share with the Monsters of the American Hockey League. They experienced a period of dominance in the mid-2010s led by LeBron James, Kyrie Irving, and Kevin Love, culminating in their first NBA championship in 2016. TheyWhat is this team, known for its wine and gold color scheme?",
+            "question": "This NBA team, founded in 1970 as an expansion team, play their home games at Rocket Mortgage FieldHouse, which they share with the Monsters of the American Hockey League. They experienced a period of dominance in the mid-2010s led by LeBron James, Kyrie Irving, and Kevin Love, culminating in their first NBA championship in 2016. What is this team, known for its wine and gold color scheme?",
             "answers": ["Cleveland Cavaliers", "Cavaliers"],
             "incorrect1": "Boston Celtics",
             "incorrect2": "Los Angeles Lakers",
