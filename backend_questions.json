@@ -6298,7 +6298,7 @@
         },
         {
             "category": "Current Events",
-            "question": "On July 21, 2024, this politician was endorsed by President Joe Biden to be his party's nominee for the 2024 US presidential election. This politician was born in Oakland, California and rose through the ranks in California politics starting as a prosecutor. In 2016, she became the second African-American woman and the first South Asian American to serve in the U.S. Senate. She ran for president in 2020 but withdrew before primary voting began. Name this woman who became the first female vice president in US history when in 2020.",
+            "question": "On July 21, 2024, this politician was endorsed by President Joe Biden to be his party's nominee for the 2024 US presidential election. This politician was born in Oakland, California and rose through the ranks in California politics starting as a prosecutor. In 2016, she became the second African-American woman and the first South Asian American to serve in the U.S. Senate. She ran for president in 2020 but withdrew before primary voting began. Name this woman who became the first female vice president in US history in 2020.",
             "answers": ["Kamala Harris"],
             "incorrect1": "Josh Shapiro",
             "incorrect2": "J.D. Vance",
@@ -6358,11 +6358,432 @@
         },
         {
             "category": "Arts & Literature",
-            "question": "This iconic painting, depicting a late-night diner scene with four solitary figures, is known for its stark contrast of light and shadow, creating a sense of isolation and loneliness. Painted in 1942, it captures the mood of urban alienation in wartime America. The artist, inspired by a diner he saw in Greenwich Village, New York City, used his wife and himself as models for two of the figures. What is the title of this famous work by Edward Hopper?",
+            "question": "Painted in 1942, this painting captures the mood of urban alienation in wartime America. The artist, inspired by a diner he saw in Greenwich Village, New York City, used his wife and himself as models for two of the figures. The painting, depicting a late-night diner scene with four solitary figures, is known for its stark contrast of light and shadow, creating a sense of isolation and loneliness. What is the title of this famous work by Edward Hopper?",
             "answers": ["Nighthawks"],
             "incorrect1": "Automat",
             "incorrect2": "Early Sunday Morning",
             "incorrect3": "The Scream",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This sitcom, the highest-rated show on television for five consecutive seasons in the 1980s, centered on the Huxtable family, an upper-middle-class African American family living in Brooklyn. It featured a renowned comedian as the patriarch, Dr. Heathcliff Huxtable, and his lawyer wife, Clair. The show broke ground by portraying a positive and successful Black family, challenging stereotypes and inspiring a generation. Which show, known for its heartwarming humor and family values, is this?",
+            "answers": ["The Cosby Show"],
+            "incorrect1": "Family Ties",
+            "incorrect2": "Full House",
+            "incorrect3": "The Fresh Prince of Bel-Air",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "This scientist, who initially had no formal academic training, was encouraged by anthropologist Louis Leakey to study chimpanzees in their natural habitat. In 1960, she began her groundbreaking research at Gombe Stream National Park in Tanzania. Her observations challenged prevailing assumptions about chimpanzees, revealing their tool-making abilities, complex social structures, and emotional depth. Who was this primatologist whose work revolutionized our understanding of animal behavior and conservation?",
+            "answers": ["Jane Goodall"],
+            "incorrect1": "Dian Fossey",
+            "incorrect2": "David Attenborough",
+            "incorrect3": "Charles Darwin",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This president holds the unique distinction of being the only person to lead both the executive and judicial branches of the U.S. government. Appointed Secretary of War by President Theodore Roosevelt, he later succeeded him as President in 1909. After his presidency, he fulfilled a lifelong dream by becoming Chief Justice of the Supreme Court in 1921. Which president, known for his jovial personality and considerable size, was once famously rumored to have gotten stuck in the White House bathtub?",
+            "answers": ["William Howard Taft", "Taft"],
+            "incorrect1": "Warren G. Harding",
+            "incorrect2": "Theodore Roosevelt",
+            "incorrect3": "Woodrow Wilson",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This team, founded in 1960, was initially a member of the American Football League (AFL) before joining the NFL following the merger in 1970. They played their home games at the iconic Mile High Stadium until 2000, before moving to Empower Field at Mile High. They have won eight AFC Championships and three Super Bowl titles, with their most recent victory in Super Bowl 50 in 2016. What is the name of this NFL team, known for its orange and blue uniforms and passionate fanbase?",
+            "answers": ["Denver Broncos", "Broncos"],
+            "incorrect1": "New England Patriots",
+            "incorrect2": "Green Bay Packers",
+            "incorrect3": "Dallas Cowboys",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "This ocean is the third-largest on Earth. It's home to a variety of unique marine life, including the endangered dugong and the elusive whale shark. It's also the site of the Maldives, a chain of 26 atolls known for their luxurious resorts and pristine beaches. This ocean is named after the the subcontinent which forms its northern rim. Which ocean is this, a major trade route for centuries, connecting East Africa, the Middle East, and Southeast Asia?",
+            "answers": ["Indian Ocean", "Indian"],
+            "incorrect1": "Pacific Ocean",
+            "incorrect2": "Mediterrean Sea",
+            "incorrect3": "Red Sea",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This theologian's translation of the Bible into vernacular German made it accessible to a wider audience and contributed to the spread of literacy. He was a key figure in the Protestant Reformation, which led to the establishment of new Christian denominations. His 95 Theses, nailed to a church door in Wittenberg in 1517, challenged the Catholic Church's practice of selling indulgences. Who was this German reformer, whose teachings emphasized the importance of faith alone for salvation?",
+            "answers": ["Martin Luther"],
+            "incorrect1": "Desiderius Erasmus",
+            "incorrect2": "Huldrych Zwingli",
+            "incorrect3": "John Calvin",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This sporting event was won by Tadej Pogacar from Slovenia on team UAE in 2024. This iconic race, first held in 1903, was initially conceived as a publicity stunt to boost newspaper sales. Its grueling cycling route covers over 3,000 kilometers across France, incorporating various terrains like mountains, flatlands, and cobbled roads. The leader of the race wears a distinctive yellow jersey, symbolizing the overall standings. Which race, often referred to as the \"Grand Boucle,\" is considered the most prestigious in professional cycling?",
+            "answers": ["Tour de France"],
+            "incorrect1": "Giro d'Italia",
+            "incorrect2": "Vuelta a Espa\u00f1a",
+            "incorrect3": "Paris\u2013Roubaix",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This author's early life in a small Colombian town, surrounded by his grandparents' stories and local folklore, heavily influenced his distinctive literary style. He began his career as a journalist, but his passion for storytelling led him to write fiction infused with magical realism. His most celebrated novel, published in 1967, tells the multi-generational saga of the Buend\u00eda family in the fictional town of Macondo. This novel became a landmark in Latin American literature and a global bestseller. Who was this Nobel laureate in Literature, often referred to as \"Gabo,\" whose works continue to captivate readers with their blend of fantasy and reality?",
+            "answers": ["Gabriel Garc\u00eda M\u00e1rquez", "Garcia Marquez"],
+            "incorrect1": "Isabel Allende",
+            "incorrect2": "Jorge Luis Borges",
+            "incorrect3": "Pablo Neruda",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "Landslides killed at least 257 people in this nation in July 2024. This country is the most populous landlocked nation on Earth and the second most populous country in Africa. This East African nation was once ruled by a female pharaoh, Candace of Mero\u00eb, around the 1st century AD. It's the only country in Africa never to have been colonized by European powers, except for a brief occupation by Italy from 1936 to 1941.  What nation is home to the ancient rock-hewn churches of Lalibela with the capital of Addis Ababa?",
+            "answers": ["Ethiopia"],
+            "incorrect1": "Nigeria",
+            "incorrect2": "Kenya",
+            "incorrect3": "South Africa",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "This element is the most abundant element in the universe, constituting roughly 75% of all normal matter. It's a key component of stars, where it fuels nuclear fusion reactions. On Earth, it exists primarily in compounds like water and hydrocarbons. Despite its abundance, it's rarely found in its pure form and requires energy to isolate. What element, with just one proton and one electron, is the lightest and simplest in the periodic table?",
+            "answers": ["Hydrogen"],
+            "incorrect1": "Oxygen",
+            "incorrect2": "Carbon",
+            "incorrect3": "Helium",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This jazz singer, whose birth name was Eleanora Fagan, was nicknamed \"Lady Day\" by her friend and musical partner, saxophonist Lester Young. Her signature song, \"Strange Fruit,\" a haunting protest against lynching, became a controversial yet defining moment in her career. Despite a troubled personal life marked by substance abuse and legal battles, her raw, emotional vocal style and innovative phrasing left an enduring mark on jazz music. Who was this iconic artist, often regarded as one of the greatest jazz vocalists of all time?",
+            "answers": ["Billie Holiday", "holiday"],
+            "incorrect1": "Ella Fitzgerald",
+            "incorrect2": "Sarah Vaughan",
+            "incorrect3": "Dinah Washington",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This 13th-century philosopher and theologian, known as the \"Angelic Doctor,\" was a key figure in the Scholasticism movement. He is best known for his magnum opus, the \"Summa Theologica,\" a comprehensive systematic exposition of Christian theology. His teachings, which combined Aristotelian philosophy with Christian doctrine, remain influential in Catholic theology today. Who was this Dominican friar, declared a Doctor of the Church in 1567?",
+            "answers": ["Thomas Aquinas", "aquinas"],
+            "incorrect1": "Augustine of Hippo",
+            "incorrect2": "Aristotle",
+            "incorrect3": "Plato",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This team, founded in 1993 as an expansion team, plays its home games at Coors Field, known for its high altitude and hitter-friendly environment. They hold the MLB record for the most batting titles won by a team since their inception. Their most successful season came in 2007, when they won the National League pennant and reached the World Series. Which team, named after the iconic mountain range that dominates their home state, is this?",
+            "answers": ["Colorado Rockies", "Rockies"],
+            "incorrect1": "San Diego Padres",
+            "incorrect2": "Arizona Diamondbacks",
+            "incorrect3": "Los Angeles Dodgers",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "This ocean is home to the Mid-Atlantic Ridge, the longest mountain range on Earth, spanning over 10,000 miles. This ocean played a crucial role in the Age of Exploration, as European powers sought new trade routes to Asia and the Americas. It's also the site of the Bermuda Triangle, a region known for mysterious disappearances of ships and aircraft. This ocean, the second-largest in the world, was named after the Greek titan Atlas. What ocean, separating the Americas from Europe and Africa, is this?",
+            "answers": ["Atlantic Ocean", "atlantic"],
+            "incorrect1": "Pacific Ocean",
+            "incorrect2": "Arctic Ocean",
+            "incorrect3": "Mediterrean Sea",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This aviation pioneer, born in Atchison, Kansas, in 1897, was a vocal advocate for women's rights and a role model for aspiring female aviators. During her attempt to circumnavigate the globe in 1937, she mysteriously disappeared over the Pacific Ocean, sparking numerous theories and searches that continue to this day. She was  the first woman to fly solo across the Atlantic Ocean in 1932. Who was this iconic figure, whose legacy lives on as a symbol of courage and adventure?",
+            "answers": ["Amelia Earhart", "Earhart"],
+            "incorrect1": "Charles Lindbergh",
+            "incorrect2": "Neil Armstrong",
+            "incorrect3": "Orville Wright",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This author's father was a renowned physician and public health advocate in France. He was known for his close friendships with the composer Reynaldo Hahn and painter Lucien Daudet. He served a year of military service, stationed at Coligny Barracks in Orl\u00e9ans, an experience that would later feature in his novel. He gained literary recognition in the early 20th century for his monumental novel, a seven-volume exploration of memory, time, and society, often considered one of the greatest works of literature ever written. Who is this author of \"In Search of Lost Time\"?",
+            "answers": ["Marcel Proust", "Proost"],
+            "incorrect1": "Franz Kafka",
+            "incorrect2": "James Joyce",
+            "incorrect3": "Virginia Woolf",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "question": "This animal's stripes, unique to each individual, were once thought to serve as camouflage. However, recent research suggests the stripes may disrupt the visual perception of biting flies, thus deterring them from landing. Their social structure revolves around small family groups led by a dominant stallion. They are primarily herbivorous grazers, feeding on grasses and leaves in the African savannas. What equid, closely related to horses and donkeys, is known for its distinctive black and white striped coat?",
+            "answers": ["Zebra"],
+            "incorrect1": "Horse",
+            "incorrect2": "Giraffe",
+            "incorrect3": "Lion",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This president's early life was marked by tragedy, losing both parents before the age of ten. He later became a successful mining engineer, working internationally and amassing considerable wealth. During World War I, he gained recognition for his humanitarian efforts, coordinating food relief for war-torn Europe. Which president, often associated with the Great Depression, saw his popularity plummet due to his administration's perceived inability to address the economic crisis?",
+            "answers": ["Herbert Hoover", "Hoover"],
+            "incorrect1": "Franklin D. Roosevelt",
+            "incorrect2": "Calvin Coolidge",
+            "incorrect3": "Abraham Lincoln",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This organization has been engaged in small scale fighting on the northern border of Israel. The group, whose name translates to \"Party of God,\" was founded in 1982 in response to the Israeli invasion of Lebanon. It receives financial and military support from Iran and is considered a terrorist organization by many Western nations. They have been a significant political force in Lebanon, holding seats in parliament and participating in the government. Which group, known for its military wing and social services network, is this?",
+            "answers": ["Hezbollah"],
+            "incorrect1": "Hamas",
+            "incorrect2": "Al-Qaeda",
+            "incorrect3": "The Taliban",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This iconic artwork, consisting of 32 canvases was first exhibited in Los Angeles in 1962. It was initially met with mixed reactions, with some critics questioning its artistic merit. Despite the controversy, the work, which depcits pantry staples, quickly gained recognition as a defining piece of Pop Art, a movement that challenged traditional notions of what constituted art. The artist, Andy Warhol, is known for his use of mass-produced imagery and his exploration of consumer culture. What is the name of this artwork, now considered a masterpiece of modern art?",
+            "answers": ["Campbell's Soup Cans", "Soup Cans"],
+            "incorrect1": "Marilyn Diptych",
+            "incorrect2": "Guernica",
+            "incorrect3": "The Persistence of Memory",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This monarch's reign of 72 years and 110 days is the longest recorded of any monarch of a sovereign country in European history. He ascended the throne at the age of four, following the death of his father. He built the magnificent Palace of Versailles, which served as the seat of the French government and a symbol of his absolute power. He was known as the \"Sun King,\" and he adopted the sun as his emblem. Who was this absolute monarch, who famously declared, \"L'\u00c9tat, c'est moi\" (\"I am the state\")?",
+            "answers": [
+                "Louis XIV",
+                "Louis the 14",
+                "Louis the fourteenth",
+                "King Louis"
+            ],
+            "incorrect1": "Henry VIII",
+            "incorrect2": "Charles V",
+            "incorrect3": "Philip II",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "This Great Lake, the only one entirely within the United States, is named after the Ojibwe word \"mishigami,\" meaning \"large lake.\" Its shoreline stretches over 1,600 miles and includes the Indiana Dunes National Park. It serves as a vital shipping route, connecting the Midwest to the Atlantic Ocean via the Great Lakes-St. Lawrence Seaway. What is the name of this freshwater lake, the second-largest of the Great Lakes by volume, which has a port in Chicago?",
+            "answers": ["Lake Michigan", "Michigan"],
+            "incorrect1": "Lake Huron",
+            "incorrect2": "Lake Placid",
+            "incorrect3": "Caspian Sea",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This band's debut album, \"Appetite for Destruction,\" released in 1987, is one of the best-selling albums of all time. Their hit song, \"Sweet Child o' Mine,\" features a guitar solo by Slash widely considered one of the greatest in rock history. Their infamous feud with Nirvana at the 1992 MTV Video Music Awards is a legendary moment in rock 'n' roll history. Known for their rebellious image and energetic live shows, they were inducted into the Rock and Roll Hall of Fame in 2012. Which band, fronted by Axl Rose, is this?",
+            "answers": ["Guns N' Roses", "Guns and roses"],
+            "incorrect1": "Aerosmith",
+            "incorrect2": "Bon Jovi",
+            "incorrect3": "Metallica",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This footballer, born Edson Arantes do Nascimento, earned his nickname as a child while playing for a local youth team. He won three FIFA World Cups with Brazil, the only player to achieve this feat. He scored a record 1,281 goals in his career, earning him the title \"The King of Football.\" Which football legend, who started his professional career at the age of 15 with Santos FC, is this?",
+            "answers": ["Pel\u00e9", "Pele"],
+            "incorrect1": "Lionel Messi",
+            "incorrect2": "Cristiano Ronaldo",
+            "incorrect3": "Zlatan Ibrahimovi\u0107",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This miniseries, based on the non-fiction book by Stephen Ambrose, depicts the experiences of Easy Company, 506th Parachute Infantry Regiment, 101st Airborne Division, from their training in Georgia to the end of World War II. The series, which aired in 2001, was executive produced by Steven Spielberg and Tom Hanks, and features an ensemble cast, including Damian Lewis, Ron Livingston, and Donnie Wahlberg. Which miniseries, known for its realistic portrayal of combat and the bonds formed among soldiers, is this?",
+            "answers": ["Band of Brothers"],
+            "incorrect1": "The Pacific",
+            "incorrect2": "Saving Private Ryan",
+            "incorrect3": "M*A*S*H",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "This city, situated on the Yangtze River Delta, is the most populous city proper in the world. Its name translates to \"Upon the Sea,\" reflecting its location on the East China Sea. It's a major global financial center, home to the an important stock exchange and the Lujiazui financial district. It's also known for its iconic skyline, featuring the Oriental Pearl Tower and the Shanghai World Financial Center. What city, often referred to as the \"Paris of the East,\" is this?",
+            "answers": ["Shanghai", "Shanghai China"],
+            "incorrect1": "Beijing",
+            "incorrect2": "Tokyo",
+            "incorrect3": "Hong Kong",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "This scientist was a member of Parliament for the University of Cambridge for a brief period in the late 17th century. He suffered a nervous breakdown in 1693, possibly due to mercury poisoning from his alchemical experiments. He developed calculus, a branch of mathematics essential for modern physics and engineering. This scientist is most renowned for formulating the laws of motion and universal gravitation, laying the groundwork for classical mechanics. Who was this brilliant mind, often regarded as the father of modern science?",
+            "answers": ["Isaac Newton", "Newton"],
+            "incorrect1": "Galileo Galilei",
+            "incorrect2": "Leonardo da Vinci",
+            "incorrect3": "Albert Einstein",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This quarterback, nicknamed \"Joe Cool\" for his calm demeanor under pressure, led his team to four Super Bowl victories in the 1980s. He's known for orchestrating \"The Catch,\" a game-winning touchdown pass in the 1982 NFC Championship Game. He played college football for Notre Dame, where he led the Fighting Irish to a national championship in 1977. He was inducted into the Pro Football Hall of Fame in 2000. Who was this quarterback, considered one of the greatest of all time, who played most of his career with the San Francisco 49ers?",
+            "answers": ["Joe Montana", "Montana"],
+            "incorrect1": "Tom Brady",
+            "incorrect2": "Peyton Manning",
+            "incorrect3": "Peyton Manning",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This river played host to the 2024 Olympic opening ceremonies as athletes paraded on boats. The Olympic host nation, France, spent $1.5 billion dollars to clean up this river which has long held unsafe levels of sewage for swimming. This river's name derives from the Celtic word \"Sequana,\" referring to the goddess of the river. Its meandering path through northern France spans 777 kilometers, flowing through the heart of Paris and under its iconic bridges. Name this river whose banks in Paris are known as the \"Rive Gauche\" and \"Rive Droite.\"",
+            "answers": [
+                "The Seine",
+                "Seine",
+                "River Seine",
+                "San",
+                "Seine River"
+            ],
+            "incorrect1": "The Thames",
+            "incorrect2": "The Rhine",
+            "incorrect3": "The Danube",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This novel, initially published under the pseudonym Ellis Bell, was met with mixed reviews upon its release in 1847. Set in the harsh and windswept Yorkshire moors, the story revolves around the tumultuous relationship between Heathcliff and Catherine Earnshaw, whose passionate love is marred by revenge, class divisions, and a haunting atmosphere. The novel's complex narrative structure, shifting between multiple narrators and timelines, adds to its enigmatic appeal. What is the title of this Gothic masterpiece by Emiliy Bronte, often considered one of the greatest works of English literature?",
+            "answers": ["Wuthering Heights", "Withering Heights"],
+            "incorrect1": "Pride and Prejudice",
+            "incorrect2": "Jane Eyre",
+            "incorrect3": "Jane Eyre",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This conflict, documented by the contemporary historian Thucydides, was a clash between two powerful alliances led by Athens and Sparta. It lasted for nearly three decades, from 431 to 404 BC, and resulted in the decline of the Athenian Golden Age. The war's origins were rooted in the growing tensions between the Athenian-led Delian League and the Spartan-led Peloponnesian League. What was the name of this ancient Greek war, known for its devastating impact on the region?",
+            "answers": ["Peloponnesian War", "Peloponnesian"],
+            "incorrect1": "Persian War",
+            "incorrect2": "Punic War",
+            "incorrect3": "Trojan War",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This author's father was a prominent theologian and her sister was a pioneer in women's education. Although she had limited firsthand experience with slavery, her most famous work, published in 1852, had a profound impact on the abolitionist movement. This book was so influential that it is often cited as one of the causes of the American Civil War. Who was this author, whose fictional portrayal of the horrors of slavery in \"Uncle Tom's Cabin\" sparked outrage and fueled the national debate on the issue?",
+            "answers": ["Harriet Beecher Stowe", "Stowe"],
+            "incorrect1": "Louisa May Alcott",
+            "incorrect2": "Mary Shelley",
+            "incorrect3": "Emily Dickinson",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "question": "This European capital, located on the Manzanares River, is known for its high altitude, making it one of the highest capital cities in Europe. Its central square, the Puerta del Sol, is the symbolic center of Spain and the country's road network. The city is home to the \"Golden Triangle of Art,\" consisting of three world-renowned museums: the Prado, Reina Sof\u00eda, and Thyssen-Bornemisza. Which city, the capital of Spain, is this?",
+            "answers": ["Madrid", "Madrid Spain"],
+            "incorrect1": "Barcelona",
+            "incorrect2": "Lisbon",
+            "incorrect3": "Rome",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This footballer, born in a shantytown on the outskirts of Buenos Aires, began his professional career at the age of 15. He played for several clubs throughout his career, including Barcelona, Napoli, and Boca Juniors, achieving legendary status in Naples. He led Argentina to victory in the 1986 World Cup, scoring the infamous \"Hand of God\" goal and the \"Goal of the Century\" in the same match against England. Who was this controversial figure, known for his exceptional dribbling skills and passionate personality, whose life was marked by both triumph and tragedy?",
+            "answers": ["Diego Maradona", "Maradona"],
+            "incorrect1": "Lionel Messi",
+            "incorrect2": "Cristiano Ronaldo",
+            "incorrect3": "Johan Cruyff",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This cybersecurity firm's faulty update in July 2024 triggered a widespread system failure, impacting millions of Windows devices worldwide. The outage led to disruptions in various sectors, including healthcare, finance, and emergency services. Although not a cyberattack, this incident raised concerns about the vulnerability of digital infrastructure to software glitches. Which company, known for its endpoint security solutions, was responsible for this major outage?",
+            "answers": ["Crowdstrike", "Crowd Strike"],
+            "incorrect1": "McAfee",
+            "incorrect2": "Norton",
+            "incorrect3": "Kaspersky",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "question": "This scientist, known for his quirky personality and bongo playing, was not only a key figure in the Manhattan Project but also cracked safes for fun at Los Alamos. His namesake diagrams, a simple way to visualize complex particle interactions, revolutionized quantum physics. He received the Nobel Prize in Physics in 1965 for his work on quantum electrodynamics. This scientist also gave a famous lecture in 1959 proposing the manipulation of matter at the atomic level, which laid the groundwork for nanotechnology. Who is this influential figure, often referred to as \"The Great Explainer\"?",
+            "answers": ["Richard Feynman", "Feinman"],
+            "incorrect1": "Stephen Hawking",
+            "incorrect2": "Nikola Tesla",
+            "incorrect3": "Marie Curie",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This philosopher's teachings, which emphasized personal and governmental morality, correct social relationships, justice, and sincerity, have deeply influenced Chinese and East Asian thought and life for over two millennia. He believed in the importance of strong family bonds, ancestor veneration, and respect for elders. His followers recorded his teachings in the Analects, a collection of sayings and ideas that has become a fundamental text in Chinese philosophy. Which philosopher, born in 551 BCE in the state of Lu, is this?",
+            "answers": ["Confucius"],
+            "incorrect1": "Lao Tzu",
+            "incorrect2": "Menicius",
+            "incorrect3": "Zhuangzi",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This author, known for his minimalist writing style, worked as an ambulance driver in Italy during World War I. He was part of the \"Lost Generation\" of American expatriates in Paris during the 1920s, where he befriended other literary figures like F. Scott Fitzgerald and Gertrude Stein. A keen sportsman, he enjoyed bullfighting, hunting, and fishing, which often featured in his works. Who was this Nobel laureate in Literature, famous for novels like \"The Sun Also Rises\" and \"For Whom the Bell Tolls\"?",
+            "answers": ["Ernest Hemingway", "Hemingway"],
+            "incorrect1": "F. Scott Fitzgerald",
+            "incorrect2": "F. Scott Fitzgerald",
+            "incorrect3": "John Steinbeck",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This sitcom, set in Pasadena, California, follows the lives of four socially awkward scientists and their interactions with their aspiring actress neighbor. The show's theme song, performed by the Barenaked Ladies, offers a brief summary of the universe's history from the Big Bang to the present day. The show launched the careers of several actors, including Jim Parsons, who won four Emmy Awards for his portrayal of the brilliant but socially inept Sheldon Cooper. What is the name of this long-running sitcom, known for its quirky humor and scientific references?",
+            "answers": ["The Big Bang Theory"],
+            "incorrect1": "Friends",
+            "incorrect2": "Seinfeld",
+            "incorrect3": "How I Met Your Mother",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This president was born in Kinderhook, New York, in 1782, making him the first U.S. president to be born a U.S. citizen, rather than a British subject. He was also the first president whose native language was not English; he grew up speaking Dutch. Nicknamed \"The Little Magician\" for his political skills, he served as Secretary of State under Andrew Jackson before becoming vice president and eventually president in 1837. Which president faced the Panic of 1837, a major economic downturn shortly after taking office?",
+            "answers": ["Martin Van Buren", "VanBuren"],
+            "incorrect1": "John Quincy Adams",
+            "incorrect2": "Andrew Jackson",
+            "incorrect3": "James K. Polk",
             "used": "FALSE",
             "source": "Marty Heavey"
         }
