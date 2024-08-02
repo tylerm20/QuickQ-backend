@@ -6554,7 +6554,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This organization has been engaged in small scale fighting on the northern border of Israel. The group, whose name translates to \"Party of God,\" was founded in 1982 in response to the Israeli invasion of Lebanon. It receives financial and military support from Iran and is considered a terrorist organization by many Western nations. They have been a significant political force in Lebanon, holding seats in parliament and participating in the government. Which group, known for its military wing and social services network, is this?",
+            "question": "This organization has been engaged in fighting along the northern border of Israel. The group, whose name translates to \"Party of God,\" was founded in 1982 in response to the Israeli invasion of Lebanon. It receives financial and military support from Iran and is considered a terrorist organization by many Western nations. They have been a significant political force in Lebanon, holding seats in parliament and participating in the government. Which group, known for its military wing and social services network, is this?",
             "answers": ["Hezbollah"],
             "incorrect1": "Hamas",
             "incorrect2": "Al-Qaeda",
@@ -6631,7 +6631,7 @@
         },
         {
             "category": "Geography",
-            "question": "This city, situated on the Yangtze River Delta, is the most populous city proper in the world. Its name translates to \"Upon the Sea,\" reflecting its location on the East China Sea. It's a major global financial center, home to the an important stock exchange and the Lujiazui financial district. It's also known for its iconic skyline, featuring the Oriental Pearl Tower and the Shanghai World Financial Center. What city, often referred to as the \"Paris of the East,\" is this?",
+            "question": "This city, situated on the Yangtze River Delta, is the most populous city proper in the world. Its name translates to \"Upon the Sea,\" reflecting its location on the East China Sea. It's a major global financial center, home to the an important stock exchange and the Lujiazui financial district. It's also known for its iconic skyline, featuring the Oriental Pearl Tower and a namesake World Financial Center. What city, often referred to as the \"Paris of the East,\" is this?",
             "answers": ["Shanghai", "Shanghai China"],
             "incorrect1": "Beijing",
             "incorrect2": "Tokyo",
@@ -6654,7 +6654,7 @@
             "question": "This quarterback, nicknamed \"Joe Cool\" for his calm demeanor under pressure, led his team to four Super Bowl victories in the 1980s. He's known for orchestrating \"The Catch,\" a game-winning touchdown pass in the 1982 NFC Championship Game. He played college football for Notre Dame, where he led the Fighting Irish to a national championship in 1977. He was inducted into the Pro Football Hall of Fame in 2000. Who was this quarterback, considered one of the greatest of all time, who played most of his career with the San Francisco 49ers?",
             "answers": ["Joe Montana", "Montana"],
             "incorrect1": "Tom Brady",
-            "incorrect2": "Peyton Manning",
+            "incorrect2": "Joe Burrow",
             "incorrect3": "Peyton Manning",
             "used": "FALSE",
             "source": "Marty Heavey"
@@ -6681,7 +6681,7 @@
             "answers": ["Wuthering Heights", "Withering Heights"],
             "incorrect1": "Pride and Prejudice",
             "incorrect2": "Jane Eyre",
-            "incorrect3": "Jane Eyre",
+            "incorrect3": "Great Expectations",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6866,7 +6866,7 @@
         },
         {
             "category": "Current Events",
-            "question": "Kimberly Cheatle, the director of this US federal agency, resigned on July 23, 2024. She resigned due to heavy criticism in her agency's failures in the attempted assassination of Donald Trump. Originally founded in 1865 to combat the spread of counterfeit currency, this federal law enforcement agency's mandate expanded in 1901 to include the protection of the President of the United States. It investigates financial crimes such as counterfeiting, fraud, and identity theft.  It also protects not only the President and Vice President but also their families, former presidents, and major presidential and vice presidential candidates.  What is the name of this agency under the Department of Homeland Security?",
+            "question": "Kimberly Cheatle, the director of this US federal agency, resigned on July 23, 2024. She resigned due to heavy criticism in her agency's failures in the attempted assassination of Donald Trump. Originally founded in 1865 to combat the spread of counterfeit currency, this federal law enforcement agency's mandate expanded in 1901 to include the protection of the President of the United States. It investigates financial crimes such as counterfeiting, fraud, and identity theft. It also protects not only the President and Vice President but also their families, former presidents, and major presidential and vice presidential candidates. What is the name of this agency under the Department of Homeland Security?",
             "answers": ["Secret Service"],
             "incorrect1": "FBI",
             "incorrect2": "CIA",
@@ -6888,13 +6888,13 @@
         },
         {
             "category": "Science",
-            "question": "Brumbies are a feral type of these animals that roam Australia. Although the Hall of the Bulls is the most famous section of the Lascaux caves, these animals are the most common to be painted on its walls. The rise of the Proto-Indo-Europeans is tied to their domestication of these animals on the Russian steppe. Parthian archers mastered the ability to turn around and shoot arrows while riding what animals that can be used to pull chariots and plows?",
-            "answers": ["Horses", "equine"],
-            "incorrect1": "Cows",
-            "incorrect2": "Sheeps",
-            "incorrect3": "Goats",
+            "question": "Securities backed by these products are created and sold by Fannie Mae and Freddie Mac, which were taken over by the federal government in 2008. In 2007, during the Great Recession, the \"adjustable rate\" type of this financial product rose too quickly for their borrowers to pay them off, leading to massive foreclosures. Give this term for a loan taken out for the purchase of a house.",
+            "answers": ["Mortgages"],
+            "incorrect1": "Bonds",
+            "incorrect2": "Stocks",
+            "incorrect3": "Options",
             "used": "FALSE",
-            "source": "2022 SCOP MS 11 Packet 1"
+            "source": "2022 SCOP MS 11 Packet 2"
         },
         {
             "category": "World History",
@@ -6979,13 +6979,13 @@
         },
         {
             "category": "Science",
-            "question": "Securities backed by these products are created and sold by Fannie Mae and Freddie Mac, which were taken over by the federal government in 2008. In 2007, during the Great Recession, the \"adjustable rate\" type of this financial product rose too quickly for their borrowers to pay them off, leading to massive foreclosures. Give this term for a loan taken out for the purchase of a house.",
-            "answers": ["Mortgages"],
-            "incorrect1": "Bonds",
-            "incorrect2": "Stocks",
-            "incorrect3": "Options",
+            "question": "Brumbies are a feral type of these animals that roam Australia. Although the Hall of the Bulls is the most famous section of the Lascaux caves, these animals are the most common to be painted on its walls. The rise of the Proto-Indo-Europeans is tied to their domestication of these animals on the Russian steppe. Parthian archers mastered the ability to turn around and shoot arrows while riding what animals that can be used to pull chariots and plows?",
+            "answers": ["Horses", "equine"],
+            "incorrect1": "Cows",
+            "incorrect2": "Sheeps",
+            "incorrect3": "Goats",
             "used": "FALSE",
-            "source": "2022 SCOP MS 11 Packet 2"
+            "source": "2022 SCOP MS 11 Packet 1"
         },
         {
             "category": "Geography",
