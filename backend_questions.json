@@ -6761,7 +6761,7 @@
             "category": "Arts & Literature",
             "question": "This author, known for his minimalist writing style, worked as an ambulance driver in Italy during World War I. He was part of the \"Lost Generation\" of American expatriates in Paris during the 1920s, where he befriended other literary figures like F. Scott Fitzgerald and Gertrude Stein. A keen sportsman, he enjoyed bullfighting, hunting, and fishing, which often featured in his works. Who was this Nobel laureate in Literature, famous for novels like \"The Sun Also Rises\" and \"For Whom the Bell Tolls\"?",
             "answers": ["Ernest Hemingway", "Hemingway"],
-            "incorrect1": "F. Scott Fitzgerald",
+            "incorrect1": "William Faulkner",
             "incorrect2": "F. Scott Fitzgerald",
             "incorrect3": "John Steinbeck",
             "used": "FALSE",
@@ -6786,6 +6786,899 @@
             "incorrect3": "James K. Polk",
             "used": "FALSE",
             "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "A speech by this man reflects that, if an assassination against him had succeeded, he would have been unable support the Southern Christian Leadership Conference during the Birmingham Campaign. This man gave the \"I've Been to the Mountaintop\" speech, in Memphis in 1968, the night before he was successfully assassinated by James Earl Ray. Name this civil rights leader who also gave the \"I Have a Dream\" speech.",
+            "answers": [
+                "Martin Luther King, Jr.",
+                "MLK",
+                "M.L.K.",
+                "Martin Luther King"
+            ],
+            "incorrect1": "Malcolm X",
+            "incorrect2": "Rosa Parks",
+            "incorrect3": "Booker T. Washington",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 2"
+        },
+        {
+            "category": "Geography",
+            "question": "In this city, fifteen \"moonlight towers\" built in the nineteenth century still operate at night. This seat of Travis County has suburbs named San Marcos and Round Rock, and hosts the South by Southwest festival. This city's namesake was defeated in an 1836 presidential election by Sam Houston. Name this city that trails San Antonio and Dallas in population, the capital of Texas.",
+            "answers": ["Austin", "Austin Texas"],
+            "incorrect1": "Houston",
+            "incorrect2": "Tulsa",
+            "incorrect3": "New Orleans",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 4"
+        },
+        {
+            "category": "Entertainment",
+            "question": "A ghostly Red Skull presides over one of these items, which must be obtained by sacrifice on Vomir. The Eye of Agamotto houses a green one of these items wielded by Stephen Strange. Possessing all 6 of these items allows one character to destroy half of all life with the snap of his fingers. Thanos sought to control aspects of the universe like space, time, and reality with what colorful gems from the Marvel Cinematic Universe?",
+            "answers": ["Infinity Stones", "Soul Stone", "Time Stone"],
+            "incorrect1": "Chaos Emeralds",
+            "incorrect2": "Triforce",
+            "incorrect3": "Master Sword",
+            "used": "FALSE",
+            "source": "2022 SANDS Packet 3"
+        },
+        {
+            "category": "Science",
+            "question": "Larvae of the insect family Agro-myzi-dae are \"miners\" of these structures, where bundle-sheath cells are found. These structures can be \"palmately compound,\" and they have parallel veins in monocots. Carotenoid pigments that are yellow and orange become more prominent in these structures before they are shed by deciduous trees. Name these green plant structures that are the primary site of photosynthesis.",
+            "answers": ["Leaf", "leaves"],
+            "incorrect1": "Stem",
+            "incorrect2": "Root",
+            "incorrect3": "Flower",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 2"
+        },
+        {
+            "category": "World History",
+            "question": "Each of the two Jelling stones was raised by a king of these people, Gorm the Old and Harald Bluetooth. These people attacked monasteries in places like Lindisfarne in 793, and they encountered \"skraelings\" in Vinland during the expedition of Leif Eriksson. The \"Great Heathen Army\" was made up of what seagoing Germanic people who often decorated their ships with dragon heads, but did not actually wear horned helmets?",
+            "answers": ["Vikings", "Norsemen", "Danes"],
+            "incorrect1": "Saxons",
+            "incorrect2": "Celts",
+            "incorrect3": "Franks",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 3"
+        },
+        {
+            "category": "Sports",
+            "question": "This gymnast began practicing at just two years old, inspired by watching the \"Magnificent Seven\" win gold at the 1996 Olympics. She captained both the 2012 \"Fierce Five\" and 2016 \"Final Five\" U.S. women's Olympic gymnastics teams to gold medals. She also won individual golds in floor exercise and on the balance beam. Known for her powerful tumbling and expressive floor routines, she became a vocal advocate for survivors of sexual abuse after publicly sharing her own experiences. Who is this decorated gymnast? ",
+            "answers": ["Aly Raisman"],
+            "incorrect1": "Simone Biles",
+            "incorrect2": "Gabby Douglas",
+            "incorrect3": "McKayla Maroney",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "A character in this novel protects his sister, Georgiana, and plans to marry Catherine de Bourgh's daughter. In this novel, playboy George Wickham and nobleman Charles Bingley romantically pursue Lydia and Jane, two of the protagonist's four sisters. \"A truth universally acknowledged\" about marriage among the wealthy begins what Jane Austen novel in which Elizabeth Bennet at first dislikes, but eventually marries, Mr. Darcy?",
+            "answers": ["Pride and Prejudice"],
+            "incorrect1": "Sense and Sensibility",
+            "incorrect2": "Emma",
+            "incorrect3": "Persuasion",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 2"
+        },
+        {
+            "category": "Current Events",
+            "question": "Kimberly Cheatle, the director of this US federal agency, resigned on July 23, 2024. She resigned due to heavy criticism in her agency's failures in the attempted assassination of Donald Trump. Originally founded in 1865 to combat the spread of counterfeit currency, this federal law enforcement agency's mandate expanded in 1901 to include the protection of the President of the United States. It investigates financial crimes such as counterfeiting, fraud, and identity theft.  It also protects not only the President and Vice President but also their families, former presidents, and major presidential and vice presidential candidates.  What is the name of this agency under the Department of Homeland Security?",
+            "answers": ["Secret Service"],
+            "incorrect1": "FBI",
+            "incorrect2": "CIA",
+            "incorrect3": "NSA",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "question": "Zoologist Sten Bergman suggested that a very large species of this animal once lived on the Kamchatka Peninsula. Climate change has caused members of a northern species of this animal to drown while swimming between ice floes, and thousands of its Kodiak subspecies are attracted to annual salmon runs. Name this omnivorous mammal with \"grizzly\" and \"polar\" species.",
+            "answers": ["Bears"],
+            "incorrect1": "Wolves",
+            "incorrect2": "Lions",
+            "incorrect3": "Tigers",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 6"
+        },
+        {
+            "category": "Science",
+            "question": "Brumbies are a feral type of these animals that roam Australia. Although the Hall of the Bulls is the most famous section of the Lascaux caves, these animals are the most common to be painted on its walls. The rise of the Proto-Indo-Europeans is tied to their domestication of these animals on the Russian steppe. Parthian archers mastered the ability to turn around and shoot arrows while riding what animals that can be used to pull chariots and plows?",
+            "answers": ["Horses", "equine"],
+            "incorrect1": "Cows",
+            "incorrect2": "Sheeps",
+            "incorrect3": "Goats",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 1"
+        },
+        {
+            "category": "World History",
+            "question": "This man's successful guerilla campaign in the Sierra Maestra began with only nineteen people. This man's \"History Will Absolve Me\" speech became the manifesto of the Twenty-sixth of July Movement. Due to health issues, this man handed the presidency over to his brother, Raul, in 2008. Fulgencio Batista's government was overthrown by what revolutionary who established the Communist party in Cuba?",
+            "answers": ["Fidel Castro", "Castro"],
+            "incorrect1": "Che Guevara",
+            "incorrect2": "Sim\u00f3n Bol\u00edvar",
+            "incorrect3": "Augusto Pinochet",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 4"
+        },
+        {
+            "category": "Current Events",
+            "question": "This man claimed victory in his nation's presidential election on July 28, 2024, but the results have been contested by many international organizations. This many was running for re-election against Edmundo Gonz\u00e1lez Urrutia representing the Unitary Platform. Prior to serving as president he was appointed to a number of positions under President Hugo Ch\u00e1vez. Name this leader of Venezuela who has been accused of running sham elections and being an autocrat.",
+            "answers": ["Nicol\u00e1s Maduro", "Nicolas Maduro", "Maduro"],
+            "incorrect1": "Jair Bolsonaro",
+            "incorrect2": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+            "incorrect3": "Nayib Bukele",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This singer asks \"think of me fondly when your hands are on her\" in a song that may have been inspired by Joshua Bassett. Since it took inspiration from \"Misery Business,\" this singer of \"happier\" added a Hayley Williams writing credit to a song that criticizes an ex's behavior as being \"like a damn sociopath.\" Name this former Disney Channel actress whose explosive 2021 album, SOUR, includes the songs \"deja vu,\"\"good 4 u,\" and \"drivers license.\"",
+            "answers": ["Olivia Rodrigo"],
+            "incorrect1": "Taylor Swift",
+            "incorrect2": "Ariana Grande",
+            "incorrect3": "Selena Gomez",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 7"
+        },
+        {
+            "category": "US History",
+            "question": "A New York Times article about this war outlined Daniel Ellsberg's leak of documents that described the rise of Ngo Dinh Diem [no din dee-yem] and the goal of containing Chinese influence, nicknamed the Pentagon Papers. For negotiating this war's ceasefire, Henry Kissinger controversially earned a Nobel Peace Prize. Saigon was renamed Ho Chi Minh City after what war in which an American-backed force was defeated by communists in Southeast Asia?",
+            "answers": ["Vietnam War", "Second Indochina War", "Vietnam"],
+            "incorrect1": "Korean War",
+            "incorrect2": "World War II",
+            "incorrect3": "War of 1812",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 4"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Until 1793, statues of twenty-eight kings of Judah stood along this building's west side. Eugene Viollet-le-Duc restored this building in the 1800s, and added a spire that was destroyed in a 2019 fire. This building is known for its flying buttresses and enormous rose windows, and dominates the \u02c6Ile de la Cite, an island in the River Seine. Name this Catholic cathedral which experienced a fire in 2019 and whose name means \"Our Lady of Paris.\"",
+            "answers": [
+                "Notre Dame de Paris",
+                "Notre-Dame Cathedral",
+                "Notre Dame"
+            ],
+            "incorrect1": "Sagrada Familia",
+            "incorrect2": "Westminster Abbey",
+            "incorrect3": "St. Peter's Basilica",
+            "used": "FALSE",
+            "source": "2028 SCOP MS 11 Packet 2"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's original name was inspired by the prospectors who flocked to California during the 1849 Gold Rush. Their iconic logo features a stylized red and gold \"SF\" oval. The team has won five Super Bowl championships, with their last victory in 1995 under the leadership of quarterback Steve Young and wide receiver Jerry Rice. They play their home games at Levi's Stadium in Santa Clara, California. What is this NFL franchise known for its rich history and passionate fan base?",
+            "answers": [
+                "San Francisco 49ers",
+                "Forty Niners",
+                "Niners",
+                "49ers"
+            ],
+            "incorrect1": "Seattle Seahawks",
+            "incorrect2": "Arizona Cardinals",
+            "incorrect3": "Los Angeles Rams",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "In one song, this artist declares \"your memory is ecstasy\" and claims to \"miss you more than life\". This singer of \"Ghost\" begins another song with The Kid LAROI saying \"I do the same thing, I told you that I never would\" in \"STAY\". This singer of \"Love Yourself\" is featured in a remix of Luis Fonsi's \"Despacito\". Name this Canadian singer who became a superstar at fifteen with the release of \"Baby\".",
+            "answers": ["Justin Bieber"],
+            "incorrect1": "Harry Styles",
+            "incorrect2": "Shawn Mendes",
+            "incorrect3": "Ed Sheeran",
+            "used": "FALSE",
+            "source": "2022 SANDS Packet 2"
+        },
+        {
+            "category": "Science",
+            "question": "Securities backed by these products are created and sold by Fannie Mae and Freddie Mac, which were taken over by the federal government in 2008. In 2007, during the Great Recession, the \"adjustable rate\" type of this financial product rose too quickly for their borrowers to pay them off, leading to massive foreclosures. Give this term for a loan taken out for the purchase of a house.",
+            "answers": ["Mortgages"],
+            "incorrect1": "Bonds",
+            "incorrect2": "Stocks",
+            "incorrect3": "Options",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 2"
+        },
+        {
+            "category": "Geography",
+            "question": "A planned highway across this region called BR-230 is largely unpaved between Altamira and Benjamin Constant. Most of the state of Mato Grosso is south of this region; Mato Grosso also includes some of the Pantanal wetlands. Contrary to popular belief, the red-eyed tree frog is not native to this region, but piranhas and anacondas are. Dust from the Sahara Desert blows across the Atlantic Ocean to fertilize what massive tropical ecosystem around the longest river in South America?",
+            "answers": ["Amazon rainforest", "Amazon"],
+            "incorrect1": "Congo rainforest",
+            "incorrect2": "Daintree rainforest",
+            "incorrect3": "Sundarbans",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 11"
+        },
+        {
+            "category": "Sports",
+            "question": "During a victory boat parade, Cam Brate caught the Super Bowl trophy that this player tossed to him. At his current team, this player, who briefly retired in February of 2021, reunited with longtime teammate Rob Gronkowski. This player won his 7th Super Bowl ring after defeating the Kansas City Chiefs in 2021, making him the player with the most in NFL history. What long time Patriots quarterback ended his career with the Buccaneers?",
+            "answers": ["Tom Brady"],
+            "incorrect1": "Patrick Mahomes",
+            "incorrect2": "Aaron Rodgers",
+            "incorrect3": "Joe Burrow",
+            "used": "FALSE",
+            "source": "2022 SANDS Packet 6"
+        },
+        {
+            "category": "Current Events",
+            "question": "This city was recently announced as the host of the 2034 Winter Olympics. This city's unique street numbering system, based on its location relative to the city's temple, divides the city into quadrants and uses a grid system based on 100 blocks per mile. It hosted the 2002 Winter Olympics, which were marked by controversy surrounding judging in figure skating. It is home to the largest saltwater lake in the Western Hemisphere, which has a salinity level three to five times greater than that of the ocean. What is the name of this city, nicknamed the \"Crossroads of the West\"?",
+            "answers": ["Salt Lake City"],
+            "incorrect1": "Denver",
+            "incorrect2": "Phoenix",
+            "incorrect3": "Portland",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This empire conducted restoration projects on the Dome of the Rock and the walls of Jerusalem in the nineteenth century. Near the end of this empire, it was nicknamed a \"sick man.\" A sixteenth-century ruler of this empire known as \"the Lawgiver\" was its longest-reigning sultan. Suleiman the Magnificent ruled what empire that fell in the twentieth century and was based in what is now Turkey?",
+            "answers": ["Ottoman Empire", "Ottoman"],
+            "incorrect1": "Mughal Empire",
+            "incorrect2": "Persian Empire",
+            "incorrect3": "Holy Roman Empire",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 6"
+        },
+        {
+            "category": "US History",
+            "question": "This university is home to the Whiffenpoofs, the oldest collegiate a cappella group in the US. Walter Camp, a rugby player for this university, created American football. Former president William Howard Taft and both presidents Bush were members of a secret society at this school that meets in \"The Tomb,\" the Skull and Bones Society. This university is located near Long Island Sound in New Haven, Connecticut. Name this Ivy League university that rivals Harvard.",
+            "answers": ["Yale University", "Yale"],
+            "incorrect1": "Princeton University",
+            "incorrect2": "Georgetown University",
+            "incorrect3": "University of Virginia",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 3"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This artist painted Olive Trees in a Mountainous Landscape while staying in the village of Saint-Remy in an asylum. This artist left the Yellow House in Arles after having a falling out with his friend Paul Gauguin, and painted a series of Sunflowers after moving to France from the Netherlands. Name this artist who painted a looming cypress tree under a swirling sky in his Starry Night.",
+            "answers": ["Vincent Van Gogh", "Vincent Willem van Gogh"],
+            "incorrect1": "Claude Monet",
+            "incorrect2": "Edgar Degas",
+            "incorrect3": "Paul C\u00e9zanne",
+            "used": "FALSE",
+            "source": "2025 SCOP MS 11 Packet 2"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "This woman successfully sued William Randolph Hearst for libel after one of his newspapers falsely claimed that she had been stealing to support a cocaine habit. This woman, who married Frank Butler after besting him in a contest, was named Watanya Cicilla by Sitting Bull, who performed with her for a few months in 1885. \"Little Sure Shot\" was the touring nickname of what prolific sharpshooter who performed in Buffalo Bill's Wild West Show?",
+            "answers": ["Annie Oakley", "Phoebe Ann Mosey"],
+            "incorrect1": "Calamity Jane",
+            "incorrect2": "Belle Starr",
+            "incorrect3": "Pearl Hart",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 1"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "In this novel, Constance Bonacieux tries to retrieve a pair of diamond studs that Queen Anne had given to the Duke of Buckingham, and a fleur-de-lis tattoo reveals that Milady de Winter is a convict. Cardinal Richelieu's plan is foiled in this novel by d'Artagnan and a small group of swordsmen. Name this novel by Alexandre Dumas in which Athos, Porthos, and Aramis make the pledge \"one for all and all for one.\"",
+            "answers": ["The Three Musketeers", "Les Trois mousquetaires"],
+            "incorrect1": "The Count of Monte Cristo",
+            "incorrect2": "The Man in the Iron Mask",
+            "incorrect3": "Les Mis\u00e9rables",
+            "used": "FALSE",
+            "source": "2024 SCOP MS 11 Packet 2"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Two songs by this performer say \"your silence is my favorite sound\" and asks \"to give your lack of interest an explanation.\" With her brother, Finneas, this singer wrote \"You Should See Me in a Crown,\" \"Wish You Were Gay,\" and a song in which this woman sings \"I don't want press to put your name next to mine / we're on different lines.\" Name this singer who performed \"Therefore I Am\" on the album Happier Than Ever.",
+            "answers": ["Billie Eilish"],
+            "incorrect1": "Lorde",
+            "incorrect2": "Lana Del Rey",
+            "incorrect3": "Halsey",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 2"
+        },
+        {
+            "category": "Sports",
+            "question": "This team forfeited the second game of a doubleheader after rock DJ Steve Dahl's \"Disco Demolition Night\" turned into a riot at Comiskey Park. Kenesaw Mountain Landis banned eight members of this team, including \"Shoeless\" Joe Jackson, for life after they were accused of intentionally losing the World Series. Lucas Giolito, Eloy Jimenez, and MVP Jose Abreu have been players for what American League baseball team that has a local rivalry with the Chicago Cubs?",
+            "answers": ["Chicago White Sox", "White Sox"],
+            "incorrect1": "Chicago Cubs",
+            "incorrect2": "New York Yankees",
+            "incorrect3": "St. Louis Cardinals",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 8"
+        },
+        {
+            "category": "Current Events",
+            "question": "On August 1, 2024 this nation played host to the largest prisoner exchange since the end of the Cold War. The exchange was between Russia and western nations including Germany, Poland, and the United States, and it included Evan Gershkovich, an American reporter for the Wall Street Journal. The exchange occurred at Ankara Esenbo\u011fa Airport in this nation that is led by prime minister Recep Tayyip Erdo\u011fan. This country's national flag, featuring a white crescent moon and star on a red background, is believed to be inspired by a dream of the first Ottoman Sultan, Osman I. Name this nation which is separated by the Bosphorus Strait.",
+            "answers": ["Turkey", "Republic of T\u00fcrkiye"],
+            "incorrect1": "Greece",
+            "incorrect2": "Egypt",
+            "incorrect3": "Morocco",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This country's Project 596 was part of its \"Two Bombs, One Satellite\" goal. This country broke with the Soviet Union over ideological differences in the application of Leninism. In 1972, this country hosted Richard Nixon for a diplomatic visit organized by Zhou Enlai. Name this communist power that, for much of the twentieth century, was led by Chairman Mao Zedong.",
+            "answers": [
+                "China",
+                "People's Republic of China",
+                "Zhongguo Renmin Gongheguo"
+            ],
+            "incorrect1": "Japan",
+            "incorrect2": "South Korea",
+            "incorrect3": "Vietnam",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 5"
+        },
+        {
+            "category": "Geography",
+            "question": "This city's Adams Morgan neighborhood was partially shaped by the L'Enfant and McMillan Plans. This city and its suburbs are surrounded by the Beltway, and it is across the Potomac River from Arlington, Virginia. A Daniel Chester French sculpture in this city sits across a reflecting pool from an obelisk on the National Mall. Name this planned city, the location of the Lincoln Memorial, Capitol Hill, and the White House.",
+            "answers": [
+                "Washington D.C.",
+                "District of Columbia",
+                "D.C.",
+                "DC",
+                "Washington"
+            ],
+            "incorrect1": "New York City",
+            "incorrect2": "Los Angeles",
+            "incorrect3": "Chicago",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 8"
+        },
+        {
+            "category": "Science",
+            "question": "This substance makes up the mantle of the moon Triton, and erupts from \"tiger stripes\" on Enceladus to form the E ring of Saturn. It is not gas, but this substance names a type of giant planet exemplified by Uranus. Oort cloud objects, including comets, consist mainly of this substance, which forms a crust over Europa's possibly-liquid oceans. Name this substance abundant at Earth's polar caps, the frozen form of water.",
+            "answers": ["Ice", "frozen water"],
+            "incorrect1": "Vapor",
+            "incorrect2": "Carbon",
+            "incorrect3": "Nitrogen",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 1"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "question": "Systems composed of a pendulum and this device can be modeled by the Duffing equation. This device's force is equal to stiffness times extension, or \"kx\", according to Hooke's law, which describes these simple harmonic oscillators. Name this device, used in trampolines and pogo sticks, that stores energy in its often-metal coils.",
+            "answers": ["Springs", "harmonic oscillators"],
+            "incorrect1": "Lever",
+            "incorrect2": "Pulley",
+            "incorrect3": "Fulcrum",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 2"
+        },
+        {
+            "category": "US History",
+            "question": "In this colony, John Peter Zenger was acquitted of libeling governor William Cosby, which helped establish freedom of the press. The Stamp Act Congress was held in this colony's Federal Hall. John Burgoyne failed to establish control of this colony's Hudson River Valley, and was defeated in this colony at the Battle of Saratoga. Name this home colony of Alexander Hamilton, where the British failed to capture the city of Albany.",
+            "answers": ["New York colony", "Province of New York", "New York"],
+            "incorrect1": "New Hampshire",
+            "incorrect2": "South Carolina",
+            "incorrect3": "Virginia",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 2"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actress began her career on the Australian stage, earning accolades for her performances in \"Oleanna\" and \"Hamlet.\" Her breakthrough role as Queen Elizabeth I in the 1998 film \"Elizabeth\" garnered her a Golden Globe and an Oscar nomination. She has since starred in a diverse range of films, from blockbusters like \"The Lord of the Rings\" trilogy to critically acclaimed dramas like \"Blue Jasmine,\" for which she won an Academy Award.  Who is this versatile performer, who starred alongside Brad Pitt in \"The Curious Case of Benjamin Button\"?",
+            "answers": ["Cate Blanchett"],
+            "incorrect1": "Meryl Streep",
+            "incorrect2": "Nicole Kidman",
+            "incorrect3": "Julianne Moore",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This soccer player scored a memorable \"Olimpico\" goal directly from a corner kick against Canada in the 2012 London Olympics. Known for her powerful left foot and signature goal celebration, she has won two FIFA Women's World Cup titles and an Olympic gold medal with the U.S. Women's National Team. Her distinctive purple hair became synonymous with her outspoken personality and activism for LGBTQ+ rights and gender equality. Who is this celebrated winger who announced her retirement from professional soccer in 2023? ",
+            "answers": ["Megan Rapinoe"],
+            "incorrect1": "Alex Morgan",
+            "incorrect2": "Marta",
+            "incorrect3": "Christine Sinclair",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This country's city of Maidan Shahr was briefly led by Zarifa Ghafari, its youngest female mayor. A bombing killed nearly two hundred people at this country's Hamid Karzai Airport. This country's last president, Ashraf Ghani, fled to nearby Uzbekistan in August 2021. Two weeks of airlift evacuations followed the American withdrawal from what Asian country led from Kabul by the Taliban?",
+            "answers": ["Afghanistan"],
+            "incorrect1": "Pakistan",
+            "incorrect2": "Iraq",
+            "incorrect3": "Syria",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 5"
+        },
+        {
+            "category": "Geography",
+            "question": "A namesake species of pink rattlesnake is endemic to this natural feature. Supai Village, the capital of the Hava-supai Indian Reservation, is located within this feature, which is the gateway to the afterlife in Hopi religion. The Kaibab Plateau is bisected by this natural feature, which became a national park after John Wesley Powell mapped it in what is now Arizona. The Colorado River carved out what absurdly large gorge in the American southwest?",
+            "answers": ["Grand Canyon", "Ongtupqa"],
+            "incorrect1": "Bryce Canyon",
+            "incorrect2": "Zion National Park",
+            "incorrect3": "Yosemite National Park",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 10"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "In this novel, Matthewson makes a wager at the Eldorado Saloon that this novel's protagonist cannot move a one-thousand-pound load, and loses his money to Hans and Pete. This novel's protagonist kills a group of Yeehat Native Americans to avenge the death of John Thornton, the first man to treat him well since he was trained by a man in a red sweater to be a sled dog. Name this Jack London novel in which Buck answers the title summons by joining a wolf pack.",
+            "answers": ["The Call of the Wild"],
+            "incorrect1": "White Fang",
+            "incorrect2": "The Jungle Book",
+            "incorrect3": "Black Beauty",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 1"
+        },
+        {
+            "category": "Current Events",
+            "question": "Gaemi, this type natural disaster, struck Taiwan in late July 2024 which led to the evacuation of over 8000 people. The deadliest on record, Nina in 1975, caused over 200,000 deaths in China due to catastrophic flooding. These powerful storms typically occur between May and November, with peak activity in August and September. They can cause significant damage through strong winds, heavy rainfall, and storm surges. What are these tropical cyclones called, which form over warm ocean waters in the Northwest Pacific Ocean?",
+            "answers": ["Typhoon"],
+            "incorrect1": "Earthquake",
+            "incorrect2": "Flood",
+            "incorrect3": "Wildfire",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "This thinker wrote a popular newspaper column under the pseudonym Silence Do-good, and used another false name when he published Poor Richard's Almanac. This politician created America's first volunteer fire department, and served as the first Postmaster General in the presidential cabinet. Name this founding father whose portrait appears on the one-hundred dollar bill.",
+            "answers": ["Benjamin Franklin", "Ben Franklin"],
+            "incorrect1": "Alexander Hamilton",
+            "incorrect2": "Thomas Jefferson",
+            "incorrect3": "George Washington",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 5"
+        },
+        {
+            "category": "Entertainment",
+            "question": "A character with super strength in this film sings about \"Pressure, like a drip, drip, drip that'll never stop.\" In this film, characters sing about ill prophecies made by a character who \"We Don't Talk About.\" In this film, the power-less Mirabel sings about the \"gifts\" given to her family by a \"miracle\" in the form of a candle. Name this Disney musical film about the magical Madrigal family.",
+            "answers": ["Encanto"],
+            "incorrect1": "Coco",
+            "incorrect2": "Moana",
+            "incorrect3": "Frozen",
+            "used": "FALSE",
+            "source": "2022 SANDS Packet 7"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "In the beliefs of the Latter Day Saints movement, this man was the mortal form of the angel Michael, and lived near Jackson County, Missouri. In Islam, Iblis was banished from Heaven for refusing to bow before this man. This man became the father of Seth after his eldest son committed the first murder. Cain and Abel were the sons of what husband of Lilith and Eve, the first man created by God?",
+            "answers": ["Adam"],
+            "incorrect1": "Eve",
+            "incorrect2": "Cain",
+            "incorrect3": "Abel",
+            "used": "FALSE",
+            "source": "2023 SCOP MS 11 Packet 2"
+        },
+        {
+            "category": "Sports",
+            "question": "This is the only player in Davidson College's history to have a jersey number retired. This player, who in 2022 broke a record held by Ray Allen, recently won his fourth NBA championship and first finals MVP after defeating the Boston Celtics. This player is a member of the \"Splash Brothers\" with Klay Thompson. Name this point guard for the Golden State Warriors.",
+            "answers": ["Stephen Curry", "Steph Curry"],
+            "incorrect1": "LeBron James",
+            "incorrect2": "Kevin Durant",
+            "incorrect3": "Giannis Antetokounmpo",
+            "used": "FALSE",
+            "source": "2022 SANDS Packet 1"
+        },
+        {
+            "category": "Current Events",
+            "question": "This Supreme Court Chief Justice, a practicing Roman Catholic, is known for his conservative leanings but has also authored some surprising liberal decisions. He served as a law clerk for Justice William Rehnquist and later worked in the Reagan and George H.W. Bush administrations. Appointed Chief Justice in 2005 by George W. Bush, he has presided over several landmark cases, including the Affordable Care Act and same-sex marriage decisions. Who is this current Chief Justice of the United States?",
+            "answers": ["John Roberts"],
+            "incorrect1": "Clarence Thomas",
+            "incorrect2": "Samuel Alito",
+            "incorrect3": "Elena Kagan",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "One of these places in Utah has multiple spires of rock called hoodoos. Climbers visit monoliths like Half Dome and El Capitan in another one of these places. A tri-state one of these places is home to multiple geysers including Old Faithful. Some of these places in California include Joshua Tree and Yosemite. Name these protected areas in the United States, the oldest one of which is Yellowstone.",
+            "answers": [
+                "American national parks",
+                "National Park",
+                "US national park"
+            ],
+            "incorrect1": "Canadian national parks",
+            "incorrect2": "City Zoos",
+            "incorrect3": "State Landmarks",
+            "used": "FALSE",
+            "source": "2022 SANDS Packet 1"
+        },
+        {
+            "category": "World History",
+            "question": "Oxfam was founded to alleviate a famine in this country. This country celebrates \"No Day,\" a holiday that commemorates a refusal to cooperate with Benito Mussolini, given by Prime Minister Ioannis Metaxas. The Earl of Elgin looted marble sculptures from this country, and the British Museum refuses to repatriate them. Since 2007, a debt crisis has plagued what country where the Parthenon stands in Athens?",
+            "answers": [
+                "Greece",
+                "Ell\u00b4ada",
+                "Hellenic Republic",
+                "Ellinik\u00b4\u0131 Dimokratia"
+            ],
+            "incorrect1": "Italy",
+            "incorrect2": "Spain",
+            "incorrect3": "Portugal",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 1"
+        },
+        {
+            "category": "Science",
+            "question": "Heron's formula calculates the area of this type of shape. The orthocenter is found at the intersection of the altitudes of this shape. If the side lengths of this shape are all different, this shape is \"scalene,\" and if two of its sides are equal, it is called \"isosceles.\" If this shape has a ninety-degree angle, the relative size of its sides is described by the Pythagorean Theorem. Name this polygon with three sides.",
+            "answers": ["Triangles"],
+            "incorrect1": "Squares",
+            "incorrect2": "Octagons",
+            "incorrect3": "Parallelograms",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 2"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "question": "An unfinished work by this composer includes a \"Lacrimosa\" section that was completed by Franz Sussmayr after this man died at age thirty-five. This composer wrote an unfinished Requiem and forty-one symphonies, the last of which is nicknamed \"Jupiter.\" Name this prolific Austrian child prodigy who wrote the chamber piece Eine Kleine Nachtmusik, which is sometimes nicknamed \"A Little Night Music.\"",
+            "answers": [
+                "Wolfgang Amadeus Mozart",
+                "Johannes Chrysostomus Wolfgangus Theophilus Mozart",
+                "Mozart"
+            ],
+            "incorrect1": "Ludwig van Beethoven",
+            "incorrect2": "Johann Sebastian Bach",
+            "incorrect3": "Richard Wagner",
+            "used": "FALSE",
+            "source": "2026 SCOP MS 11 Packet 2"
+        },
+        {
+            "category": "Science",
+            "question": "The Lockheed WP-3D Orion is a nicknamed a \"hunter\" of these systems, which cannot form near the equator due to a weak Coriolis force. The Saffir-Simpson scale classifies these weather systems, which have an eyewall that drives a storm surge onto land in instances of these system classified as \"Category 5.\" Name these violent, tropical Atlantic cyclones exemplified by Ida and Katrina.\n",
+            "answers": ["Hurricanes", "tropical storm", "cyclone"],
+            "incorrect1": "Tornadoes",
+            "incorrect2": "Earthquakes",
+            "incorrect3": "Blizzards",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 2"
+        },
+        {
+            "category": "US History",
+            "question": "This historian wrote the book The Naval War of 1812 to advocate for building American naval power, which he later accomplished as a politician by funding the Great White Fleet. With the First Volunteer Cavalry Regiment, this man became the \"Hero of San Juan Hill\" before being elected Vice President under McKinley. Name this member of the Rough Riders, who was the twenty-sixth U.S. president.",
+            "answers": ["Theodore Roosevelt Jr.", "Teddy Roosevelt"],
+            "incorrect1": "Franklin D. Roosevelt",
+            "incorrect2": "Dwight D. Eisenhower",
+            "incorrect3": "Ulysses S. Grant",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 5"
+        },
+        {
+            "category": "Sports",
+            "question": "This team, initially a member of the American Football League, played its first season in Los Angeles in 1960 before relocating to San Diego in 1961. Led by quarterback Dan Fouts and wide receiver Charlie Joiner, their \"Air Coryell\" offense was a dominant force in the 1970s and early 1980s. They returned to Los Angeles in 2017 and currently share SoFi Stadium with the Los Angeles Rams. What is the name of this NFL team whose colors are powder blue and sunshine gold? ",
+            "answers": ["Los Angeles Chargers", "Chargers"],
+            "incorrect1": "Los Angeles Rams",
+            "incorrect2": "Las Vegas Raiders",
+            "incorrect3": "Seattle Seahawks",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This iconic British rock band initially formed under a different name in 1968, inspired by a comment about their potential career trajectory. Their debut album featured songs like \"Good Times Bad Times\" and \"Dazed and Confused,\" showcasing their blues-rock roots.  They quickly gained a reputation for their powerful live performances and influential albums which contained the iconic anthem \"Stairway to Heaven.\" The band's music, while commercially successful, was often met with critical disdain, particularly for their perceived appropriation of blues and folk traditions. Which band, known for their mix of heavy rock, blues, and folk influences, achieved legendary status despite their early negative reception? ",
+            "answers": ["Led Zeppelin"],
+            "incorrect1": "Pink Floyd",
+            "incorrect2": "The Rolling Stones",
+            "incorrect3": "The Who",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "This city's Muddy River runs through Olmsted Park, a part of this city's Emerald Necklace. This city's Back Bay area is on the Charles River, across from its sister city, Cambridge. This city's MLB team plays near Kenmore Square in a park that holds the Green Monster, and one end of Beacon Hill forms this city's namesake Common. Fenway Park hosts the Red Sox in what capital city of Massachusetts?",
+            "answers": ["Boston"],
+            "incorrect1": "New York City",
+            "incorrect2": "Philadelphia",
+            "incorrect3": "Chicago\n\n",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 6"
+        },
+        {
+            "category": "Current Events",
+            "question": "This island, which is part of France's only overseas territory, is hosting the surfing competition for the 2024 Paris Olympics. The overwater bungalow, a luxurious accommodation option popular with honeymooners, was first invented here. The French Polynesian island, shaped like a figure-eight, is the largest in the Society Islands archipelago. It is renowned for its black sand beaches, lush rainforests, and stunning volcanic peaks.  What is this island, often associated with the painter Paul Gauguin, who captured its beauty in his vibrant artworks?",
+            "answers": ["Tahiti", "French Polynesia "],
+            "incorrect1": "Fiji",
+            "incorrect2": "Bora Bora",
+            "incorrect3": "Bali",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This country was forbidden from allying with Spain in the Peace of Utrecht. Nobles of this country attempted to dethrone a boy king in a rebellion called the Fronde. This officially Catholic country persecuted the Huguenots after the Edict of Fontainebleau. The palace of Versailles was once a royal residence in what country led by the \"Sun King,\" Louis XIV?",
+            "answers": ["France"],
+            "incorrect1": "Germany",
+            "incorrect2": "Belgium",
+            "incorrect3": "Switzerland",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 4"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "question": "Maurice Wilson planned to crash a plane on top of this mountain, where he died by other means. George Mallory may have summitted this mountain before disappearing on it, and legendarily declared that he would climb it \"because it's there.\" Tenzing Norgay coordinated the first successful climb of this mountain in 1953 with Edmund Hillary. Name this twenty-nine-thousand-foot-high peak in the Himalayan Mountains, the highest mountain on Earth.",
+            "answers": [
+                "Mount Everest",
+                "Sagarmatha",
+                "Chomolungma",
+                "Everest",
+                "Mt Everest"
+            ],
+            "incorrect1": "Mount Kilimanjaro",
+            "incorrect2": "Mount Denali",
+            "incorrect3": "K2",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 7"
+        },
+        {
+            "category": "US History",
+            "question": "Thomas Edison built the first American power plant, the Pearl Street Station, to light street lamps in this place. In 1920, Italian anarchists set off a bomb in this place that killed forty people; the bomb was carried in a wagon that stopped in front of the headquarters of J.P. Morgan. The eight blocks of this place stretch from the East River to Broadway and include the NYSE building. Name this street in downtown Manhattan, the heart of New York's Financial District.",
+            "answers": [
+                "Wall Street",
+                "Financial District of Manhattan",
+                "FiDi",
+                "New York"
+            ],
+            "incorrect1": "Fleet Street",
+            "incorrect2": "Lombard Street",
+            "incorrect3": "Downing Street",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 1"
+        },
+        {
+            "category": "World History",
+            "question": "This country's secret police, SAVAK, was blamed for the Cinema Rex fire, which killed hundreds of people in 1979. A year earlier, dozens of people were killed in this country's Jaleh Square on \"Black Friday\"by the forces of Reza Pahlavi, who was forced into exile after the rise of Ayatollah Khomeini in an Islamic Revolution. A leader called a \"Shah\" once led what Asian country where over fifty Americans were taken hostage for four hundred forty-four days in Tehran?",
+            "answers": [
+                "Iran",
+                "Islamic Republic of Iran",
+                "Jomhuri-ye Eslami-ye Iran",
+                "Persia"
+            ],
+            "incorrect1": "Iraq",
+            "incorrect2": "Saudi Arabia",
+            "incorrect3": "Syria",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 3"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This artist claims \"I'll sink my teeth in disbelief 'cause you're the one that I want\" in \"Love Again.\" In another song, this artist repeatedly says \"if you don't wanna see me dancing with somebody.\" The line \"if you wanna run away with me, I know a galaxy And I can take you for a ride\" begins a song that appears on this artist's album Future Nostalgia. Name this Albanian-English singer of \"Don't Start Now\" and \"Levitating.\"",
+            "answers": ["Dua Lipa"],
+            "incorrect1": "Adele",
+            "incorrect2": "Rihanna",
+            "incorrect3": "Lady Gaga",
+            "used": "FALSE",
+            "source": "2022 SANDS Packet 11"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This literary character usurps the throne of King Pastoria, and is succeeded by Pastoria's daughter after she escapes from the witch Mombi. This character travels from Omaha in a hot air balloon, and is apprenticed to Glinda to learn real magic, although he uses stage magic tricks to confront the Scarecrow and Dorothy. Name this magician who rules a fantasy land in a novel by L. Frank Baum.",
+            "answers": [
+                "The Wizard of Oz",
+                "Oscar Zoroaster Phadrig Isaac Norman Henkel Emmannuel Ambroise Diggs",
+                "Wizard",
+                "Oz"
+            ],
+            "incorrect1": "Merlin",
+            "incorrect2": "Aladdin",
+            "incorrect3": "Gandalf",
+            "used": "FALSE",
+            "source": "2027 SCOP MS 11 Packet 2"
+        },
+        {
+            "category": "Science",
+            "question": "This term describes the mass of the hypothetical \"dark fluid.\" The Hammett function of a super-acid has this property. In a galvanic cell, oxidation occurs at the electrode with this property. A spontaneous reaction has this kind of change in Gibbs free energy, and a standard enthalpy change of this type makes a reaction exothermic. Anions possess what kind of charge bestowed by a net gain of electrons?",
+            "answers": ["Negative"],
+            "incorrect1": "Positive",
+            "incorrect2": "Neutral",
+            "incorrect3": "Zero",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 1"
+        },
+        {
+            "category": "Sports",
+            "question": "Initially based in the Midwest and known as the Tri-Cities Blackhawks, this NBA franchise has called three cities home throughout its history. It captured its sole championship in 1958 while playing in St. Louis.  Led by Hall-of-Famers Bob Pettit and Cliff Hagan, the team defeated the Boston Celtics in six games. Which team relocated to Atlanta in 1968 and now boasts a red, black, and yellow color scheme?",
+            "answers": ["Atlanta Hawks", "Hawks"],
+            "incorrect1": "Toronto Raptors",
+            "incorrect2": "Philadelphia 76ers",
+            "incorrect3": "Brooklyn Nets",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "A group of these animals testing positive for cocaine off the coast of Rio de Janeiro. These ancient creatures, whose ancestors date back over 400 million years, possess a skeleton made entirely of cartilage, giving them incredible flexibility. They have a unique sixth sense, known as electroreception, which allows them to detect the electrical fields generated by other animals, even in murky waters. Their teeth are constantly being replaced throughout their lives, ensuring they always have a sharp set of chompers. What are these fascinating apex predators that play a vital role in maintaining the balance of marine ecosystems?",
+            "answers": ["Sharks"],
+            "incorrect1": "Whales",
+            "incorrect2": "Dolphins",
+            "incorrect3": "Seals",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "question": "In a common undergraduate lab, students synthesize this compound through phosphoric acid-catalyzed esterification. This compound's starting chemical was formerly extracted from willow bark by doctors, and its modern form was patented by Bayer. Acetylsalicylic acid is another name for which NSAID pain reliever that can cause more gastrointestinal side effects than ibuprofen?",
+            "answers": ["Aspirin", "acetylsalicylic acid", "ASA"],
+            "incorrect1": "Tylenol",
+            "incorrect2": "Advil",
+            "incorrect3": "Ibuprofen",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 2"
+        },
+        {
+            "category": "Entertainment",
+            "question": "In a game, this character teams up with an alien wisp called Yacker to stop an evil plot disguised as an amusement park. In a cartoon, this character solves problems on Seaside Island with his namesake \"Team,\"including Miles Prower. This character's first live-action film was significantly delayed due to backlash over his design, and features Ben Schwartz as this character. Name this speedy video game protagonist who works with Tails to save the world from Doctor Eggman.",
+            "answers": ["Sonic the Hedgehog", "Sonic"],
+            "incorrect1": "Mario",
+            "incorrect2": "Crash Bandicoot",
+            "incorrect3": "Donkey Kong",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 10"
+        },
+        {
+            "category": "Geography",
+            "question": "The last remaining structure of this city's 1915 World's Fair is the Palace of Fine Arts. This city's\"painted ladies\" are Victorian houses painted in modern colors. The northern tip of this city is home to Ghirardelli Square and Fisherman's Wharf. The Haight-Ashbury neighborhood in this city was the birthplace of the \"Summer of Love.\" The largest Chinatown outside of Asia is in what California city that is home to the Golden Gate Bridge?",
+            "answers": ["San Francisco"],
+            "incorrect1": "San Diego",
+            "incorrect2": "Santa Barbara",
+            "incorrect3": "Sacramento",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 3"
+        },
+        {
+            "category": "World History",
+            "question": "This nation-state's leader traditionally threw a ring from the ship Bucentaur into the Adriatic to perform the annual Marriage of the Sea. This republic was led by a Doge, and its namesake capital city contains the Rialto Bridge and Saint Mark's Basilica. Gondolas are flat-bottomed boats that help people move around what Most Serene Republic in modern Italy, whose namesake capital city was built over a complex of canals?",
+            "answers": ["Republic of Venice", "Venice", "Venezia"],
+            "incorrect1": "Republic of Genoa",
+            "incorrect2": "Duchy of Milan",
+            "incorrect3": "Papal States",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 2"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL team, established in 1965, is the only franchise to have played in two different stadiums named after the same soft drink company. They initially played in Atlanta-Fulton County Stadium, nicknamed \"The Launching Pad,\" and currently play in Mercedes-Benz Stadium, known for its retractable roof and unique halo scoreboard. Despite reaching the Super Bowl twice, in 1998 and 2016, they have yet to clinch a championship title. Which team is this, whose colors are red and black?",
+            "answers": ["Atlanta Falcons", "Falcons"],
+            "incorrect1": "New Orleans Saints",
+            "incorrect2": "Carolina Panthers",
+            "incorrect3": "Tampa Bay Buccaneers",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "Three days before this battle, a skirmish at Blackburn's Ford gave Jubal Early's men crucial experience. This battle ended with the \"Great Skedaddle,\" when civilian picnickers fled home in a panic after an expected easy victory finished instead as a loss. Irvin McDowell was routed in this battle, where Thomas Jackson earned the nickname \"Stonewall.\" The Battle of Fort Sumter was three months before what July 21, 1861 battle, the first major battle of the Civil War?",
+            "answers": [
+                "First Battle of Bull Run",
+                "First Battle of Manassas",
+                "Battle of Bull Run",
+                "Bull Run",
+                "Manassas"
+            ],
+            "incorrect1": "Battle of Gettysburg",
+            "incorrect2": "Battle of Antietam",
+            "incorrect3": "Battle of Vicksburg",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 3"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "In this novel, John Seward receives letters describing Renfield's madness and begging him to help Arthur Holmwood's sick fiancee. A professor in this novel packs a paste of communion wafers around the door of Lucy Westenra's tomb and in the boxes of earth that the title character transports to England from Transylvania. Abraham Van Helsing, Mina Murray, and Jonathan Harker hunt the title Count in what Bram Stoker novel about an archetypical vampire?",
+            "answers": ["Dracula"],
+            "incorrect1": "Frankenstein",
+            "incorrect2": "The Mummy",
+            "incorrect3": "Dr. Jekyll and Mr. Hyde",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 1"
+        },
+        {
+            "category": "Current Events",
+            "question": "Elon Musk threatened to move companies out of this state because of a recently passed law which bars school districts in that state from requiring parents to be notified of a child's gender identification change. This state is home to Death Valley, the hottest and driest place in North America, and Mount Whitney, the highest point in the contiguous United States. It's the most populous state in the US and boasts the world's largest tree by volume, the General Sherman Tree. What state is this, known for its diverse landscapes and thriving entertainment industry?",
+            "answers": ["California"],
+            "incorrect1": "Texas",
+            "incorrect2": "Florida",
+            "incorrect3": "New York",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "question": "According to Herodotus, the first female ruler of this civilization was the semi-mythical empress Nitocris, whom Herodotus associated with Menkaure. This civilization was ruled from Amarna by the husband of Nefertiti. Another female ruler of this civilization, Hat-shep-sut, wore masculine clothing to represent the sun god Ra. Name this ancient African civilization that ruled the area around the Nile river.",
+            "answers": ["Egypt", "Old Kingdom", "Egypt", "ancient Egyptians"],
+            "incorrect1": "Libya",
+            "incorrect2": "Sudan",
+            "incorrect3": "Algeria",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 2"
+        },
+        {
+            "category": "Sports",
+            "question": "In 2013, guard Brandon Jennings insisted that this team would win \"in six,\" even though they were swept in the first round of the playoffs. This team won their first championship in 1971, led by Kareem Abdul-Jabbar, and took their second in when Brook Lopez and Khris Middleton did finally beat the Suns in six games. Giannis Antetokounmpo plays for what 2021 NBA Champions from eastern Wisconsin?",
+            "answers": ["Milwaukee Bucks", "Bucks"],
+            "incorrect1": "Miami Heat",
+            "incorrect2": "Boston Celtics",
+            "incorrect3": "Los Angeles Lakers",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 4"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "A poem of this form warns \"die single and thine image dies with thee,\" and urges \"now is the time that face should form another\" while addressing a subject known as the Fair Youth. Another of these poems addresses a Dark Lady whose lips are less red than coral and whose \"breasts are dun,\" and begins \"My Mistress' Eyes are Nothing Like the Sun.\" Rhyming couplets typically end what fourteen-line poems frequently written by William Shakespeare?",
+            "answers": [
+                "sonnet",
+                "Shakespearean sonnets",
+                "Elizabethan sonnets"
+            ],
+            "incorrect1": "haiku",
+            "incorrect2": "limerick",
+            "incorrect3": "epic",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 1"
+        },
+        {
+            "category": "Science",
+            "question": "A \"geographic\" pattern of patches can appear on this organ due to leukoplakia. This organ's frenulum is tied to another body part in ankylo-glossia, and a protruding one is symptomatic of Down syndrome. It is not a tail, but chameleons possess a prehensile one of these organs that is covered in spiny papillae to assist cats with grooming. Sublingual salivary glands and taste buds are associated with which muscular organ inside the mouth?",
+            "answers": ["Tongue"],
+            "incorrect1": "Teeth",
+            "incorrect2": "Gums",
+            "incorrect3": "Lungs",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 1"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film's opening sequence, which features a solitary miner struggling in silence for several minutes, sets the tone for its bleak and intense exploration of ambition and greed. It's set in the early 20th century during the Southern California oil boom and follows Daniel Plainview, a ruthless oil prospector determined to achieve wealth and power at any cost. The film's iconic scene, where Plainview exclaims, \"I drink your milkshake!,\" has become synonymous with its themes of exploitation and capitalist ruthlessness. Name this 2007 film directed by Paul Thomas Anderson, starring Daniel Day-Lewis in an Oscar-winning performance.",
+            "answers": ["There Will Be Blood"],
+            "incorrect1": "No Country for Old Men",
+            "incorrect2": "Fargo",
+            "incorrect3": "The Big Lebowski",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This fitness personality died in July 2024. Known for his energetic personality and flamboyant style, he rose to fame in the 1980s with his \"Sweatin' to the Oldies\" aerobics videos. He advocated for body positivity and inclusivity, encouraging people of all shapes and sizes to embrace fitness. He also hosted a popular talk show and was a frequent guest on late-night television. Who is this fitness icon, known for his signature short shorts and sparkly tank tops?",
+            "answers": ["Richard Simmons"],
+            "incorrect1": "Tony Robbins",
+            "incorrect2": "Jack LaLanne",
+            "incorrect3": "Jane Fonda",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This place was the destination of the Peoria Party, who carried flags promoting \"[this region] or the grave.\" This territory was the focus of a \"Great Migration\" in 1843. Expeditions that began in Independence, Missouri, attempted to reach this territory's Willamette Valley. Name this modern state, the endpoint of a namesake migratory Trail that carried European-Americans to the upper west coast.",
+            "answers": [
+                "Oregon",
+                "Oregon Territory",
+                "Oregon Country",
+                "Oregon"
+            ],
+            "incorrect1": "Montana",
+            "incorrect2": "Wyoming",
+            "incorrect3": "Idaho",
+            "used": "FALSE",
+            "source": "2022 SCOP MS 11 Packet 4"
+        },
+        {
+            "category": "Geography",
+            "question": "Surges from this larger body of water breached the levees of Lake Pontchartrain during a 2005 hurricane. The Deepwater Horizon Oil Spill occurred in this body of water, whose coast is home to popular beaches like Panama City and Destin. Hurricane Katrina gained strength on this gulf before it hit New Orleans. This gulf lies west of the Florida Keys. Name this gulf that shares its name with a country south of the United States.",
+            "answers": ["Gulf of Mexico"],
+            "incorrect1": "Gulf of California",
+            "incorrect2": "Gulf of Alaska",
+            "incorrect3": "Persian Gulf",
+            "used": "FALSE",
+            "source": "2022 SANDS Packet 2"
         }
     ]
 ]
