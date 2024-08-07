@@ -6879,7 +6879,7 @@
         {
             "category": "Geography",
             "question": "Zoologist Sten Bergman suggested that a very large species of this animal once lived on the Kamchatka Peninsula. Climate change has caused members of a northern species of this animal to drown while swimming between ice floes, and thousands of its Kodiak subspecies are attracted to annual salmon runs. Name this omnivorous mammal with \"grizzly\" and \"polar\" species.",
-            "answers": ["Bears"],
+            "answers": ["Bears", "Polar bears", "grizzy bears"],
             "incorrect1": "Wolves",
             "incorrect2": "Lions",
             "incorrect3": "Tigers",
