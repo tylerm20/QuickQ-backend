@@ -7680,5 +7680,91 @@
             "used": "FALSE",
             "source": "2022 SANDS Packet 2"
         }
+    ],
+    [
+        {
+            "category": "Science",
+            "question": "This element, the most abundant metal in the Earth's crust, is extracted from bauxite ore using a process called the Bayer process. It's lightweight, corrosion-resistant, and a good conductor of electricity, making it ideal for various applications, from airplanes and cars to kitchen foil and beverage cans. Its discovery in 1825 by Hans Christian \u00d8rsted revolutionized industries due to its versatility and abundance. What is this element, represented by the symbol Al on the periodic table?",
+            "answers": ["Aluminum"],
+            "incorrect1": "Iron",
+            "incorrect2": "Copper",
+            "incorrect3": "Gold",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "question": "This fearsome ruler, known as the \"Scourge of God,\" united nomadic tribes and led them on a series of devastating campaigns across Europe in the 5th century. He extracted tributes from the Eastern and Western Roman Empires, and his armies sacked numerous cities, including Rome itself. His sudden death in 453, reportedly from a nosebleed on his wedding night, left a power vacuum that led to the fragmentation of the Hunnic Empire. Who was this legendary warrior?",
+            "answers": ["Attila the Hun", "Attila"],
+            "incorrect1": "Genghis Khan",
+            "incorrect2": "Alexander the Great",
+            "incorrect3": "Julius Caesar",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This British rock band, known for their energetic live performances and pioneering the use of the Marshall stack amplifier, released their groundbreaking rock opera \"Tommy\" in 1969. Their early hits included songs like \"My Generation\" and \"I Can't Explain.\" The band's drummer, Keith Moon, was known for his explosive drumming style, but his untimely death in 1978 marked a turning point for the group. This band performed at the Super Bowl in 2010 in Miami. Who is this influential band, whose other members included Roger Daltrey, Pete Townshend, and John Entwistle?",
+            "answers": ["The Who"],
+            "incorrect1": "The Rolling Stones",
+            "incorrect2": "Led Zeppelin",
+            "incorrect3": "Pink Floyd",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This athlete is the first person to break four world records in the same track event. She broke her own world record in the 400-meter hurdles at the 2024 Summer Olympics, securing her second consecutive gold medal in the event. She's the first woman to break both the 52-second and 51-second barriers in the 400m hurdles. She also contributed to Team USA's victory in the women's 4x400m relay at those same Olympics. Who is this American track star? ",
+            "answers": [
+                "Sydney McLaughlin-Levrone",
+                "Sydney McLaughlin",
+                "Mclaughlin"
+            ],
+            "incorrect1": "Simone Biles",
+            "incorrect2": "Allyson Felix",
+            "incorrect3": "Katie Ledecky",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This musical artist released his final album titled \u201cBando Stone & the New World\u201d under this stage name in July 2024. His thought-provoking song \"This Is America,\" released in 2018, sparked widespread conversations about gun violence and racial injustice in the United States. It won four Grammy Awards, including Song of the Year and Record of the Year. The multi-talented artist, known for his roles in the TV shows \"Community\" and \"Atlanta,\" has also achieved critical acclaim for his music. What is Donald Glover's stage name for his musical career?",
+            "answers": ["Childish Gambino"],
+            "incorrect1": "Snoop Dogg",
+            "incorrect2": "Drake",
+            "incorrect3": "J. Cole",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "Historically, this sea has played a significant role in the development of Mediterranean civilizations, serving as a crucial trade route and a battleground for various empires. The sea, known for its picturesque islands and stunning coastal scenery, is home to over 1,300 islands, most of which are located along the Croatian coast. What is the name of this elongated body of water separating the Italian Peninsula from the Balkan Peninsula?",
+            "answers": ["Adriatic Sea"],
+            "incorrect1": "Black Sea",
+            "incorrect2": "Caspian Sea",
+            "incorrect3": "Mediterranean Sea",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This author's early life was marked by tragedy, with the deaths of her mother and half-sister leading to her first mental breakdown. She was a key member of the Bloomsbury Group, an influential intellectual and artistic circle in early 20th-century London. Her experimental novels, like \"Mrs. Dalloway\" and \"To the Lighthouse,\" employ stream-of-consciousness narration and interior monologues. Who was this modernist writer who also penned the feminist essay \"A Room of One's Own\"? ",
+            "answers": ["Virginia Woolf"],
+            "incorrect1": "Jane Austen",
+            "incorrect2": "Charlotte Bront\u00eb",
+            "incorrect3": "Emily Bront\u00eb",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "This President was known for his taciturn personality, earning him the nickname \"Silent Cal.\" He ascended to the presidency following the sudden death of Warren G. Harding and won re-election in 1924. He advocated for limited government intervention in the economy and his presidency coincided with a period of economic prosperity known as the \"Roaring Twenties.\" He famously declared, \"The business of America is business.\" Which president was known for his frugality and his belief in laissez-faire economics?",
+            "answers": ["Calvin Coolidge"],
+            "incorrect1": "Warren G. Harding",
+            "incorrect2": "Herbert Hoover",
+            "incorrect3": "William Howard Taft",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
     ]
 ]
