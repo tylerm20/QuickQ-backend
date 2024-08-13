@@ -7505,7 +7505,7 @@
     [
         {
             "category": "Science",
-            "question": "In a common undergraduate lab, students synthesize this compound through phosphoric acid-catalyzed esterification. This compound's starting chemical was formerly extracted from willow bark by doctors, and its modern form was patented by Bayer. Acetylsalicylic acid is another name for which NSAID pain reliever that can cause more gastrointestinal side effects than ibuprofen?",
+            "question": "In a common undergraduate lab, students synthesize this compound through phosphoric acid-catalyzed esterification. This compound's starting chemical was formerly extracted from willow bark by doctors, and its modern form was patented by Bayer. Acetylsalicylic acid is another name for which NSAID pain reliever which can be prescribed in low doses to reduce the likelihood of blood clots or stroke and can cause more gastrointestinal side effects than ibuprofen?",
             "answers": ["Aspirin", "acetylsalicylic acid", "ASA"],
             "incorrect1": "Tylenol",
             "incorrect2": "Advil",
@@ -7581,7 +7581,7 @@
         },
         {
             "category": "Current Events",
-            "question": "Elon Musk threatened to move companies out of this state because of a recently passed law which bars school districts in that state from requiring parents to be notified of a child's gender identification change. This state is home to Death Valley, the hottest and driest place in North America, and Mount Whitney, the highest point in the contiguous United States. It's the most populous state in the US and boasts the world's largest tree by volume, the General Sherman Tree. What state is this, known for its diverse landscapes and thriving entertainment industry?",
+            "question": "Elon Musk threatened to move companies out of this state because of a recently passed law which bars school districts from requiring parents to be notified of a child's gender identification change. This state is home to Death Valley, the hottest and driest place in North America, and Mount Whitney, the highest point in the contiguous United States. It's the most populous state in the US and boasts the world's largest tree by volume, the General Sherman Tree. What state is this, known for its diverse landscapes and entertainment industry?",
             "answers": ["California"],
             "incorrect1": "Texas",
             "incorrect2": "Florida",
