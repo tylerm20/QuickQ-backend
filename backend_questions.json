@@ -7766,5 +7766,87 @@
             "used": "FALSE",
             "source": "Marty Heavey"
         }
+    ],
+    [
+        {
+            "category": "World History",
+            "question": "The remains of a leader of this movement, Martin Bucer, were burned by Mary I. The Marburg Colloquy was called to resolve a dispute between Huldrych Zwingli and another leader of this movement. The Council of Trent codified the \"Counter-\" response to this movement, whose early proponents criticized the sale of indulgences. This movement started on All Saints' Day, 1517, when Martin Luther posted his 95 Theses in Wittenberg. Name this historical period in which Christian churches broke away from the Roman Catholic Church.",
+            "answers": ["Protestant Reformation", "Counter-Reformation"],
+            "incorrect1": "Renaissance",
+            "incorrect2": "Enlightenment",
+            "incorrect3": "Industrial Revolution",
+            "used": "FALSE",
+            "source": "2020 MOQBA Novice"
+        },
+        {
+            "category": "Current Events",
+            "question": "This city recently experienced a tragedy on August 9, 2024, when Voepass Linhas A\u00e9reas Flight 2283 crashed while attempting to land at Guarulhos International Airport, killing all 62 people on board. This incident was the deadliest aviation accident in Brazil since the crash of TAM Airlines Flight 3054 in 2007. This city is the most populous urban area outside of Asia. What is this city, the largest in South America and a major economic and cultural hub of Brazil?",
+            "answers": ["S\u00e3o Paulo", "Sao Paolo"],
+            "incorrect1": "Rio de Janeiro",
+            "incorrect2": "Buenos Aires",
+            "incorrect3": "Mexico City",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actor's portrayal of a mentally troubled comedian descending into madness in the 2019 film \"Joker\" earned him an Academy Award for Best Actor. He is known for his method acting approach and his commitment to animal rights activism. Earlier in his career, he gained recognition for his roles in films like \"Gladiator\" and \"Walk the Line.\" What is the name of this talented actor? ",
+            "answers": ["Joaquin Phoenix"],
+            "incorrect1": "Christian Bale",
+            "incorrect2": "Leonardo DiCaprio",
+            "incorrect3": "Brad Pitt",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "question": "In 2009, Patrick Kane was arrested in this city, his hometown, for punching a taxi driver. Scott Norwood's \"wide right\" kick is one focus of a documentary about the four consecutive Super Bowl losses by this city's NFL team. This city's Anchor Bar is the birthplace of a recipe for a deep-fried snack covered in Frank's RedHot sauce and usually dipped in blue cheese. Name this home city of the NFL's Bills and a spicy form of chicken wings.",
+            "answers": ["Buffalo", "Buffalo New York"],
+            "incorrect1": "Rochester",
+            "incorrect2": "Syracuse",
+            "incorrect3": "Albany",
+            "used": "FALSE",
+            "source": "2017 SCOP Novice 8"
+        },
+        {
+            "category": "Science",
+            "question": "This structure, shaped like a bowl, consists of four bones: the sacrum, coccyx, and two hip bones (each made of the ilium, ischium, and pubis). It protects vital organs like the bladder and reproductive organs, and it's essential for weight-bearing and locomotion. In females, it's wider and shallower than in males, facilitating childbirth. What is this skeletal structure, often referred to as the \"hip bone\"? ",
+            "answers": ["Pelvis"],
+            "incorrect1": "Skull",
+            "incorrect2": "Rib Cage",
+            "incorrect3": "Femur",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "question": "This mountain is a dormant volcano with three distinct volcanic cones: Shira, Kibo, and Mawenzi. The mountain's slopes are home to diverse ecosystems, ranging from tropical rainforests to alpine deserts, and it's a UNESCO World Heritage Site. This majestic landmark, located in Tanzania, is the highest peak in Africa, towering at 19,341 feet above sea level. Name this iconic mountain, a popular destination for climbers and adventurers seeking to reach its summit, Uhuru Peak.",
+            "answers": ["Mount Kilimanjaro", "Mt Kilamanjaro"],
+            "incorrect1": "Mount Everest",
+            "incorrect2": "Kangchenjunga",
+            "incorrect3": "K2",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This team, which made it to the World Series in 2023 but ultimately fell to the Texas Rangers, achieved a significant milestone in 2001 by becoming the fastest expansion team in MLB history to win a World Series. Their home stadium, Chase Field, features a retractable roof and a swimming pool in the outfield. Their mascot is D. Baxter the Bobcat, a playful and energetic feline friend. What is the name of this team, whose distinctive colors are Sedona Red, Sonoran Sand, and Teal? ",
+            "answers": ["Arizona Diamondbacks"],
+            "incorrect1": "Colorado Rockies",
+            "incorrect2": "San Diego Padres",
+            "incorrect3": "Los Angeles Angels",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This dystopian novel, set in a futuristic World State where happiness is prioritized over individuality, features a caste system where citizens are artificially created and conditioned to fit predetermined roles. The characters, including Bernard Marx and Lenina Crowne, navigate a society where conformity is enforced through the use of a happiness drug called \"soma\" and promiscuity is encouraged. What is the title of this influential novel by Aldous Huxley?",
+            "answers": ["Brave New World"],
+            "incorrect1": "1984",
+            "incorrect2": "The Handmaid's Tale",
+            "incorrect3": "Fahrenheit 451",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
     ]
 ]
