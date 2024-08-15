@@ -7714,7 +7714,7 @@
         },
         {
             "category": "Sports",
-            "question": "This athlete is the first person to break four world records in the same track event. She broke her own world record in the 400-meter hurdles at the 2024 Summer Olympics, securing her second consecutive gold medal in the event. She's the first woman to break both the 52-second and 51-second barriers in the 400m hurdles. She also contributed to Team USA's victory in the women's 4x400m relay at those same Olympics. Who is this American track star? ",
+            "question": "This athlete was the first person to break four world records in the same track event. She broke her own world record in the 400-meter hurdles at the 2024 Summer Olympics, securing her second consecutive gold medal in the event. She's the first woman to break both the 52-second and 51-second barriers in the 400m hurdles. She also contributed to Team USA's victory in the women's 4x400m relay at those same Olympics. Who is this American track star? ",
             "answers": [
                 "Sydney McLaughlin-Levrone",
                 "Sydney McLaughlin",
@@ -7728,7 +7728,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This musical artist released his final album titled \u201cBando Stone & the New World\u201d under this stage name in July 2024. His thought-provoking song \"This Is America,\" released in 2018, sparked widespread conversations about gun violence and racial injustice in the United States. It won four Grammy Awards, including Song of the Year and Record of the Year. The multi-talented artist, known for his roles in the TV shows \"Community\" and \"Atlanta,\" has also achieved critical acclaim for his music. What is Donald Glover's stage name for his musical career?",
+            "question": "This musical artist released his final album titled \u201cBando Stone & the New World\u201d under his stage name in July 2024. His thought-provoking song \"This Is America,\" released in 2018, sparked widespread conversations about gun violence and racial injustice in the United States. It won four Grammy Awards, including Song of the Year and Record of the Year. The multi-talented artist, known for his roles in the TV shows \"Community\" and \"Atlanta,\" has also achieved critical acclaim for his music. What is Donald Glover's stage name for his musical career?",
             "answers": ["Childish Gambino"],
             "incorrect1": "Snoop Dogg",
             "incorrect2": "Drake",
@@ -7742,7 +7742,7 @@
             "answers": ["Adriatic Sea"],
             "incorrect1": "Black Sea",
             "incorrect2": "Caspian Sea",
-            "incorrect3": "Mediterranean Sea",
+            "incorrect3": "Aegean Sea",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -7758,7 +7758,7 @@
         },
         {
             "category": "US History",
-            "question": "This President was known for his taciturn personality, earning him the nickname \"Silent Cal.\" He ascended to the presidency following the sudden death of Warren G. Harding and won re-election in 1924. He advocated for limited government intervention in the economy and his presidency coincided with a period of economic prosperity known as the \"Roaring Twenties.\" He famously declared, \"The business of America is business.\" Which president was known for his frugality and his belief in laissez-faire economics?",
+            "question": "This president famously declared, \"The business of America is business.\" He ascended to the presidency following the sudden death of Warren G. Harding and won re-election in 1924. He advocated for limited government intervention in the economy and his presidency coincided with a period of economic prosperity known as the \"Roaring Twenties.\" Name this president, known for his taciturn personality, earning him the nickname \"Silent Cal.\"",
             "answers": ["Calvin Coolidge"],
             "incorrect1": "Warren G. Harding",
             "incorrect2": "Herbert Hoover",
@@ -7771,7 +7771,11 @@
         {
             "category": "World History",
             "question": "The remains of a leader of this movement, Martin Bucer, were burned by Mary I. The Marburg Colloquy was called to resolve a dispute between Huldrych Zwingli and another leader of this movement. The Council of Trent codified the \"Counter-\" response to this movement, whose early proponents criticized the sale of indulgences. This movement started on All Saints' Day, 1517, when Martin Luther posted his 95 Theses in Wittenberg. Name this historical period in which Christian churches broke away from the Roman Catholic Church.",
-            "answers": ["Protestant Reformation", "Counter-Reformation"],
+            "answers": [
+                "Protestant Reformation",
+                "Counter-Reformation",
+                "Reformation"
+            ],
             "incorrect1": "Renaissance",
             "incorrect2": "Enlightenment",
             "incorrect3": "Industrial Revolution",
@@ -7845,6 +7849,93 @@
             "incorrect1": "1984",
             "incorrect2": "The Handmaid's Tale",
             "incorrect3": "Fahrenheit 451",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2011 SCOP Novice 2",
+            "question": "The Doberai Peninsula is in this nation's easternmost province, and the city of Pontianak in its province of West Kalimantan lies on an island shared by two other countries. The Lombok and Sunda Straits are major shipping lanes in the south of this country, and Bali is a major resort island here. Including the islands of Sumatra and Java name this primarily Muslim archipelagic nation with capital Jakarta.",
+            "answers": ["Indonesia"],
+            "incorrect1": "Malaysia",
+            "incorrect2": "Thailand",
+            "incorrect3": "Philippines",
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "In August 2024, a US federal court ruled that this tech giant illegally maintained a monopoly and engaged in anti-competitive practices to suppress rivals. The case was brought by the Department of Justice, which argued that the company's dominance stifled innovation and harmed consumers. The case involved this company's rumored mutl-billion dollar payments to Apple and other tech companies to be the default search engine on their devices/platforms. Which tech giant is this?",
+            "answers": ["Google"],
+            "incorrect1": "Microsoft",
+            "incorrect2": "DuckDuckGo",
+            "incorrect3": "Apple",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2016 PLATO",
+            "question": "One of these animals named Elsey tells Maureen that \"in Cyberland we only drink Diet Coke\" in the musical RENT. In an Irish myth, Cuchulainn is unable to prevent one of these animals from being stolen in a famous \"raid of Cooley.\" In Into the Woods, one of these named Milky White is Jack's only friend. A \"pox\" of these animals was the source of the first vaccines. Name this common bovine animal which chews its cud and produces milk.",
+            "answers": ["cows", "cattle", "bulls"],
+            "incorrect1": "horses",
+            "incorrect2": "sheep",
+            "incorrect3": "goats",
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This artist's iconic music video, directed by John Landis and released in 1983, revolutionized the music industry with its elaborate choreography, special effects, and cinematic storytelling. The Thriller video, which runs for over 13 minutes, features a zombie dance sequence that has become a cultural phenomenon, and its album of the same name remains the best-selling album of all time. Who is this artist, also known for his signature moonwalk dance move and chart-topping hits like \"Billie Jean\" and \"Beat It\"?",
+            "answers": ["Michael Jackson"],
+            "incorrect1": "Prince",
+            "incorrect2": "Madonna",
+            "incorrect3": "Elvis Presley",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2017 SCOP Novice 8",
+            "question": "A 9th century holder of this position named Formosus had his corpse put on trial. A holder of this position allied with Philip II and Charles V to fight the Ottomans at Lepanto. Julius II was labeled the\"warrior\" one of these people after he formed the Holy League. The Council of Clermont was called by another of these men, Urban II, who launched the First Crusade to capture Jerusalem. Name this head of the Catholic Church.",
+            "answers": [
+                "Pope",
+                "Bishop of Rome",
+                "Roman Pontiff",
+                "Pontifex Maximus"
+            ],
+            "incorrect1": "Cardinal",
+            "incorrect2": "Archbishop",
+            "incorrect3": "Bishop",
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "The would-be assassin of this person clashed with his attorney, Judy Clarke, when told his target survived. She received a standing ovation from Congress when she appeared to cast a vote in August 2011. Less than 7 months earlier, she was fighting for her life, after being shot in the head by Jared Loughner in a Safeway parking lot. Name this Arizona congresswoman who resigned her office in January 2012.",
+            "answers": ["Gabrielle Giffords", "Gabby Giffords", "Giffords"],
+            "incorrect1": "Hillary Clinton",
+            "incorrect2": "Nancy Pelosi",
+            "incorrect3": "Alexandria Ocasio-Cortez",
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "source": "2014 SCOP Novice 5",
+            "question": "In AC circuits, this quantity's namesake right triangle can be used to find its \"apparent\" form. Intensity is equal to this quantity over area. In an electrical circuit, this quantity can be expressed as voltage squared over resistance, though it is more commonly denoted as current squared time resistance or current times voltage. Name this physical quantity, the amount of work done per unit time, measured in Watts.",
+            "answers": ["power", "electric power", "mechanical power"],
+            "incorrect1": "strength",
+            "incorrect2": "force",
+            "incorrect3": "authority",
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's iconic orange and black colors, adopted in 1947, were inspired by the owner Horace Stoneham's love of hunting and fishing. They hold the record for the most National League pennants, with 23, and have played in 20 World Series. Their home stadium, Oracle Park, boasts stunning views of their local bay and is known for its signature splash hits into McCovey Cove. Which team, originally based in New York, moved to San Francisco in 1958 and has won eight World Series championships? ",
+            "answers": ["San Francisco Giants"],
+            "incorrect1": "Los Angeles Dodgers",
+            "incorrect2": "Oakland Athletics",
+            "incorrect3": "San Diego Padres",
             "used": "FALSE",
             "source": "Marty Heavey"
         }
