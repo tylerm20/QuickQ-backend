@@ -7939,5 +7939,87 @@
             "used": "FALSE",
             "source": "Marty Heavey"
         }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This quarterback's iconic pre-snap routine, often involving audibles and elaborate hand signals, earned him the nickname \"The Sheriff.\"  He played college football at University of Tennessee winning the Davey O'Brien award as a senior en route to victory in the 1997 SEC Championship Game. He played for the Indianapolis Colts for 14 seasons and the Denver Broncos for four, winning Super Bowls with both teams.  Who is this legendary quarterback, known for his football intelligence and leadership skills?",
+            "answers": ["Peyton Manning"],
+            "incorrect1": "Tom Brady",
+            "incorrect2": "Aaron Rodgers",
+            "incorrect3": "Drew Brees",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "In one excerpt from this book the protagonist is told of \"two witnesses\" who will \"prophesy for 1260 days\" before being killed and resurrected. In one scene from this work trumpets are given to seven angels, and it begins with the protagonist addressing the seven churches of Asia. In the sixth chapter of this book a lamb begins opening seven seals, the first four of which contain the horseman of the apocalypse. A description of New Jerusalem is given at the conclusion of this work, which consists primarily of a prophetic vision seen by John of Patmos. Name this final book of the Bible.",
+            "answers": ["Book of Revelation", "Revelation"],
+            "incorrect1": "Book of Genesis",
+            "incorrect2": "Book of Exodus",
+            "incorrect3": "Book of Psalms",
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This neo-noir mystery thriller, directed by Bryan Singer and written by Christopher McQuarrie, follows a group of criminals brought together for a police lineup who subsequently plan a heist. It features an ensemble cast including Kevin Spacey, Gabriel Byrne, and Benicio del Toro, and is known for its complex plot twists and unreliable narrator. Which film, whose ending reveals the true identity of the enigmatic Keyser S\u00f6ze, is this?",
+            "answers": ["The Usual Suspects"],
+            "incorrect1": "The Shawshank Redemption",
+            "incorrect2": "Pulp Fiction",
+            "incorrect3": "Fight Club",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2021 CERES",
+            "question": "Barry Marshall won a Nobel Prize for his research on this organ, in which he drank a bacteria called H. pylori and discovering that it caused ulcers to form in it. This organ creates chyme out of molecules that arrive from the esophagus to it. A layer of mucus helps protect this organ from the hydrochloric acid that breaks apart proteins before they enter the intestines. Name this digestive organ that breaks down food.",
+            "answers": ["stomach"],
+            "incorrect1": "heart",
+            "incorrect2": "lungs",
+            "incorrect3": "liver",
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This man was named the Vice Presidential candidate for Kamala Harris's presidential ticket. Before he was a poltician this man served in the Army National Guard and worked as an educator and football coach. He was elected 5 times to the House of Representatives from Minnesota before he was elected the state's governor in 2018. Name this politician who recently gained recognition for calling Donald Trump \"weird.\"",
+            "answers": ["Tim Walz"],
+            "incorrect1": "Josh Shapiro",
+            "incorrect2": "Mark Kelly",
+            "incorrect3": "Gretchen Whitmer",
+            "used": "FALSE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2010 SCOP Novice",
+            "question": "As a British colony, this state was the only one to ban the importing of slaves. John Marshall ruled in a case filed by Samuel Worcester against this state that the Cherokee could not be expelled by state governments, a ruling ignored by Andrew Jackson. This state was founded as a buffer between the British colonies and Spanish territory to the south. Name this state, a debtor's colony founded by James Oglethorpe, who chose its first capital, Savannah.",
+            "answers": ["Georgia"],
+            "incorrect1": "South Carolina",
+            "incorrect2": "New York",
+            "incorrect3": "Connecticut",
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 HIGS",
+            "question": "The Ellsworth Mountains in this landmass are bounded to the north by the Bellingshausen Sea. The Russian-owned Vostok Station can be found in Princess Elizabeth Land in this continent. Vinson Massif is its highest point, and it is the largest desert in the world. Name this continent where the Earth's coldest air temperatures have been recorded, and that contains the South Pole.",
+            "answers": ["Antarctica"],
+            "incorrect1": "Arctic",
+            "incorrect2": "Greenland",
+            "incorrect3": "Siberia",
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "This man used missi dominici to investigate his lands. Pope Adrian I asked him to conquer the Lombards early in his reign, and his attempts to eradicate the Moors ended with an unsuccessful attempt to capture Saragossa. This man was served by men such as his tutor Alcuin and his biographer Einhard. The son of Pepin the Short, this man had his lands divided into three parts at the Treaty of Verdun. He was crowned Holy Roman Emperor by Pope Leo III on Christmas Day in the year 800 A.D. Name this member of the Carolignian dynasty, a leader of the Franks.",
+            "answers": ["Charlemagne", "Charles the Great"],
+            "incorrect1": "Louis XIV",
+            "incorrect2": "Napoleon Bonaparte",
+            "incorrect3": "Otto the Great",
+            "used": "FALSE"
+        }
     ]
 ]
