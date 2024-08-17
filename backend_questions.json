@@ -8021,5 +8021,520 @@
             "incorrect3": "Otto the Great",
             "used": "FALSE"
         }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This gymnast recently secured her eighth all-around title at the 2023 U.S. Gymnastics Championships, further cementing her status as the most decorated gymnast in U.S. history. She made a triumphant return to competitive gymnastics after a two-year hiatus, having withdrawn from several events during the 2020 Tokyo Olympics to prioritize her mental health. At the 2024 Paris Olympics, she became the oldest U.S. woman to win an individual Olympic medal in gymnastics since 1952. Who is this inspiring athlete, known for her groundbreaking skills and advocacy for mental health awareness?",
+            "answers": ["Simone Biles"],
+            "incorrect1": "Gabby Douglas",
+            "incorrect2": "Aly Raisman",
+            "incorrect3": "Sunisa Lee",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2022 SANDS",
+            "question": "Paintings of this type by Frida Kahlo include ones \"with Cropped Hair\" and \"with Thorn Necklace and Hummingbird\". Norman Rockwell created a \"triple\" painting of this type. Vincent Van Gogh created one of these paintings in which his bandaged ear is visible. These paintings became easier to create with the advent of mirrors. Name this artistic genre in which a painter depicts themself.",
+            "answers": ["self-portrait", "self portrait"],
+            "incorrect1": "landscape",
+            "incorrect2": "still life",
+            "incorrect3": "portrait",
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This television series' final season was met with mixed reviews and a petition signed by over a million viewers demanding a remake. The show's opening credits feature a 3D map of the fictional continents where the story takes place, Westeros and Essos. Based on George R. R. Martin's book series \"A Song of Ice and Fire,\" this fantasy drama is known for its complex characters, intricate plotlines, and shocking twists. What is the name of this popular HBO series?",
+            "answers": ["Game of Thrones"],
+            "incorrect1": "The Lord of the Rings",
+            "incorrect2": "The Witcher",
+            "incorrect3": "House of the Dragon",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "Prime Minister Sheikh Hasina of this nation resigned and fled the country after huge student protests over the nation's quota system. The protests resulted in hundreds of deaths, the resignation of the prime minister, and the dissolution of her government. The 2006 Nobel Prize winner, Muhammad Yunus, was selected to form an interim government until elections can be held. What is this nation which is one of the most densely populated in the world and has an official language of Bengali?",
+            "answers": ["Bangladesh"],
+            "incorrect1": "Pakistan",
+            "incorrect2": "India",
+            "incorrect3": "Sri Lanka",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "The London equations can be used to describe the magnetic fields of these objects. In a solid state, these materials come in LCO or YBCO forms. The London penetration depth, studied by John Schrieffer, is the depth a magnetic field penetrates these types of materials. According to BCS theory, below the Fermi level they form Cooper pairs through electron-phonon interactions. These objects expel their internal magnetic field by the Meissner effect. Name these objects which have no electrical resistance.",
+            "answers": ["Superconductors", "super conductors"],
+            "incorrect1": "semiconductors",
+            "incorrect2": "insulators",
+            "incorrect3": "conductors",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2020 MOQBA Novice",
+            "question": "Erich Von Daniken claimed the sarcophagus of a king of these people depicts an astronaut riding a rocket. These people built the early observatory of El Caracol, and made human sacrifices in cenotes. King Pacal of these people was born on 9.8.9.13.0 in this people's \"Long Count\" calendar. These people were the first to develop the idea of zero, and they wrote in a hieroglyphic language found at Palenque. Chichen Itza was built by what pre-Columbian civilization of the Yucatan Peninsula and Guatemala?",
+            "answers": ["Mayans", "Maya"],
+            "incorrect1": "Aztecs",
+            "incorrect2": "Incas",
+            "incorrect3": "Olmecs",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "Awaji, a small island in this nation, is known for the fine quality of its onions. One island in this country contains Lake Biwa, which is drained by the Yodo River into the Inland Sea; that island is also home to the Hida and Akaishi mountain ranges. This country has recently suffered a devastating earthquake and tsunami near its Fukushima region, nearly causing a nuclear disaster. The Kanto plain is located in this land of the rising sun whose four main islands are Shikoku, Kyushu, Hokkaido, and Honshu.",
+            "answers": ["Japan", "Nippon"],
+            "incorrect1": "China",
+            "incorrect2": "South Korea",
+            "incorrect3": "Vietnam",
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "source": "2020 MOQBA Novice",
+            "question": "This king's wife scraped wax off a tablet sent by Demartus to uncover a hidden message. The 400 Thebans accompanying this man at his most notable engagement largely surrendered to enemy forces. Ephialtes betrayed this husband of Queen Gorgo by identifying a path around his forces. This king responded \"come and take them\" upon being ordered to surrender his weapons at a location nicknamed the \"hot gates.\" Name this Spartan king who fought in the Battle of Thermopylae with his 300 soldiers.",
+            "answers": ["Leonidas I", "Leonidas", "Leonidas the first"],
+            "incorrect1": "Alexander the Great",
+            "incorrect2": "Pericles",
+            "incorrect3": "Socrates",
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2017 SCOP MS 7",
+            "question": "In Amonton's Laws, the effect of this force is independent of surface area. This force's magnitude is equal to a namesake coefficient, symbolized mu, times the normal force. One type of this force prevents resting objects from sliding and can be overcome with lubricants. For ten points, name this force that opposes motion between bodies in contact.",
+            "answers": ["friction"],
+            "incorrect1": "gravity",
+            "incorrect2": "traction",
+            "incorrect3": "magnetism",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 TAILS",
+            "question": "A yellow ribbon symbolizes the independence movement of a region in this country. The cantera policy of a soccer team in this country to only use local players emphasizes Basque pride. Architecture designed by Antoni Gaudi is prominent in this country's region of Catalonia, and especially the city of Barcelona. Name this country formed by the union of Castile and Aragon whose capital is Madrid.",
+            "answers": ["Spain", "Espana", "Reino de Espana"],
+            "incorrect1": "France",
+            "incorrect2": "Portugal",
+            "incorrect3": "Mexico",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 SCOP A Round 5",
+            "question": "This historical group worshipped the son of Coatlicue [koh-at-lee-kway], who was impregnated by a ball of feathers. These Nahuatl-speaking people worshipped a \"left-handed\" or \"southern\" hummingbird, Huitzilopochtli [hwee-tsil-oh-pokt-lee], and a rain god named Tlaloc [t-lah-lock] in a pair of temples perched on top of a pyramidal platform. Name these people who worshiped gods like Quetzalcoatl [ket-zal-koh-ah-tull] in the Templo Mayor in Tenochtitlan before they were conquered by Hernan Cortes.",
+            "answers": ["Aztecs", "Aztec empire"],
+            "incorrect1": "Mayans",
+            "incorrect2": "Incas",
+            "incorrect3": "Egyptians",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's distinctive pirate logo, featuring a silver and black eye patch-wearing man, was designed by Allen \"Skip\" Davis in 1963. Originally based in Oakland, California, they relocated to Los Angeles in 1982 and then to Las Vegas in 2020. They have won three Super Bowl championships (XI, XV, and XVIII) and one AFL championship in 1967.  Which NFL team's motto, \"Just win, baby,\" was coined by longtime owner Al Davis?",
+            "answers": ["Las Vegas Raiders"],
+            "incorrect1": "Las Vegas Aces",
+            "incorrect2": "Oakland Raiders",
+            "incorrect3": "Los Angeles Chargers",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2011 SCOP Novice 2",
+            "question": "Moses Rose is legendarily considered the \"coward\" of this battle. William Travis was left in sole command because the volunteer leader was bedridden, and Susanna Dickinson was spared to warn others of the defeat. Ending on March 6, 1836 with the deaths of James Bowie, Davy Crockett, and roughly 200 others in a San Antonio mission name this disastrous battle of the Texas Revolution.",
+            "answers": ["Battle of the Alamo", "Alamo", "the alamo"],
+            "incorrect1": "Battle of Gettysburg",
+            "incorrect2": "Battle of San Jacinto",
+            "incorrect3": "Mexican-American War",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "A town in this nation became the focus of national attention in July 2024 following a tragic stabbing spree that sparked a wave of protests and unrest across the country. The incident occurred during a children's dance class, resulting in the deaths of three young girls and injuries to several others. The subsequent spread of misinformation and exploitation of the event by far-right groups fueled anti-immigrant demonstrations and violence. Southport known for its beaches and Victorian architecture, is a part of which country? ",
+            "answers": ["England", "United Kingdom", "UK"],
+            "incorrect1": "Scotland",
+            "incorrect2": "Ireland",
+            "incorrect3": "France",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This musician's real name is Richard Starkey, and he was born in Liverpool, England, in 1940. His solo career has spanned decades, and he has released numerous albums and singles, including hits like \"Photograph\" and \"It Don't Come Easy.\" He is also an accomplished actor and voice actor, known for his roles in films like \"Caveman\" and \"Thomas & Friends.\" He joined the Beatles in 1962, replacing their original drummer, Pete Best. Who is this iconic drummer and multi-talented performer?",
+            "answers": ["Ringo Starr", "Star"],
+            "incorrect1": "John Lennon",
+            "incorrect2": "George Harrison",
+            "incorrect3": "Phil Collins",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2018 SCOP Novice 9",
+            "question": "This thinker's early work The Birth of Tragedy discusses the Apollonian and Dionysian elements in Greek tragedy. This thinker's work On the Genealogy of Morality accuses Christianity of encouraging weakness, and his criticism continued in The Antichrist. A Persian prophet describes the Ubermensch in Thus Spoke Zarathustra by what German philosopher whose work was embraced by the Nazis?",
+            "answers": ["Friedrich Nietzsche", "Nieche"],
+            "incorrect1": "Sigmund Freud",
+            "incorrect2": "Immanuel Kant",
+            "incorrect3": "Søren Kierkegaard",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This American military officer controversially kept Emperor Hirohito from facing war crimes trials, and helped write the constitution of Japan. During the Korean War, he had wanted to cross the Yalu River to attack the Chinese, and was eventually removed from command after trying to drum up support for this offensive in Congress. He also was in charge of removing the Bonus Army from Washington. Name this American general who, during World War II, he rose to the rank of Supreme Commander of Allied Forces in the Southwest Pacific Area.",
+            "answers": ["Douglas MacArthur"],
+            "incorrect1": "George Patton",
+            "incorrect2": "Dwight D. Eisenhower",
+            "incorrect3": "Omar Bradley",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This artist's final album, released just days before his tragic death, included the Grammy-winning hit \"Sexual Healing\". He started his musical journey singing in a church choir led by his father, a Pentecostal minister. Known for his smooth vocals and socially conscious lyrics, he recorded timeless classics like \"What's Going On\" and \"Let's Get It On\".  Who is this iconic soul singer, whose life was cut short by his own father in a domestic dispute?",
+            "answers": ["Marvin Gaye", "Gay"],
+            "incorrect1": "Stevie Wonder",
+            "incorrect2": "Smokey Robinson",
+            "incorrect3": "Ray Charles",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This footballer's early career was marked by a growth hormone deficiency, which was treated by FC Barcelona after his family relocated to Spain. He is known for his exceptional dribbling skills, precise passing, and prolific goalscoring, earning him numerous awards and accolades, including a record seven Ballon d'Or titles. He recently made a high-profile move to Inter Miami CF in Major League Soccer, leaving Paris Saint-Germain after two seasons. Who is this Argentine forward, widely regarded as one of the greatest footballers of all time?",
+            "answers": ["Lionel Messi", "Messi"],
+            "incorrect1": "Cristiano Ronaldo",
+            "incorrect2": "Neymar Jr.",
+            "incorrect3": "Kylian Mbappé",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2019 SCOP Novice 10",
+            "question": "An underactive parathyroid gland will cause a low blood level of this substance. The sarcoplasmic reticulum stores ions of this mineral, which is needed for muscle contraction. Vitamin D assists the absorption of both phosphate and this element in the gut. Seniors may take a supplement of this element to prevent osteoporosis, and children often get their intake by drinking milk. Name this element needed to build strong bones and teeth.",
+            "answers": ["calcium", "Ca"],
+            "incorrect1": "sodium",
+            "incorrect2": "potassium",
+            "incorrect3": "magnesium",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "In August 2024, a sudden strengthening of this currency, coupled with concerns about a potential recession in the United States, sent shockwaves through global markets. The surge in its value triggered a massive sell-off in Japanese stocks, leading to the Nikkei 225 index suffering its largest single-day point drop in history. This chain reaction ultimately impacted markets across the globe, with major indices like the Dow Jones and S&P 500 experiencing significant declines. What is the name of this currency, whose volatility highlighted the interconnectedness of global financial markets?",
+            "answers": ["Yen", "Japanese Yen"],
+            "incorrect1": "Won",
+            "incorrect2": "Yuan",
+            "incorrect3": "Baht",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "This man's secretary, Orville Babcock, and vice president, Schuyler (\"SKOY-ler\") Colfax, were accused in the scandals of the Whiskey Ring and Credit Mobilier. He captured Fort Donelson and opened the Mississippi River at Vicksburg before he was promoted to command all the Union armies and accepted the surrender of Robert E. Lee at Appomattox. Name this Union general and eighteenth President.",
+            "answers": [
+                "Ulysses Simpson Grant",
+                "Ulysses S Grant",
+                "Ulysses",
+                "Grant"
+            ],
+            "incorrect1": "Robert E. Lee",
+            "incorrect2": "Abraham Lincoln",
+            "incorrect3": "George Washington",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2015 SAGES",
+            "question": "A rill is a shallow channel created by water during this process. Terracing can slow down this process on a hillside, while removing trees can speed up this process, as the roots can no longer hold onto the soil. Name this process of transporting material by wind or water.",
+            "answers": ["erosion"],
+            "incorrect1": "weathering",
+            "incorrect2": "deposition",
+            "incorrect3": "sedimentation",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Fall Novice Tournament",
+            "question": "Members of this faith form houses known as sosyete, and its holy men are sometimes called houngan. It believes in an ancestral homeland of Ginen, worships the supreme being Bondye, and originates in Yoruban myth. The Ogunye and Ezili are families of this religion's spirits, or loa, which include Papa Legba and Baron Samedi. Name this syncretic religion practiced in Louisiana and Haiti, whose rarer practices might involve zombies or pin-filled dolls.",
+            "answers": ["Vodou", "Voodoo", "Vodun", "Vaudou"],
+            "incorrect1": "Santeria",
+            "incorrect2": "Candomblé",
+            "incorrect3": "Islam",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "This object reduces transaction costs in an economy by eliminating the requirement for a double conincidence of wants. Gresham's law states that the bad variety of this will drive out the good variety. The Federal Reserve of the United States conducts open market operations in order to change the supply of this object. The rate at which this changes hands is referred to as the velocity of circulation. In the U.S., it became fiat in 1971 under Richard Nixon, and inflation is the devaluation of this. Identify this method of payment whose various forms include traveller's cheques, checkable deposits, and currency in circulation.",
+            "answers": ["money", "Currency"],
+            "incorrect1": "credit",
+            "incorrect2": "wealth",
+            "incorrect3": "assets",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This track and field athlete won the gold medal in 100 meters at the 2024 Olympics. He sparked controversy by questioning the use of the term \"world champion\" for NBA title winners, leading to public exchanges with prominent figures like Kevin Durant and Drake. He then won a bronze medal in the 200 meter race after claiming to have tested positive for COVID two days prior. Who is this outspoken sprinter known for his charismatic personality and impressive speed? ",
+            "answers": ["Noah Lyles", "Liles"],
+            "incorrect1": "Usain Bolt",
+            "incorrect2": "Justin Gatlin",
+            "incorrect3": "Andre De Grasse",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2021 CERES, A. Gao",
+            "question": "This amendment with this number was challenged in the case D.C. v. Heller. An article of the Constitution with this number details impeachment, and sets the powers of the Executive branch. Members of the House are elected for a term of this many years. An amendment with this number gives people the right to \"keep and bear Arms.\" Name this number of chambers of Congress in the US.",
+            "answers": [
+                "Second Amendment",
+                "Second",
+                "two",
+                "2",
+                "2nd",
+                "Article Two of the United States Constitution"
+            ],
+            "incorrect1": "First Amendment",
+            "incorrect2": "Tenth Amendment",
+            "incorrect3": "Fourteenth Amendment",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "This leader served as the Minister of Information and Broadcasting under Prime Minister Lal Bahadur Shastri, whose death led to this person's first term as prime minister. In order to eliminate political rivals, this person instituted a two year state of emergency which would later be the impetus behind this leader's deposing by the Janata Party. This ruler also authorized a test at Pokhran of a nuclear device called Smiling Buddha. Name this Indian Prime Minister who, after authorizing an attack on the Golden Temple of Amritsar known as Operation Blue Star, was assassinated in 1984 by two of her Sikh bodyguards.",
+            "answers": ["Indira Gandhi", "Gandhi"],
+            "incorrect1": "Benazir Bhutto",
+            "incorrect2": "Golda Meir",
+            "incorrect3": "Margaret Thatcher",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's iconic ballpark, Camden Yards, opened in 1992 and is often credited with sparking a wave of retro-style stadium construction across Major League Baseball. Their mascot is named after the state bird of Maryland. Cal Ripken Jr., known for breaking Lou Gehrig's consecutive games played record, spent his entire 21-year career with this team. What is the name of this team, whose distinctive black and orange colors represent Baltimore's city flag? ",
+            "answers": ["Baltimore Orioles", "Orioles"],
+            "incorrect1": "Baltimore Ravens",
+            "incorrect2": "Boston Red Sox",
+            "incorrect3": "New York Yankees",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 SCOP A",
+            "question": "In this novel, Pope Urban X's [the tenth's] daughter cuts off her buttock to serve to soldiers in a siege. Cacambo explores El Dorado with a man who says, \"we must cultivate our garden\" at the end of this novel. After an attack on Castle Thunder-ten-Tronckh, this novel's protagonist struggles to reunite with his lover, Cunegonde, and his teacher, Doctor Pangloss, who insists that \"all is for the best in this best of all possible worlds.\"Name this satirical French novel about a title \"Optimist,\" written by Voltaire.",
+            "answers": ["Candide", "Optimism"],
+            "incorrect1": "Gulliver's Travels",
+            "incorrect2": "Don Quixote",
+            "incorrect3": "The Adventures of Tom Sawyer",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 KICKOFF Novice",
+            "question": "Copper and saltpeter mining in this desert contribute to the economy of cities like Iquique and Antofagasta. In this desert, fog clouds called camanchacas are formed by the nearby Humboldt Current, forming a temperature inversion that enables native plants to survive its conditions. Because of the rain shadow of the Andes Mountains to its east, this desert is considered the driest on Earth. Name this desert, located mostly in Chile.",
+            "answers": ["Atacama Desert", "Desierto de Atacama"],
+            "incorrect1": "Sahara Desert",
+            "incorrect2": "Gobi Desert",
+            "incorrect3": "Mojave Desert",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This iconic sitcom, which aired for ten seasons from 1994 to 2004, initially titled \"Insomnia Cafe,\" followed the lives of six friends navigating their twenties and thirties in New York City.  It featured a memorable opening sequence filmed at the Warner Bros. Ranch in Burbank, California, and its theme song, \"I'll Be There for You\" by The Rembrandts, became an instant hit. The series finale, aired in 2004, remains one of the most-watched television episodes in history.  Which sitcom, known for its relatable characters and enduring humor, is this?",
+            "answers": ["Friends"],
+            "incorrect1": "Seinfeld",
+            "incorrect2": "How I Met Your Mother",
+            "incorrect3": "The Big Bang Theory",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2013 SCOP Novice 4",
+            "question": "This work's narrator commands his guests to \"tear up the planks\" when they fail to notice the crime scene around them. The narrator claims that his nervous \"disease\" has sharpened his senses, and he visits his sleeping victim for a week before smothering him with his bed. A sound like a watch in cotton drives the narrator to tell three policemen that he has killed and dismembered his vulture-eyed landlord in this short story by Poe.",
+            "answers": ["The Tell-Tale Heart"],
+            "incorrect1": "The Raven",
+            "incorrect2": "The Fall of the House of Usher",
+            "incorrect3": "The Cask of Amontillado",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2017 SCOP MS 7",
+            "question": "The size of these natural phenomena is determined by the \"fetch\" behind them. When these things \"break,\" they release kinetic energy as matter falls from its maximum amplitude. These phenomena may \"shoal\" in shallow water, and they do not occur when there is no wind. For ten points, name this physical phenomenon, a rippling motion on the surface of a body of water.",
+            "answers": ["surface waves", "ocean waves", "waves"],
+            "incorrect1": "body waves",
+            "incorrect2": "electromagnetic waves",
+            "incorrect3": "sound waves",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This physical educator, often called the \"Father of Basketball,\" was a Canadian-American physician who invented the game in 1891 while working at the YMCA International Training School in Springfield, Massachusetts. He initially used peach baskets as goals, requiring a ladder to retrieve the ball after each score. He later served as the first basketball coach at the University of Kansas.  Who was this sports innovator, whose creation has become a beloved global pastime?",
+            "answers": ["James Naismith", "Naismith"],
+            "incorrect1": "Michael Jordan",
+            "incorrect2": "Wilt Chamberlain",
+            "incorrect3": "LeBron James",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This aerospace giant's CST-100 Starliner spacecraft, intended to transport astronauts to and from the International Space Station, encountered multiple technical problems during its June 2024 test flight, including propellant leaks and thruster failures. These issues left two NASA astronauts stranded on the ISS, potentially delaying their return to Earth until late 2024 or early 2025. What is this company that is best known for their airplanes?",
+            "answers": ["Boeing"],
+            "incorrect1": "Airbus",
+            "incorrect2": "Lockheed Martin",
+            "incorrect3": "Northrop Grumman",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2020 SCOP MS 10",
+            "question": "Tennessee politician Harry Burn cast the deciding vote for this amendment. The Silent Sentinels, including Lucy Burns and Alice Paul, protested in favor of this amendment in front of the White House and were tortured by police in 1917. Carrie Chapman Catt led the National American Woman Suffrage Association, which advocated for what Constitutional amendment that guaranteed women the right to vote?",
+            "answers": [
+                "Nineteenth Amendment",
+                "19",
+                "19th",
+                "Nineteen",
+                "Ninetennth Amendment to the US Constitution"
+            ],
+            "incorrect1": "First Amendment",
+            "incorrect2": "Thirteenth Amendment",
+            "incorrect3": "Twenty-sixth Amendment",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This neo-western thriller, based on the 2005 novel of the same name by Cormac McCarthy, features Javier Bardem as Anton Chigurh, a ruthless hitman with a distinctive hairstyle and a captive bolt pistol. Set in the Texas desert in 1980, the story revolves around a hunter, Llewelyn Moss, who stumbles upon a drug deal gone wrong and takes the money. He soon finds himself pursued by Chigurh, leading to a cat-and-mouse chase across the desolate landscape. What is the title of this 2007 film directed by the Coen brothers? ",
+            "answers": ["No Country for Old Men"],
+            "incorrect1": "Fargo",
+            "incorrect2": "The Big Lebowski",
+            "incorrect3": "True Grit",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "The first prime minister of this country gave a speech outlining the Five Principles of Peaceful Coexistence that formed a basis for a treaty with China, and he also gave the \"Tryst with Destiny\" speech. Another prime minister was assassinated by her bodyguards in 1984 soon after approving an attack on the Golden Temple in Amritsar. Name this country once headed by Jawaharlal Nehru that disputes the status of Kashmir with Pakistan.",
+            "answers": ["India", "Republic of India", "Bharat Ganarajya"],
+            "incorrect1": "China",
+            "incorrect2": "Pakistan",
+            "incorrect3": "Bangladesh",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 Darien DEFT",
+            "question": "The MKAD and the Garden Ring are both ring roads circling this city. A Hilton Hotel and the Ministry of Foreign Affairs building are skyscrapers among this city's \"seven sisters.\" A church in this city is shaped like a flame, contains nine side churches around a main Church of Intercession, and is known for its brightly colored onion domes. Gorky Park and the GUM department store are in this city home to St. Basil's Cathedral. Red Square and the Kremlin are in what capital of Russia?",
+            "answers": ["Moscow", "Moskva"],
+            "incorrect1": "Saint Petersburg",
+            "incorrect2": "Kiev",
+            "incorrect3": "Berlin",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This team, originally based in Chicago and known as the Packers, relocated to Baltimore in 1951 and became the Bullets.  After a move to the nation's capital in 1973, they changed their name to reflect the city's heritage. Their most successful era came in the 1970s when they won their only NBA championship in 1978 led by Wes Unseld and Elvin Hayes. What is the name of this team that plays in Capital One Arena?",
+            "answers": ["Washington Wizards", "wizards"],
+            "incorrect1": "Los Angeles Lakers",
+            "incorrect2": "Chicago Bulls",
+            "incorrect3": "Golden State Warriors",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "Schedar is the brightest of its five stars. The Perseid meteor shower originates between Perseus and this constellation, which is visible year-round in the northern hemisphere. Its W shape represents a seated mythological queen. Identify this constellation named for the mother of Andromeda.",
+            "answers": ["Cassiopeia"],
+            "incorrect1": "Orion",
+            "incorrect2": "Ursa Major",
+            "incorrect3": "Andromeda",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2020 SCOP A",
+            "question": "In response to a question from Chaerephon, the Pythian oracle stated that no one was wiser than this philosopher, who claimed to know that he knew nothing. This \"gadfly of the state\" said that an \"unexamined life is not worth living\" while being sentenced to drink hemlock for corrupting the youth of Athens, as described in his student's Apology. Name this Greek philosopher, a predecessor of Aristotle, whose \"dialogues\"were recorded by Plato after his death.",
+            "answers": ["Socrates"],
+            "incorrect1": "Plato",
+            "incorrect2": "Aristotle",
+            "incorrect3": "Pythagoras",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 SCOP MS 7",
+            "question": "This body of water is home to Antelope Island, which becomes Antelope Peninsula when the water level dips too low. This body of water lies in what was, 30,000 years ago, Lake Bonneville. This body of water has no river outflows and only loses water via evaporation, causing its high salinity. This body of water lies just west of Brigham City and northwest of a namesake state capital. For ten points, name this largest body of water in Utah.",
+            "answers": ["Great Salt Lake", "Salt Lake City"],
+            "incorrect1": "Lake Superior",
+            "incorrect2": "Lake Michigan",
+            "incorrect3": "Salton Sea",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "This man used powers granted by the Taft-Hartley Act during a confrontation with air traffic controllers, and his Defense Secretary resigned after violations of the Boland Amendment were revealed. Before those events during his presidency, he served as Governor of California from 1967 until 1975. Prior to entering politics, this man was a famous Hollywood actor. Name this Republican president from 1981 to 1989.",
+            "answers": ["Ronald Reagan", "Reagan"],
+            "incorrect1": "Bill Clinton",
+            "incorrect2": "George H.W. Bush",
+            "incorrect3": "Jimmy Carter",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Despite being diagnosed with melanoma in 1977, this musician refused amputation due to his religious beliefs, ultimately succumbing to the disease in 1981. This musician's iconic song, \"One Love/People Get Ready,\" became an anthem of peace and unity, blending his original lyrics with those of a Curtis Mayfield song. He was a devout Rastafarian, whose dreadlocks and use of marijuana were central to his spiritual and artistic identity. Who was this legendary reggae musician?",
+            "answers": ["Bob Marley"],
+            "incorrect1": "Peter Tosh",
+            "incorrect2": "Jimmy Cliff",
+            "incorrect3": "Burning Spear",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "This conflict is the basis for the novel The Road Back, a sequel to another novel set during this conflict which centers on one of the students of Kantorek. One poem written about this conflict exclaims \"Gas! Gas! Quick Boys!\", while another poem about this war describes the place where poppies blow, between the crosses, row on row, in Flanders, Belgium. The author of \"Dulce et Decorum Est,\" Wilfred Owen, died during what global conflict which was most famously depicted through the eyes of Paul Baumer in All Quiet on the Western Front?",
+            "answers": [
+                "World War I",
+                "The Great War",
+                "The War to End All Wars",
+                "WWI"
+            ],
+            "incorrect1": "World War II",
+            "incorrect2": "Korean War",
+            "incorrect3": "Vietnam War",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This European city was set to host three sold-out concerts by a global pop star in August 2024, but the shows were abruptly cancelled due to security concerns. The cancellation came after Austrian authorities arrested two individuals suspected of planning a terrorist attack targeting the concert venue. This city is the fifth most populous in the European Union and is Austria's primate city. Which city, known for its rich musical heritage and iconic concert halls, was this?",
+            "answers": ["Vienna", "Vienna, Austria"],
+            "incorrect1": "Budapest",
+            "incorrect2": "Prague",
+            "incorrect3": "Salzburg",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
     ]
 ]
