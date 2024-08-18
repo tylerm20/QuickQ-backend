@@ -7931,7 +7931,7 @@
         },
         {
             "category": "Sports",
-            "question": "This team's iconic orange and black colors, adopted in 1947, were inspired by the owner Horace Stoneham's love of hunting and fishing. They hold the record for the most National League pennants, with 23, and have played in 20 World Series. Their home stadium, Oracle Park, boasts stunning views of their local bay and is known for its signature splash hits into McCovey Cove. Which team, originally based in New York, moved to San Francisco in 1958 and has won eight World Series championships? ",
+            "question": "This team's iconic orange and black colors, adopted in 1947, were inspired by the owner Horace Stoneham's love of hunting and fishing. They hold the record for the most National League pennants, with 23, and have played in 20 World Series. Their home stadium, Oracle Park, boasts stunning views of their local bay and is known for its signature splash hits into McCovey Cove. Which team, originally based in New York, moved to San Francisco in 1958 and has won eight World Series championships?",
             "answers": ["San Francisco Giants"],
             "incorrect1": "Los Angeles Dodgers",
             "incorrect2": "Oakland Athletics",
@@ -8055,7 +8055,7 @@
         },
         {
             "category": "Current Events",
-            "question": "Prime Minister Sheikh Hasina of this nation resigned and fled the country after huge student protests over the nation's quota system. The protests resulted in hundreds of deaths, the resignation of the prime minister, and the dissolution of her government. The 2006 Nobel Prize winner, Muhammad Yunus, was selected to form an interim government until elections can be held. What is this nation which is one of the most densely populated in the world and has an official language of Bengali?",
+            "question": "Prime Minister Sheikh Hasina of this nation resigned and fled the country after huge student protests over the nation's quota system. The protests resulted in hundreds of deaths, the resignation of the prime minister, and the dissolution of her government. The 2006 Nobel Peace Prize winner, Muhammad Yunus, was selected to form an interim government until elections can be held. What is this nation which is one of the most densely populated in the world and has an official language of Bengali?",
             "answers": ["Bangladesh"],
             "incorrect1": "Pakistan",
             "incorrect2": "India",
@@ -8067,7 +8067,7 @@
             "category": "Science",
             "source": "2013 Fall Kickoff Tournament (FKT)",
             "question": "The London equations can be used to describe the magnetic fields of these objects. In a solid state, these materials come in LCO or YBCO forms. The London penetration depth, studied by John Schrieffer, is the depth a magnetic field penetrates these types of materials. According to BCS theory, below the Fermi level they form Cooper pairs through electron-phonon interactions. These objects expel their internal magnetic field by the Meissner effect. Name these objects which have no electrical resistance.",
-            "answers": ["Superconductors", "super conductors"],
+            "answers": ["superconductors", "super conductors"],
             "incorrect1": "semiconductors",
             "incorrect2": "insulators",
             "incorrect3": "conductors",
@@ -8086,7 +8086,7 @@
         {
             "category": "Geography",
             "source": "2013 Fall Kickoff Tournament (FKT)",
-            "question": "Awaji, a small island in this nation, is known for the fine quality of its onions. One island in this country contains Lake Biwa, which is drained by the Yodo River into the Inland Sea; that island is also home to the Hida and Akaishi mountain ranges. This country has recently suffered a devastating earthquake and tsunami near its Fukushima region, nearly causing a nuclear disaster. The Kanto plain is located in this land of the rising sun whose four main islands are Shikoku, Kyushu, Hokkaido, and Honshu.",
+            "question": "Awaji, a small island in this nation, is known for the fine quality of its onions. One island in this country contains Lake Biwa, which is drained by the Yodo River into the Inland Sea; that island is also home to the Hida and Akaishi mountain ranges. This country suffered a devastating earthquake and tsunami near its Fukushima region, nearly causing a nuclear disaster. The Kanto plain is located in this land of the rising sun whose four main islands are Shikoku, Kyushu, Hokkaido, and Honshu.",
             "answers": ["Japan", "Nippon"],
             "incorrect1": "China",
             "incorrect2": "South Korea",
@@ -8097,7 +8097,12 @@
             "category": "World History",
             "source": "2020 MOQBA Novice",
             "question": "This king's wife scraped wax off a tablet sent by Demartus to uncover a hidden message. The 400 Thebans accompanying this man at his most notable engagement largely surrendered to enemy forces. Ephialtes betrayed this husband of Queen Gorgo by identifying a path around his forces. This king responded \"come and take them\" upon being ordered to surrender his weapons at a location nicknamed the \"hot gates.\" Name this Spartan king who fought in the Battle of Thermopylae with his 300 soldiers.",
-            "answers": ["Leonidas I", "Leonidas", "Leonidas the first"],
+            "answers": [
+                "Leonidas I",
+                "Leonidas",
+                "Leonidas the first",
+                "King Leonidas"
+            ],
             "incorrect1": "Alexander the Great",
             "incorrect2": "Pericles",
             "incorrect3": "Socrates",
@@ -8108,7 +8113,7 @@
         {
             "category": "Science",
             "source": "2017 SCOP MS 7",
-            "question": "In Amonton's Laws, the effect of this force is independent of surface area. This force's magnitude is equal to a namesake coefficient, symbolized mu, times the normal force. One type of this force prevents resting objects from sliding and can be overcome with lubricants. For ten points, name this force that opposes motion between bodies in contact.",
+            "question": "In Amonton's Laws, the effect of this force is independent of surface area. This force's magnitude is equal to a namesake coefficient, symbolized mu, times the normal force. One type of this force prevents resting objects from sliding and can be overcome with lubricants. Name this force that opposes motion between bodies in contact.",
             "answers": ["friction"],
             "incorrect1": "gravity",
             "incorrect2": "traction",
@@ -8128,7 +8133,7 @@
         {
             "category": "Arts & Literature",
             "source": "2020 SCOP A Round 5",
-            "question": "This historical group worshipped the son of Coatlicue [koh-at-lee-kway], who was impregnated by a ball of feathers. These Nahuatl-speaking people worshipped a \"left-handed\" or \"southern\" hummingbird, Huitzilopochtli [hwee-tsil-oh-pokt-lee], and a rain god named Tlaloc [t-lah-lock] in a pair of temples perched on top of a pyramidal platform. Name these people who worshiped gods like Quetzalcoatl [ket-zal-koh-ah-tull] in the Templo Mayor in Tenochtitlan before they were conquered by Hernan Cortes.",
+            "question": "This historical group worshipped the son of Coatlicue, who was impregnated by a ball of feathers. These Nahuatl-speaking people worshipped a \"left-handed\" or \"southern\" hummingbird, Huitzilopochtli, and a rain god named Tlaloc in a pair of temples perched on top of a pyramidal platform. Name these people who worshiped gods like Quetzalcoatl in the Templo Mayor in Tenochtitlan before they were conquered by Hernan Cortes.",
             "answers": ["Aztecs", "Aztec empire"],
             "incorrect1": "Mayans",
             "incorrect2": "Incas",
@@ -8140,7 +8145,7 @@
             "question": "This team's distinctive pirate logo, featuring a silver and black eye patch-wearing man, was designed by Allen \"Skip\" Davis in 1963. Originally based in Oakland, California, they relocated to Los Angeles in 1982 and then to Las Vegas in 2020. They have won three Super Bowl championships (XI, XV, and XVIII) and one AFL championship in 1967.  Which NFL team's motto, \"Just win, baby,\" was coined by longtime owner Al Davis?",
             "answers": ["Las Vegas Raiders"],
             "incorrect1": "Las Vegas Aces",
-            "incorrect2": "Oakland Raiders",
+            "incorrect2": "Kansas City Chiefs",
             "incorrect3": "Los Angeles Chargers",
             "used": "TRUE",
             "source": "Marty Heavey"
@@ -8158,8 +8163,8 @@
         {
             "category": "Current Events",
             "question": "A town in this nation became the focus of national attention in July 2024 following a tragic stabbing spree that sparked a wave of protests and unrest across the country. The incident occurred during a children's dance class, resulting in the deaths of three young girls and injuries to several others. The subsequent spread of misinformation and exploitation of the event by far-right groups fueled anti-immigrant demonstrations and violence. Southport known for its beaches and Victorian architecture, is a part of which country? ",
-            "answers": ["England", "United Kingdom", "UK"],
-            "incorrect1": "Scotland",
+            "answers": ["United Kingdom", "UK", "England"],
+            "incorrect1": "Spain",
             "incorrect2": "Ireland",
             "incorrect3": "France",
             "used": "TRUE",
@@ -8240,10 +8245,10 @@
         {
             "category": "US History",
             "source": "2010 Collaborative Middle School Tournament",
-            "question": "This man's secretary, Orville Babcock, and vice president, Schuyler (\"SKOY-ler\") Colfax, were accused in the scandals of the Whiskey Ring and Credit Mobilier. He captured Fort Donelson and opened the Mississippi River at Vicksburg before he was promoted to command all the Union armies and accepted the surrender of Robert E. Lee at Appomattox. Name this Union general and eighteenth President.",
+            "question": "This man's secretary, Orville Babcock, and vice president, Schuyler Colfax, were accused in the scandals of the Whiskey Ring and Credit Mobilier. He captured Fort Donelson and opened the Mississippi River at Vicksburg before he was promoted to command all the Union armies and accepted the surrender of Robert E. Lee at Appomattox. Name this Union general and eighteenth President.",
             "answers": [
+                "Ulysses S. Grant",
                 "Ulysses Simpson Grant",
-                "Ulysses S Grant",
                 "Ulysses",
                 "Grant"
             ],
@@ -8257,7 +8262,7 @@
             "source": "2015 SAGES",
             "question": "A rill is a shallow channel created by water during this process. Terracing can slow down this process on a hillside, while removing trees can speed up this process, as the roots can no longer hold onto the soil. Name this process of transporting material by wind or water.",
             "answers": ["erosion"],
-            "incorrect1": "weathering",
+            "incorrect1": "conduction",
             "incorrect2": "deposition",
             "incorrect3": "sedimentation",
             "used": "TRUE"
@@ -8280,8 +8285,8 @@
             "question": "This object reduces transaction costs in an economy by eliminating the requirement for a double conincidence of wants. Gresham's law states that the bad variety of this will drive out the good variety. The Federal Reserve of the United States conducts open market operations in order to change the supply of this object. The rate at which this changes hands is referred to as the velocity of circulation. In the U.S., it became fiat in 1971 under Richard Nixon, and inflation is the devaluation of this. Identify this method of payment whose various forms include traveller's cheques, checkable deposits, and currency in circulation.",
             "answers": ["money", "Currency"],
             "incorrect1": "credit",
-            "incorrect2": "wealth",
-            "incorrect3": "assets",
+            "incorrect2": "debt",
+            "incorrect3": "surplus",
             "used": "TRUE"
         },
         {
@@ -8296,19 +8301,12 @@
         },
         {
             "category": "US History",
-            "source": "2021 CERES, A. Gao",
-            "question": "This amendment with this number was challenged in the case D.C. v. Heller. An article of the Constitution with this number details impeachment, and sets the powers of the Executive branch. Members of the House are elected for a term of this many years. An amendment with this number gives people the right to \"keep and bear Arms.\" Name this number of chambers of Congress in the US.",
-            "answers": [
-                "Second Amendment",
-                "Second",
-                "two",
-                "2",
-                "2nd",
-                "Article Two of the United States Constitution"
-            ],
-            "incorrect1": "First Amendment",
-            "incorrect2": "Tenth Amendment",
-            "incorrect3": "Fourteenth Amendment",
+            "source": "2019 SCOP Novice 10",
+            "question": "The attempted sale of this man's vacated Senate seat led to the resignation of governor Rod Blagojevich. Following negotiations with Raul Castro, this president became the first to visit Cuba in eighty-eight years. This president, who nominated Merrick Garland, Elena Kagan, and Sonia Sotomayor to the Supreme Court, ended Operation Enduring Freedom in Afghanistan in 2014. Name this U.S. President, the namesake of the Affordable Care Act.",
+            "answers": ["Barack Obama", "Barack Hussein Obama Jr.", "Obama"],
+            "incorrect1": "Bill Clinton",
+            "incorrect2": "Donald Trump",
+            "incorrect3": "Ronald Reagan",
             "used": "TRUE"
         },
         {
@@ -8334,7 +8332,7 @@
         {
             "category": "Arts & Literature",
             "source": "2020 SCOP A",
-            "question": "In this novel, Pope Urban X's [the tenth's] daughter cuts off her buttock to serve to soldiers in a siege. Cacambo explores El Dorado with a man who says, \"we must cultivate our garden\" at the end of this novel. After an attack on Castle Thunder-ten-Tronckh, this novel's protagonist struggles to reunite with his lover, Cunegonde, and his teacher, Doctor Pangloss, who insists that \"all is for the best in this best of all possible worlds.\"Name this satirical French novel about a title \"Optimist,\" written by Voltaire.",
+            "question": "In this novel, Pope Urban X's daughter cuts off her buttock to serve to soldiers in a siege. Cacambo explores El Dorado with a man who says, \"we must cultivate our garden\" at the end of this novel. After an attack on Castle Thunder-ten-Tronckh, this novel's protagonist struggles to reunite with his lover, Cunegonde, and his teacher, Doctor Pangloss, who insists that \"all is for the best in this best of all possible worlds.\"Name this satirical French novel about a title \"Optimist,\" written by Voltaire.",
             "answers": ["Candide", "Optimism"],
             "incorrect1": "Gulliver's Travels",
             "incorrect2": "Don Quixote",
@@ -8353,7 +8351,7 @@
         },
         {
             "category": "Entertainment",
-            "question": "This iconic sitcom, which aired for ten seasons from 1994 to 2004, initially titled \"Insomnia Cafe,\" followed the lives of six friends navigating their twenties and thirties in New York City.  It featured a memorable opening sequence filmed at the Warner Bros. Ranch in Burbank, California, and its theme song, \"I'll Be There for You\" by The Rembrandts, became an instant hit. The series finale, aired in 2004, remains one of the most-watched television episodes in history.  Which sitcom, known for its relatable characters and enduring humor, is this?",
+            "question": "This iconic sitcom initially titled \"Insomnia Cafe,\" followed the lives of six friends navigating their twenties and thirties in New York City. It featured a memorable opening sequence filmed at the Warner Bros. Ranch in Burbank, California, and its theme song, \"I'll Be There for You\" by The Rembrandts, became an instant hit. The series finale, aired in 2004, remains one of the most-watched television episodes in history. Which sitcom,  which aired for ten seasons from 1994 to 2004,, is this?",
             "answers": ["Friends"],
             "incorrect1": "Seinfeld",
             "incorrect2": "How I Met Your Mother",
@@ -8365,18 +8363,18 @@
     [
         {
             "category": "Arts & Literature",
-            "source": "2013 SCOP Novice 4",
-            "question": "This work's narrator commands his guests to \"tear up the planks\" when they fail to notice the crime scene around them. The narrator claims that his nervous \"disease\" has sharpened his senses, and he visits his sleeping victim for a week before smothering him with his bed. A sound like a watch in cotton drives the narrator to tell three policemen that he has killed and dismembered his vulture-eyed landlord in this short story by Poe.",
-            "answers": ["The Tell-Tale Heart"],
-            "incorrect1": "The Raven",
-            "incorrect2": "The Fall of the House of Usher",
-            "incorrect3": "The Cask of Amontillado",
+            "source": "2020 ERIS",
+            "question": "In one story by this author, the homeless Soapy unsuccessfully tries to get himself arrested to avoid the cold. This author of \"The Cop and the Anthem\" also wrote about two men's kidnapping of Ebenezer Dorset, which fails when they have to pay his father to take his son back. \"The Ransom of Red Chief\" is by what American author of short stories such as \"The Gift of the Magi\"?",
+            "answers": ["O. Henry", "William Sydney Porter"],
+            "incorrect1": "Mark Twain",
+            "incorrect2": "Jack London",
+            "incorrect3": "Lord Byron",
             "used": "TRUE"
         },
         {
             "category": "Science",
             "source": "2017 SCOP MS 7",
-            "question": "The size of these natural phenomena is determined by the \"fetch\" behind them. When these things \"break,\" they release kinetic energy as matter falls from its maximum amplitude. These phenomena may \"shoal\" in shallow water, and they do not occur when there is no wind. For ten points, name this physical phenomenon, a rippling motion on the surface of a body of water.",
+            "question": "The size of these natural phenomena is determined by the \"fetch\" behind them. When these things \"break,\" they release kinetic energy as matter falls from its maximum amplitude. These phenomena may \"shoal\" in shallow water, and they do not occur when there is no wind. Name this physical phenomenon, a rippling motion on the surface of a body of water.",
             "answers": ["surface waves", "ocean waves", "waves"],
             "incorrect1": "body waves",
             "incorrect2": "electromagnetic waves",
@@ -8484,7 +8482,7 @@
         {
             "category": "Geography",
             "source": "2017 SCOP MS 7",
-            "question": "This body of water is home to Antelope Island, which becomes Antelope Peninsula when the water level dips too low. This body of water lies in what was, 30,000 years ago, Lake Bonneville. This body of water has no river outflows and only loses water via evaporation, causing its high salinity. This body of water lies just west of Brigham City and northwest of a namesake state capital. For ten points, name this largest body of water in Utah.",
+            "question": "This body of water is home to Antelope Island, which becomes Antelope Peninsula when the water level dips too low. This body of water lies in what was, 30,000 years ago, Lake Bonneville. This body of water has no river outflows and only loses water via evaporation, causing its high salinity. This body of water lies just west of Brigham City and northwest of a namesake state capital. Name this largest body of water in Utah.",
             "answers": ["Great Salt Lake", "Salt Lake City"],
             "incorrect1": "Lake Superior",
             "incorrect2": "Lake Michigan",
