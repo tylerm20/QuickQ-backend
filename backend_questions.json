@@ -8534,5 +8534,593 @@
             "used": "TRUE",
             "source": "Marty Heavey"
         }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "The prime minister of this nation announced he would step down in September 2024. The governing Liberal Democratic Party (LDP) will elect the leader to succeed Fumio Kishida as prime minister. This country's LDP has been in power for most of the postwar period, with brief interruptions. The national government features a bicameral parliament called the National Diet, consisting of the House of Representatives and the House of Councillors. Though a constitutional monarchy, its Emperor holds a largely ceremonial role. Which Asian country is this, known for its unique blend of tradition and modernity?",
+            "answers": ["Japan"],
+            "incorrect1": "China",
+            "incorrect2": "South Korea",
+            "incorrect3": "Brazil",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2020 SCOP A",
+            "question": "This operation is applied to the number five in the golden ratio, and when this operation is applied to two, the result is an irrational number approximately equal to \"one point four one four.\" The length of the hypotenuse is found by applying this operation to both sides of the Pythagorean Theorem. Raising a value to the one-half exponent is equivalent to performing this operation. A radical sign indicates what operation that, when applied to twenty-five, gives five?",
+            "answers": ["square root", "radical"],
+            "incorrect1": "cube root",
+            "incorrect2": "exponent",
+            "incorrect3": "division",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 Darien DEFT",
+            "question": "Cross-dressing men in this country are often referred to by the term kathoey [KAT-HOE-EY], or \"ladyboy.\" This country's Isan region includes the Khorat Plateau, which is bounded by Phetchabun [PECH-AH-BOON] Range. Patong Beach is on this country's largest island, which lies in the Andaman Sea west of the Isthmus of Kra. Phuket [POO-KET] is a resort area in this country separated from Laos by the Mekong River. Chiang Mai and Ayutthaya [AY-YOOT-HAY-AH] are cities in what country ruled by Rama X [RAMA THE TENTH] from Bangkok?",
+            "answers": ["Kingdom of Thailand", "Thailand"],
+            "incorrect1": "Kingdom of Cambodia",
+            "incorrect2": "Malaysia",
+            "incorrect3": "Switzerland",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 TAILS",
+            "question": "All four canonical gospels identify a person with this name as the first person to witness both Jesus's empty tomb and his resurrection. Another person of this name was chided by her sister Martha for not preparing the house for Jesus's visit. A person of this name is the subject of the Magnificat as well as the dogmas of her Assumption and Immaculate Conception. Give this name of the wife of Joseph, who is also the mother of Jesus.",
+            "answers": [
+                "Mary",
+                "Mary Magdalene",
+                "Mary of Bethany",
+                "Mary, mother of Jesus",
+                "Mary, mother of God",
+                "Virgin Mary"
+            ],
+            "incorrect1": "Ann",
+            "incorrect2": "Victoria",
+            "incorrect3": "Elizabeth",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team, originally based in Chicago and known as the Packers, relocated to Baltimore in 1951 and became the Bullets.  After a move to the nation's capital in 1973, they changed their name to reflect the city's heritage. Their most successful era came in the 1970s when they won their only NBA championship in 1978 led by Wes Unseld and Elvin Hayes. What is the name of this team that plays in Capital One Arena?",
+            "answers": ["Washington Wizards", "wizards"],
+            "incorrect1": "Washington Capitals",
+            "incorrect2": "Los Angeles Lakers",
+            "incorrect3": "New York Yankees",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This long-running animated sitcom features a talking baby bent on world domination and a dog who enjoys martinis and intellectual pursuits. Created by Seth MacFarlane, this show is set in the fictional town of Quahog, Rhode Island, and follows the misadventures of the Griffin family. It's known for its satirical humor, cutaway gags, and frequent pop culture references. Name this show that has been canceled and revived multiple times, and its controversial content has often sparked debate and criticism.",
+            "answers": ["Family Guy"],
+            "incorrect1": "American Dad!",
+            "incorrect2": "The Simpsons",
+            "incorrect3": "Game of Thrones",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2017 HIGS",
+            "question": "Two of these works written by Rabindranath Tagore are \"Amar Sonar Banglar\" and \"Jana Gana Mana\". After declaring war on Austria, de Lisle composed one of these titled \"La Marseillaise\" [MAR-see-ES], while Britain's inability to seize Fort McHenry inspired one of these works by Francis Scott Key. Name these pieces composed for countries, which include \"God Save the Queen\" and \"The Star-Spangled Banner.\"",
+            "answers": [
+                "national anthem",
+                "national songs",
+                "national hymns",
+                "anthems"
+            ],
+            "incorrect1": "national flag",
+            "incorrect2": "rap",
+            "incorrect3": "ballad",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2018 MVS RAMS",
+            "question": "In this musical, Chulalongkorn disputes the size of his home country on a map after a royal governess sings \"Getting to Know You.\" In this musical, the slave girl Tuptim writes a play based on Uncle Tom's Cabin, and the female lead sings \"Shall We Dance\" while teaching Mongkut to do the polka. Name this Rodgers & Hammerstein musical about Anna Leonowens and the King of Siam.",
+            "answers": ["The King and I"],
+            "incorrect1": "The Sound of Music",
+            "incorrect2": "My Fair Lady",
+            "incorrect3": "Hamilton",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "Opposite corners of this constellation are at the start Saiph and Bellatrix. Though called its beta, its brightest star is usually Rigel [RY-jul]. This constellation is visible only in the winter, and its alpha star, part of the Winter Triangle and at the center of the Winter Hexagon, is Betelgeuse. A line across its center formed by Alnitak, Alnilam, and Mintaka is known as its \"belt\". Name this constellation known as the Hunter.",
+            "answers": ["Orion", "Hunter"],
+            "incorrect1": "Ursa Major",
+            "incorrect2": "Sirius",
+            "incorrect3": "Milky Way",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "According to the Koran, all angels, except Satan, prostrated themselves before this figure due to his knowledge. He was cursed to \"eat bread until he returned to the ground.\" In the New Testament, he is seen as the source of death for all men. His transgression is revealed to God when he is seen wearing a fig leaf. His rib was used to make his wife, Eve. Name this Biblical figure, the first man.",
+            "answers": ["Adam"],
+            "incorrect1": "Eve",
+            "incorrect2": "Noah",
+            "incorrect3": "Moses",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "The Tanami Desert is located within this nation, and its extreme north is known as Arnhem Land, which is separated from the Cape York Peninsula by the Gulf of Carpentaria. Two states within this nation are separated by the Bass Strait, and its longest river, the Murray, forms just west of Mt. Kosciuszko (KOH - \"see\" - ew - sko). The lowest point in this nation is also at its largest body of water, Lake Eyre. Tasmania is the southernmost state of what island nation that borders the Great Barrier Reef and features such cities as Brisbane and Sydney?",
+            "answers": ["Australia"],
+            "incorrect1": "New Zealand",
+            "incorrect2": "Indonesia",
+            "incorrect3": "South Africa",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This country's parliament elected their youngest prime minister on August 16, 2024. Paetongtarn Shinawatra, a member of a prominent political family, still needs to be endorsed by King Maha Vajiralongkorn before she can officially take office. This nation's flag features two white stripes, a central blue stripe, and two red stripes. It is home to the world's largest solid gold Buddha statue, weighing 5.5 tons. Name this country that is famous for its cuisine including Tom Yung Goong and Pad Thai.",
+            "answers": ["Thailand"],
+            "incorrect1": "Vietnam",
+            "incorrect2": "Malaysia",
+            "incorrect3": "Sweden",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This musician formed the band Wings after The Beatles disbanded, and their hit \"Mull of Kintyre\" became the first single to sell over two million copies in the UK. He co-wrote the song \"Yesterday,\" which holds the record for the most covered song in history.  Knighted in 1997 for his services to music, he's known for his iconic left-handed H\u00f6fner bass guitar. Who is this legendary songwriter and musician?",
+            "answers": ["Paul McCartney"],
+            "incorrect1": "John Lennon",
+            "incorrect2": "Ringo Starr",
+            "incorrect3": "Elton John",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "Admiral Seiichi Ito attempted to launch Ten-go sakusen during this battle, but his battleship Yamoto was sunk before it could be accomplished. The Japanese retreated to the Kiyan Peninsula at the later stages, and earlier Major General Pedro del Valle had captured the Shuri Castle. Kamikaze tactics employed by the Japanese caused the greatest casualties in this battle than any other battle of the war. Also known as \"Operation Iceberg\" and the \"Typhoon of Steel,\" identify this naval battle fought from April 1st to June 23 of 1945 that served as the last stop of Allies island hopping?",
+            "answers": ["The Battle of Okinawa", "Okinawa"],
+            "incorrect1": "The Battle of Iwo Jima",
+            "incorrect2": "The Battle of Midway",
+            "incorrect3": "The Battle of Hastings",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2017 SCOP Novice 8",
+            "question": "While holding this position, Alexander Haig incorrectly claimed that he was \"in control here\" after the shooting of Ronald Reagan. In the aftermath of the sinking of the Lusitania, William Jennings Bryan left this position. Madeleine Albright, the first woman to hold this post, urged future holder Colin Powell to intervene in Bosnia. Rex Tillerson currently holds what US Cabinet post in charge of foreign affairs?",
+            "answers": ["Secretary of State"],
+            "incorrect1": "Secretary of Defense",
+            "incorrect2": "Attorney General",
+            "incorrect3": "Postmaster General",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This swimmer's dominance in the 800-meter freestyle is unparalleled, having claimed victory at four consecutive Olympic Games from 2012 to 2024. She holds multiple world records in various freestyle events, including the 400m, 800m, and 1500m distances. A native of Bethesda, Maryland, she began swimming competitively at a young age and quickly rose to prominence, breaking numerous age-group records. Who is this athlete, often referred to as the greatest female swimmer of all time?",
+            "answers": ["Katie Ledecky", "Ledecky"],
+            "incorrect1": "Simone Manuel",
+            "incorrect2": "Missy Franklin",
+            "incorrect3": "Serena Williams",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2018 MVS RAMS",
+            "question": "This man defeated King Porus at the Battle of the Hydaspes. After that battle, this man founded a city in India named for his horse Bucephalus. This man's generals, the Diadochi, divided his empire after his death. This man defeated Darius III at Issus and Gaugamela, ending the Achaemenid Persian empire. This man was the son of Philip II of Macedon, and he was tutored by Aristotle. Name this leader known as \"the Great.\"",
+            "answers": ["Alexander the Great", "Alexander III of Macedon"],
+            "incorrect1": "Julius Caesar",
+            "incorrect2": "Genghis Khan",
+            "incorrect3": "Napoleon Bonaparte",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This track and field athlete's record-breaking long jump of 8.95 meters at the 1991 World Championships in Tokyo stood for over three decades. He won nine Olympic gold medals, including four consecutive golds in the long jump from 1984 to 1996. He also achieved the remarkable feat of winning four Olympic gold medals in a single Olympics, mirroring Jesse Owens' achievement in 1936. Who is this legendary athlete, considered one of the greatest track and field stars of all time?",
+            "answers": ["Carl Lewis"],
+            "incorrect1": "Usain Bolt",
+            "incorrect2": "Jesse Owens",
+            "incorrect3": "Michael Phelps",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "The Garigal and Lane Cove national parks are in this city, whose center is known as the Circular Quay. It is located on the south shore of Port Jackson, which is spanned by a namesake Harbour Bridge. Jorn Utzon designed the white shells of this city's opera house. Suburbs of this city can be found on the coast of Botany Bay. Name this city on the coast of New South Wales, the largest in Australia.",
+            "answers": ["Sydney"],
+            "incorrect1": "Melbourne",
+            "incorrect2": "Auckland",
+            "incorrect3": "Toronto",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This American mockumentary sitcom, based on a British series of the same name, follows the daily lives of employees at a paper company in Scranton, Pennsylvania.  The show's main character, Michael Scott, is the regional manager, known for his cringe-inducing humor and misguided attempts to be liked by his employees. What is the title of this show, which originally aired from 2005 to 2013 and gained even greater popularity through streaming services?",
+            "answers": ["The Office"],
+            "incorrect1": "Parks and Recreation",
+            "incorrect2": "Friends",
+            "incorrect3": "Breaking Bad",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 ERIS",
+            "question": "One poet from this country wrote that \"each man kills the thing he loves\" after being jailed for homosexuality. Another poet from this non-African country wrote \"things fall apart; the centre cannot hold\" in \"The Second Coming\". Jonathan Swift suggested this country's residents sell babies for food in the satire A Modest Proposal. What country produced W. B. Yeats and Sean O'Casey?",
+            "answers": ["Ireland", "Eire"],
+            "incorrect1": "Scotland",
+            "incorrect2": "Iceland",
+            "incorrect3": "New Zealand",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This disease, once primarily associated with Central and West Africa, saw a global outbreak in 2022, leading the World Health Organization to declare it a Public Health Emergency of International Concern. It is transmitted through close contact with infected individuals, animals, or contaminated materials. Symptoms include fever, rash, and swollen lymph nodes. What is this disease, which seen increased infection levels in 2024, formerly known as monkeypox?",
+            "answers": ["Mpox", "monkeypox"],
+            "incorrect1": "H1N1",
+            "incorrect2": "Smallpox",
+            "incorrect3": "Ebola",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "This state has the fewest members in its state legislature; it is also the only state with a unicameral one. It was the northern of two territories mentioned in an 1854 act introducing popular sovereignty. The western part of this state contains Chimney Rock. When it became a state in 1867 it renamed its capital after a recently assassinated president. Name this state whose largest city is Omaha.",
+            "answers": ["Nebraska"],
+            "incorrect1": "Kansas",
+            "incorrect2": "Wyoming",
+            "incorrect3": "New Mexico",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2018 MVS RAMS",
+            "question": "This disease causes Brushfield spots on the iris, and sufferers of this disease are at risk for early-onset Alzheimer's. Symptoms of this disease include epicanthic eye folds and an enlarged, wrinkled tongue. This disease is caused by a trisomy on chromosome 21. This disease is more common in the offspring of mothers over 40. Name this syndrome, a genetic disorder that results in developmental delays.",
+            "answers": ["Down syndrome", "trisomy 21"],
+            "incorrect1": "Turner syndrome",
+            "incorrect2": "Autism spectrum disorder",
+            "incorrect3": "Cerebral palsy",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2016 PLATO",
+            "question": "In this state, preserved remains of woolly mammoths are found in the La Brea Tar Pits. This state is home to General Sherman, the largest tree in the world and one of many redwoods located in Sequoia National Park. Its Sierra Nevada mountain range runs through Yosemite National Park. Name this state located directly south of Oregon which contains the Sacramento River and San Francisco Bay.",
+            "answers": ["California"],
+            "incorrect1": "Texas",
+            "incorrect2": "Arizona",
+            "incorrect3": "Canada",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 MOQBA Novice",
+            "question": "This figure is a patron of potters according to a minor cult in Athens. This figure, whose name means \"Forethought\" in Greek, is honored in a precursor to the Olympic torch relay. This figure tricked Zeus by wrapping ox bones in fat, setting a precedent for animal sacrifices. After he was exiled to the Caucasus by Zeus, Heracles killed this figure's tormentor, an eagle who ate his liver after it regenerated daily. Name this Titan and brother of Epimetheus who stole fire from the gods and gave it to humans.",
+            "answers": ["Prometheus"],
+            "incorrect1": "Zeus",
+            "incorrect2": "Hercules",
+            "incorrect3": "King Arthur",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film swept the five major categories at the 64th Academy Awards, a rare feat in cinematic history. Its iconic line, \"A census taker once tried to test me...,\" is delivered by the brilliant but manipulative antagonist. The chilling scene of Buffalo Bill dancing to \"Goodbye Horses\" has become a haunting image in pop culture. Jodie Foster stars as Clarice Starling, a young FBI trainee tasked with interviewing Hannibal Lecter to gain insights into the mind of a serial killer. What is the title of this psychological thriller?",
+            "answers": ["The Silence of the Lambs"],
+            "incorrect1": "Se7en",
+            "incorrect2": "Psycho",
+            "incorrect3": "The Notebook",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2020 SCOP MS 10",
+            "question": "This man lamented \"It is well that war is so terrible, or we should grow too fond of it\" during his victory over Ambrose Burnside at the Battle of Fredericksburg. This man, who led the militia that ended John Brown's raid, was victorious at the Second Battle of Bull Run. Name this general who, on April 9th, 1865, surrendered his Confederate army at Appomattox to Ulysses S. Grant.",
+            "answers": ["Robert E. Lee", "Robert Edward Lee"],
+            "incorrect1": "Ulysses S. Grant",
+            "incorrect2": "Stonewall Jackson",
+            "incorrect3": "George Washington",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This iconic athlete's famous nickname, \"The Bambino,\" is an Italian term for \"baby.\" He initially started his career as a pitcher for the Boston Red Sox, winning three World Series titles before being controversially sold to the New York Yankees in 1919. This move sparked the so-called \"Curse of the Bambino,\" which supposedly plagued the Red Sox for 86 years until they finally won another World Series in 2004. Name this athlete that retired in 1935, but his record of 714 career home runs stood for nearly 40 years until it was broken by Hank Aaron in 1974.",
+            "answers": ["Babe Ruth"],
+            "incorrect1": "Jackie Robinson",
+            "incorrect2": "Willie Mays",
+            "incorrect3": "Michael Jordan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "Individuals were recently arrested related to this man's death in October 2023.  He was nominated for a Primetime Emmy Award for his guest role on \"The West Wing.\" This actor's memoir, \"Friends, Lovers, and the Big Terrible Thing,\" candidly details his struggles with addiction and his journey to sobriety. He is most celebrated for his iconic role as the witty and sarcastic Chandler Bing in the beloved sitcom \"Friends.\" Who is this actor? ",
+            "answers": ["Matthew Perry"],
+            "incorrect1": "Matt LeBlanc",
+            "incorrect2": "Matthew McConaughey",
+            "incorrect3": "Neil Patrick Harris",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2014 SCOP Novice 5",
+            "question": "One ruler from this place was the wife of France's Louis XIII, Anne. Another Archduke of this place issued the Patent of Toleration. That ruler's mother came to power after the issuing of the Pragmatic Sanction, was the mother of Marie Antoinette, and ruled during a war of succession named after this country; those rulers were Joseph II and Maria Theresa. Name this country where the Habsburgs ruled from Vienna.",
+            "answers": ["Austria", "Osterreich"],
+            "incorrect1": "Switzerland",
+            "incorrect2": "Germany",
+            "incorrect3": "Australia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This mineral is at the bottom of Bowen's reaction series, and its piezoelectric properties make it useful as a component of crystal oscillators. Common varieties of this second most common mineral in Earth's crust include citrine, amethyst, and onyx. This mineral is the largest component of granite and is primarily composed of silicon dioxide. Name this mineral with a Mohs hardness of 7.",
+            "answers": ["quartz"],
+            "incorrect1": "diamond",
+            "incorrect2": "granite",
+            "incorrect3": "glass",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This footballer, known for his incredible goalscoring prowess, set a new Premier League record in his debut season by netting an astonishing 36 goals. He was born in Leeds, England, while his father, Alfie, was playing for Leeds United. He started his professional career at the Norwegian club Bryne FK and later gained international recognition during his stints at Red Bull Salzburg and Borussia Dortmund. Currently, he plays for Manchester City, where he continues to break records and dazzle fans with his clinical finishing and powerful presence. Who is this prolific striker?",
+            "answers": ["Erling Haaland"],
+            "incorrect1": "Kylian Mbappé",
+            "incorrect2": "Robert Lewandowski",
+            "incorrect3": "Tom Brady",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "This nation overthrew Albania's King Zog. A major event in the unification of this nation was the Expedition of the Thousand, and its first king after unification was Victor Emanuel II. In 1935 this nation invaded Ethiopia. One of its leaders was called Il Duce, and along with Germany, it was one of Europe's major Axis powers. Name this European country that was ruled by fascist dictator Benito Mussolini.",
+            "answers": ["Italy", "Italia"],
+            "incorrect1": "Spain",
+            "incorrect2": "Greece",
+            "incorrect3": "Mexico",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This show originally airied on Fox, but it was revived on ABC in 2018. The phrase \"Seacrest out!\" became a catchphrase associated with its long-time host. The show's inaugural season saw Kelly Clarkson emerge victorious, defeating Justin Guarini in the finale. Its iconic trio of judges, Simon Cowell, Paula Abdul, and Randy Jackson, became synonymous with the show's early success. What is the name of this popular singing competition show?",
+            "answers": ["American Idol"],
+            "incorrect1": "The Voice",
+            "incorrect2": "America's Got Talent",
+            "incorrect3": "Dancing with the Stars",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 SCOP MS 7",
+            "question": "In Sikhism, a Dastar protects this substance, which is called Kesh and tended with a Kangha, two of the Five K's. Payot are a variety of this substance worn in Orthodox Judaism, and some Muslims cover this substance with a hijab. Samson derived his strength from this substance, and became weak when Delilah cut it. Name this substance that grows out of human heads and faces.",
+            "answers": ["human hair", "hair"],
+            "incorrect1": "dog fur",
+            "incorrect2": "wool",
+            "incorrect3": "cotton",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "The Laguerre polynomial gives the radial part of the state vector for this element that has a namesake line that forms when it transitions between two ground level states, called its \"twenty-one centimeter line.\" All of its visible spectral lines are within the Balmer series, and it has an isotope with two more neutrons than normal that is called tritium. It also has a \"heavy\" form that is called deuterium. Name this lightest element, the most abundant in the universe, with chemical symbol H.",
+            "answers": ["Hydrogen"],
+            "incorrect1": "Helium",
+            "incorrect2": "Oxygen",
+            "incorrect3": "Water",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "At its delta, this river splits into Rosetta and Damietta branches. This river exits Lake Victoria at the site of the submerged Ripon Falls. The Lake Tana-sourced river \"Blue\" version of this river converges with its \"White\" version at Khartoum. The building of the Aswan High Dam on this river ended its flooding in one country and created Lake Nasser. The Giza Plateau's namesake Great Pyramid lies on the west bank of this river. Name this African river that empties into the Mediterranean Sea and flows through Cairo, Egypt, the world's longest.",
+            "answers": ["Nile River"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This annual end-of-summer event is governed by 10 principles, including radical self-reliance, gifting, and leaving no trace. Participants create a temporary city, Black Rock City in the Nevada desert, filled with art installations, theme camps, and interactive experiences. What is the name of this unique event that culminates in the burning of a large wooden effigy, symbolizing a ritual farewell to the past?",
+            "answers": ["Burning man"],
+            "incorrect1": "Electric Daisy Carnival",
+            "incorrect2": "Coachella",
+            "incorrect3": "Palos Verdes",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2015 SCOP Novice 6",
+            "question": "While aboard the USS Abraham Lincoln, this man gave a speech while a banner reading \"mission accomplished\" hung in the background. In another speech, this man claimed that North Korea was part of an \"Axis of Evil.\" This president was criticized for continuing to read \"My Pet Goat\" after he was informed of an attack on the World Trade Center. Name this President of the United States who declared war after the September 11th attacks.",
+            "answers": ["George W. Bush", "W", "George Walker Bush", "Bush 43"],
+            "incorrect1": "George H.W. Bush",
+            "incorrect2": "Bill Clinton",
+            "incorrect3": "Ronald Reagan",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2018 SCOP Novice 9",
+            "question": "Priscus of Panium described how this ruler ate on a wooden plate at an otherwise lavish feast. This ruler launched an invasion of Gaul after Honoria sent him a ring, but it was put down on the Catalaunian Plains by Flavius Aetius. A year after this man lost the Battle of Chalons, Pope Leo I convinced this man to spare his city. According to legend, this man died of a nosebleed. Rome was nearly sacked by what 5th century ruler of the Huns?",
+            "answers": ["Attila the Hun"],
+            "incorrect1": "Genghis Khan",
+            "incorrect2": "Julius Caesar",
+            "incorrect3": "William the Conqueror",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2020 SCOP A",
+            "question": "This city is home to the Institute for Advanced Study, where Albert Einstein worked after moving to the US. Hugh Mercer was mortally wounded during a Revolutionary War battle over this city that took place a week after Washington surprised the Hessians by crossing the Delaware River. Since 1945, this college town has been its state's governor's residence, rather than the state capital of Trenton. Name this town that is home to New Jersey's only Ivy League university.",
+            "answers": ["Princeton"],
+            "incorrect1": "Harvard",
+            "incorrect2": "Yale",
+            "incorrect3": "Stanford",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film series' iconic vehicles include the Interceptor, a modified Ford Falcon XB GT coupe, and the monstrous Gigahorse truck. The post-apocalyptic setting, characterized by a desert wasteland, is a franchise hallmark. The protagonist, Max Rockatansky, is a former police officer turned lone wanderer. Its groundbreaking practical stunts and visual effects have influenced countless action films. What is the name of this franchise, with a recent prequel, \"Furiosa\"?",
+            "answers": ["Mad Max", "Mad Max Fury Road", "Mad Max Furiosa"],
+            "incorrect1": "Waterworld",
+            "incorrect2": "The Road Warrior",
+            "incorrect3": "Star Wars",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This US city played host to the 2024 Democratic National Convention. This city is home to the world's first skyscraper, the ten-story Home Insurance Building, built in 1885. It also boasts the iconic Cloud Gate sculpture, affectionately known as \"The Bean,\" in Millennium Park. The city's river is famously dyed green every St. Patrick's Day. Additionally, it is the birthplace of deep-dish pizza, a culinary delight loved by many. What is the name of this city, often called the \"Windy City\"?",
+            "answers": ["Chicago", "Chicago Illinois"],
+            "incorrect1": "New York City",
+            "incorrect2": "Los Angeles",
+            "incorrect3": "Houston",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This athlete's rivalry with Larry Bird, which began in college, captivated the nation and fueled the NBA's popularity in the 1980s. He famously played all five positions in Game 6 of the 1980 NBA Finals, leading his team to a championship and earning the Finals MVP award as a rookie. He shocked the world in 1991 when he announced his retirement from basketball after testing positive for HIV. However, he made a triumphant return to the sport, winning a gold medal with the \"Dream Team\" at the Barcelona Olympics. Who is this legendary Laker, known by his iconic nickname?",
+            "answers": [
+                "Magic Johnson",
+                "Earvin Magic Johnson",
+                "Magic",
+                "Earvin"
+            ],
+            "incorrect1": "Kareem Abdul-Jabbar",
+            "incorrect2": "Michael Jordan",
+            "incorrect3": "Kobe Bryant",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "One chytrid member of this group has been blamed for the worldwide decline in frog populations, and the Salem witch trials have been blamed on another species that infests rye with ergot. Lichens consist of algae and a member of this kingdom, whose species reproduce through spores and have hyphae bodies with chitin cell walls. Name this kingdom of important decomposers like molds, yeasts, and mushrooms.",
+            "answers": ["Fungi", "fungus"],
+            "incorrect1": "Plants",
+            "incorrect2": "Bacteria",
+            "incorrect3": "Animals",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2022 KICKOFF Novice",
+            "question": "In a novel by this author, Wee Willie Winkie's son is switched with the protagonist at his birth by Mary Pereira. Ayesha leads a group of men to drown in the Arabian sea in a novel by this author, which features Saladin Chamcha. Another novel by this author, which is narrated by Saleem Sinai, includes a group of characters that were born at the moment of India's independence. Name this British-Indian author, who wrote Midnight's Children and The Satanic Verses.",
+            "answers": ["Salman Rushdie", "Rushdie"],
+            "incorrect1": "Arundhati Roy",
+            "incorrect2": "J.K. Rowling",
+            "incorrect3": "Stephen King",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "The Jason lie northwest of the main group of this political entity. The peninsula that forms the southern portion of its east island is called Lafonia, and is the highest peak on these islands. Gratham Sound divides the island group in half, and served as the former capital of these islands, but since 1845 the capital had been located in Stanley. Also called las Islas Malvinas identify this island group in south that was the target of a two-year war between the Argentines and the British.",
+            "answers": ["Falkland Islands", "Islas Malvinas"],
+            "incorrect1": "Galapagos Islands",
+            "incorrect2": "Shetland Islands",
+            "incorrect3": "Bahamas",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This artist holds the distinction of being the only person to win an Oscar, Emmy, Grammy, and Tony Award, as well as a Golden Globe, CableACE Award, and Peabody Award. She made her Broadway debut in the musical \"I Can Get It for You Wholesale\" in 1962. Her iconic roles in films like \"Funny Girl\" and \"The Way We Were\" cemented her status as a Hollywood legend. Beyond acting, she is also renowned for her powerful vocals, releasing numerous chart-topping albums throughout her career. Who is this multi-talented entertainer, often referred to by her initials, \"Babs\"?",
+            "answers": ["Barbra Streisand", "Streisand"],
+            "incorrect1": "Celine Dion",
+            "incorrect2": "Whitney Houston",
+            "incorrect3": "Madonna",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2016 SAGES",
+            "question": "During this activity, K-complexes and namesake spindles appear. Rapid eye movement occurs during this activity, and apnea occurs when people can't breathe while doing it. When people have trouble doing this activity it is called insomnia. Name this nighttime activity.",
+            "answers": ["sleeping"],
+            "incorrect1": "speaking",
+            "incorrect2": "eating",
+            "incorrect3": "running",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This man recently plead guilty to charges of wire fraud and identity theft. He was elected to the US House of Representatives in 2022 as a Republican from New York becoming the first openly gay Republican elected to Congress. Shortly after this man was elected, news broke that much of his biography was fabricated and he faced calls to resign. Name this man who resigned in disgrace from the House in December 2023.",
+            "answers": ["George Santos"],
+            "incorrect1": "Bob Menendez",
+            "incorrect2": "JD Vance",
+            "incorrect3": "Tim Walz",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2016 PLATO",
+            "question": "This man's book A History of the English\u00adSpeaking Peoples helped to earn him a Nobel Prize in Literature. This man gave a speech in Fulton, Missouri, where he warned of an incoming \"Iron Curtain\" of Soviet influence. During World War II, this man was a leader of the Grand Alliance along with Joseph Stalin and Franklin Roosevelt. Name this Prime Minister of the United Kingdom during World War II.",
+            "answers": ["Winston Churchill"],
+            "incorrect1": "Franklin D. Roosevelt",
+            "incorrect2": "Neville Chamberlain",
+            "incorrect3": "Charles de Gaulle",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2021 SCOP B",
+            "question": "Islands in this body of water contain Mount Tomanivi and Mount Talomo, which sits near Davao City on an island near the Sulu Sea. This body of water contains the Yap Trench and the islands of Viti Levu and Mindanao. This large body of water is home to Mount Aso on Kyushu, and to Mauna Loa. Name this ocean, whose \"ring of fire\" is marked by volcanic activity in the Philippines, Japan, and Hawai'i.",
+            "answers": ["Pacific Ocean", "Pacific"],
+            "incorrect1": "Atlantic Ocean",
+            "incorrect2": "Indian Ocean",
+            "incorrect3": "Great Lakes",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL team, despite its storied history, is one of four teams to have never reached a Super Bowl, yet they boast a proud tradition, having won four NFL Championships prior to the Super Bowl era. Their iconic Honolulu blue and silver uniforms are a familiar sight on the gridiron, and their home, Ford Field, roars with the energy of their devoted fanbase. Which team, once starring Barry Sanders, plays in Detroit?",
+            "answers": ["Detroit Lions"],
+            "incorrect1": "Chicago Bears",
+            "incorrect2": "Green Bay Packers",
+            "incorrect3": "Detroit Tigers",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2016 Pennsylvania Novice",
+            "question": "This god is said to have a rivalry with his first father\u00adin\u00adlaw, Daksha, because Daksha neglected to invite him to sacrifices. This deity is often depicted with crescent moon on his forehead, and with a third eye that can reduce things to ashes. After cutting off the head of his son because he would not let him in the house to see his wife Parvati, he replaced his son's head with an elephant's head; that son was Ganesha. Name this Hindu deity, often called \"the destroyer.\"",
+            "answers": ["Shiva"],
+            "incorrect1": "Vishnu",
+            "incorrect2": "Brahma",
+            "incorrect3": "Buddha",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2019 SCOP Novice 10",
+            "question": "This school of thought argues that we can only control our prohairesis [pro-hay-ree-sis], the choice to respond to seemingly good or bad things. This philosophy, which teaches that true happiness comes from virtue, was promoted in the Meditations of Marcus Aurelius. Zeno of Citium founded this philosophy, whose core idea is that people should not be swayed by desire or fear. Name this ancient philosophy that, today, is associated with being calm and unemotional.",
+            "answers": ["Stoicism", "Stoic"],
+            "incorrect1": "Epicureanism",
+            "incorrect2": "Cynicism",
+            "incorrect3": "Existentialism",
+            "used": "TRUE"
+        }
     ]
 ]
