@@ -8376,14 +8376,14 @@
             "source": "2017 SCOP MS 7",
             "question": "The size of these natural phenomena is determined by the \"fetch\" behind them. When these things \"break,\" they release kinetic energy as matter falls from its maximum amplitude. These phenomena may \"shoal\" in shallow water, and they do not occur when there is no wind. Name this physical phenomenon, a rippling motion on the surface of a body of water.",
             "answers": ["surface waves", "ocean waves", "waves"],
-            "incorrect1": "body waves",
+            "incorrect1": "microwaves",
             "incorrect2": "electromagnetic waves",
             "incorrect3": "sound waves",
             "used": "TRUE"
         },
         {
             "category": "Sports",
-            "question": "This physical educator, often called the \"Father of Basketball,\" was a Canadian-American physician who invented the game in 1891 while working at the YMCA International Training School in Springfield, Massachusetts. He initially used peach baskets as goals, requiring a ladder to retrieve the ball after each score. He later served as the first basketball coach at the University of Kansas.  Who was this sports innovator, whose creation has become a beloved global pastime?",
+            "question": "This physical educator was a Canadian-American physician who invented a sport in 1891 while working at the YMCA International Training School in Springfield, Massachusetts. He initially used peach baskets as goals, requiring a ladder to retrieve a ball after each score. Often called the \"Father of Basketball,\" he served as the first coach at the University of Kansas. Who was this sports innovator, whose creation has become a beloved global pastime?",
             "answers": ["James Naismith", "Naismith"],
             "incorrect1": "Michael Jordan",
             "incorrect2": "Wilt Chamberlain",
