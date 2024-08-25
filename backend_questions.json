@@ -8559,7 +8559,7 @@
         {
             "category": "Geography",
             "source": "2017 Darien DEFT",
-            "question": "Cross-dressing men in this country are often referred to by the term kathoey [KAT-HOE-EY], or \"ladyboy.\" This country's Isan region includes the Khorat Plateau, which is bounded by Phetchabun [PECH-AH-BOON] Range. Patong Beach is on this country's largest island, which lies in the Andaman Sea west of the Isthmus of Kra. Phuket [POO-KET] is a resort area in this country separated from Laos by the Mekong River. Chiang Mai and Ayutthaya [AY-YOOT-HAY-AH] are cities in what country ruled by Rama X [RAMA THE TENTH] from Bangkok?",
+            "question": "Cross-dressing men in this country are often referred to by the term kathoey, or \"ladyboy.\" This country's Isan region includes the Khorat Plateau, which is bounded by Phetchabun Range. Patong Beach is on this country's largest island, which lies in the Andaman Sea west of the Isthmus of Kra. Phuket is a resort area in this country separated from Laos by the Mekong River. Chiang Mai and Ayutthaya are cities in what country ruled by Rama X from Bangkok?",
             "answers": ["Kingdom of Thailand", "Thailand"],
             "incorrect1": "Kingdom of Cambodia",
             "incorrect2": "Malaysia",
@@ -8585,11 +8585,11 @@
         },
         {
             "category": "Sports",
-            "question": "This team, originally based in Chicago and known as the Packers, relocated to Baltimore in 1951 and became the Bullets.  After a move to the nation's capital in 1973, they changed their name to reflect the city's heritage. Their most successful era came in the 1970s when they won their only NBA championship in 1978 led by Wes Unseld and Elvin Hayes. What is the name of this team that plays in Capital One Arena?",
-            "answers": ["Washington Wizards", "wizards"],
-            "incorrect1": "Washington Capitals",
-            "incorrect2": "Los Angeles Lakers",
-            "incorrect3": "New York Yankees",
+            "question": "This track and field athlete's record-breaking long jump of 8.95 meters at the 1991 World Championships in Tokyo stood for over three decades. He won nine Olympic gold medals, including four consecutive golds in the long jump from 1984 to 1996. He also achieved the remarkable feat of winning four Olympic gold medals in a single Olympics, mirroring Jesse Owens' achievement in 1936. Name this athlete who was selected as \"Sportsman of the Century\" by the International Olympic Committee, \"Olympian of the Century\" by Sports Illustrated.",
+            "answers": ["Carl Lewis"],
+            "incorrect1": "Usain Bolt",
+            "incorrect2": "Jesse Owens",
+            "incorrect3": "Michael Phelps",
             "used": "TRUE",
             "source": "Marty Heavey"
         },
@@ -8606,7 +8606,7 @@
         {
             "category": "US History",
             "source": "2017 HIGS",
-            "question": "Two of these works written by Rabindranath Tagore are \"Amar Sonar Banglar\" and \"Jana Gana Mana\". After declaring war on Austria, de Lisle composed one of these titled \"La Marseillaise\" [MAR-see-ES], while Britain's inability to seize Fort McHenry inspired one of these works by Francis Scott Key. Name these pieces composed for countries, which include \"God Save the Queen\" and \"The Star-Spangled Banner.\"",
+            "question": "Two of these works written by Rabindranath Tagore are \"Amar Sonar Banglar\" and \"Jana Gana Mana\". After declaring war on Austria, de Lisle composed one of these titled \"La Marseillaise\", while Britain's inability to seize Fort McHenry inspired one of these works by Francis Scott Key. Name these pieces composed for countries, which include \"God Save the Queen\" and \"The Star-Spangled Banner.\"",
             "answers": [
                 "national anthem",
                 "national songs",
