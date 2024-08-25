@@ -8633,7 +8633,7 @@
         {
             "category": "Science",
             "source": "2013 Collaborative Middle School Tournament #4",
-            "question": "Opposite corners of this constellation are at the start Saiph and Bellatrix. Though called its beta, its brightest star is usually Rigel [RY-jul]. This constellation is visible only in the winter, and its alpha star, part of the Winter Triangle and at the center of the Winter Hexagon, is Betelgeuse. A line across its center formed by Alnitak, Alnilam, and Mintaka is known as its \"belt\". Name this constellation known as the Hunter.",
+            "question": "Opposite corners of this constellation are at the start Saiph and Bellatrix. Though called its beta, its brightest star is usually Rigel. This constellation is visible only in the winter, and its alpha star, part of the Winter Triangle and at the center of the Winter Hexagon, is Betelgeuse. A line across its center formed by Alnitak, Alnilam, and Mintaka is known as its \"belt\". Name this constellation known as the Hunter.",
             "answers": ["Orion", "Hunter"],
             "incorrect1": "Ursa Major",
             "incorrect2": "Sirius",
@@ -8653,7 +8653,7 @@
         {
             "category": "Geography",
             "source": "2011 Fall Kickoff Tournament (FKT)",
-            "question": "The Tanami Desert is located within this nation, and its extreme north is known as Arnhem Land, which is separated from the Cape York Peninsula by the Gulf of Carpentaria. Two states within this nation are separated by the Bass Strait, and its longest river, the Murray, forms just west of Mt. Kosciuszko (KOH - \"see\" - ew - sko). The lowest point in this nation is also at its largest body of water, Lake Eyre. Tasmania is the southernmost state of what island nation that borders the Great Barrier Reef and features such cities as Brisbane and Sydney?",
+            "question": "The Tanami Desert is located within this nation, and its extreme north is known as Arnhem Land, which is separated from the Cape York Peninsula by the Gulf of Carpentaria. Two states within this nation are separated by the Bass Strait, and its longest river, the Murray, forms just west of Mt. Kosciuszko. The lowest point in this nation is also at its largest body of water, Lake Eyre. Tasmania is the southernmost state of what island nation that borders the Great Barrier Reef and features such cities as Brisbane and Sydney?",
             "answers": ["Australia"],
             "incorrect1": "New Zealand",
             "incorrect2": "Indonesia",
@@ -8724,11 +8724,11 @@
         },
         {
             "category": "Sports",
-            "question": "This track and field athlete's record-breaking long jump of 8.95 meters at the 1991 World Championships in Tokyo stood for over three decades. He won nine Olympic gold medals, including four consecutive golds in the long jump from 1984 to 1996. He also achieved the remarkable feat of winning four Olympic gold medals in a single Olympics, mirroring Jesse Owens' achievement in 1936. Who is this legendary athlete, considered one of the greatest track and field stars of all time?",
-            "answers": ["Carl Lewis"],
-            "incorrect1": "Usain Bolt",
-            "incorrect2": "Jesse Owens",
-            "incorrect3": "Michael Phelps",
+            "question": "TThis athlete holds the record for the most consecutive weeks at number one in the Official World Golf Ranking, an astonishing 281 weeks. He famously won the 1997 Masters Tournament by a record-breaking 12 strokes, becoming the youngest-ever champion at age 21. His 15 major championships rank second all-time, trailing only Jack Nicklaus. He held all four major titles simultaneously, a feat unmatched in modern golf. Who is this iconic golfer, known for his red and black Sunday outfits?",
+            "answers": ["Tiger Woods"],
+            "incorrect1": "Gary Player",
+            "incorrect2": "Jordan Spieth",
+            "incorrect3": "Jack Nicklaus",
             "used": "TRUE",
             "source": "Marty Heavey"
         },
