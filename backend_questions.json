@@ -8633,7 +8633,7 @@
         {
             "category": "Science",
             "source": "2013 Collaborative Middle School Tournament #4",
-            "question": "Opposite corners of this constellation are at the start Saiph and Bellatrix. Though called its beta, its brightest star is usually Rigel. This constellation is visible only in the winter, and its alpha star, part of the Winter Triangle and at the center of the Winter Hexagon, is Betelgeuse. A line across its center formed by Alnitak, Alnilam, and Mintaka is known as its \"belt\". Name this constellation known as the Hunter.",
+            "question": "Opposite corners of this constellation are at Saiph and Bellatrix. Though called its beta, its brightest star is usually Rigel. This constellation is visible only in the winter, and its alpha star, part of the Winter Triangle and at the center of the Winter Hexagon, is Betelgeuse. A line across its center formed by Alnitak, Alnilam, and Mintaka is known as its \"belt\". Name this constellation known as the Hunter.",
             "answers": ["Orion", "Hunter"],
             "incorrect1": "Ursa Major",
             "incorrect2": "Sirius",
@@ -8693,7 +8693,7 @@
         {
             "category": "US History",
             "source": "2017 SCOP Novice 8",
-            "question": "While holding this position, Alexander Haig incorrectly claimed that he was \"in control here\" after the shooting of Ronald Reagan. In the aftermath of the sinking of the Lusitania, William Jennings Bryan left this position. Madeleine Albright, the first woman to hold this post, urged future holder Colin Powell to intervene in Bosnia. Rex Tillerson currently holds what US Cabinet post in charge of foreign affairs?",
+            "question": "While holding this position, Alexander Haig incorrectly claimed that he was \"in control here\" after the shooting of Ronald Reagan. In the aftermath of the sinking of the Lusitania, William Jennings Bryan left this position. Madeleine Albright, the first woman to hold this post, urged future holder Colin Powell to intervene in Bosnia. Anthony Blinken currently holds what US Cabinet post in charge of foreign affairs?",
             "answers": ["Secretary of State"],
             "incorrect1": "Secretary of Defense",
             "incorrect2": "Attorney General",
@@ -8702,7 +8702,7 @@
         },
         {
             "category": "Sports",
-            "question": "This swimmer's dominance in the 800-meter freestyle is unparalleled, having claimed victory at four consecutive Olympic Games from 2012 to 2024. She holds multiple world records in various freestyle events, including the 400m, 800m, and 1500m distances. A native of Bethesda, Maryland, she began swimming competitively at a young age and quickly rose to prominence, breaking numerous age-group records. Who is this athlete, often referred to as the greatest female swimmer of all time?",
+            "question": "A native of Bethesda, Maryland, she began swimming competitively at a young age and quickly rose to prominence, breaking numerous age-group records. This swimmer's dominance in the 800-meter freestyle is unparalleled, having claimed victory at four consecutive Olympic Games from 2012 to 2024. She holds multiple world records in various freestyle events, including the 400m, 800m, and 1500m distances. Who is this athlete, often referred to as the greatest female swimmer of all time?",
             "answers": ["Katie Ledecky", "Ledecky"],
             "incorrect1": "Simone Manuel",
             "incorrect2": "Missy Franklin",
@@ -8836,7 +8836,7 @@
         },
         {
             "category": "Sports",
-            "question": "This iconic athlete's famous nickname, \"The Bambino,\" is an Italian term for \"baby.\" He initially started his career as a pitcher for the Boston Red Sox, winning three World Series titles before being controversially sold to the New York Yankees in 1919. This move sparked the so-called \"Curse of the Bambino,\" which supposedly plagued the Red Sox for 86 years until they finally won another World Series in 2004. Name this athlete that retired in 1935, but his record of 714 career home runs stood for nearly 40 years until it was broken by Hank Aaron in 1974.",
+            "question": "This iconic athlete's famous nickname is an Italian term for \"baby.\" He initially started his career as a pitcher for the Boston Red Sox, winning three World Series titles before being controversially sold to the New York Yankees in 1919. This move sparked the so-called \"Curse of the Bambino,\" which supposedly plagued the Red Sox for 86 years until they finally won another World Series in 2004. Name this athlete that retired in 1935, but his record of 714 career home runs stood for nearly 40 years until it was broken by Hank Aaron in 1974.",
             "answers": ["Babe Ruth"],
             "incorrect1": "Jackie Robinson",
             "incorrect2": "Willie Mays",
@@ -8870,7 +8870,7 @@
             "question": "This mineral is at the bottom of Bowen's reaction series, and its piezoelectric properties make it useful as a component of crystal oscillators. Common varieties of this second most common mineral in Earth's crust include citrine, amethyst, and onyx. This mineral is the largest component of granite and is primarily composed of silicon dioxide. Name this mineral with a Mohs hardness of 7.",
             "answers": ["quartz"],
             "incorrect1": "diamond",
-            "incorrect2": "granite",
+            "incorrect2": "nitrogen",
             "incorrect3": "glass",
             "used": "TRUE"
         }
@@ -8931,12 +8931,15 @@
             "source": "2012 Fall Kickoff Tournament (FKT)",
             "question": "At its delta, this river splits into Rosetta and Damietta branches. This river exits Lake Victoria at the site of the submerged Ripon Falls. The Lake Tana-sourced river \"Blue\" version of this river converges with its \"White\" version at Khartoum. The building of the Aswan High Dam on this river ended its flooding in one country and created Lake Nasser. The Giza Plateau's namesake Great Pyramid lies on the west bank of this river. Name this African river that empties into the Mediterranean Sea and flows through Cairo, Egypt, the world's longest.",
             "answers": ["Nile River"],
+            "incorrect1": "Amazon River",
+            "incorrect2": "Mississippi River",
+            "incorrect3": "Yangtze River",
             "used": "TRUE"
         },
         {
             "category": "Current Events",
             "question": "This annual end-of-summer event is governed by 10 principles, including radical self-reliance, gifting, and leaving no trace. Participants create a temporary city, Black Rock City in the Nevada desert, filled with art installations, theme camps, and interactive experiences. What is the name of this unique event that culminates in the burning of a large wooden effigy, symbolizing a ritual farewell to the past?",
-            "answers": ["Burning man"],
+            "answers": ["Burning Man"],
             "incorrect1": "Electric Daisy Carnival",
             "incorrect2": "Coachella",
             "incorrect3": "Palos Verdes",
@@ -8970,9 +8973,9 @@
             "source": "2020 SCOP A",
             "question": "This city is home to the Institute for Advanced Study, where Albert Einstein worked after moving to the US. Hugh Mercer was mortally wounded during a Revolutionary War battle over this city that took place a week after Washington surprised the Hessians by crossing the Delaware River. Since 1945, this college town has been its state's governor's residence, rather than the state capital of Trenton. Name this town that is home to New Jersey's only Ivy League university.",
             "answers": ["Princeton"],
-            "incorrect1": "Harvard",
-            "incorrect2": "Yale",
-            "incorrect3": "Stanford",
+            "incorrect1": "Cambridge",
+            "incorrect2": "Greenwich",
+            "incorrect3": "Newark",
             "used": "TRUE"
         },
         {
@@ -9075,7 +9078,7 @@
         {
             "category": "US History",
             "source": "2016 PLATO",
-            "question": "This man's book A History of the English\u00adSpeaking Peoples helped to earn him a Nobel Prize in Literature. This man gave a speech in Fulton, Missouri, where he warned of an incoming \"Iron Curtain\" of Soviet influence. During World War II, this man was a leader of the Grand Alliance along with Joseph Stalin and Franklin Roosevelt. Name this Prime Minister of the United Kingdom during World War II.",
+            "question": "This man's book A History of the English Speaking Peoples helped to earn him a Nobel Prize in Literature. This man gave a speech in Fulton, Missouri, where he warned of an incoming \"Iron Curtain\" of Soviet influence. During World War II, this man was a leader of the Grand Alliance along with Joseph Stalin and Franklin Roosevelt. Name this Prime Minister of the United Kingdom during World War II.",
             "answers": ["Winston Churchill"],
             "incorrect1": "Franklin D. Roosevelt",
             "incorrect2": "Neville Chamberlain",
@@ -9115,7 +9118,7 @@
         {
             "category": "World History",
             "source": "2019 SCOP Novice 10",
-            "question": "This school of thought argues that we can only control our prohairesis [pro-hay-ree-sis], the choice to respond to seemingly good or bad things. This philosophy, which teaches that true happiness comes from virtue, was promoted in the Meditations of Marcus Aurelius. Zeno of Citium founded this philosophy, whose core idea is that people should not be swayed by desire or fear. Name this ancient philosophy that, today, is associated with being calm and unemotional.",
+            "question": "This school of thought argues that we can only control our prohairesis, the choice to respond to seemingly good or bad things. This philosophy, which teaches that true happiness comes from virtue, was promoted in the Meditations of Marcus Aurelius. Zeno of Citium founded this philosophy, whose core idea is that people should not be swayed by desire or fear. Name this ancient philosophy that, today, is associated with being calm and unemotional.",
             "answers": ["Stoicism", "Stoic"],
             "incorrect1": "Epicureanism",
             "incorrect2": "Cynicism",
