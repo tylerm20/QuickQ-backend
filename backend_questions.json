@@ -8846,7 +8846,7 @@
         },
         {
             "category": "Current Events",
-            "question": "Individuals were recently arrested related to this man's death in October 2023.  He was nominated for a Primetime Emmy Award for his guest role on \"The West Wing.\" This actor's memoir, \"Friends, Lovers, and the Big Terrible Thing,\" candidly details his struggles with addiction and his journey to sobriety. He is most celebrated for his iconic role as the witty and sarcastic Chandler Bing in the beloved sitcom \"Friends.\" Who is this actor? ",
+            "question": "Individuals were recently arrested related to this man's death in October 2023. He was nominated for a Primetime Emmy Award for his guest role on \"The West Wing.\" This actor's memoir, \"Friends, Lovers, and the Big Terrible Thing,\" candidly details his struggles with addiction and his journey to sobriety. He is most celebrated for his iconic role as the witty and sarcastic Chandler Bing in the beloved sitcom \"Friends.\" Who is this actor? ",
             "answers": ["Matthew Perry"],
             "incorrect1": "Matt LeBlanc",
             "incorrect2": "Matthew McConaughey",
@@ -9123,6 +9123,608 @@
             "incorrect1": "Epicureanism",
             "incorrect2": "Cynicism",
             "incorrect3": "Existentialism",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "This country recently experienced a major disruption in its freight rail system, as a labor dispute between two major railway companies and a Teamsters labor union led to a lockout of workers in August 2024. The disruption was caused by a workers' strike which was ended when the national government order arbitration. This nation is the world's second-largest country by total area, known for its vast wilderness, stunning natural beauty, and multicultural population. It is also home to iconic symbols like the maple leaf, the Mounties, and hockey. What is this country?",
+            "answers": ["Canada"],
+            "incorrect1": "Mexico",
+            "incorrect2": "United States",
+            "incorrect3": "Greenland",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 HIGS",
+            "question": "In this play, the title character rewrites a letter to send Rosencrantz and Guildenstern to their deaths, and later accidentally stabs Polonius through a tapestry. While the title character of this play duels using poisoned tipped swords with Laertes, he kills King Claudius to complete his revenge for the death of his father. Name this Shakespearean tragedy about the title prince of Denmark, who wonders, \"to be, or not to be.\"",
+            "answers": ["Hamlet", "The Tragedy of Hamlet, Prince of Denmark"],
+            "incorrect1": "The Great Gatsby",
+            "incorrect2": "Macbeth",
+            "incorrect3": "Romeo and Juliet",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2020 SCOP MS 10",
+            "question": "This state's namesake university was founded as a secular school in response to weak leadership at the College of William and Mary. The estate of Monticello was built in this state by one of the eight US presidents to have been born in it. Name this largest of the thirteen original colonies, where Thomas Jefferson was once governor in Richmond.",
+            "answers": ["Virginia"],
+            "incorrect1": "Vermont",
+            "incorrect2": "West Virginia",
+            "incorrect3": "Colorado",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2020 SCOP MS 10",
+            "question": "During this war, opposing generals James Wolfe and Louis-Joseph de Montcalm were each killed at the Battle of the Plains of Abraham in Quebec. Fort Necessity was led, and lost, by George Washington at the outset of this war. The 1763 Treaty of Paris gave Canada to the British and ended what war that pitted the British and their American colonies against two namesake allies?",
+            "answers": ["French and Indian War", "Seven Years' War"],
+            "incorrect1": "American Civil War",
+            "incorrect2": "Seven Years' War",
+            "incorrect3": "War of 1812",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This athlete ventured into boxing in 2017, facing Floyd Mayweather Jr. in a highly publicized match. Outside the ring, he's known for his flamboyant personality, brash trash talk, and successful whiskey brand, Proper No. Twelve. He holds the distinction of being the first UFC fighter to simultaneously hold titles in two weight classes, featherweight and lightweight. His lightning-fast 13-second knockout of Jose Aldo in 2015 is still considered one of the most iconic moments in UFC history. Who is this Irish mixed martial artist?",
+            "answers": ["Conor McGregor", "mcgregor"],
+            "incorrect1": "LeBron James",
+            "incorrect2": "Khabib Nurmagomedov",
+            "incorrect3": "Floyd Mayweather Jr.",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2022 MAKEMAKE",
+            "question": "This element is found at the center of an orange solid which was the first human-synthesized metallocene. This element's oxide usually catalyzes the synthesis of ammonia in the Haber-Bosch process. This is the most abundant element found in the inner core of Earth, and exposing it to oxygen gas forms rust. Identify this most common metal on Earth, with atomic number 26 and symbol Fe.",
+            "answers": ["iron", "fe"],
+            "incorrect1": "water",
+            "incorrect2": "steel",
+            "incorrect3": "aluminum",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This musician had a long-standing songwriting partnership with Bernie Taupin, which produced numerous chart-topping hits. The artist holds the record for the biggest-selling single of all time with his 1997 tribute to Princess Diana. His flamboyant stage persona, often characterized by extravagant costumes and oversized glasses, became a defining part of his image. His iconic hits like \"Rocket Man,\" \"Tiny Dancer,\" and \"Your Song\" have resonated with audiences for decades. Who is this legendary musician and performer? ",
+            "incorrect1": "Elvis Presley",
+            "incorrect2": "Billy Joel",
+            "incorrect3": "Freddie Mercury",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 ERIS",
+            "question": "This state's Dutch Harbor is the busiest fishing port in America and a center for the crab industry. This state's city of Nome is the finish line of the yearly Iditarod sled-dog race. The Aleutian Islands, off the west coast of this state, form the southern end of the Bering Sea. Name this state home to Fairbanks, Anchorage, and the capital of Juneau.",
+            "answers": ["Alaska"],
+            "incorrect1": "Hawaii",
+            "incorrect2": "Siberia",
+            "incorrect3": "Greenland",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "This country's province of Mendoza contains the continent's highest peak. This country and the UK have disputed claims over South Georgia and South Sandwich Islands. The Iguazu River, known for its namesake falls, flows into the Parana River in this country. This country's southern portion contains most of the Patagonia region, and it owns the eastern half of Tierra del Fuego. The northern part of this country is home to plains known as the Pampas, and the Rio de la Plata lies between it and Uruguay. Name this South American country with capital Buenos Aires.",
+            "answers": ["Argentina"],
+            "incorrect1": "Brazil",
+            "incorrect2": "Chile",
+            "incorrect3": "Spain",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "Brothers with this surname host the podcast titled \"New Heights\" which is rumored to have earned them a deal around $100 million from Amazon's podcasting arm. The podcast delves into their experiences in the NFL. They made history in 2023 as the first brothers to face each other in a Super Bowl, with one playing for the Kansas City Chiefs and the other for the Philadelphia Eagles. What is the last name of these brothers, one of who retired as the center of the Eagles and the other who dates Taylor Swift.",
+            "answers": ["Kelce", "Travis Kelce", "Jason Kelce"],
+            "incorrect1": "Brady",
+            "incorrect2": "Mahomes",
+            "incorrect3": "Kittle",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actor's refusal to accept his Academy Award for Best Actor in 1973, sending Sacheen Littlefeather in his place to protest the portrayal of Native Americans in Hollywood, remains a significant moment in Oscar history. He gained early recognition for his powerful performance as Stanley Kowalski in the 1951 film adaptation of \"A Streetcar Named Desire.\" His iconic portrayal of Vito Corleone in \"The Godfather\" solidified his status as a legendary actor.  He also delivered a memorable performance as Colonel Kurtz in the 1979 war epic \"Apocalypse Now.\" Who is this actor, known for his method acting? ",
+            "answers": ["Marlon Brando"],
+            "incorrect1": "Marilyn Monroe",
+            "incorrect2": "Al Pacino",
+            "incorrect3": "James Dean",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "In standard units, this force's namesake constant equals 6.67 times ten to the negative eleventh power. This force's magnitude is inversely proportional to the square of the distance between two objects. On earth it causes objects to accelerate at 9.81 meters per second squared. It acts more strongly on objects of greater mass. Name this fundamental force that causes objects to fall to the ground.",
+            "answers": ["gravity", "gravitation", "universal gravitation"],
+            "incorrect1": "magnetism",
+            "incorrect2": "weight",
+            "incorrect3": "friction",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2021 CERES",
+            "question": "A French king with this first name issued the Edict of Nantes, granting religious tolerance to the Huguenots. The first two kings of England's Tudor dynasty both had this name. One king of this name executed Thomas Cromwell and founded the Church of England after the Pope did not allow his divorce from Catherine of Aragon. Give this name of many English kings, the 8th of which married six wives.",
+            "answers": [
+                "Henry",
+                "Henry IV of France",
+                "Henry of Navarre",
+                " Henry III",
+                "Henry the Green Gallant",
+                "Good King Henry",
+                "Henry the Great"
+            ],
+            "incorrect1": "William",
+            "incorrect2": "George",
+            "incorrect3": "Richard",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This actor recently finalized his divorce from singer and actress Jennifer Lopez after a two-year marriage. He is a dedicated philanthropist and co-founder of the Eastern Congo Initiative, focused on improving the lives of Congolese people. He has also directed critically acclaimed films, such as \"The Town\" and \"Argo,\" the latter of which won the Academy Award for Best Picture. Earlier in his career, he was part of a dynamic duo with Matt Damon, with whom he co-wrote and starred in the Oscar-winning screenplay for \"Good Will Hunting.\" Who is this Hollywood star?",
+            "answers": ["Ben Affleck"],
+            "incorrect1": "Matt Damon",
+            "incorrect2": "George Clooney",
+            "incorrect3": "Tom Hanks",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "One event in this religion's history was the Five Pecks of Rice Rebellion, which was led by a \"Celestial Master.\" One important analogy to this religion is the idea that followers abide in this system the way a fish abides in water. In a legend of this religion, the creator god Pangu holds up the sky for eighteen thousand years. Concepts in this religion include ming and wu wei, which are \"clarity\" and \"effortless action.\" Identify this religion, whose principal text is the Tao Te Ching, which was written by Lao-Tzu, and features the concepts of yin and yang.",
+            "answers": ["Daoism", "Taoism"],
+            "incorrect1": "Buddhism",
+            "incorrect2": "Confucianism",
+            "incorrect3": "Hinduism",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2009 Fall Novice Tournament",
+            "question": "During this war, the Battle of Bladensburg allowed the capture of one side's capital. The bloodiest battle of this war was Lundy's Lane. Northern Federalists discussed succession at the Hartford Convention during this war. Events during this war include Oliver Hazard Perry's victory at Lake Erie, Andrew Jackson winning at New Orleans after the official end of the war, and the burning of the White House. Ending with the Treaty of Ghent, name this \"second war of independence,\" fought between American and British forces.",
+            "answers": ["War of 1812"],
+            "incorrect1": "American Revolutionary War",
+            "incorrect2": "American Civil War",
+            "incorrect3": "World War I",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2010 Fall Novice Tournament",
+            "question": "A Holmes dissent claimed this document \"does not enact Mr. Herbert Spencer's Social Statics,\" and legal incorporation uses this amendment to bind states to upholding the Bill of Rights. It removed the Three-Fifths Compromise, and its Privileges and Immunities and Due Process clauses limit states' ability to legislate against their citizens. Name this post-Civil War amendment which grants birthright citizenship and contains the Equal Protection clause.",
+            "answers": [
+                "14th Amendment",
+                "14",
+                "Fourteenth amendment",
+                "Fourteenth Amendment to the United States Constitution"
+            ],
+            "incorrect1": "1st Amendment",
+            "incorrect2": "13th Amendment",
+            "incorrect3": "19th Amendment",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This gemstone recently made headlines when the second-largest gem-quality specimen ever discovered was unearthed in Botswana. It is composed entirely of carbon atoms arranged in a tightly-packed crystal lattice, contributing to its unparalleled strength. Its high refractive index creates its characteristic sparkle, while its rarity and enduring beauty make it a prized possession and symbol of love and commitment. What is this precious stone renowned for its exceptional hardness and brilliance?",
+            "answers": ["Diamond"],
+            "incorrect1": "Emerald",
+            "incorrect2": "Quartz",
+            "incorrect3": "Glass",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 TAILS",
+            "question": "Walter Pitman argued that the Biblical flood myth could have originated from a rapid rise in sea level of this body of water. This body of water connects to the Sea of Marmara through the Bosphorus, right next to the city of Istanbul. The city of Sevastopol lies on the shores of this body of water on the Crimean Peninsula. What sea lies south of Ukraine and north of Turkey, possibly named for the dark shadows its storms cast over the water?",
+            "answers": ["Black Sea"],
+            "incorrect1": "Red Sea",
+            "incorrect2": "Mediterranean Sea",
+            "incorrect3": "Lake Superior",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2017 SCOP MS 7",
+            "question": "This leader ended an invasion shortly after the head of his brother, Hasdrubal, was thrown into his camp. This man ravaged the Italian countryside for over a decade but was defeated at Zama by Scipio Africanus, ending the Second Punic War. Name this Carthaginian general who led a military force, including elephants, over the Alps.",
+            "answers": ["Hannibal", "Hannibal Barca"],
+            "incorrect1": "Julius Caesar",
+            "incorrect2": "Scipio Africanus",
+            "incorrect3": "Alexander the Great",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This movie's memorable score includes the song \"The Power of Love\" by Huey Lewis and the News. Its sequels explore further adventures in time, including a trip to the futuristic year 2015 and a Wild West escapade in 1885. The film's central plot revolves around Marty McFly's accidental journey to 1955, where he inadvertently disrupts his parents' first meeting and must ensure they fall in love to preserve his own existence.  What is the name of this beloved trilogy featuring a time travelling DeLorean? ",
+            "answers": ["Back to the Future"],
+            "incorrect1": "Bill and Ted's Excellent Adventure",
+            "incorrect2": "E.T. the Extra-Terrestrial",
+            "incorrect3": "The Terminator",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This track athlete captured the world's attention at the 1988 Seoul Olympics, winning three gold medals and one silver. Tragically, she passed away in her sleep at the young age of 38 due to an epileptic seizure. Her world records in the 100-meter and 200-meter sprints, set in 1988, remain unbroken to this day, solidifying her legacy as the fastest woman of all time. Who was this sprinting legend, affectionately known as \"Flo-Jo\"?",
+            "answers": [
+                "Florence Griffith Joyner",
+                "Flo jo",
+                "flojo",
+                "flo-jo"
+            ],
+            "incorrect1": "Jackie Joyner-Kersee",
+            "incorrect2": "Serena Williams",
+            "incorrect3": "Michelle Obama",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 TAILS",
+            "question": "In a novel by this author, a note written by Arne Saknussemm can be read in a mirror, and is used by Professor Lidenbrock to help find a route into a volcano in western Iceland. In another novel by this author, Ned Land and Pierre Aronnax are shown the secrets of a submarine called the Nautilus by Captain Nemo. Name this French author of Journey to the Center of the Earth and Twenty Thousand Leagues Under the Sea.",
+            "answers": ["Jules Verne", "Jules Gabriel Verne"],
+            "incorrect1": "H.G. Wells",
+            "incorrect2": "J.R.R. Tolkien",
+            "incorrect3": "William Shakespeare",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2015 SCOP Novice 6",
+            "question": "In bacteria, operons regulate the synthesis of a polycistronic type of this molecule, while a different type oversees the removal of introns and splicing of exons during transcription. One type of this molecule is cloverleaf-shaped, and carries amino acids for translation. Instead of thymine, this molecule contains uracil. Name this single-stranded molecule, which comes in \"messenger\" and \"transfer\" types, as opposed to DNA.",
+            "answers": ["RNA", "ribonucleic acid"],
+            "incorrect1": "DNA",
+            "incorrect2": "protein",
+            "incorrect3": "carbohydrate",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2022 KICKOFF Novice",
+            "question": "These locations are the home of a group of organisms whose species include the \"staghorn\" and \"elkhorn.\" The Great Blue Hole can be found within one of these locations, named after the country of Belize. The largest of the \"barrier\" type of these locations is located off the coast of Queensland, Australia. Name these complex marine ecosystems, which primarily consist of the namesake cnidarians.",
+            "answers": ["coral reefs", "Barrier reef"],
+            "incorrect1": "kelp forests",
+            "incorrect2": "rainforests",
+            "incorrect3": "deserts",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2017 Darien DEFT",
+            "question": "If the sum of two variables has this distribution, each individual variable must also have this distribution, as stated by Cramer's theorem. A Q-Q [Q TO Q] will be linear if the underlying data conforms to this distribution. The distribution of sample means of a random variable converges towards this distribution, according to the Central Limit Theorem. The 68-95-99.7 rule approximates standard deviations from the mean of this distribution, from which Z-scores are calculated. Name this probability distribution, also known as the Gaussian distribution, which resembles a bell curve.",
+            "answers": [
+                "normal distribution",
+                "Gaussian distribution",
+                "bell curve"
+            ],
+            "incorrect1": "uniform distribution",
+            "incorrect2": "exponential distribution",
+            "incorrect3": "linear regression",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This Nordic nation recently experienced its sixth volcanic eruption in the Reykjanes Peninsula since December 2023, with the latest one starting on August 22, 2024. It is home to Europe's largest glacier, Vatnaj\u00f6kull, and the mesmerizing aurora borealis, or Northern Lights. What is the name of this island country, led from Reykjav\u00edk, often called the \"Land of Fire and Ice\"?",
+            "answers": ["Iceland"],
+            "incorrect1": "Greenland",
+            "incorrect2": "Ireland",
+            "incorrect3": "Finland",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actor's powerful performance in the 2016 film \"Fences,\" which he also directed, earned him an Academy Award nomination for Best Actor. He began his acting career in theater, gaining recognition for his role in the off-Broadway production of \"A Soldier's Play.\" His breakout film role came in 1989's \"Glory,\" where he portrayed a defiant Civil War soldier, earning him his first Oscar for Best Supporting Actor. Name this actor who also starred in iconic films like \"Malcolm X,\" \"Training Day,\" and \"American Gangster,\" further cementing his status as a Hollywood legend.",
+            "answers": ["Denzel Washington"],
+            "incorrect1": "Morgan Freeman",
+            "incorrect2": "Will Smith",
+            "incorrect3": "Barack Obama",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "The Men's T20 World Cup for this sport was co-hosted by the United States and won by India. This sport's unique terminology includes terms like \"googly,\" a type of delivery that spins in the opposite direction of what the batsman expects, and \"silly point,\" a close-in fielding position near the batsman. Its matches can span multiple days, with the longest format lasting up to five days, testing players' endurance and strategic prowess. What is this bat-and-ball game, beloved by millions worldwide, especially in countries like India, Australia, and England?",
+            "answers": ["Cricket"],
+            "incorrect1": "Baseball",
+            "incorrect2": "Croquet",
+            "incorrect3": "Chess",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2018 SCOP Novice 9",
+            "question": "While fighting in this war, Armin Tamzarian steals the identity of Seymour Skinner in The Simpsons. After returning home from this war, Frank Castle's family is murdered by the Mafia, which causes him to become The Punisher. The song \"Fortunate Son\" plays as helicopters transport Bubba Blue and Forrest Gump into this war. The 2017 film The Post details the release of the Pentagon Papers during what war that the United States escalated in the 1960s and 70s?",
+            "answers": ["Vietnam War"],
+            "incorrect1": "Korean War",
+            "incorrect2": "World War II",
+            "incorrect3": "American Civil War",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "In one quest, this figure is directed to the ferryman Urshanabi by Siduri. After his companion dies, this figure visits Utnapishtim, who tells him where to find a plant capable of restoring youth. That plant is later stolen by a serpent. This figure slew the guardian of the cedar forest, Humbaba, and the Bull of Heaven, with Enkidu. Name this king of Uruk and hero of a Mesopotamian epic.",
+            "answers": ["Gilgamesh", "The Epic of Gilgamesh"],
+            "incorrect1": "Odysseus",
+            "incorrect2": "Hercules",
+            "incorrect3": "Moses",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2021 SCOP B",
+            "question": "This city's men formed a council called the boule [boo-lay], whose makeup was adjusted by Solon. Cleisthenes reformed this city's constitution in 508 BCE, and may have introduced the process of ostracism to this city. Draco created a strict law code for this city, where trials were held on the Areopagus, in the shadow of the Acropolis. Name this city, often considered the birthplace of democracy, which was briefly ruled by thirty tyrants after it was conquered by its ancient rival, Sparta.",
+            "answers": ["Athens", "Athenai"],
+            "incorrect1": "Sparta",
+            "incorrect2": "Rome",
+            "incorrect3": "London",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2020 TAILS",
+            "question": "BepiColombo is a mission that is set to send a satellite to this planet by 2025. This planet is tidally locked with the Sun in a 3:2 spin-orbit resonance and features the Caloris basin. This planet that was visited by the Messenger spacecraft is the second hottest planet in the solar system and, like the hottest planet Venus, it has no moons. This rocky planet is the smallest in the solar system. Name this closest planet to the sun.",
+            "answers": ["Mercury"],
+            "incorrect1": "Venus",
+            "incorrect2": "Mars",
+            "incorrect3": "Gold",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2009 Fall Novice Tournament",
+            "question": "At the Battle of Vosges, this man defeated the Suebi forces led by Ariovistus. At the Battle of Alesia, he defeated Vercingetorix, as described in his Commentaries on the Gallic War, and, at the Battle of Pharsalus, he defeated Pompey the Great. This man also started the Roman Civil War by crossing the Rubicon. Name this Roman statesman who, with Crassus and Pompey, formed the First Triumvirate and was assassinated by Cassius and Brutus on the Ides of March.",
+            "answers": ["Julius Caesar", "Gaius Julis Caesar"],
+            "incorrect1": "Augustus",
+            "incorrect2": "Mark Antony",
+            "incorrect3": "Socrates",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This country recently faced a nationwide strike by doctors and nurses, after a doctor was abused and murdered in the eastern city of Kolkata. This nation is also the birthplace of yoga and Ayurveda, ancient practices that promote physical and mental well-being. Additionally, it is known for its rich tapestry of languages, with Hindi and English serving as official languages, and over 19,500 other languages spoken across the country. What is this country, home to Bollywood?",
+            "answers": ["India"],
+            "incorrect1": "China",
+            "incorrect2": "Pakistan",
+            "incorrect3": "Brazil",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2017 HIGS",
+            "question": "A letter to Trump which addressed the Chinese sale of opioids was written by Rob Portman, a senator of this state. In the 2016 presidential election, one candidate who governed this state dropped out a day after Ted Cruz. The 2016 Republican National Convention was held in this state, whose governor John Kasich refused to attend. Name this state home to cities such as Cincinnati and Columbus, its capital.",
+            "answers": ["Ohio"],
+            "incorrect1": "Iowa",
+            "incorrect2": "Indiana",
+            "incorrect3": "Ontario",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This band's final studio album, \"In Utero,\" released in 1993, showcased a rawer and more experimental side of the band. Their breakthrough album, \"Nevermind,\" released in 1991, catapulted them to global fame, with the single \"Smells Like Teen Spirit\" becoming an anthem for a generation. Their iconic smiley face logo, designed by Kurt Cobain himself, has become a symbol of grunge culture. Which band is this, whose frontman, Kurt Cobain, tragically died in 1994, leaving behind a profound impact on the music world?",
+            "answers": ["Nirvana"],
+            "incorrect1": "Pearl Jam",
+            "incorrect2": "Soundgarden",
+            "incorrect3": "The Beatles",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This Major League Baseball team clinched its first World Series championship in 1985, led by iconic players like George Brett and Bret Saberhagen. After a period of rebuilding, they made a triumphant return to the World Series in 2014, ultimately falling short, but redeemed themselves the following year, capturing their second title in 2015. They are known for their iconic powder blue uniforms and a passionate fanbase that weathered the ups and downs of the team's history. What is the name of this team based in Kansas City?",
+            "answers": ["Kansas City Royals", "Royals"],
+            "incorrect1": "Kansas City Chiefs",
+            "incorrect2": "St. Louis Cardinals",
+            "incorrect3": "New York Yankees",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "The Calypso Deep is the lowest point in this body of water, and Strait of Bonifacio separates two of its larger islands. This sea contains the Balearic Islands, and the Ebro and Rhone rivers flow into it. This sea is connected to the Black Sea via the Bosphorus Strait and to the Atlantic by way of the Strait of Gibraltar. Extensions of this sea include the Aegean and the Adriatic. Containing the islands of Sardinia and Sicily, this sea forms the coastlines of Libya and Algeria. Identify this large sea sandwiched between north Africa and Europe.",
+            "answers": ["Mediterranean Sea", "Ionian Sea"],
+            "incorrect1": "Black Sea",
+            "incorrect2": "Caribbean Sea",
+            "incorrect3": "Great Salt Lake",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Fall Novice Tournament",
+            "question": "Jehovah's Witnesses say its seventh chapter proves only 144,000 people will reach heaven. Addressed to seven churches of Asia and written by John of Patmos, it involves a third of all vegetation getting destroyed by hail and fire, the opening of seven seals, a seven-headed, ten-horned Beast, and the Whore of Babylon. Name this New Testament book which features the Four Horsemen, a prophecy of Jesus' second coming and the end of the world.",
+            "answers": [
+                "Book of Revelation",
+                "revelation",
+                "apocolypse",
+                "Book of the Apocalypse",
+                "Book of the Revelation of John",
+                "The Apocalypse of John"
+            ],
+            "incorrect1": "Book of Genesis",
+            "incorrect2": "Book of Psalms",
+            "incorrect3": "The Odyssey",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "One trilogy by this author deals with the rise and fall of the Snopes family. Most of his stories take place in Yoknapatawpha County, including one in which Shreve is told the story of Thomas Sutpen. That novel, Absalom, Absalom!, is narrated by Quentin. In this man's most famous novel, Benjy Compson reminisces about his childhood with Caddy. Name this Southern author of The Sound and the Fury.",
+            "answers": ["William Faulkner", "William Cuthbert Faulkner"],
+            "incorrect1": "Ernest Hemingway",
+            "incorrect2": "Mark Twain",
+            "incorrect3": "F. Scott Fitzgerald",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2017 Darien DEFT",
+            "question": "Evidence of an advanced writing system for this civilization was found on a Dholavira signboard containing 26 symbols. The Priest King and Dancing Girl statues were found in one city of this civilization, another of which was the port of Lothal. That city included the \"College of Priests\" and the \"Great Bath.\" An Aryan invasion is a theoretical cause for the destruction of this civilization that included the cities of Harappa and Mohenjo-Daro. Name this Bronze Age civilization centered around a namesake south Asian river.",
+            "answers": ["Indus Valley", "Indus", "indus valley civlization"],
+            "incorrect1": "Nile Valley",
+            "incorrect2": "Silicon Valley",
+            "incorrect3": "Mesopotamia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2010 SCOP Novice",
+            "question": "Mafia Island lies off the coast of this country, which also contains the Ngorongoro Crater in its north. This country's Gombe National Park was home to Jane Goodall's chimpanzee studies. Three large lakes border this country; one of them, Lake Tanganyika, named the republic that combined with Zanzibar to form this country. Home to Dar es Salaam, name this African country, which contains such landmarks as the Serengeti Plain and Mt. Kilimanjaro.",
+            "answers": ["Tanzania"],
+            "incorrect1": "Kenya",
+            "incorrect2": "South Africa",
+            "incorrect3": "Tibet",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2022 KICKOFF Novice",
+            "question": "Sputter coating is used to apply a thin layer of a conducting material for samples used in one form of this technique. This technique comes in transmission and scanning types, both of which utilize a beam of high-speed electrons. This technique was popularized by Antonie van Leeuwenhoek and Robert Hooke, who used it to discover the cell. Name this technique, which uses optical and electron devices to magnify small things.",
+            "answers": ["microscopy", "electron microscopy"],
+            "incorrect1": "telescopy",
+            "incorrect2": "photography",
+            "incorrect3": "macroscopy",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This Formula One driver tragically suffered a severe head injury in a skiing accident in 2013 and has remained out of the public eye since then. His dominance in the sport was particularly evident during his time with Ferrari. He also shares the record for the most World Drivers' Championship titles with Lewis Hamilton, both having secured seven.  He holds the record for the most consecutive Drivers' Championships, winning five in a row from 2000 to 2004. Who is this iconic German racing driver, often referred to as \"Schumi\"? ",
+            "answers": ["Michael Schumacher", "Mick Schumacher", "Schumacher"],
+            "incorrect1": "Lewis Hamilton",
+            "incorrect2": "Sebastian Vettel",
+            "incorrect3": "Michael Phelps",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film features a memorable scene where the protagonist accidentally inspires a new dance move during a televised ping pong match. It also includes the iconic line, \"Life is like a box of chocolates. You never know what you're gonna get,\" spoken by the title character. The film follows the life of a kind-hearted but slow-witted man from Alabama who unwittingly influences several historical events of the 20th century. Name this movie that won six Academy Awards, including Best Picture and Best Actor for Tom Hanks' portrayal of the title character.",
+            "answers": ["Forrest Gump"],
+            "incorrect1": "Saving Private Ryan",
+            "incorrect2": "The Shawshank Redemption",
+            "incorrect3": "Titanic",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "Israel launched what it claimed to preemptive aerial strike against this nation on August 25. This country, renowned for its delectable cuisine, is home to the ancient city of Byblos, one of the oldest continuously inhabited cities in the world. It is also the only country in the Arab world without a desert. Its flag features a cedar tree, symbolizing strength and eternity, on a background of red and white stripes representing sacrifice and peace. Its capital, Beirut, was once known as the \"Paris of the Middle East\" due to its vibrant culture and cosmopolitan atmosphere. What is the name of this Middle Eastern nation, home to Hezbollah?",
+            "answers": ["Lebanon"],
+            "incorrect1": "Syria",
+            "incorrect2": "Jordan",
+            "incorrect3": "Switzerland",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "The Supreme Court decision in Bradwell v. Illinois proved decisive in this person's trial, which was rescheduled because she was accused of jury tampering. While she was found guilty, she never paid the one thousand dollar fine for casting an illegal ballot. She met Elizabeth Cady Stanton at Seneca Falls, and died fourteen years after her goal was achieved. Name this suffragist, pictured on the U.S. dollar coin from 1979 to 1981.",
+            "answers": ["Susan B. Anthony", "Susan Brownell Anthony"],
+            "incorrect1": "Rosa Parks",
+            "incorrect2": "Eleanor Roosevelt",
+            "incorrect3": "Marie Curie",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2021 CERES",
+            "question": "Rulers of this country used turtle shells as prophetic \"oracle bones\" to learn of their future. The \"tribute system\" involved foreign messengers bowing to the ruler of this modern-day country, who was justified by the \"Mandate of Heaven.\" A \"terracotta army\" protects the tomb of Shi Huangdi, an ancient ruler of this country. The Shang and Qin dynasties ruled what country home to a massive \"Great Wall?\"",
+            "answers": ["China", "Zhongguo"],
+            "incorrect1": "Japan",
+            "incorrect2": "India",
+            "incorrect3": "Brazil",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2011 SCOP Novice 2",
+            "question": "This man, who appointed Shirley Hufstedler as the first Secretary of Education, was once attacked by a rabbit while fishing. He argued for energy diversification and conservation in a speech now known as the \"malaise\" speech, and the Iranian hostage crisis ended on his last day in office. The negotiator of the Camp David Accords and winner of the 2002 Nobel Peace Prize name this US President, an active supporter of Habitat for Humanity.",
+            "answers": ["Jimmy Carter", "Carter", "James Earl Carter"],
+            "incorrect1": "Ronald Reagan",
+            "incorrect2": "Bill Clinton",
+            "incorrect3": "Elvis Presley",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This bird species recently lost one of its most famous members, Sphen, who captured hearts worldwide with his same-sex partnership and devoted parenting at the Sea Life Sydney Aquarium. These birds are highly adapted to life in the Southern Hemisphere, with dense feathers providing insulation, flippers for swimming, and webbed feet for paddling. Their colonies can range from a few dozen to tens of thousands of individuals, creating bustling communities on rocky shores and ice floes. What is this iconic bird, known for its distinctive black and white plumage and waddling gait? ",
+            "answers": ["Penguin", "gentoo penguins"],
+            "incorrect1": "Puffin",
+            "incorrect2": "Eagle",
+            "incorrect3": "Dolphin",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2014 SCOP Novice 5",
+            "question": "This phenomenon is described by the code GR in the METAR system. The magnitude of this phenomenon can be predicted with Vertical Integrated Liquid Density, which measures both the moisture content of a cloud and the strength of its updrafts. This phenomenon is caused when water droplets are blown upward, where cold air freezes them, before falling to the ground. Name this type of precipitation consisting of balls of ice.",
+            "answers": ["hail"],
+            "incorrect1": "snow",
+            "incorrect2": "rain",
+            "incorrect3": "sunshine",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This athlete's number, 42, was retired across Major League Baseball in 1997, a testament to his enduring legacy. His impressive career batting average of .311 over ten seasons with the Brooklyn Dodgers showcased his talent and resilience. He was awarded the inaugural Rookie of the Year Award in 1947, recognizing his immediate impact on the game. His courageous breaking of baseball's color barrier in 1947 paved the way for countless African American athletes and challenged societal norms. Who was this trailblazing baseball player?",
+            "answers": ["Jackie Robinson", "Robinson"],
+            "incorrect1": "Babe Ruth",
+            "incorrect2": "Hank Aaron",
+            "incorrect3": "Michael Jordan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2011 SCOP Novice 2",
+            "question": "The Historical Axis is a road of monuments in this city, whose avenues were widened by Baron Haussmann. Bone piles are in the catacombs below this city, whose Latin Quarter is part of the 5th and 6th arrondissements. Its Left and Right Banks are separated by the Seine River, and its Champs-Elysees ends at L'Arc de Triomphe. Home to the Louvre name this capital of France.",
+            "answers": ["Paris"],
+            "incorrect1": "London",
+            "incorrect2": "Rome",
+            "incorrect3": "New York City",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This television series, set in the early 20th century, follows the lives of the aristocratic Crawley family and their servants in the fictional Yorkshire country estate. It garnered critical acclaim and numerous awards, including multiple Primetime Emmy Awards and Golden Globes. Its storylines explore themes of social change, class conflict, and the changing roles of women in British society during the Edwardian era and the First World War. What is the name of this popular British historical drama?",
+            "answers": ["Downton Abbey"],
+            "incorrect1": "Bridgerton",
+            "incorrect2": "The Crown",
+            "incorrect3": "Friends",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2022 SANDS",
+            "question": "One poem of this type tells the title bird \"thou wast not born for death\" and asks \"do I wake or sleep?\"Another poem of this type calls the title object an \"unravish'd bride of quietness\" and declares \"beauty is truth, truth beauty.\" Those poems of this type by John Keats are about a nightingale and a Grecian urn. Name this poetic form that is written in praise of something.",
+            "answers": ["odes", "Ode On a Grecian Urn", "Ode to a Nightingale"],
+            "incorrect1": "sonnets",
+            "incorrect2": "haikus",
+            "incorrect3": "novels",
             "used": "TRUE"
         }
     ]
