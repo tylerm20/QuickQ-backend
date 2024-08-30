@@ -9129,7 +9129,7 @@
     [
         {
             "category": "Current Events",
-            "question": "This country recently experienced a major disruption in its freight rail system, as a labor dispute between two major railway companies and a Teamsters labor union led to a lockout of workers in August 2024. The disruption was caused by a workers' strike which was ended when the national government order arbitration. This nation is the world's second-largest country by total area, known for its vast wilderness, stunning natural beauty, and multicultural population. It is also home to iconic symbols like the maple leaf, the Mounties, and hockey. What is this country?",
+            "question": "This country recently experienced a major disruption in its freight rail system, as a labor dispute between two major railway companies and a Teamsters labor union led to a lockout of workers in August 2024. The disruption was caused by a workers' strike which was ended when the national government order arbitration. This nation is the world's second-largest country by total area, known for its vast wilderness and multicultural population. Name this country that is also home to iconic symbols like the maple leaf, the Mounties, and hockey.",
             "answers": ["Canada"],
             "incorrect1": "Mexico",
             "incorrect2": "United States",
@@ -9169,7 +9169,7 @@
         },
         {
             "category": "Sports",
-            "question": "This athlete ventured into boxing in 2017, facing Floyd Mayweather Jr. in a highly publicized match. Outside the ring, he's known for his flamboyant personality, brash trash talk, and successful whiskey brand, Proper No. Twelve. He holds the distinction of being the first UFC fighter to simultaneously hold titles in two weight classes, featherweight and lightweight. His lightning-fast 13-second knockout of Jose Aldo in 2015 is still considered one of the most iconic moments in UFC history. Who is this Irish mixed martial artist?",
+            "question": "This athlete ventured into boxing in 2017, facing Floyd Mayweather Jr. in a highly publicized match. Outside the ring, he's known for his flamboyant personality, brash trash talk, and successful whiskey brand, Proper No. Twelve. He holds the distinction of being the first UFC fighter to simultaneously hold titles in two weight classes, featherweight and lightweight. Name this Irish athlete whose lightning-fast 13-second knockout of Jose Aldo in 2015 is still considered one of the most iconic moments in UFC history.",
             "answers": ["Conor McGregor", "mcgregor"],
             "incorrect1": "LeBron James",
             "incorrect2": "Khabib Nurmagomedov",
@@ -9190,6 +9190,7 @@
         {
             "category": "Entertainment",
             "question": "This musician had a long-standing songwriting partnership with Bernie Taupin, which produced numerous chart-topping hits. The artist holds the record for the biggest-selling single of all time with his 1997 tribute to Princess Diana. His flamboyant stage persona, often characterized by extravagant costumes and oversized glasses, became a defining part of his image. His iconic hits like \"Rocket Man,\" \"Tiny Dancer,\" and \"Your Song\" have resonated with audiences for decades. Who is this legendary musician and performer? ",
+            "answers": ["Elton John"],
             "incorrect1": "Elvis Presley",
             "incorrect2": "Billy Joel",
             "incorrect3": "Freddie Mercury",
@@ -9203,7 +9204,7 @@
             "answers": ["Alaska"],
             "incorrect1": "Hawaii",
             "incorrect2": "Siberia",
-            "incorrect3": "Greenland",
+            "incorrect3": "Washington",
             "used": "TRUE"
         }
     ],
@@ -9211,7 +9212,7 @@
         {
             "category": "Geography",
             "source": "2012 Fall Kickoff Tournament (FKT)",
-            "question": "This country's province of Mendoza contains the continent's highest peak. This country and the UK have disputed claims over South Georgia and South Sandwich Islands. The Iguazu River, known for its namesake falls, flows into the Parana River in this country. This country's southern portion contains most of the Patagonia region, and it owns the eastern half of Tierra del Fuego. The northern part of this country is home to plains known as the Pampas, and the Rio de la Plata lies between it and Uruguay. Name this South American country with capital Buenos Aires.",
+            "question": "This country's province of Mendoza contains the continent's highest peak. The Iguazu River, known for its namesake falls, flows into the Parana River in this country. This country's southern portion contains most of the Patagonia region, and it owns the eastern half of Tierra del Fuego. The northern part of this country is home to plains known as the Pampas, and the Rio de la Plata lies between it and Uruguay. Name this South American country with capital Buenos Aires.",
             "answers": ["Argentina"],
             "incorrect1": "Brazil",
             "incorrect2": "Chile",
@@ -9220,7 +9221,7 @@
         },
         {
             "category": "Sports",
-            "question": "Brothers with this surname host the podcast titled \"New Heights\" which is rumored to have earned them a deal around $100 million from Amazon's podcasting arm. The podcast delves into their experiences in the NFL. They made history in 2023 as the first brothers to face each other in a Super Bowl, with one playing for the Kansas City Chiefs and the other for the Philadelphia Eagles. What is the last name of these brothers, one of who retired as the center of the Eagles and the other who dates Taylor Swift.",
+            "question": "Brothers with this surname host the podcast titled \"New Heights\" which is rumored to have earned them a deal around $100 million from Amazon's podcasting arm. Their podcast delves into their experiences in the NFL where they made history in 2023 as the first brothers to face each other in a Super Bowl, with one playing for the Kansas City Chiefs and the other for the Philadelphia Eagles. What is the last name of these brothers, one of who retired as the center of the Eagles and the other who dates Taylor Swift.",
             "answers": ["Kelce", "Travis Kelce", "Jason Kelce"],
             "incorrect1": "Brady",
             "incorrect2": "Mahomes",
@@ -9230,7 +9231,7 @@
         },
         {
             "category": "Entertainment",
-            "question": "This actor's refusal to accept his Academy Award for Best Actor in 1973, sending Sacheen Littlefeather in his place to protest the portrayal of Native Americans in Hollywood, remains a significant moment in Oscar history. He gained early recognition for his powerful performance as Stanley Kowalski in the 1951 film adaptation of \"A Streetcar Named Desire.\" His iconic portrayal of Vito Corleone in \"The Godfather\" solidified his status as a legendary actor.  He also delivered a memorable performance as Colonel Kurtz in the 1979 war epic \"Apocalypse Now.\" Who is this actor, known for his method acting? ",
+            "question": "This actor's refusal to accept his Academy Award for Best Actor in 1973, sending Sacheen Littlefeather in his place, remains a significant moment in Oscar history. He gained early recognition for his powerful performance as Stanley Kowalski in the 1951 film adaptation of \"A Streetcar Named Desire.\" His iconic portrayal of Vito Corleone in \"The Godfather\" solidified his status as a legendary actor.  He also delivered a memorable performance as Colonel Kurtz in the 1979 war epic \"Apocalypse Now.\" Who is this actor, known for his method acting?",
             "answers": ["Marlon Brando"],
             "incorrect1": "Marilyn Monroe",
             "incorrect2": "Al Pacino",
@@ -9256,10 +9257,12 @@
                 "Henry",
                 "Henry IV of France",
                 "Henry of Navarre",
-                " Henry III",
+                "Henry III",
                 "Henry the Green Gallant",
                 "Good King Henry",
-                "Henry the Great"
+                "Henry the Great",
+                "Henry VIII",
+                "Henry the eighth"
             ],
             "incorrect1": "William",
             "incorrect2": "George",
@@ -9345,7 +9348,7 @@
         },
         {
             "category": "Entertainment",
-            "question": "This movie's memorable score includes the song \"The Power of Love\" by Huey Lewis and the News. Its sequels explore further adventures in time, including a trip to the futuristic year 2015 and a Wild West escapade in 1885. The film's central plot revolves around Marty McFly's accidental journey to 1955, where he inadvertently disrupts his parents' first meeting and must ensure they fall in love to preserve his own existence.  What is the name of this beloved trilogy featuring a time travelling DeLorean? ",
+            "question": "This movie's memorable score includes the song \"The Power of Love\" by Huey Lewis and the News. Its sequels explore further adventures in time, including a trip to the futuristic year 2015 and a Wild West escapade in 1885. The film's central plot revolves around Marty McFly's accidental journey to 1955, where he inadvertently disrupts his parents' first meeting and must ensure they fall in love to preserve his own existence. What is the name of this beloved trilogy featuring a time travelling DeLorean?",
             "answers": ["Back to the Future"],
             "incorrect1": "Bill and Ted's Excellent Adventure",
             "incorrect2": "E.T. the Extra-Terrestrial",
@@ -9358,6 +9361,8 @@
             "question": "This track athlete captured the world's attention at the 1988 Seoul Olympics, winning three gold medals and one silver. Tragically, she passed away in her sleep at the young age of 38 due to an epileptic seizure. Her world records in the 100-meter and 200-meter sprints, set in 1988, remain unbroken to this day, solidifying her legacy as the fastest woman of all time. Who was this sprinting legend, affectionately known as \"Flo-Jo\"?",
             "answers": [
                 "Florence Griffith Joyner",
+                "Florence Joyner",
+                "Joyner",
                 "Flo jo",
                 "flojo",
                 "flo-jo"
