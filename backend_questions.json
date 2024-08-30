@@ -9036,7 +9036,7 @@
         {
             "category": "Geography",
             "source": "2009 Fall Kickoff Tournament (FKT)",
-            "question": "This archipelago in the South Atlantic features a peninsula called Lafonia on its eastern island. Its former capital, located on Grantham Sound, was replaced by Stanley in 1845.  The Jason Islands lie northwest of its main group. Also known as las Islas Malvinas, it was the site of a 1982 conflict between Argentina and the United Kingdom. What is the name of this British Overseas Territory?",
+            "question": "This archipelago in the South Atlantic features a peninsula called Lafonia on its eastern island. Its former capital, located on Grantham Sound, was replaced by Stanley in 1845. The Jason Islands lie northwest of its main group. Also known as las Islas Malvinas, it was the site of a 1982 conflict between Argentina and the United Kingdom. What is the name of this British Overseas Territory?",
             "answers": ["Falkland Islands", "Islas Malvinas"],
             "incorrect1": "Galapagos Islands",
             "incorrect2": "Shetland Islands",
@@ -9047,7 +9047,7 @@
     [
         {
             "category": "Entertainment",
-            "question": "This artist holds the distinction of being the only person to win an Oscar, Emmy, Grammy, and Tony Award, as well as a Golden Globe, CableACE Award, and Peabody Award. She made her Broadway debut in the musical \"I Can Get It for You Wholesale\" in 1962. Her iconic roles in films like \"Funny Girl\" and \"The Way We Were\" cemented her status as a Hollywood legend. Beyond acting, she is also renowned for her powerful vocals, releasing numerous chart-topping albums throughout her career. Who is this multi-talented entertainer, often referred to by her initials, \"Babs\"?",
+            "question": "This artist holds the distinction of being the only person to win an Oscar, Emmy, Grammy, and Tony, as well as a Golden Globe, CableACE Award, and Peabody Award. She made her Broadway debut in the musical \"I Can Get It for You Wholesale\" in 1962. Her iconic roles in films like \"Funny Girl\" and \"The Way We Were\" cemented her status as a Hollywood legend. Beyond acting, she released numerous chart-topping albums throughout her career. Who is this multi-talented entertainer, often referred to by her initials, \"Babs\"?",
             "answers": ["Barbra Streisand", "Streisand"],
             "incorrect1": "Celine Dion",
             "incorrect2": "Whitney Houston",
@@ -9058,8 +9058,8 @@
         {
             "category": "Science",
             "source": "2016 SAGES",
-            "question": "During this activity, K-complexes and namesake spindles appear. Rapid eye movement occurs during this activity, and apnea occurs when people can't breathe while doing it. When people have trouble doing this activity it is called insomnia. Name this nighttime activity.",
-            "answers": ["sleeping"],
+            "question": "During this activity, K-complexes and namesake spindles appear on an electroencephalogram (EEG). Rapid eye movement occurs during this activity, and apnea occurs when people can't breathe while doing it. Narcolepsy can cause people to start this activity unexpectedly. It is divided into REM and non-REM phases. When people have trouble doing this activity it is called insomnia. Name this restorative nighttime activity.",
+            "answers": ["sleeping", "Sleep"],
             "incorrect1": "speaking",
             "incorrect2": "eating",
             "incorrect3": "running",
@@ -9108,7 +9108,7 @@
         {
             "category": "Arts & Literature",
             "source": "2016 Pennsylvania Novice",
-            "question": "This god is said to have a rivalry with his first father\u00adin\u00adlaw, Daksha, because Daksha neglected to invite him to sacrifices. This deity is often depicted with crescent moon on his forehead, and with a third eye that can reduce things to ashes. After cutting off the head of his son because he would not let him in the house to see his wife Parvati, he replaced his son's head with an elephant's head; that son was Ganesha. Name this Hindu deity, often called \"the destroyer.\"",
+            "question": "This god is said to have a rivalry with his first father-in-law, Daksha, because Daksha neglected to invite him to sacrifices. This deity is often depicted with crescent moon on his forehead, and with a third eye that can reduce things to ashes. After cutting off the head of his son because he would not let him in the house to see his wife Parvati, he replaced his son's head with an elephant's head; that son was Ganesha. Name this Hindu deity, often called \"the destroyer.\"",
             "answers": ["Shiva"],
             "incorrect1": "Vishnu",
             "incorrect2": "Brahma",
