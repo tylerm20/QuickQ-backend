@@ -9732,5 +9732,513 @@
             "incorrect3": "novels",
             "used": "TRUE"
         }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2017 SCOP Novice 8",
+            "question": "This country's fate was decided in the Molotov-Ribbentrop Pact, which did not follow the historical Curzon Line. In this country, the Charge at Krojanty led to a myth that this country's army charged horses into tanks. An invasion of this country dissolved the Free City of Danzig and began on September 1st, 1939. Name this country whose invasion by Nazi forces officially started World War II a month before its capital, Warsaw, fell.",
+            "answers": ["Poland"],
+            "incorrect1": "Czech Republic",
+            "incorrect2": "Hungary",
+            "incorrect3": "Russia",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2022 MAKEMAKE",
+            "question": "Xavier Beccara claimed there was \"no magic bullet\" for ensuring the ability to do this practice. A July 2022 California gun law is based off a Texas law allowing private citizens to sue providers of this practice. Politico released a leaked draft opinion of a court case about this practice. Dobbs v. Jackson Women's Health Organization, which overturned Roe v. Wade, denied the right to perform what practice?",
+            "answers": ["abortion", "terminate pregnancy"],
+            "incorrect1": "contraception",
+            "incorrect2": "adoption",
+            "incorrect3": "euthanasia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This hockey legend's iconic image, captured in mid-air after scoring the Stanley Cup-winning goal in 1970, remains one of the most celebrated photographs in sports history. He revolutionized the role of the defenseman, becoming the first to win the Art Ross Trophy as the NHL's leading scorer, a feat he achieved twice. He holds the record for most points in a single season by a defenseman. Despite his relatively short career, he amassed an impressive collection of awards, including eight consecutive Norris Trophies and three consecutive Hart Trophies. Who is this iconic hockey player?",
+            "answers": ["Bobby Orr", "Or"],
+            "incorrect1": "Wayne Gretzky",
+            "incorrect2": "Gordie Howe",
+            "incorrect3": "Sidney Crosby",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2019 SCOP Novice 10",
+            "question": "Elementary operations can be used to convert these mathematical objects into reduced row echelon form, helpful in solving systems of equations. The commutative property does not necessarily apply to multiplication of these objects. Coefficients are stored in these objects for use in Cramer's rule, which solves systems of equations by computing determinants of these objects. Give this term for an array of numbers organized into rows and columns.",
+            "answers": ["matrix", "matrices"],
+            "incorrect1": "array",
+            "incorrect2": "determinant",
+            "incorrect3": "maze",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "This mountain range was created by the subduction of the Nazca Plate. The southern part of this mountain range is found in Patagonia and, further south, Tierra del Fuego. The altiplano (all-tee-PLAH-noe), a plateau of this range, contains Lake Titicaca. This range contains the highest peak in the Western Hemisphere, Mount Aconcagua. Name this mountain range of South America.",
+            "answers": ["Andes", "Andes Mountains"],
+            "incorrect1": "Himalayas",
+            "incorrect2": "Rockies",
+            "incorrect3": "Appalachians",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2021 CERES",
+            "question": "In this book, a character breaks one of the Seven Commandments by drinking alcohol. Old Major teaches the song \"Beasts of England\" to the characters in this book, and the horse Boxer helps rebuild a windmill after winning the Battle of the Cowshed against humans. Napoleon and his pigs teach the mantra \"four legs good, two legs bad\" as they govern the title location of what George Orwell novella?",
+            "answers": ["Animal Farm", "Animal Farm: A Fairy Story"],
+            "incorrect1": "1984",
+            "incorrect2": "Brave New World",
+            "incorrect3": "The Catcher in the Rye",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This movie features an iconic scene where a therapist, played by Robin Williams, tells his troubled patient, played by Matt Damon, \"It's not your fault.\" The film's screenplay, written by Matt Damon and Ben Affleck, won an Academy Award. It also features a heartwarming romance between Damon's character and a pre-med student played by Minnie Driver. What is the name of this acclaimed 1997 drama?",
+            "answers": ["Good Will Hunting"],
+            "incorrect1": "Dead Poets Society",
+            "incorrect2": "The Shawshank Redemption",
+            "incorrect3": "Titanic",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This indigenous people recently mourned the passing of their beloved king, Kiingi T\u016bheitia, who held the position for 16 years. Their traditional greeting, the hongi, involves pressing noses and foreheads together to share the breath of life. Their intricate wood carvings and tattoos, known as t\u0101 moko, are significant cultural expressions. Their war dance, the haka, is a powerful display of strength and unity, often performed before sporting events or other important occasions. Who are these indigenous Polynesian people of New Zealand?",
+            "answers": ["M\u0101ori", "Maori"],
+            "incorrect1": "Aboriginal",
+            "incorrect2": "Hawaiian",
+            "incorrect3": "Inuit",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This actress began her illustrious career by earning a Tony nomination for her role in the 1976 play \"27 Wagons Full of Cotton\". Her transformative performances span a wide range of genres and characters, from Miranda Priestly in \"The Devil Wears Prada\" to the beloved chef Julia Child in \"Julie & Julia.\"  She boasts a record-breaking 21 Academy Award nominations, winning three for her roles in \"Kramer vs. Kramer,\" \"Sophie's Choice,\" and \"The Iron Lady.\"  Who is this versatile and celebrated actress, often hailed as the \"greatest living actress\"?",
+            "answers": ["Meryl Streep"],
+            "incorrect1": "Cate Blanchett",
+            "incorrect2": "Nicole Kidman",
+            "incorrect3": "Julia Roberts",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This Major League Baseball team, currently managed by Brian Snitker, boasts a rich history that includes multiple World Series championships, including a recent victory in 2021. They play their home games at Truist Park, which opened in 2017 and replaced the iconic Turner Field. Their legendary players, including Hank Aaron, Chipper Jones, and Greg Maddux, have solidified their place in baseball history. What is the name of this team, based in Atlanta, Georgia? ",
+            "answers": ["Atlanta Braves", "Braves"],
+            "incorrect1": "New York Yankees",
+            "incorrect2": "Los Angeles Dodgers",
+            "incorrect3": "Miami Marlins",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2017 Darien DEFT",
+            "question": "Paul Rusesabagina hid over a thousand people in this country's Hotel des Milles Collines [Mille Colline] during one event. This country's RTLM radio station used the phrase \"cut the tall trees\" and referred to one group as \"cockroaches\" in an event led by the Interahamwe [IN-TER-A-HAWM-WE] militia. Romeo Dallaire led UNAMIR in this country where Juvenal Habyarimana [HAB-YAR-I-MANA] was assassinated during a civil war won by the RPF. Paul Kagame [KA-GA-ME] is the current President of what country where Tutsis were massacred by Hutus in a 1993 \"genocide?\"",
+            "answers": ["Republic of Rwanda", "Rwanda"],
+            "incorrect1": "Democratic Republic of the Congo",
+            "incorrect2": "Burundi",
+            "incorrect3": "Uganda",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This province is home to the city of Red Deer and Lesser Slave Lake. While the Great Slave Lake is not in this province, many of its southern tributaries are, such as the Slave River and the Hay River. Along its western boundary are the Jasper and Banff National Parks, which are along the Continental Divide. The 1988 Olympics, which were most famous for the debut of the Jamaican bobsled team, were held in its largest city of Calgary. Home to the largest oil sand deposit in Canada name this province whose capital is Edmonton.",
+            "answers": ["Alberta"],
+            "incorrect1": "British Columbia",
+            "incorrect2": "Saskatchewan",
+            "incorrect3": "Manitoba",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2016 PLATO",
+            "question": "One method for finding these numbers is called the Sieve of Eratosthenes. Euclid added one to the product of some of these numbers to prove that there are infinitely many of them. Two numbers have this property relative to each other if they share no common divisors. The only even example of these numbers is two, and numbers without this property are composite. Name these numbers whose only positive divisors are one and themselves.",
+            "answers": ["prime numbers"],
+            "incorrect1": "even numbers",
+            "incorrect2": "negative numbers",
+            "incorrect3": "real numbers",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "This character feels nauseous at the sight of blue oatmeal and befriends Yard Ape. She ends a book report with the line, \"I can't believe I ate the whole thing.\" In one appearance, she makes a gravestone for the cat Picky-Picky and recovers Aunt Bea's wedding ring. Name this pest of Klickitat Street and friend of Howie Kemp, the younger sister of Beezus Quimby in a series of books by Beverly Cleary.",
+            "answers": ["Ramona Quimby", "Quimby"],
+            "incorrect1": "Junie B. Jones",
+            "incorrect2": "Judy Blume",
+            "incorrect3": "Harry Potter",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2009 Fall Novice Tournament",
+            "question": "This man led William Jenkins Worth's men down La Veronica Causeway before he was wounded at the Battle of Chapultepec. He was promoted after the wounding of Joseph Johnston at Seven Pines. At Harper's Ferry, he captured John Brown. This man won the battles of Fredericksburg, Chancellorsville, and Second Bull Run while commanding the Army of Northern Virginia. Name this General-in-Chief of the Confederate forces during the American Civil War.",
+            "answers": ["Robert E. Lee", "Lee", "Robert Edward Lee"],
+            "incorrect1": "George Washington",
+            "incorrect2": "Abraham Lincoln",
+            "incorrect3": "Ulysses S. Grant",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This region, located to the west of the Jordan River, is currently under Israeli military occupation, though it has been the subject of numerous peace negotiations and international disputes. It is home to significant religious sites for both Muslims and Jews, including the Cave of the Patriarchs in Hebron and the ancient city of Jericho. Its major cities include Ramallah, Nablus, and Bethlehem, the birthplace of Jesus Christ. The area is also known for its olive oil production and its rich cultural heritage. What is this region, a central part of the Israeli-Palestinian conflict?",
+            "answers": ["West Bank"],
+            "incorrect1": "Gaza Strip",
+            "incorrect2": "Golan Heights",
+            "incorrect3": "Sinai Peninsula",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2020 TAILS",
+            "question": "This initiative's participants were scrutinized by the Venona project, which discovered the espionage of Theodore Hall and Klaus Fuchs (fooks). Sites like Hanford and Oak Ridge were used for fuel enrichment during this effort. J. Robert Oppenheimer directed this effort, whose successful culmination was the Trinity Test, the first detonation of a nuclear device. What US World War II project created the atomic bomb?",
+            "answers": ["Manhattan Project", "Manhattan"],
+            "incorrect1": "Apollo Program",
+            "incorrect2": "Human Genome Project",
+            "incorrect3": "D-Day",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2016 Pennsylvania Novice",
+            "question": "One of this composer's works uses massive intervals of 10ths and 12ths to sound \"jumpy.\" This composer of the Grosse Fuge used a theme from his suite \"The Creatures of Prometheus\" in the finale to his third symphony, which was originally dedicated to Napoleon. In addition to the Eroica Symphony, another one of his symphonies opens in C minor with a short\u00adshort\u00adshort\u00adlong pattern representing fate. \"Ode to Joy\" is sung over the final moments of what composer's 9th symphony, though he never heard it himself?",
+            "answers": ["Ludwig van Beethoven", "Beethoven"],
+            "incorrect1": "Wolfgang Amadeus Mozart",
+            "incorrect2": "Johann Sebastian Bach",
+            "incorrect3": "Elvis Presley",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This television show follows the story of Earnest \"Earn\" Marks as he navigates the complexities of managing his rapper cousin, Paper Boi. It garnered critical acclaim for its unique blend of comedy, drama, and social commentary, earning numerous awards, including two Primetime Emmy Awards for Outstanding Lead Actor in a Comedy Series for Donald Glover's performance. What is the name of this groundbreaking series about the Atlanta rap scene? ",
+            "answers": ["Atlanta"],
+            "incorrect1": "Community",
+            "incorrect2": "The Wire",
+            "incorrect3": "The Sopranos",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2016 PLATO",
+            "question": "These devices can be made to \" pulse\" by a process called Q\u00adswitching. Some printers use these devices to create static electric images on a drum. Lidar is a form of radar that uses these devices to measure distances. These devices are often used in computer miceand DVD players by creating photons through stimulated emission. Name these devices that can create an intensely focused beam of light.",
+            "answers": ["lasers", "laser"],
+            "incorrect1": "flashlights",
+            "incorrect2": "LEDs",
+            "incorrect3": "microscopes",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 SCOP MS 7",
+            "question": "A caldera in this location formed after a series of eruptions at Mesa Falls and Huckleberry Ridge, and contains a supervolcano named after this North American park. This national park contains a geyser known for a very predictable eruption pattern. Name this protected area in Wyoming whose Old Faithful helped establish it as America's first national park.",
+            "answers": ["Yellowstone National Park", "Yellowstone"],
+            "incorrect1": "Yosemite National Park",
+            "incorrect2": "Grand Canyon National Park",
+            "incorrect3": "Central Park",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This arid Southern African nation's government is considering allowing the culling and consumption of elephants and zebras to alleviate food shortages and protect other endangered species during their severe drought. The nation borders Angola and Zambia to the north, Botswana to the east and South Africa to the east and south It is also home to the world's oldest desert, the Namib, and the majestic Etosha National Park, a haven for wildlife. What is the name of this country, the driest in sub-Saharan Africa?",
+            "answers": ["Namibia"],
+            "incorrect1": "Botswana",
+            "incorrect2": "Nigeria",
+            "incorrect3": "New Zealand",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "After the Autumn Harvest Uprising, this man retreated to the Jianggang (JAHNG-gahng) Mountains, where he joined forces with Zhu De (ZHOO DAY), creating the Red Army. He was succeeded by Hua Guofeng (WAH gwo-FANG) and went on the Long March after being surrounded by Kuomintang forces. Under his guidance, the Hundred Flowers Campaign and Great Leap Forward were launched. Name this author of the Little Red Book, the first leader of Communist China.",
+            "answers": ["Mao Zedong", "Mao Tse-tung", "Chairman Mao"],
+            "incorrect1": "Deng Xiaoping",
+            "incorrect2": "Sun Yat-sen",
+            "incorrect3": "Kim Jong-un",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This footballer is known for his powerful shots, technical skills, and versatility on the pitch, having played as a striker, midfielder, and even a defender throughout his career. He is the all-time leading goal scorer for both Manchester United and the England national team, surpassing Sir Bobby Charlton's records for both club and country. He made his professional debut for Everton at the age of 16, becoming the youngest goalscorer in Premier League history at the time. Who is this English football legend, often referred to as \"Wazza\"?",
+            "answers": ["Wayne Rooney", "Rooney"],
+            "incorrect1": "David Beckham",
+            "incorrect2": "Cristiano Ronaldo",
+            "incorrect3": "Michael Jordan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This 1979 science fiction horror film, directed by Ridley Scott, introduced the iconic Xenomorph, a terrifying extraterrestrial creature with acid for blood. Its tagline, \"In space, no one can hear you scream,\" perfectly captures the film's chilling atmosphere and sense of isolation. It stars Sigourney Weaver as Ellen Ripley, a warrant officer who becomes the sole survivor of the Nostromo crew's encounter with the deadly creature. What is the title of this film, which spawned a successful franchise? ",
+            "answers": ["Alien"],
+            "incorrect1": "Predator",
+            "incorrect2": "E.T. the Extra-Terrestrial",
+            "incorrect3": "The Lion King",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "2. This monarch oversaw the Nine Years' War in Ireland. The Pope Pius V issued the bull Regnans in Excelsis against this monarch, who had the Duke of Norfolk executed after the failed Ridolfi Plot. William Cecil and Sir Francis Walsingham assisted this monarch's reign, the latter of whom discovered the Throckmorton and Babington plots against her life, who had Mary, Queen of Scots, executed. Identify this Tudor \"Virgin Queen\" from 1558 to 1603 who defeated the Spanish Armada in 1588.",
+            "answers": ["Elizabeth I", "Elizabeth Tudor"],
+            "incorrect1": "Queen Victoria",
+            "incorrect2": "Marie Antoinette",
+            "incorrect3": "Cleopatra",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "The term regolith can refer to this, although it mostly applies to those found on the moon. Colluvium and alluvium are forms of this. Another form, podsol, is found in boreal forests. It can be separated into O, A, B, and C layers, which are differentiated by their composition. Humus consists of decayed organic matter in this, while it is classified by horizons. Formed from weathering and erosion of rock, components of it include clay, loam, and silt. Plants grow in what kind of ground?",
+            "answers": ["soil", "dirt", "earth", "ground"],
+            "incorrect1": "dirt",
+            "incorrect2": "sand",
+            "incorrect3": "concrete",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This international multi-sport event first took place in Rome in 1960, with 400 athletes from 23 countries participating. It is held every four years, following the Olympic Games. The event's motto, \"Spirit in Motion,\" embodies the determination and resilience of its athletes. Its logo features three Agitos, swirling shapes in red, blue, and green, representing the three core values of the games' movement: courage, determination, and inspiration. What is the name of this major sporting event featuring athletes with a range of disabilities? ",
+            "answers": ["Paralympics", " Paralympic games"],
+            "incorrect1": "Special Olympics",
+            "incorrect2": "Olympics",
+            "incorrect3": "Invictus Games",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 SCOP Novice 8",
+            "question": "Davis's cyclical theory of this process ends with the peneplain. When the Petermann Range of Australia underwent this process, only Ayers Rock remained. The namesake features of Arches National Park resulted from one form of this process, while a different type carves gullies into hillsides. The weathering of rocks begins what process by which wind and water remove surface material, leaving features like the Grand Canyon behind?",
+            "answers": ["erosion"],
+            "incorrect1": "weathering",
+            "incorrect2": "deposition",
+            "incorrect3": "evaporation",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This legendary coach's famous quote, \"Winning isn't everything, it's the only thing,\" encapsulates his relentless pursuit of excellence. His name is immortalized on the trophy awarded to the Super Bowl champions, a testament to his impact on the sport. He led the Green Bay Packers to five NFL championships in seven years, including victories in the first two Super Bowls. Who is this iconic figure in American football history? ",
+            "answers": ["Vince Lombardi"],
+            "incorrect1": "Bill Belichick",
+            "incorrect2": "Tom Landry",
+            "incorrect3": "Babe Ruth",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2011 SCOP Novice 2",
+            "question": "In 1839, Thomas Jefferson Farnham led a failed early use of this by the Peoria Party. Its popularity spiked in 1843 when over 800 people used it to reach the Willamette Valley, most beginning near Independence, MO. Its use declined in the 1870s as railroad connections reached Portland. Name this route used by pioneers in Conestoga wagons to travel to a namesake state in the Pacific Northwest.",
+            "answers": ["Oregon Trail"],
+            "incorrect1": "Appalachian Trail",
+            "incorrect2": "Route 66",
+            "incorrect3": "Silk Road",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 TAILS",
+            "question": "In one of this author's plays, a man was found as a baby in a handbag at Victoria Station. In that play by this author, both Algernon Moncrieff (mon-CREEF) and Jack Worthing both pretend to have the title name. This author of The Importance of Being Earnest wrote a novel about a portrait that decays and ages while the title character remains young and attractive. Name this Irish author of The Picture of Dorian Gray.",
+            "answers": ["Oscar Wilde", "Oscar Fingal O'Flahertie Wills Wilde"],
+            "incorrect1": "William Shakespeare",
+            "incorrect2": "Jane Austen",
+            "incorrect3": "J.K. Rowling",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2018 MVS RAMS",
+            "question": "In this nation, Lech Walesa led the \"Solidarity Movement.\" That movement was supported by Pope John Paul II, who was born in this country. A famous photo taken in this country depicts a boy with his hands raised and a yellow star on his coat; that photograph was taken in the aftermath of a Jewish ghetto uprising in this country. Nazi Germany invaded this country in 1939, starting World War II. Name this nation whose major cities include Krakow.",
+            "answers": [
+                "Republic of Poland",
+                "Poland",
+                "Rzeczpospolita Polska"
+            ],
+            "incorrect1": "Czech Republic",
+            "incorrect2": "Hungary",
+            "incorrect3": "Russia",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2022 MAKEMAKE",
+            "question": "John Ingram led an event in this colony after a member of the House of Burgesses died of dysentery. Indigenous Doeg people were massacred as William Berkeley fled this colony due to Bacon's Rebellion. The \"starving time\" was a harsh period in this colony, whose leader John Smith was saved by Pocahontas. Tobacco was farmed by John Rolfe in this colony. Name this first English colony in Virginia.",
+            "answers": ["Jamestown", "Colony of Virginia"],
+            "incorrect1": "Plymouth",
+            "incorrect2": "Salem",
+            "incorrect3": "Gettysburg",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This band's debut album, released on Friday the 13th in 1970 featuring songs like \"N.I.B.\" Their iconic guitarist, Tony Iommi, lost the tips of two fingers in an industrial accident, leading him to develop a unique playing style. Their lead singer, Ozzy Osbourne, was famously fired from the band in 1979 due to his excessive drug and alcohol use but later rejoined for reunions and tours. They were inducted into the Rock and Roll Hall of Fame in 2006, cementing their legacy as pioneers of heavy metal. What is the name of this influential British band?",
+            "answers": ["Black Sabbath"],
+            "incorrect1": "Led Zeppelin",
+            "incorrect2": "AC/DC",
+            "incorrect3": "The Beatles",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "Its Arusha National Park contains an active volcano, Mount Meru, while the Umba River flows out of the Arusha region and has notable sapphire deposits. Other notable features in this country include the Oldovai Gorge, where the first homo habilis was discovered and where Louis and Mary Leakey made other archeological discoveries. This country also owns Mafia Island and Pemba, while Lake Victoria and Mount Kilimanjaro are in its north. Name this country that owns Zanaibar and which had its capital moved from Dar es Salaam to Dodoma.",
+            "answers": [
+                "Tanzania",
+                "United Republic of Tanzania",
+                "Jamhuri ya Muungano wa Tanzania"
+            ],
+            "incorrect1": "Kenya",
+            "incorrect2": "South Africa",
+            "incorrect3": "Nigeria",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "The first case of this disease in Gaza in 25 years was recently diagnosed. This led to a large-scale vaccination campaign and Israel agreeing to limited pauses in fighting to allow for the vaccination. This disease, once a global scourge, primarily affects children under five and can cause irreversible paralysis in a matter of hours. It's transmitted through contaminated food or water and multiplies in the intestine before attacking the nervous system. What is the name of this infectious disease, which afflicted FDR, that has mostly been eradicated?",
+            "answers": ["Polio"],
+            "incorrect1": "Measles",
+            "incorrect2": "Cancer",
+            "incorrect3": "Influenza",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2015 SCOP Novice 6",
+            "question": "The bond order between two atoms of this element differentiates alkynes from alkanes. The 2010 Nobel Prize in Physics was awarded for the formation of a two-dimensional, hexagonal allotrope of this element that forms fullerenes like the bucky-ball. Another allotrope of this element has a Mohs hardness of 10. Name this element found in graphite and diamond that has atomic number 6 and symbol C.",
+            "answers": ["carbon"],
+            "incorrect1": "oxygen",
+            "incorrect2": "water",
+            "incorrect3": "silicon",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA franchise has a famous \"Vice\" color scheme. Led by the iconic trio of LeBron James, Dwyane Wade, and Chris Bosh, they achieved back-to-back championships in 2012 and 2013. Prior to this era, they secured their first championship in 2006, with Dwyane Wade earning the Finals MVP. More recently, they made a surprising run to the NBA Finals in 2020, led by Jimmy Butler, showcasing their resilience and determination. What is the name of this team, based in Miami, Florida?",
+            "answers": ["Miami Heat", "Heat"],
+            "incorrect1": "Los Angeles Lakers",
+            "incorrect2": "Miami Dolphins",
+            "incorrect3": "Boston Red Sox",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Fall Novice Tournament",
+            "question": "In one opera by this composer, Eva eventually goes to Walther, who becomes one of the title Mastersingers of Nuremberg. In another of his operas, the hero eventually saves Elsa. He composed Lohengrin and an opera that sees Sigfried rescue Brunnhilde from a ring of magic fire. That cycle contains Gotterdammerung and a opera containing the Ride of The Valkyries. Name this composer of the Ring cycle.",
+            "answers": ["Richard Wagner", "Wagner"],
+            "incorrect1": "Ludwig van Beethoven",
+            "incorrect2": "Wolfgang Amadeus Mozart",
+            "incorrect3": "Taylor Swift",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This NFL team, recognized by their distinctive black, blue, and silver uniforms, made a remarkable debut in 1995, securing an impressive seven wins in their inaugural season, a record for an expansion team. They reached the Super Bowl twice, in 2003 and 2015, but unfortunately fell short both times. Their home stadium, Bank of America Stadium, is affectionately known as \"The Bank\" by fans.  They have been led by notable quarterbacks such as Jake Delhomme and Cam Newton throughout their history.  What is the name of this team, based in Charlotte, North Carolina?",
+            "answers": ["Carolina Panthers", "Panthers"],
+            "incorrect1": "Carolina Hurricanes",
+            "incorrect2": "Dallas Cowboys",
+            "incorrect3": "New York Yankees",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This ruler's actions in the first Partition of Poland sparked the Confederation of Bar, and after defeating the Ottoman Empire in the first Russo-Turkish war Crimea was added to Russia. This ruler created the League of Armed Neutrality during the American Revolution while collaborating with many Enlightenment figures, notably Voltaire and Denis Diderot. Married to Peter III identify this ruler, the lover of Grigory Potemkin and suppresser of Pugachev's Rebellion, who after a coup that killed her husband became empress of Russia.",
+            "answers": [
+                "Catherine II",
+                "Catherine II of Russia",
+                "Catherine the Great"
+            ],
+            "incorrect1": "Marie Antoinette",
+            "incorrect2": "Queen Elizabeth II",
+            "incorrect3": "Joan of Arc",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This band's breakout album, \"Dookie,\" released in 1994, catapulted them to global fame. Their energetic live performances and politically charged lyrics resonated with a disenfranchised youth, establishing them as leaders of the pop-punk movement. Their 2004 rock opera, \"American Idiot,\" further cemented their success, tackling themes of social and political disillusionment. They were inducted into the Rock and Roll Hall of Fame in 2015. What is the name of this California-based punk rock band? ",
+            "answers": ["Green Day"],
+            "incorrect1": "Blink-182",
+            "incorrect2": "Metallica",
+            "incorrect3": "Coldplay",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2016 PLATO",
+            "question": "These storms are defined by having winds of at least 74 miles per hour, making them stronger than a tropical depression and a tropical storm. They form from low\u00adpressure centers over warm waters. The Coriolis effect determines which direction these storms spin, and as they rotate, they form an \"eye\" that is relatively calm. Name these storms that can destroy coastal areas, such as Katrina in 2005.",
+            "answers": ["hurricanes"],
+            "incorrect1": "tornadoes",
+            "incorrect2": "earthquakes",
+            "incorrect3": "tsunamis",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2015 SCOP Novice 6",
+            "question": "A proposed amendment for this agreement would have freed slaves \"at the age of twenty-five\" and was named for James Tallmadge. Although it was already effectively repealed, this agreement was declared unconstitutional in the Dred Scott case, and under this agreement Maine was admitted to the union. Name this agreement, which established a line along the northern boundary of a namesake slave state.",
+            "answers": ["Missouri Compromise", "Compromise of 1820"],
+            "incorrect1": "Compromise of 1850",
+            "incorrect2": "Dred Scott Decision",
+            "incorrect3": "Emancipation Proclamation",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "This country is involved in a territorial dispute over possession of the Greater and Lesser Tunb Islands, and the Dasht-e Lut and the Dasht-e Kavir are two deserts in this country's namesake plateau. Lake Urmia is located in this country close to the Turkish border. The Zagros Mountains form the spine of this country, and the cities of Qum, Tabriz, and Esfahan are located in this nation. Name this country located in modern day Persia that has its capital at Tehran.",
+            "answers": [
+                "Iran",
+                "Islamic Republic of Iran",
+                "Jomhuri-ye Eslami-ye Iran"
+            ],
+            "incorrect1": "Iraq",
+            "incorrect2": "India",
+            "incorrect3": "Italy",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This country recently made headlines when a court blocked the social media platform X, formerly known as Twitter, citing concerns about the spread of misinformation and hate speech. It is also the birthplace of samba, a vibrant dance and music genre that has become synonymous with its annual Carnival celebration.  Furthermore, it boasts the iconic Christ the Redeemer statue, overlooking the bustling city of Rio de Janeiro. What is this South American nation, known for its rich culture, biodiversity, and passion for football?",
+            "answers": ["Brazil", "Brasil"],
+            "incorrect1": "Argentina",
+            "incorrect2": "Mexico",
+            "incorrect3": "Spain",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2011 SCOP Novice 2",
+            "question": "Kuzunoha [koo-zoo-no-hah] is one of these creatures, and takes the form of a woman in a Japanese legend. Aesop wrote stories about this animal paired with a sick lion and a crane, and this creature works with Tommy Brock in a story by Beatrix Potter. This creature is known as kitsune [kee-tsoo-nay] in Japan and as Tod in England, and is the title subject of the Reynard cycle in France. Name this archetypical trickster, a red, bushy-tailed mammal.",
+            "answers": ["foxes"],
+            "incorrect1": "wolves",
+            "incorrect2": "cats",
+            "incorrect3": "squirrels",
+            "used": "TRUE"
+        }
     ]
 ]
