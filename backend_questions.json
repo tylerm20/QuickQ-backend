@@ -9399,7 +9399,7 @@
             "category": "Geography",
             "source": "2022 KICKOFF Novice",
             "question": "These locations are the home of a group of organisms whose species include the \"staghorn\" and \"elkhorn.\" The Great Blue Hole can be found within one of these locations, named after the country of Belize. The largest of the \"barrier\" type of these locations is located off the coast of Queensland, Australia. Name these complex marine ecosystems, which primarily consist of the namesake cnidarians.",
-            "answers": ["coral reefs", "Barrier reef"],
+            "answers": ["coral reefs", "Barrier reef", "reefs"],
             "incorrect1": "kelp forests",
             "incorrect2": "rainforests",
             "incorrect3": "deserts",
@@ -9408,7 +9408,7 @@
         {
             "category": "Science",
             "source": "2017 Darien DEFT",
-            "question": "If the sum of two variables has this distribution, each individual variable must also have this distribution, as stated by Cramer's theorem. A Q-Q [Q TO Q] will be linear if the underlying data conforms to this distribution. The distribution of sample means of a random variable converges towards this distribution, according to the Central Limit Theorem. The 68-95-99.7 rule approximates standard deviations from the mean of this distribution, from which Z-scores are calculated. Name this probability distribution, also known as the Gaussian distribution, which resembles a bell curve.",
+            "question": "This probability distribution's characteristics are revealed through a linear Q-Q plot. The 68-95-99.7 rule approximates standard deviations from its mean, used to calculate Z-scores. According to the Central Limit Theorem, the distribution of sample means converges towards this distribution. What is this bell-shaped distribution, also called the Gaussian distribution?",
             "answers": [
                 "normal distribution",
                 "Gaussian distribution",
@@ -9472,7 +9472,7 @@
         {
             "category": "World History",
             "source": "2021 SCOP B",
-            "question": "This city's men formed a council called the boule [boo-lay], whose makeup was adjusted by Solon. Cleisthenes reformed this city's constitution in 508 BCE, and may have introduced the process of ostracism to this city. Draco created a strict law code for this city, where trials were held on the Areopagus, in the shadow of the Acropolis. Name this city, often considered the birthplace of democracy, which was briefly ruled by thirty tyrants after it was conquered by its ancient rival, Sparta.",
+            "question": "This city's men formed a council called the boule, whose makeup was adjusted by Solon. Cleisthenes reformed this city's constitution in 508 BCE, and may have introduced the process of ostracism to this city. Draco created a strict law code for this city, where trials were held on the Areopagus, in the shadow of the Acropolis. Name this city, often considered the birthplace of democracy, which was briefly ruled by thirty tyrants after it was conquered by its ancient rival, Sparta.",
             "answers": ["Athens", "Athenai"],
             "incorrect1": "Sparta",
             "incorrect2": "Rome",
