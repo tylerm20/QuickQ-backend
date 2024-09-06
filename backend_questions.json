@@ -9573,7 +9573,7 @@
         {
             "category": "Arts & Literature",
             "source": "2012 Collaborative Middle School Tournament #3",
-            "question": "One trilogy by this author deals with the rise and fall of the Snopes family. Most of his stories take place in Yoknapatawpha County, including one in which Shreve is told the story of Thomas Sutpen. That novel, Absalom, Absalom!, is narrated by Quentin. In this man's most famous novel, Benjy Compson reminisces about his childhood with Caddy. Name this Southern author of The Sound and the Fury.",
+            "question": "One trilogy by this author deals with the rise and fall of the Snopes family. Many of his stories unfold in the fictional Yoknapatawpha County, including the complex tale of Thomas Sutpen, relayed to Shreve in \"Absalom, Absalom!\" In this man's most famous novel, Benjy Compson reminisces about his childhood with Caddy. Name this Southern author of \"The Sound and the Fury.\"",
             "answers": ["William Faulkner", "William Cuthbert Faulkner"],
             "incorrect1": "Ernest Hemingway",
             "incorrect2": "Mark Twain",
@@ -9604,7 +9604,7 @@
             "category": "Science",
             "source": "2022 KICKOFF Novice",
             "question": "Sputter coating is used to apply a thin layer of a conducting material for samples used in one form of this technique. This technique comes in transmission and scanning types, both of which utilize a beam of high-speed electrons. This technique was popularized by Antonie van Leeuwenhoek and Robert Hooke, who used it to discover the cell. Name this technique, which uses optical and electron devices to magnify small things.",
-            "answers": ["microscopy", "electron microscopy"],
+            "answers": ["microscopy", "electron microscopy", "microscope"],
             "incorrect1": "telescopy",
             "incorrect2": "photography",
             "incorrect3": "macroscopy",
@@ -9622,7 +9622,7 @@
         },
         {
             "category": "Entertainment",
-            "question": "This film features a memorable scene where the protagonist accidentally inspires a new dance move during a televised ping pong match. It also includes the iconic line, \"Life is like a box of chocolates. You never know what you're gonna get,\" spoken by the title character. The film follows the life of a kind-hearted but slow-witted man from Alabama who unwittingly influences several historical events of the 20th century. Name this movie that won six Academy Awards, including Best Picture and Best Actor for Tom Hanks' portrayal of the title character.",
+            "question": "This film features a memorable scene where the protagonist unknowingly starts the Watergate scandal by calling security. It also includes the iconic line, \"Life is like a box of chocolates. You never know what you're gonna get,\" spoken by the title character. The film follows the life of a kind-hearted but slow-witted man from Alabama who unwittingly influences several historical events of the 20th century. Name this movie that won six Academy Awards, including Best Picture and Best Actor for Tom Hanks' portrayal of the title character.",
             "answers": ["Forrest Gump"],
             "incorrect1": "Saving Private Ryan",
             "incorrect2": "The Shawshank Redemption",
@@ -9694,7 +9694,7 @@
         },
         {
             "category": "Sports",
-            "question": "This athlete's number, 42, was retired across Major League Baseball in 1997, a testament to his enduring legacy. His impressive career batting average of .311 over ten seasons with the Brooklyn Dodgers showcased his talent and resilience. He was awarded the inaugural Rookie of the Year Award in 1947, recognizing his immediate impact on the game. His courageous breaking of baseball's color barrier in 1947 paved the way for countless African American athletes and challenged societal norms. Who was this trailblazing baseball player?",
+            "question": "This athletet's impressive career batting average of .311 over ten seasons with the Brooklyn Dodgers showcased his talent and resilience. He was awarded the inaugural Rookie of the Year Award in 1947. His number, 42, was retired across Major League Baseball in 1997, a testament to his enduring legacy. His courageous breaking of baseball's color barrier in 1947 paved the way for countless African American athletes and challenged societal norms. Who was this trailblazing baseball player?",
             "answers": ["Jackie Robinson", "Robinson"],
             "incorrect1": "Babe Ruth",
             "incorrect2": "Hank Aaron",
@@ -9756,7 +9756,7 @@
         },
         {
             "category": "Sports",
-            "question": "This hockey legend's iconic image, captured in mid-air after scoring the Stanley Cup-winning goal in 1970, remains one of the most celebrated photographs in sports history. He revolutionized the role of the defenseman, becoming the first to win the Art Ross Trophy as the NHL's leading scorer, a feat he achieved twice. He holds the record for most points in a single season by a defenseman. Despite his relatively short career, he amassed an impressive collection of awards, including eight consecutive Norris Trophies and three consecutive Hart Trophies. Who is this iconic hockey player?",
+            "question": "This hockey legend's iconic image, captured in mid-air after scoring the Stanley Cup-winning goal in 1970, remains one of the most celebrated photographs in sports history. He revolutionized the role of the defenseman, becoming the first to win the Art Ross Trophy as the NHL's leading scorer, a feat he achieved twice. He holds the record for most points in a single season by a defenseman. Despite having a relatively short career, he won eight consecutive Norris Trophies and three consecutive Hart Trophies. Who is this iconic hockey player?",
             "answers": ["Bobby Orr", "Or"],
             "incorrect1": "Wayne Gretzky",
             "incorrect2": "Gordie Howe",
@@ -9777,7 +9777,7 @@
         {
             "category": "Geography",
             "source": "2012 Collaborative Middle School Tournament #3",
-            "question": "This mountain range was created by the subduction of the Nazca Plate. The southern part of this mountain range is found in Patagonia and, further south, Tierra del Fuego. The altiplano (all-tee-PLAH-noe), a plateau of this range, contains Lake Titicaca. This range contains the highest peak in the Western Hemisphere, Mount Aconcagua. Name this mountain range of South America.",
+            "question": "This mountain range was created by the subduction of the Nazca Plate. The southern part of this mountain range is found in Patagonia and, further south, Tierra del Fuego. The altiplano, a plateau of this range, contains Lake Titicaca. This range contains the highest peak in the Western Hemisphere, Mount Aconcagua. Name this mountain range of South America.",
             "answers": ["Andes", "Andes Mountains"],
             "incorrect1": "Himalayas",
             "incorrect2": "Rockies",
@@ -9787,7 +9787,7 @@
         {
             "category": "Arts & Literature",
             "source": "2021 CERES",
-            "question": "In this book, a character breaks one of the Seven Commandments by drinking alcohol. Old Major teaches the song \"Beasts of England\" to the characters in this book, and the horse Boxer helps rebuild a windmill after winning the Battle of the Cowshed against humans. Napoleon and his pigs teach the mantra \"four legs good, two legs bad\" as they govern the title location of what George Orwell novella?",
+            "question": "In this book, a character breaks one of the Seven Commandments by drinking alcohol. Old Major teaches the song \"Beasts of England\" to the characters in this book, and the horse Boxer helps rebuild a windmill after winning the Battle of the Cowshed against humans. Napoleon and his pigs teach the mantra \"four legs good, two legs bad\" as they govern the title location of what George Orwell novella which allegorizes the Russian Revolution?",
             "answers": ["Animal Farm", "Animal Farm: A Fairy Story"],
             "incorrect1": "1984",
             "incorrect2": "Brave New World",
@@ -9839,7 +9839,7 @@
         {
             "category": "World History",
             "source": "2017 Darien DEFT",
-            "question": "Paul Rusesabagina hid over a thousand people in this country's Hotel des Milles Collines [Mille Colline] during one event. This country's RTLM radio station used the phrase \"cut the tall trees\" and referred to one group as \"cockroaches\" in an event led by the Interahamwe [IN-TER-A-HAWM-WE] militia. Romeo Dallaire led UNAMIR in this country where Juvenal Habyarimana [HAB-YAR-I-MANA] was assassinated during a civil war won by the RPF. Paul Kagame [KA-GA-ME] is the current President of what country where Tutsis were massacred by Hutus in a 1993 \"genocide?\"",
+            "question": "Paul Rusesabagina hid over a thousand people in this country's Hotel des Milles Collines during one event. This country's RTLM radio station used the phrase \"cut the tall trees\" and referred to one group as \"cockroaches\" in an event led by the Interahamwe militia. Romeo Dallaire led UNAMIR in this country where Juvenal Habyarimana was assassinated during a civil war won by the RPF. Paul Kagame is the current President of what country where Tutsis were massacred by Hutus in a 1993 genocide?",
             "answers": ["Republic of Rwanda", "Rwanda"],
             "incorrect1": "Democratic Republic of the Congo",
             "incorrect2": "Burundi",
