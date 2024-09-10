@@ -9901,7 +9901,7 @@
         {
             "category": "US History",
             "source": "2020 TAILS",
-            "question": "This initiative's participants were scrutinized by the Venona project, which discovered the espionage of Theodore Hall and Klaus Fuchs (fooks). Sites like Hanford and Oak Ridge were used for fuel enrichment during this effort. J. Robert Oppenheimer directed this effort, whose successful culmination was the Trinity Test, the first detonation of a nuclear device. What US World War II project created the atomic bomb?",
+            "question": "This initiative's participants were scrutinized by the Venona project, which discovered the espionage of Theodore Hall and Klaus Fuchs. Sites like Hanford and Oak Ridge were used for fuel enrichment during this effort. J. Robert Oppenheimer directed this effort, whose successful culmination was the Trinity Test, the first detonation of a nuclear device. What US World War II project created the atomic bomb?",
             "answers": ["Manhattan Project", "Manhattan"],
             "incorrect1": "Apollo Program",
             "incorrect2": "Human Genome Project",
@@ -9931,7 +9931,7 @@
         {
             "category": "Science",
             "source": "2016 PLATO",
-            "question": "These devices can be made to \" pulse\" by a process called Q\u00adswitching. Some printers use these devices to create static electric images on a drum. Lidar is a form of radar that uses these devices to measure distances. These devices are often used in computer miceand DVD players by creating photons through stimulated emission. Name these devices that can create an intensely focused beam of light.",
+            "question": "These devices can be made to \"pulse\" by a process called Q\u00adswitching. Some printers use these devices to create static electric images on a drum. Lidar is a form of radar that uses these devices to measure distances. These devices are often used in computer miceand DVD players by creating photons through stimulated emission. Name these devices that can create an intensely focused beam of light.",
             "answers": ["lasers", "laser"],
             "incorrect1": "flashlights",
             "incorrect2": "LEDs",
@@ -9961,7 +9961,7 @@
         {
             "category": "World History",
             "source": "2012 Collaborative Middle School Tournament #3",
-            "question": "After the Autumn Harvest Uprising, this man retreated to the Jianggang (JAHNG-gahng) Mountains, where he joined forces with Zhu De (ZHOO DAY), creating the Red Army. He was succeeded by Hua Guofeng (WAH gwo-FANG) and went on the Long March after being surrounded by Kuomintang forces. Under his guidance, the Hundred Flowers Campaign and Great Leap Forward were launched. Name this author of the Little Red Book, the first leader of Communist China.",
+            "question": "After the Autumn Harvest Uprising, this man retreated to the Jianggang Mountains, where he joined forces with Zhu De, creating the Red Army. He was succeeded by Hua Guofeng and went on the Long March after being surrounded by Kuomintang forces. Under his guidance, the Hundred Flowers Campaign and Great Leap Forward were launched. Name this author of the Little Red Book, the first leader of Communist China.",
             "answers": ["Mao Zedong", "Mao Tse-tung", "Chairman Mao"],
             "incorrect1": "Deng Xiaoping",
             "incorrect2": "Sun Yat-sen",
