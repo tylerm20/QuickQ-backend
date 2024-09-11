@@ -9993,7 +9993,7 @@
         {
             "category": "World History",
             "source": "2011 Fall Kickoff Tournament (FKT)",
-            "question": "2. This monarch oversaw the Nine Years' War in Ireland. The Pope Pius V issued the bull Regnans in Excelsis against this monarch, who had the Duke of Norfolk executed after the failed Ridolfi Plot. William Cecil and Sir Francis Walsingham assisted this monarch's reign, the latter of whom discovered the Throckmorton and Babington plots against her life, who had Mary, Queen of Scots, executed. Identify this Tudor \"Virgin Queen\" from 1558 to 1603 who defeated the Spanish Armada in 1588.",
+            "question": "This monarch oversaw the Nine Years' War in Ireland. The Pope Pius V issued the bull Regnans in Excelsis against this monarch, who had the Duke of Norfolk executed after the failed Ridolfi Plot. William Cecil and Sir Francis Walsingham assisted this monarch's reign, the latter of whom discovered the Throckmorton and Babington plots against her life, who had Mary, Queen of Scots, executed. Identify this Tudor \"Virgin Queen\" from 1558 to 1603 who defeated the Spanish Armada in 1588.",
             "answers": ["Elizabeth I", "Elizabeth Tudor"],
             "incorrect1": "Queen Victoria",
             "incorrect2": "Marie Antoinette",
@@ -10005,7 +10005,7 @@
             "source": "2011 Fall Kickoff Tournament (FKT)",
             "question": "The term regolith can refer to this, although it mostly applies to those found on the moon. Colluvium and alluvium are forms of this. Another form, podsol, is found in boreal forests. It can be separated into O, A, B, and C layers, which are differentiated by their composition. Humus consists of decayed organic matter in this, while it is classified by horizons. Formed from weathering and erosion of rock, components of it include clay, loam, and silt. Plants grow in what kind of ground?",
             "answers": ["soil", "dirt", "earth", "ground"],
-            "incorrect1": "dirt",
+            "incorrect1": "atmosphere",
             "incorrect2": "sand",
             "incorrect3": "concrete",
             "used": "TRUE"
@@ -10023,9 +10023,9 @@
         {
             "category": "Geography",
             "source": "2017 SCOP Novice 8",
-            "question": "Davis's cyclical theory of this process ends with the peneplain. When the Petermann Range of Australia underwent this process, only Ayers Rock remained. The namesake features of Arches National Park resulted from one form of this process, while a different type carves gullies into hillsides. The weathering of rocks begins what process by which wind and water remove surface material, leaving features like the Grand Canyon behind?",
+            "question": "Davis's cyclical theory of this process ends with the peneplain. When the Petermann Range of Australia underwent this process, only Uluru (Ayers Rock) remained. The namesake features of Arches National Park resulted from one form of this process, while a different type carves gullies into hillsides. The weathering of rocks begins what process by which wind and water remove surface material, leaving features like the Grand Canyon behind?",
             "answers": ["erosion"],
-            "incorrect1": "weathering",
+            "incorrect1": "composition",
             "incorrect2": "deposition",
             "incorrect3": "evaporation",
             "used": "TRUE"
@@ -10053,7 +10053,7 @@
         {
             "category": "Arts & Literature",
             "source": "2020 TAILS",
-            "question": "In one of this author's plays, a man was found as a baby in a handbag at Victoria Station. In that play by this author, both Algernon Moncrieff (mon-CREEF) and Jack Worthing both pretend to have the title name. This author of The Importance of Being Earnest wrote a novel about a portrait that decays and ages while the title character remains young and attractive. Name this Irish author of The Picture of Dorian Gray.",
+            "question": "In one of this author's plays, a man was found as a baby in a handbag at Victoria Station. In that play by this author, both Algernon Moncrieff and Jack Worthing both pretend to have the title name. This author of The Importance of Being Earnest wrote a novel about a portrait that decays and ages while the title character remains young and attractive. Name this Irish author of The Picture of Dorian Gray.",
             "answers": ["Oscar Wilde", "Oscar Fingal O'Flahertie Wills Wilde"],
             "incorrect1": "William Shakespeare",
             "incorrect2": "Jane Austen",
