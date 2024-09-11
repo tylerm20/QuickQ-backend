@@ -10063,6 +10063,16 @@
     ],
     [
         {
+            "category": "Sports",
+            "question": "This NBA franchise has a famous \"Vice\" color scheme. Led by the iconic trio of LeBron James, Dwyane Wade, and Chris Bosh, they achieved back-to-back championships in 2012 and 2013. Prior to this era, they secured their first championship in 2006, with Dwyane Wade earning the Finals MVP. More recently, they made a surprising run to the NBA Finals in 2020, led by Jimmy Butler, showcasing their resilience and determination. What is the name of this team, based in Miami, Florida?",
+            "answers": ["Miami Heat", "Heat"],
+            "incorrect1": "Los Angeles Lakers",
+            "incorrect2": "Miami Dolphins",
+            "incorrect3": "Boston Red Sox",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
             "category": "World History",
             "source": "2018 MVS RAMS",
             "question": "In this nation, Lech Walesa led the \"Solidarity Movement.\" That movement was supported by Pope John Paul II, who was born in this country. A famous photo taken in this country depicts a boy with his hands raised and a yellow star on his coat; that photograph was taken in the aftermath of a Jewish ghetto uprising in this country. Nazi Germany invaded this country in 1939, starting World War II. Name this nation whose major cities include Krakow.",
@@ -10075,6 +10085,16 @@
             "incorrect2": "Hungary",
             "incorrect3": "Russia",
             "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "The first case of this disease in Gaza in 25 years was recently diagnosed. This led to a large-scale vaccination campaign and Israel agreeing to limited pauses in fighting to allow for the vaccination. This disease, once a global scourge, primarily affects children under five and can cause irreversible paralysis in a matter of hours. It's transmitted through contaminated food or water and multiplies in the intestine before attacking the nervous system. What is the name of this infectious disease, which afflicted FDR, that has mostly been eradicated?",
+            "answers": ["Polio"],
+            "incorrect1": "Measles",
+            "incorrect2": "Cancer",
+            "incorrect3": "Influenza",
+            "used": "TRUE",
+            "source": "Marty Heavey"
         },
         {
             "category": "US History",
@@ -10111,16 +10131,6 @@
             "used": "TRUE"
         },
         {
-            "category": "Current Events",
-            "question": "The first case of this disease in Gaza in 25 years was recently diagnosed. This led to a large-scale vaccination campaign and Israel agreeing to limited pauses in fighting to allow for the vaccination. This disease, once a global scourge, primarily affects children under five and can cause irreversible paralysis in a matter of hours. It's transmitted through contaminated food or water and multiplies in the intestine before attacking the nervous system. What is the name of this infectious disease, which afflicted FDR, that has mostly been eradicated?",
-            "answers": ["Polio"],
-            "incorrect1": "Measles",
-            "incorrect2": "Cancer",
-            "incorrect3": "Influenza",
-            "used": "TRUE",
-            "source": "Marty Heavey"
-        },
-        {
             "category": "Science",
             "source": "2015 SCOP Novice 6",
             "question": "The bond order between two atoms of this element differentiates alkynes from alkanes. The 2010 Nobel Prize in Physics was awarded for the formation of a two-dimensional, hexagonal allotrope of this element that forms fullerenes like the bucky-ball. Another allotrope of this element has a Mohs hardness of 10. Name this element found in graphite and diamond that has atomic number 6 and symbol C.",
@@ -10129,16 +10139,6 @@
             "incorrect2": "water",
             "incorrect3": "silicon",
             "used": "TRUE"
-        },
-        {
-            "category": "Sports",
-            "question": "This NBA franchise has a famous \"Vice\" color scheme. Led by the iconic trio of LeBron James, Dwyane Wade, and Chris Bosh, they achieved back-to-back championships in 2012 and 2013. Prior to this era, they secured their first championship in 2006, with Dwyane Wade earning the Finals MVP. More recently, they made a surprising run to the NBA Finals in 2020, led by Jimmy Butler, showcasing their resilience and determination. What is the name of this team, based in Miami, Florida?",
-            "answers": ["Miami Heat", "Heat"],
-            "incorrect1": "Los Angeles Lakers",
-            "incorrect2": "Miami Dolphins",
-            "incorrect3": "Boston Red Sox",
-            "used": "TRUE",
-            "source": "Marty Heavey"
         },
         {
             "category": "Arts & Literature",
@@ -10163,6 +10163,16 @@
             "source": "Marty Heavey"
         },
         {
+            "category": "Entertainment",
+            "question": "This band's breakout album, \"Dookie,\" released in 1994, catapulted them to global fame. Their energetic live performances and politically charged lyrics resonated with a disenfranchised youth, establishing them as leaders of the pop-punk movement. Their 2004 rock opera, \"American Idiot,\" further cemented their success, tackling themes of social and political disillusionment. They were inducted into the Rock and Roll Hall of Fame in 2015. What is the name of this California-based punk rock band? ",
+            "answers": ["Green Day"],
+            "incorrect1": "Blink-182",
+            "incorrect2": "Metallica",
+            "incorrect3": "Coldplay",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
             "category": "World History",
             "source": "2009 Fall Kickoff Tournament (FKT)",
             "question": "This ruler's actions in the first Partition of Poland sparked the Confederation of Bar, and after defeating the Ottoman Empire in the first Russo-Turkish war Crimea was added to Russia. This ruler created the League of Armed Neutrality during the American Revolution while collaborating with many Enlightenment figures, notably Voltaire and Denis Diderot. Married to Peter III identify this ruler, the lover of Grigory Potemkin and suppresser of Pugachev's Rebellion, who after a coup that killed her husband became empress of Russia.",
@@ -10175,16 +10185,6 @@
             "incorrect2": "Queen Elizabeth II",
             "incorrect3": "Joan of Arc",
             "used": "TRUE"
-        },
-        {
-            "category": "Entertainment",
-            "question": "This band's breakout album, \"Dookie,\" released in 1994, catapulted them to global fame. Their energetic live performances and politically charged lyrics resonated with a disenfranchised youth, establishing them as leaders of the pop-punk movement. Their 2004 rock opera, \"American Idiot,\" further cemented their success, tackling themes of social and political disillusionment. They were inducted into the Rock and Roll Hall of Fame in 2015. What is the name of this California-based punk rock band? ",
-            "answers": ["Green Day"],
-            "incorrect1": "Blink-182",
-            "incorrect2": "Metallica",
-            "incorrect3": "Coldplay",
-            "used": "TRUE",
-            "source": "Marty Heavey"
         },
         {
             "category": "Science",
@@ -10233,7 +10233,7 @@
         {
             "category": "Arts & Literature",
             "source": "2011 SCOP Novice 2",
-            "question": "Kuzunoha [koo-zoo-no-hah] is one of these creatures, and takes the form of a woman in a Japanese legend. Aesop wrote stories about this animal paired with a sick lion and a crane, and this creature works with Tommy Brock in a story by Beatrix Potter. This creature is known as kitsune [kee-tsoo-nay] in Japan and as Tod in England, and is the title subject of the Reynard cycle in France. Name this archetypical trickster, a red, bushy-tailed mammal.",
+            "question": "Kuzunoha is one of these creatures, and takes the form of a woman in a Japanese legend. Aesop wrote stories about this animal paired with a sick lion and a crane, and this creature works with Tommy Brock in a story by Beatrix Potter. This creature is known as kitsune in Japan and as Tod in England, and is the title subject of the Reynard cycle in France. Name this archetypical trickster, a red, bushy-tailed mammal.",
             "answers": ["foxes"],
             "incorrect1": "wolves",
             "incorrect2": "cats",
