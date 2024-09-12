@@ -10240,5 +10240,623 @@
             "incorrect3": "squirrels",
             "used": "TRUE"
         }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "Hvaldimir, a whale of this species, who gained fame for potentially being an escaped Russian military whale recently passed away off the coast of Norway. These animals are highly social, often congregating in large pods, earning them the nickname \"sea canaries.\" This species of Arctic and sub-Arctic cetacean is known for its distinctive white coloration and its ability to change the shape of its bulbous forehead, called a \"melon.\" Name this whale that lacks a dorsal fin, an adaptation that helps them navigate through icy waters.",
+            "answers": ["Beluga"],
+            "incorrect1": "Orca",
+            "incorrect2": "Dolphin",
+            "incorrect3": "Shark",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2017 Darien DEFT",
+            "question": "When arguing for his theory of definite descriptions, this philosopher noted that the law of the excluded middle could lead to the conclusion that there is a \"present king of France.\" This philosopher theorized the idea of a miniscule object in orbit between Earth and Mars to make God's existence a burden of proof rather than disproof, his namesake \"teapot.\" This author of \"Why I Am Not a Christian\" co-wrote a book with Alfred North Whitehead that used philosophical logic to make proofs. Name this author of Principia Mathematica.",
+            "answers": ["Bertrand Russell"],
+            "incorrect1": "Albert Einstein",
+            "incorrect2": "Ludwig Wittgenstein",
+            "incorrect3": "Winston Churchill",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2020 MOQBA Novice",
+            "question": "This man posited that \"people who would have never thought that a religious problem could be a serious matter ... are beginning to ask themselves fundamental questions\" in his book Flying Saucers: A Modern Myth of Things Seen in the Skies. This man proposed two perceiving functions of consciousness and two judging functions in Psychological Types. This psychologist also proposed five archetypes, including the anima and animus. Name this Swiss psychologist who proposed the collective unconscious.",
+            "answers": ["Carl Jung", "Carl Gustav Jung"],
+            "incorrect1": "Sigmund Freud",
+            "incorrect2": "Friedrich Nietzsche",
+            "incorrect3": "Albert Camus",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2014 SCOP Novice 5",
+            "question": "Men who undergo the process of Amrit Sanchar are initiated into this religion and are commanded to wear an iron bracelet and wooden comb. This religion's central text, the Adi Granth, is considered its final Guru. Members of this religion, founded by Guru Nanak, practice a form of strict non-violence known as ahimsa [ah-heem-sah] and wear the five K's, including kesh, or uncut hair. Name this religion prominent in the Punjab state of India.",
+            "answers": ["Sikhism"],
+            "incorrect1": "Hinduism",
+            "incorrect2": "Buddhism",
+            "incorrect3": "Christianity",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2022 SANDS",
+            "question": "To oppose this process, Senator Harry Byrd headed a campaign of \"Massive resistance.\" This process was ordered to be carried out \"with all deliberate speed\" following a 1954 Supreme Court case that ruled that the notion of \"separate but equal\" was unconstitutional. The ruling in Brown v. Board of Education called for what process that ended the separation of education institutions based on race?",
+            "answers": [
+                "school desegregation",
+                "desegration",
+                "school integration",
+                "integration"
+            ],
+            "incorrect1": "bus boycott",
+            "incorrect2": "affirmative action",
+            "incorrect3": "homeschooling",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This jazz vocalist's iconic rendition of \"A-Tisket, A-Tasket,\" a reworking of a nursery rhyme, propelled her to stardom at the young age of 21. She was admired for her impeccable scat singing, a form of vocal improvisation that showcased her remarkable rhythmic and melodic agility. Her collaborations with legendary musicians like Duke Ellington, Louis Armstrong, and Count Basie solidified her status as a jazz luminary. Name this singer who earned the nickname \"First Lady of Song.\"",
+            "answers": ["Ella Fitzgerald"],
+            "incorrect1": "Billie Holiday",
+            "incorrect2": "Aretha Franklin",
+            "incorrect3": "Taylor Swift",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This golfer comes from a family of athletes, with her father being a former Grand Slam tennis champion and her younger brother a rising star in professional tennis. She kicked off the 2024 season with a historic feat, winning five consecutive LPGA Tour titles, a streak not seen in nearly two decades. Her victory at the 2024 Chevron Championship marked her second major title, solidifying her position as one of the top players in women's golf. She also holds an Olympic gold medal, earned in the 2020 Tokyo Games. Who is this talented golfer?",
+            "answers": ["Nelly Korda"],
+            "incorrect1": "Michelle Wie West",
+            "incorrect2": "Serena Williams",
+            "incorrect3": "Simone Biles",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 TAILS",
+            "question": "This state is home to the Ten Thousand Islands, a collection of islets off the coast of this state's largest national park. Big Cypress National Reserve lies north of that national park in this state, which is named a \"River of Grass\" for being a giant swamp fed by Lake Okeechobee. Crocodiles, manatees, and mangrove trees are among the distinctive features of what state's Everglades National Park?",
+            "answers": ["Florida"],
+            "incorrect1": "Texas",
+            "incorrect2": "California",
+            "incorrect3": "Cuba",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This NFL team's current head coach, Dan Quinn, was hired in 2024 after previously serving as the defensive coordinator for the Dallas Cowboys. They underwent a name change in 2020 amidst growing controversy surrounding its previous moniker. Its  The team's iconic burgundy and gold colors remain unchanged, representing a visual link to its storied past. It boasts three Super Bowl victories, the last of which came in 1991 under the leadership of legendary coach Joe Gibbs. What is the name of this team, based in the nation's capital?",
+            "answers": ["Washington Commanders", "Commanders"],
+            "incorrect1": "Washington Nationals",
+            "incorrect2": "Dallas Cowboys",
+            "incorrect3": "New York Yankees",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2010 SCOP Novice",
+            "question": "This planet is orbited by the only notable moon with a retrograde orbit. Urbain Le Verrier used Newton's laws to correctly predict the position of this planet. It is home to storms such as the Scooter and the Great Dark Spot. Voyager 2 discovered its moon Proteus and photographed its largest moon Triton. Name this eighth planet from the sun, slightly bigger than its neighbor Uranus and named for a Roman god of the sea.",
+            "answers": ["Neptune"],
+            "incorrect1": "Uranus",
+            "incorrect2": "Pluto",
+            "incorrect3": "Jupiter",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2020 ERIS",
+            "question": "In this city, the Etemenanki Temple and the Ishtar Gate were constructed by King Nebuchadnezzar. After a ruler of this city destroyed Solomon's Temple, the Jews suffered a namesake \"captivity\" in this city. Legal principles like \"an eye for an eye\" were established in this city by its ruler Hammurabi. Name this Mesopotamian city home to some legendary Hanging Gardens.",
+            "answers": ["Babylon", "Babilim"],
+            "incorrect1": "Nineveh",
+            "incorrect2": "Persepolis",
+            "incorrect3": "Athens",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 TAILS",
+            "question": "In this state, a thin layer of melting ice allows some stones to \"sail\" across the surface of Racetrack Playa. A national park in this state contains the Bridalveil Fall vista and was advocated for by John Muir's (myurzz) Sierra Club. In that national park in this state, Glacier Point gives views of El Capitan and Half Dome. Name this state which contains Death Valley and Yosemite (yoh-SEM-ih-tee).",
+            "answers": ["California"],
+            "incorrect1": "Texas",
+            "incorrect2": "Florida",
+            "incorrect3": "Canada",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This historical drama miniseries features a stellar cast led by Jared Harris, Stellan Skarsg\u00e5rd, and Emily Watson. It received numerous awards, including 10 Primetime Emmy Awards and two Golden Globes. Its unflinching portrayal of the human cost of the 1986 nuclear disaster and its aftermath. Name this HBO miniseries which depicted the Soviet nuclear disaster in what is now Ukraine.",
+            "answers": ["Chernobyl"],
+            "incorrect1": "Fukushima",
+            "incorrect2": "Hiroshima",
+            "incorrect3": "Glastnost",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This actor passed away at the age of 93 on September 9, 2024. He was renowned for his deep and resonant voice that brought life to iconic characters. He achieved the coveted EGOT, winning an Emmy, Grammy, (Honorary) Oscar, and Tony Award throughout his illustrious career. He won Tony Awards for his roles in \"The Great White Hope\" and \"Fences.\" Name this actor who acted as Darth Vader in the Star Wars saga and Mufasa in The Lion King.",
+            "answers": ["James Earl Jones"],
+            "incorrect1": "Morgan Freeman",
+            "incorrect2": "Samuel L. Jackson",
+            "incorrect3": "Barack Obama",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "This man sent the Great White Fleet on a tour of the world to impress Japan, and ended a conflict between Japan and Russia with the Treaty of Portsmouth. He recruited several college buddies to serve together as the Rough Riders unit during the Spanish-American War. He began \"trustbusting\" with the Standard Oil Case. Name this president from 1901 to 1909, whose nickname provided the name for a toy bear.",
+            "answers": ["Theodore Roosevelt", "Teddy Roosevelt"],
+            "incorrect1": "Franklin D. Roosevelt",
+            "incorrect2": "Abraham Lincoln",
+            "incorrect3": "George Washington",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2013 SCOP Novice 4",
+            "question": "In one of this artist's works, a cornucopia of fruit sits next to a squatting woman near four other prostitutes whose faces are inspired by African masks. In another work by this artist, a man lying on a floor clutches a knife with a flower growing out of it as a lightbulb explodes. This artist painted Boy with a Pipe and co-founded Cubism with works like Les Demoiselles d'Avignon [lay DAY-mwah-ZELLS dah-veen-YON]. Name this Spanish painter of Guernica [GAYR-nee-kah].",
+            "answers": ["Pablo Picasso", "Pablo Ruiz y Picasso"],
+            "incorrect1": "Vincent van Gogh",
+            "incorrect2": "Salvador Dalí",
+            "incorrect3": "Leonardo da Vinci",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This sport's origins can be traced back to 16th-century Scotland, making it one of the oldest team sports still played today. It's known for its unique strategy and precision, requiring teams to carefully plan their shots and anticipate their opponents' moves. This sport involves sliding granite stones across a sheet of ice towards a target area called the \"house.\" Players use brooms to sweep the ice in front of the stone, influencing its speed and direction. What is this sport, often referred to as \"chess on ice\"?",
+            "answers": ["Curling"],
+            "incorrect1": "Bowling",
+            "incorrect2": "Shuffleboard",
+            "incorrect3": "Hockey",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "The protagonist of this work is disappointed to learn that her friend will not be visiting town the summer of her 12th birthday, as he is staying with his father in Meridian. The protagonist of this work later clashes with her Aunt Alexandria, who has come to town to provide her with a \"feminine influence.\" This work reaches its climax when the protagonist and her brother are attacked on their way home from a Halloween pageant by Bob Ewell, only to be saved by Boo Radley. Identify this Pulitzer Prize winning book about Jem, Scout, and Atticus Finch, a work by Harper Lee.",
+            "answers": ["To Kill A Mockingbird"],
+            "incorrect1": "The Great Gatsby",
+            "incorrect2": "Gone With the Wind",
+            "incorrect3": "Harry Potter and the Sorcerer's Stone",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 SANDS",
+            "question": "This country's cuisine includes the Portuguese-influenced dish vindaloo. Blocks of cottage cheese known as paneer are a common ingredient in dishes in this country. The tandoor style of cooking originated in this country's state of Rajasthan. Many of this country's curries are eaten with breads like naan and roti. Name this large South Asian country home to the cities of Mumbai and Delhi.",
+            "answers": ["India"],
+            "incorrect1": "China",
+            "incorrect2": "Pakistan",
+            "incorrect3": "Brazil",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This animated sitcom follows the misadventures of four elementary school boys - Stan Marsh, Kyle Broflovski, Eric Cartman, and Kenny McCormick - in the fictional Colorado town. Created by Trey Parker and Matt Stone, it has garnered critical acclaim and controversy for its irreverent approach to tackling sensitive topics, including religion, politics, and pop culture. The show's iconic cut-out animation style and memorable catchphrases, like \"Oh my God, they killed Kenny!\", have become ingrained in popular culture. What is the name of this long-running animated series?",
+            "answers": ["South Park"],
+            "incorrect1": "The Simpsons",
+            "incorrect2": "Family Guy",
+            "incorrect3": "Game of Thrones",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "This event was precipitated in part when John Sharp was not removed from his position by Henry Compton. Compton, along with Henry Sidney, later became one of the \"Immortal Seven\" of this event. The Williamite War, which included the Battle of the Boyne, occurred as a result of this event, which happened after Mary of Modena married one participant and gave birth to a Catholic heir apparent who would later be called the \"Old Pretender.\" Name this event where James II was replaced as English monarch by William III and Mary II.",
+            "answers": [
+                "Glorious Revolution",
+                "Revolution of 1688",
+                "Bloodless Revolution"
+            ],
+            "incorrect1": "French Revolution",
+            "incorrect2": "American Revolution",
+            "incorrect3": "Industrial Revolution",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2016 PLATO",
+            "question": "In 1999, she received the Congressional Gold Medal and was honored by President Bill Clinton during his state of the union. She is best known for an act of civil disobedience in 1955 in the city of Montgomery, Alabama, for which she was arrested. She had, however, joined the movement in 1943 and was secretary of her local NAACP chapter. Name the civil rights activist best known for her refusal to give up her bus seat.",
+            "answers": ["Rosa Parks"],
+            "incorrect1": "Harriet Tubman",
+            "incorrect2": "Michelle Obama",
+            "incorrect3": "Sojourner Truth",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2015 SCOP Novice 6",
+            "question": "This function appears in the denominator of all Taylor series, and can be approximated by Stirling's formula. The gamma function extends this operation to inputs other than positive integers, and it is defined as the number of permutations for a number of objects. Name the function, which finds the product of all natural numbers of an input value and below, which is designated by an exclamation point.",
+            "answers": ["factorial", "gamma function"],
+            "incorrect1": "exponent",
+            "incorrect2": "derivative",
+            "incorrect3": "multiplication",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "The cofounder of this app, Pavel Durov, was arrested in August 2024 for a lack of content moderation on the app. It allows users to create large group chats with up to 200,000 members and channels for broadcasting to unlimited audiences. The app is cloud-based messaging platform, known for its focus on privacy and security, offers features like encrypted \"Secret Chats\" and self-destructing messages. Name this app that gained popularity as an alternative to WhatsApp and other messaging apps due to its robust security features and open-source nature.",
+            "answers": ["Telegram", "Telegram Messenger"],
+            "incorrect1": "WhatsApp",
+            "incorrect2": "Instagram",
+            "incorrect3": "Signal",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This man established the system of missi dominici to administer his empire; he patronized the scholar Alcuin of York and the biographer Einhard. He crushed the Lombards at Pavia, though Basques at Ronceveaux Pass massacred his troops under Roland. This son of Pepin the Short had his capital was Aachen, and gained a certain title from Pope Leo III. Name this man who became the first Holy Roman Emperor on Christmas day 800, a \"great\" Frankish king.",
+            "answers": [
+                "Charlemagne",
+                "Carolus Magnus",
+                "Charles I",
+                "Charles the Great",
+                "Karl der Grosse"
+            ],
+            "incorrect1": "Napoleon Bonaparte",
+            "incorrect2": "King Arthur",
+            "incorrect3": "Julius Caesar",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 SCOP MS 7",
+            "question": "This city is home to the port town of Jebel Ali, a top-10 port in the world southwest of the Strait of Hormuz. Housing in this city is built on artificial, palm-frond-shaped landmasses that sit along the Persian Gulf north of Abu Dhabi. Name this most populous city in the United Arab Emirates, the home of the world's tallest building, the Burj Khalifa.",
+            "answers": ["Dubai"],
+            "incorrect1": "Abu Dhabi",
+            "incorrect2": "Doha",
+            "incorrect3": "Cairo",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This iconic sitcom's theme song, \"Where Everybody Knows Your Name,\" performed by Gary Portnoy. The series finale, aired in 1993, was a major television event, drawing in millions of viewers. It premiered in 1982 and ran for 11 seasons, becoming one of the most beloved and successful sitcoms in television history. This sitcom, set in a Boston bar, featured a cast of memorable characters, including Sam Malone, a womanizing ex-baseball player turned bartender, and Diane Chambers, an intelligent but pretentious waitress. What is the name of this classic sitcom?",
+            "answers": ["Cheers"],
+            "incorrect1": "Friends",
+            "incorrect2": "Frasier",
+            "incorrect3": "Game of Thrones",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL franchise achieved the only perfect season in league history, going 17-0 in 1972 and culminating in a Super Bowl VII victory.  They are led by head coach Mike McDaniel and boast a storied history with legendary players like Dan Marino and Larry Csonka. Their iconic teal and orange color scheme is instantly recognizable, and their home stadium, Hard Rock Stadium, has hosted multiple Super Bowls. Which team is this, based in Miami Gardens, Florida?",
+            "answers": ["Miami Dolphins", "Dolphins"],
+            "incorrect1": "Miami Heat",
+            "incorrect2": "New England Patriots",
+            "incorrect3": "Florida Gators",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2021 CERES",
+            "question": "Playfair's axiom describes the number of lines that satisfy this property given a line and a point not on the line. When crossed by a transversal, lines with this property have the same corresponding angles. Euclid's fifth postulate is named for this property, and two lines with it have the same slope and are always equidistant from each other. What property do two lines have if they never intersect?",
+            "answers": ["parallel"],
+            "incorrect1": "perpendicular",
+            "incorrect2": "intersecting",
+            "incorrect3": "diagonal",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "The Word Health Organization recently reported that deaths from this disease rose 71% in 2023. This waterborne bacterial infection primarily affects the small intestine and can cause severe diarrhea and dehydration. It's caused by the Vibrio cholerae bacterium, often found in contaminated food or water sources. While it can be fatal if left untreated, prompt rehydration therapy and antibiotics can effectively combat the infection.  What is this disease, which has historically caused devastating epidemics throughout the world?",
+            "answers": ["Cholera"],
+            "incorrect1": "Malaria",
+            "incorrect2": "Ebola",
+            "incorrect3": "Diabetes",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2020 TAILS",
+            "question": "The admiral who organized this event was assassinated in the aptly-named Operation Vengeance. This event was known to its perpetrators as Plan Z, and the code phrase \"Climb Mount Niitaka\" was used to initiate it. Isoroku Yamamoto led this event, which resulted in the sinking of the battleship USS Arizona. Name this \"day which will live in infamy\", a 1941 surprise attack on a Hawaiian naval base.",
+            "answers": [
+                "attack on Pearl Harbor",
+                "Pearl harbor",
+                "Day that will live in infamy",
+                "Pearl Harbor attack"
+            ],
+            "incorrect1": "D-Day",
+            "incorrect2": "Battle of Gettysburg",
+            "incorrect3": "9/11 attacks",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2021 CERES",
+            "question": "This artwork's creator made four versions of it from 1893 to 1910, the last of which lacked eyeballs in its central figure. Scholars have debated whether the eruption of Krakatoa inspired the blood-red sky found in this artwork. Two people stand by a guardrail on a bridge behind the central figure of this artwork. A distorted man features in what Edvard Munch painting showing a figure shrieking?",
+            "answers": ["The Scream", "Skrik"],
+            "incorrect1": "Mona Lisa",
+            "incorrect2": "Starry Night",
+            "incorrect3": "The Thinker",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This motorcycle racing legend, affectionately known as \"The Doctor,\" boasts nine Grand Prix World Championships, with seven of those coming in the premier 500cc/MotoGP class. His signature celebratory move, bowing to his bike, became a beloved tradition for fans worldwide. His retirement in 2021 marked the end of an era in motorcycle racing, leaving behind a legacy of unparalleled success and charisma. Who is this iconic Italian rider?",
+            "answers": ["Valentino Rossi"],
+            "incorrect1": "Lewis Hamilton",
+            "incorrect2": "Marc Márquez",
+            "incorrect3": "Roger Federer",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2013 SCOP Novice 4",
+            "question": "The Supreme Court case Leser v. Garnett upheld the ratification of this Constitutional amendment. It was the subject of a 1913 parade on Pennsylvania Avenue in Washington, held the day before Woodrow Wilson's first inauguration; that march was led by Alice Paul. This amendment wasn't ratified until 1920, though it was written in the 1870's by Susan B. Anthony. Suffragettes supported what amendment that guaranteed women the right to vote?",
+            "answers": [
+                "Nineteenth Amendment",
+                "19th amendment",
+                "19 amendment",
+                "nineteenth amendment to the U.S. Constitution",
+                "19th amendment to the U.S. Constitution",
+                "Amendment 19"
+            ],
+            "incorrect1": "First Amendment",
+            "incorrect2": "Thirteenth Amendment",
+            "incorrect3": "Twenty-sixth Amendment",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2017 SCOP MS 7",
+            "question": "In one work, this man argues about holiness with Euthyphro but learns nothing to help him in his upcoming trial. Later, Crito tries to buy this man out of prison, but he refuses to escape his death penalty for corrupting the youth of Athens. Name this ancient Greek philosopher who was executed via a cup of poison hemlock.",
+            "answers": ["Socrates"],
+            "incorrect1": "Plato",
+            "incorrect2": "Aristotle",
+            "incorrect3": "Julius Caesar",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This city hosted the second US Presidential debate -- the first to feature Kamala Harris -- at the National Constitution Center. This city is home to the iconic LOVE sculpture, a popular tourist destination in John F. Kennedy Plaza. It's also where the first American flag was designed and sewn by Betsy Ross. It boasts the oldest continuously inhabited street in America, Elfreth's Alley. Additionally, it is the birthplace of the cheesesteak, a culinary delight that has become synonymous with the city. What is this city, often referred to as the \"City of Brotherly Love\"? ",
+            "answers": ["Philadelphia"],
+            "incorrect1": "Pittsburgh",
+            "incorrect2": "Boston",
+            "incorrect3": "London",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2010 Fall Novice Tournament",
+            "question": "One porous form of this element is useful for adsorption reactions and in water filtration; that form is known as its \"activated\" variety. One isotope of this element has a half-life of 5730 years; that mass 14 isotope is used for radiometric dating. Organic compounds must contain this element, which forms an allotrope that is the hardest substance in the world. Name this element with atomic number 6 that can be found in coal, graphite, and diamond.",
+            "answers": ["carbon"],
+            "incorrect1": "oxygen",
+            "incorrect2": "silicon",
+            "incorrect3": "water",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 Darien DEFT",
+            "question": "This artist collaborated with John McLaughlin to write \"Shhh/Peaceful\" on the album In a Silent Way. This artist included a variation of guitarist Joaquin Rodrigo's \"Concierto de Aranjuez\" [CON-CIER-TO DAY AR-AHN-HUEZ] in an album arranged by Gil Evans. He experimented with electronic instruments in the album Bitches Brew, and collaborated with John Coltrane, Cannonball Adderley, and Bill Evans on an album including \"Flamenco Sketches\" and \"So What.\" Name this jazz trumpeter behind Sketches of Spain and Kind of Blue.",
+            "answers": ["Miles Davis"],
+            "incorrect1": "John Coltrane",
+            "incorrect2": "Louis Armstrong",
+            "incorrect3": "Elvis Presley",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2015 SAGES",
+            "question": "This body of water contains the Ottawa Islands, part of the territory of Nunavut. The only active port on this body of water is Churchill, located in the province of Manitoba. Name this very large Canadian bay which was named for an explorer who was marooned in this bay.",
+            "answers": ["Hudson Bay"],
+            "incorrect1": "Hudson River",
+            "incorrect2": "Baffin Bay",
+            "incorrect3": "Great Salt Lake",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This Netflix series pays homage to 1980s pop culture, drawing inspiration from iconic films like \"E.T. the Extra-Terrestrial,\" \"The Goonies,\" and \"Stand by Me.\" The show features a group of young friends, including the telekinetic Eleven and the adventurous Mike Wheeler, who navigate the mysteries and dangers of the Upside Down, a parallel dimension filled with strange creatures. What is the name of this popular science fiction horror series? ",
+            "answers": ["Stranger Things"],
+            "incorrect1": "The Crown",
+            "incorrect2": "It",
+            "incorrect3": "Friends",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This historical epic film, set in ancient Rome, tells the story of Maximus Decimus Meridius, a betrayed general forced into slavery who seeks revenge against the corrupt emperor Commodus. It garnered critical acclaim and box office success, winning five Academy Awards, including Best Picture and Best Actor for Russell Crowe's powerful performance. Its iconic line, \"Are you not entertained?\", delivered by Maximus during a gladiatorial battle, has become a memorable quote in popular culture. Name this 2000 historical drama.",
+            "answers": ["Gladiator"],
+            "incorrect1": "Braveheart",
+            "incorrect2": "300",
+            "incorrect3": "The Notebook",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "One of these events was recently attempted at Makala Central Prison in Kinshasa, Democratic Republic of the Congo, leaving 129 people dead. In 1962 inmates Frank Morris and the Anglin brothers succeeded in one of these at Alcatraz. Successful attempts at these can capture the public imagination, inspiring books, films, and even folklore. Name this event that involves the unauthorized departure of a prisoner from lawful confinement, often requiring ingenuity, planning, and a bit of luck.",
+            "answers": [
+                "jailbreak",
+                "escape",
+                "prison break",
+                "escape prison",
+                "escape jail"
+            ],
+            "incorrect1": "prison riot",
+            "incorrect2": "escape room",
+            "incorrect3": "vacation",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2022 MAKEMAKE",
+            "question": "Spiros Antonapoulos commits suicide in a Carson McCullers novel whose title claims that this object \"Is a Lonely Hunter\". Kurtz exclaims \"The horror! The horror!\" in a Joseph Conrad novel titled for this object \"of Darkness.\" The narrator murders a \"vulture-eyed\" old man in a Poe short story named for a \"Tell-Tale\" example of what organ which the narrator can hear beating under his floorboards?",
+            "answers": [
+                "heart",
+                "The Heart Is a Lonely Hunter",
+                "Heart of Darkness",
+                "The Tell-Tale Heart"
+            ],
+            "incorrect1": "lungs",
+            "incorrect2": "brain",
+            "incorrect3": "elbow",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This basketball legend's signature move, the \"skyhook,\" was a seemingly unstoppable shot that became synonymous with his dominance on the court. He is the NBA's second all-time leading scorer, amassing an impressive 38,387 points throughout his illustrious career. He played for the Milwaukee Bucks and Los Angeles Lakers, winning six NBA championships and six MVP awards. Before converting to Islam and changing his name, he was known as Lew Alcindor and led UCLA to three consecutive NCAA championships. Who is this iconic center?",
+            "answers": ["Kareem Abdul-Jabbar", "Lew Alcindor"],
+            "incorrect1": "LeBron James",
+            "incorrect2": "Michael Jordan",
+            "incorrect3": "Tom Brady",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2019 SCOP Novice 10",
+            "question": "One of these construction projects required moving the temples of Abu Simbel. In 2017, the spillways at a 770 foot tall one of these projects named Oroville nearly failed, requiring evacuations along the Feather River. The baiji dolphin went extinct in Hubei province after one of these projects, named Three Gorges, was built. Name this type of structure that generates hydroelectric power and holds back immense amounts of water.",
+            "answers": ["dams", "hydroelectric power plants"],
+            "incorrect1": "bridges",
+            "incorrect2": "reservoirs",
+            "incorrect3": "skyscrapers",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "Rheumatic fever can damage the mitral region of this organ, which uses Purkinje fibers to coordinate activity with the SA node. A murmur results from valves leaking in this organ that is served by the coronary arteries and surrounded by the pericardium. This organ directly connects to the aorta and has two atria and two ventricles. Name this organ of the circulatory system that pumps blood through the body.",
+            "answers": ["heart"],
+            "incorrect1": "brain",
+            "incorrect2": "lungs",
+            "incorrect3": "stomach",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2018 SCOP Novice 9",
+            "question": "Corn farmer Roswell Garst hosted this man in Iowa during a visit to America that also included a canceled trip to Disneyland. This man attacked the personality cult of his predecessor in a \"Secret Speech,\"proclaimed \"History is on our side. We will bury you!\" in a 1956 address, and once banged his shoe on a desk at the United Nations. Name this premier who led the USSR from 1953 to 1964, succeeding Joseph Stalin.",
+            "answers": ["Nikita Khrushchev", "Khrushchev", "Chrushev"],
+            "incorrect1": "Joseph Stalin",
+            "incorrect2": "Vladimir Putin",
+            "incorrect3": "Mikhail Gorbachev",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2021 CERES",
+            "question": "During this conflict, the \"Desert Fox\" Erwin Rommel lost the Battle of El Alamein in Egypt. One side in this conflict launched Operation Barbarossa, which was defeated at the Battle of Stalingrad. Offenses during this conflict included the Battle of the Bulge and a landing at Normandy that began an invasion launched by the Allies on D-Day. Name this war in which the Allies defeated Nazi Germany.",
+            "answers": [
+                "World War II",
+                "Second World War",
+                "WWII",
+                "WW2",
+                "World war 2"
+            ],
+            "incorrect1": "Vietnam War",
+            "incorrect2": "American Civil War",
+            "incorrect3": "Cold War",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2017 SCOP MS 7",
+            "question": "This language was used to write If on a winter's night a traveller, the play Six Characters In Search of an Author, and a short story collection in which Federigo serves his prized falcon to Monna Giovanna.The Decameron is written in this language, which was used by Calvino, Pirandello, and Boccaccio. Name this European language from a country whose capital is Rome.",
+            "answers": ["Italian", "Italiano"],
+            "incorrect1": "Spanish",
+            "incorrect2": "French",
+            "incorrect3": "Chinese",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "The density parameter for the non-relativistic form of this falls off with the cube of the scale factor. This substance dominated the universe from approximately 75,000 years after the Big-Bang until about 4 billion years ago. Deviations in the expected orbital speed of galaxies suggests the presence of the \"dark\" form of this. When it has the same mass but opposite charge and spin, it is deemed \"anti.\" Solid, liquid, and gas are three states of what term for any substance that occupies space and has mass.",
+            "answers": ["matter"],
+            "incorrect1": "energy",
+            "incorrect2": "space",
+            "incorrect3": "happiness",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2017 SCOP MS 7",
+            "question": "During this man's re-election campaign, he ran with Henry Wilson instead of incumbent Vice President Schulyer Colfax, who was under investigation for taking bribes from a railroad construction company, Credit Mobilier. Name this winner of the 1872 and 1868 Presidential elections, a popular former Civil War general.",
+            "answers": ["Ulysses S. Grant"],
+            "incorrect1": "Robert E. Lee",
+            "incorrect2": "Abraham Lincoln",
+            "incorrect3": "George Washington",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL team secured their first and only Super Bowl victory in 2018, defeating the New England Patriots in a thrilling Super Bowl LII matchup. Their historic rivalry with the Dallas Cowboys, known for its intensity and competitiveness, has become a staple of the NFL landscape. Their home stadium, Lincoln Financial Field, is located in the heart of Philadelphia and is renowned for its passionate and sometimes boisterous crowds. What is the name of this team, based in Philadelphia?",
+            "answers": ["Philadelphia Eagles", "Eagles"],
+            "incorrect1": "Philadelphia Phillies",
+            "incorrect2": "Dallas Cowboys",
+            "incorrect3": "New York Yankees",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "A shooter killed four people at Apalachee High School in this state on September 4, 2024. This state's highest peak, Brasstown Bald, stands at 4,784 feet. Its coastline along the Atlantic Ocean is dotted with barrier islands, including Jekyll Island and Tybee Island. It is divided into five distinct physiographic regions: the Appalachian Plateau, the Valley and Ridge, the Blue Ridge, the Piedmont, and the Coastal Plain, each showcasing unique landscapes and ecosystems. Name this state home to the Chattahoochee River which provides a vital source of water and recreation for its residents.",
+            "answers": ["Georgia"],
+            "incorrect1": "Alabama",
+            "incorrect2": "Russia",
+            "incorrect3": "South Carolina",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 TAILS",
+            "question": "The oil field of Statfjord (stat-FYORD) lies in this sea, east of the Shetland Islands. The largest helicopter port in the world lies on the shore of this body of water in Aberdeen. Oil found under this body of water is responsible for Norway's large sovereign wealth fund. The English Channel connects this sea to the Atlantic. What rough sea named after a cardinal direction is between continental Europe, Scandinavia, and Britain?",
+            "answers": ["North Sea"],
+            "incorrect1": "Baltic Sea",
+            "incorrect2": "Mediterranean Sea",
+            "incorrect3": "Lake Michigan",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2022 KICKOFF Novice",
+            "question": "Frederick Hodgson's attempt to acquire an object made from this substance sparked a war with Queen Yaa Asantewaa. That object is this substance's \"stool.\" The price of this substance in Mamluk Egypt deflated after Mansa Musa's hajj. The trade of salt and this substance in the trans-Saharan trade made West African empires, like Mali, prosperous. Name this valuable metal, which sparked many \"rushes\" throughout history.",
+            "answers": ["gold", "Golden Stool", "gold rushes"],
+            "incorrect1": "silver",
+            "incorrect2": "pyrite",
+            "incorrect3": "banana",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This 2014 film's title references a challenging piece of music that serves as a central motif throughout the narrative, symbolizing the relentless pursuit of perfection and the sacrifices made in the name of artistic ambition. The J.K. Simmons' portrayal of the tyrannical conductor, Terence Fletcher, earned him an Academy Award for Best Supporting Actor. Name this film, renowned for its intense portrayal of a driven music student and his abusive instructor, which features a climactic scene where the protagonist delivers a breathtaking drum solo during a jazz competition, defying his mentor's expectations.",
+            "answers": ["Whiplash"],
+            "incorrect1": "La La Land",
+            "incorrect2": "Black Swan",
+            "incorrect3": "The Notebook",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
     ]
 ]
