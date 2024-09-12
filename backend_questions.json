@@ -10075,7 +10075,7 @@
         {
             "category": "World History",
             "source": "2018 MVS RAMS",
-            "question": "In this nation, Lech Walesa led the \"Solidarity Movement.\" That movement was supported by Pope John Paul II, who was born in this country. A famous photo taken in this country depicts a boy with his hands raised and a yellow star on his coat; that photograph was taken in the aftermath of a Jewish ghetto uprising in this country. Nazi Germany invaded this country in 1939, starting World War II. Name this nation whose major cities include Krakow.",
+            "question": "In this nation, Lech Walesa led the \"Solidarity Movement.\" That movement was supported by Pope John Paul II, who was born in this country. A famous photo taken in this country depicts a boy with his hands raised and a yellow star on his coat; that photograph was taken in the aftermath of a Jewish ghetto uprising. Nazi Germany invaded this country in 1939, starting World War II. Name this nation whose major cities include Krakow.",
             "answers": [
                 "Republic of Poland",
                 "Poland",
@@ -10088,7 +10088,7 @@
         },
         {
             "category": "Current Events",
-            "question": "The first case of this disease in Gaza in 25 years was recently diagnosed. This led to a large-scale vaccination campaign and Israel agreeing to limited pauses in fighting to allow for the vaccination. This disease, once a global scourge, primarily affects children under five and can cause irreversible paralysis in a matter of hours. It's transmitted through contaminated food or water and multiplies in the intestine before attacking the nervous system. What is the name of this infectious disease, which afflicted FDR, that has mostly been eradicated?",
+            "question": "The first case of this disease in Gaza in 25 years was recently diagnosed. This led to a large-scale vaccination campaign and Israel agreeing to limited pauses in fighting to allow for the vaccination. This disease, once a global scourge, primarily affects children under five and can cause irreversible paralysis in a matter of hours. It's transmitted through contaminated food or water. What is the name of this infectious disease, which afflicted FDR, that has mostly been eradicated?",
             "answers": ["Polio"],
             "incorrect1": "Measles",
             "incorrect2": "Cancer",
@@ -10099,7 +10099,7 @@
         {
             "category": "US History",
             "source": "2022 MAKEMAKE",
-            "question": "John Ingram led an event in this colony after a member of the House of Burgesses died of dysentery. Indigenous Doeg people were massacred as William Berkeley fled this colony due to Bacon's Rebellion. The \"starving time\" was a harsh period in this colony, whose leader John Smith was saved by Pocahontas. Tobacco was farmed by John Rolfe in this colony. Name this first English colony in Virginia.",
+            "question": "John Ingram led an event in this colony after a member of the House of Burgesses died of dysentery. Indigenous Doeg people were massacred as William Berkeley fled this colony due to Bacon's Rebellion. The \"starving time\" was a harsh period in this Virginia colony, whose leader John Smith was saved by Pocahontas. Tobacco was farmed by John Rolfe in this colony. Name this first English colony in Virginia.",
             "answers": ["Jamestown", "Colony of Virginia"],
             "incorrect1": "Plymouth",
             "incorrect2": "Salem",
@@ -10108,7 +10108,7 @@
         },
         {
             "category": "Entertainment",
-            "question": "This band's debut album, released on Friday the 13th in 1970 featuring songs like \"N.I.B.\" Their iconic guitarist, Tony Iommi, lost the tips of two fingers in an industrial accident, leading him to develop a unique playing style. Their lead singer, Ozzy Osbourne, was famously fired from the band in 1979 due to his excessive drug and alcohol use but later rejoined for reunions and tours. They were inducted into the Rock and Roll Hall of Fame in 2006, cementing their legacy as pioneers of heavy metal. What is the name of this influential British band?",
+            "question": "This band's debut album, released on Friday the 13th in 1970 featuring songs like \"N.I.B.\" Their iconic guitarist, Tony Iommi, lost the tips of two fingers in an industrial accident, leading him to develop a unique playing style. Their lead singer, Ozzy Osbourne, was famously fired from the band in 1979 due to his excessive drug and alcohol use but later rejoined for reunions and tours. Name this British heavy metal band inducted that was inducted into the Rock and Roll Hall of Fame in 2006.",
             "answers": ["Black Sabbath"],
             "incorrect1": "Led Zeppelin",
             "incorrect2": "AC/DC",
@@ -10153,22 +10153,22 @@
     ],
     [
         {
-            "category": "Sports",
-            "question": "This NFL team, recognized by their distinctive black, blue, and silver uniforms, made a remarkable debut in 1995, securing an impressive seven wins in their inaugural season, a record for an expansion team. They reached the Super Bowl twice, in 2003 and 2015, but unfortunately fell short both times. Their home stadium, Bank of America Stadium, is affectionately known as \"The Bank\" by fans.  They have been led by notable quarterbacks such as Jake Delhomme and Cam Newton throughout their history.  What is the name of this team, based in Charlotte, North Carolina?",
-            "answers": ["Carolina Panthers", "Panthers"],
-            "incorrect1": "Carolina Hurricanes",
-            "incorrect2": "Dallas Cowboys",
-            "incorrect3": "New York Yankees",
-            "used": "TRUE",
-            "source": "Marty Heavey"
-        },
-        {
             "category": "Entertainment",
-            "question": "This band's breakout album, \"Dookie,\" released in 1994, catapulted them to global fame. Their energetic live performances and politically charged lyrics resonated with a disenfranchised youth, establishing them as leaders of the pop-punk movement. Their 2004 rock opera, \"American Idiot,\" further cemented their success, tackling themes of social and political disillusionment. They were inducted into the Rock and Roll Hall of Fame in 2015. What is the name of this California-based punk rock band? ",
+            "question": "This band's breakout album, \"Dookie,\" released in 1994, catapulted them to global fame. Their energetic live performances and politically charged lyrics resonated with a disenfranchised youth, establishing them as leaders of the pop-punk movement. Their 2004 rock opera, \"American Idiot,\" further cemented their success, tackling themes of social and political disillusionment. They were inducted into the Rock and Roll Hall of Fame in 2015. What is the name of this California-based punk rock band?",
             "answers": ["Green Day"],
             "incorrect1": "Blink-182",
             "incorrect2": "Metallica",
             "incorrect3": "Coldplay",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL team, recognized by their distinctive black, blue, and silver uniforms, made a remarkable debut in 1995, securing an impressive seven wins in their inaugural season, a record for an expansion team. They reached the Super Bowl twice, in 2003 and 2015, but unfortunately fell short both times. Their home stadium, Bank of America Stadium, is affectionately known as \"The Bank\" by fans.  They have been led by notable quarterbacks such as Jake Delhomme and Cam Newton throughout their history. What is the name of this team, based in Charlotte, North Carolina?",
+            "answers": ["Carolina Panthers", "Panthers"],
+            "incorrect1": "Carolina Hurricanes",
+            "incorrect2": "Dallas Cowboys",
+            "incorrect3": "New York Yankees",
             "used": "TRUE",
             "source": "Marty Heavey"
         },
@@ -10222,7 +10222,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This country recently made headlines when a court blocked the social media platform X, formerly known as Twitter, citing concerns about the spread of misinformation and hate speech. It is also the birthplace of samba, a vibrant dance and music genre that has become synonymous with its annual Carnival celebration.  Furthermore, it boasts the iconic Christ the Redeemer statue, overlooking the bustling city of Rio de Janeiro. What is this South American nation, known for its rich culture, biodiversity, and passion for football?",
+            "question": "This country recently made headlines when a court blocked the social media platform X, formerly known as Twitter, citing concerns about the spread of misinformation and hate speech. It is also the birthplace of samba, a vibrant dance and music genre that has become synonymous with its annual Carnival celebration. Furthermore, it boasts the iconic Christ the Redeemer statue, overlooking the bustling city of Rio de Janeiro. What is this South American nation, known for its rich culture, biodiversity, and passion for football?",
             "answers": ["Brazil", "Brasil"],
             "incorrect1": "Argentina",
             "incorrect2": "Mexico",
