@@ -10244,7 +10244,7 @@
     [
         {
             "category": "Current Events",
-            "question": "Hvaldimir, a whale of this species, who gained fame for potentially being an escaped Russian military whale recently passed away off the coast of Norway. These animals are highly social, often congregating in large pods, earning them the nickname \"sea canaries.\" This species of Arctic and sub-Arctic cetacean is known for its distinctive white coloration and its ability to change the shape of its bulbous forehead, called a \"melon.\" Name this whale that lacks a dorsal fin, an adaptation that helps them navigate through icy waters.",
+            "question": "Hvaldimir, a whale of this species, -- who gained fame for potentially being an escaped Russian military whale -- recently passed away off the coast of Norway. These animals are highly social, often congregating in large pods, earning them the nickname \"sea canaries.\" This species of Arctic and sub-Arctic cetacean is known for its distinctive white coloration and its ability to change the shape of its bulbous forehead, called a \"melon.\" Name this whale that lacks a dorsal fin, an adaptation that helps them navigate through icy waters.",
             "answers": ["Beluga"],
             "incorrect1": "Orca",
             "incorrect2": "Dolphin",
@@ -10255,7 +10255,7 @@
         {
             "category": "World History",
             "source": "2017 Darien DEFT",
-            "question": "When arguing for his theory of definite descriptions, this philosopher noted that the law of the excluded middle could lead to the conclusion that there is a \"present king of France.\" This philosopher theorized the idea of a miniscule object in orbit between Earth and Mars to make God's existence a burden of proof rather than disproof, his namesake \"teapot.\" This author of \"Why I Am Not a Christian\" co-wrote a book with Alfred North Whitehead that used philosophical logic to make proofs. Name this author of Principia Mathematica.",
+            "question": "This philosopher's namesake \"teapot\" analogy, involving a hypothetical object orbiting between Earth and Mars, cleverly shifts the burden of proof in debates about God's existence. He famously challenged the law of the excluded middle by pointing out its potential absurdity when applied to definite descriptions. In collaboration with Alfred North Whitehead, he co-authored a monumental work that attempted to derive all mathematical truths from a set of logical axioms. Who is this author of \"Principia Mathematica\"?",
             "answers": ["Bertrand Russell"],
             "incorrect1": "Albert Einstein",
             "incorrect2": "Ludwig Wittgenstein",
@@ -10275,7 +10275,7 @@
         {
             "category": "Arts & Literature",
             "source": "2014 SCOP Novice 5",
-            "question": "Men who undergo the process of Amrit Sanchar are initiated into this religion and are commanded to wear an iron bracelet and wooden comb. This religion's central text, the Adi Granth, is considered its final Guru. Members of this religion, founded by Guru Nanak, practice a form of strict non-violence known as ahimsa [ah-heem-sah] and wear the five K's, including kesh, or uncut hair. Name this religion prominent in the Punjab state of India.",
+            "question": "Men who undergo the process of Amrit Sanchar are initiated into this religion and are commanded to wear an iron bracelet and wooden comb. This religion's central text, the Adi Granth, is considered its final Guru. Members of this religion, founded by Guru Nanak, practice a form of strict non-violence known as ahimsa and wear the five K's, including kesh, or uncut hair. Name this religion prominent in the Punjab state of India.",
             "answers": ["Sikhism"],
             "incorrect1": "Hinduism",
             "incorrect2": "Buddhism",
@@ -10362,7 +10362,7 @@
         {
             "category": "Geography",
             "source": "2020 TAILS",
-            "question": "In this state, a thin layer of melting ice allows some stones to \"sail\" across the surface of Racetrack Playa. A national park in this state contains the Bridalveil Fall vista and was advocated for by John Muir's (myurzz) Sierra Club. In that national park in this state, Glacier Point gives views of El Capitan and Half Dome. Name this state which contains Death Valley and Yosemite (yoh-SEM-ih-tee).",
+            "question": "In this state, a thin layer of melting ice allows some stones to \"sail\" across the surface of Racetrack Playa. A national park in this state contains the Bridalveil Fall vista and was advocated for by John Muir's Sierra Club. In that national park in this state, Glacier Point gives views of El Capitan and Half Dome. Name this state which contains Death Valley and Yosemite.",
             "answers": ["California"],
             "incorrect1": "Texas",
             "incorrect2": "Florida",
@@ -10402,7 +10402,7 @@
         {
             "category": "Arts & Literature",
             "source": "2013 SCOP Novice 4",
-            "question": "In one of this artist's works, a cornucopia of fruit sits next to a squatting woman near four other prostitutes whose faces are inspired by African masks. In another work by this artist, a man lying on a floor clutches a knife with a flower growing out of it as a lightbulb explodes. This artist painted Boy with a Pipe and co-founded Cubism with works like Les Demoiselles d'Avignon [lay DAY-mwah-ZELLS dah-veen-YON]. Name this Spanish painter of Guernica [GAYR-nee-kah].",
+            "question": "In one of this artist's works, a cornucopia of fruit sits next to a squatting woman near four other prostitutes whose faces are inspired by African masks. In another work by this artist, a man lying on a floor clutches a knife with a flower growing out of it as a lightbulb explodes. This artist painted Boy with a Pipe and co-founded Cubism with works like Les Demoiselles d'Avignon. Name this Spanish painter of Guernica.",
             "answers": ["Pablo Picasso", "Pablo Ruiz y Picasso"],
             "incorrect1": "Vincent van Gogh",
             "incorrect2": "Salvador Dalí",
