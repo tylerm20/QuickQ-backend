@@ -10424,7 +10424,7 @@
         {
             "category": "Arts & Literature",
             "source": "2010 Fall Kickoff Tournament (FKT)",
-            "question": "The protagonist of this work is disappointed to learn that her friend will not be visiting town the summer of her 12th birthday, as he is staying with his father in Meridian. The protagonist of this work later clashes with her Aunt Alexandria, who has come to town to provide her with a \"feminine influence.\" This work reaches its climax when the protagonist and her brother are attacked on their way home from a Halloween pageant by Bob Ewell, only to be saved by Boo Radley. Identify this Pulitzer Prize winning book about Jem, Scout, and Atticus Finch, a work by Harper Lee.",
+            "question": "The protagonist of this work is disappointed to learn that her friend will not be visiting town the summer of her 12th birthday. The protagonist of this work later clashes with her Aunt Alexandria, who has come to town to provide her with a \"feminine influence.\" This work reaches its climax when the protagonist and her brother are attacked on their way home from a Halloween pageant by Bob Ewell, only to be saved by Boo Radley. Identify this Pulitzer Prize winning book about Jem, Scout, and Atticus Finch, a work by Harper Lee.",
             "answers": ["To Kill A Mockingbird"],
             "incorrect1": "The Great Gatsby",
             "incorrect2": "Gone With the Wind",
@@ -10487,7 +10487,7 @@
         },
         {
             "category": "Current Events",
-            "question": "The cofounder of this app, Pavel Durov, was arrested in August 2024 for a lack of content moderation on the app. It allows users to create large group chats with up to 200,000 members and channels for broadcasting to unlimited audiences. The app is cloud-based messaging platform, known for its focus on privacy and security, offers features like encrypted \"Secret Chats\" and self-destructing messages. Name this app that gained popularity as an alternative to WhatsApp and other messaging apps due to its robust security features and open-source nature.",
+            "question": "The cofounder of this app, Pavel Durov, was arrested in August 2024 for a lack of content moderation on the app. The app allows users to create large group chats with up to 200,000 members and channels for broadcasting to unlimited audiences. The app is cloud-based messaging platform, known for its focus on privacy and security, offers features like encrypted \"Secret Chats\" and self-destructing messages. Name this app that gained popularity as an alternative to WhatsApp and other messaging apps due to its robust security features and open-source nature.",
             "answers": ["Telegram", "Telegram Messenger"],
             "incorrect1": "WhatsApp",
             "incorrect2": "Instagram",
@@ -10568,7 +10568,7 @@
             "source": "2020 TAILS",
             "question": "The admiral who organized this event was assassinated in the aptly-named Operation Vengeance. This event was known to its perpetrators as Plan Z, and the code phrase \"Climb Mount Niitaka\" was used to initiate it. Isoroku Yamamoto led this event, which resulted in the sinking of the battleship USS Arizona. Name this \"day which will live in infamy\", a 1941 surprise attack on a Hawaiian naval base.",
             "answers": [
-                "attack on Pearl Harbor",
+                "Attack on Pearl Harbor",
                 "Pearl harbor",
                 "Day that will live in infamy",
                 "Pearl Harbor attack"
@@ -10650,7 +10650,7 @@
         {
             "category": "Arts & Literature",
             "source": "2017 Darien DEFT",
-            "question": "This artist collaborated with John McLaughlin to write \"Shhh/Peaceful\" on the album In a Silent Way. This artist included a variation of guitarist Joaquin Rodrigo's \"Concierto de Aranjuez\" [CON-CIER-TO DAY AR-AHN-HUEZ] in an album arranged by Gil Evans. He experimented with electronic instruments in the album Bitches Brew, and collaborated with John Coltrane, Cannonball Adderley, and Bill Evans on an album including \"Flamenco Sketches\" and \"So What.\" Name this jazz trumpeter behind Sketches of Spain and Kind of Blue.",
+            "question": "This artist collaborated with John McLaughlin to write \"Shhh/Peaceful\" on the album In a Silent Way. This artist included a variation of guitarist Joaquin Rodrigo's \"Concierto de Aranjuez\" in an album arranged by Gil Evans. He experimented with electronic instruments in the album Bitches Brew, and collaborated with John Coltrane, Cannonball Adderley, and Bill Evans on an album including \"Flamenco Sketches\" and \"So What.\" Name this jazz trumpeter behind Sketches of Spain and Kind of Blue.",
             "answers": ["Miles Davis"],
             "incorrect1": "John Coltrane",
             "incorrect2": "Louis Armstrong",
@@ -10699,8 +10699,8 @@
                 "escape prison",
                 "escape jail"
             ],
-            "incorrect1": "prison riot",
-            "incorrect2": "escape room",
+            "incorrect1": "high dive",
+            "incorrect2": "basketball tournament",
             "incorrect3": "vacation",
             "used": "TRUE",
             "source": "Marty Heavey"
@@ -10743,11 +10743,11 @@
         {
             "category": "Science",
             "source": "2013 Collaborative Middle School Tournament #4",
-            "question": "Rheumatic fever can damage the mitral region of this organ, which uses Purkinje fibers to coordinate activity with the SA node. A murmur results from valves leaking in this organ that is served by the coronary arteries and surrounded by the pericardium. This organ directly connects to the aorta and has two atria and two ventricles. Name this organ of the circulatory system that pumps blood through the body.",
-            "answers": ["heart"],
-            "incorrect1": "brain",
-            "incorrect2": "lungs",
-            "incorrect3": "stomach",
+            "question": "The density parameter for the non-relativistic form of this falls off with the cube of the scale factor. This substance dominated the universe from approximately 75,000 years after the Big-Bang until about 4 billion years ago. Deviations in the expected orbital speed of galaxies suggests the presence of the \"dark\" form of this. When it has the same mass but opposite charge and spin, it is deemed \"anti.\" Solid, liquid, and gas are three states of what term for any substance that occupies space and has mass.",
+            "answers": ["matter"],
+            "incorrect1": "energy",
+            "incorrect2": "space",
+            "incorrect3": "happiness",
             "used": "TRUE"
         },
         {
@@ -10779,23 +10779,13 @@
     ],
     [
         {
-            "category": "Arts & Literature",
-            "source": "2017 SCOP MS 7",
-            "question": "This language was used to write If on a winter's night a traveller, the play Six Characters In Search of an Author, and a short story collection in which Federigo serves his prized falcon to Monna Giovanna.The Decameron is written in this language, which was used by Calvino, Pirandello, and Boccaccio. Name this European language from a country whose capital is Rome.",
-            "answers": ["Italian", "Italiano"],
-            "incorrect1": "Spanish",
-            "incorrect2": "French",
-            "incorrect3": "Chinese",
-            "used": "TRUE"
-        },
-        {
             "category": "Science",
             "source": "2013 Collaborative Middle School Tournament #4",
-            "question": "The density parameter for the non-relativistic form of this falls off with the cube of the scale factor. This substance dominated the universe from approximately 75,000 years after the Big-Bang until about 4 billion years ago. Deviations in the expected orbital speed of galaxies suggests the presence of the \"dark\" form of this. When it has the same mass but opposite charge and spin, it is deemed \"anti.\" Solid, liquid, and gas are three states of what term for any substance that occupies space and has mass.",
-            "answers": ["matter"],
-            "incorrect1": "energy",
-            "incorrect2": "space",
-            "incorrect3": "happiness",
+            "question": "Rheumatic fever can damage the mitral region of this organ, which uses Purkinje fibers to coordinate activity with the SA node. A murmur results from valves leaking in this organ that is served by the coronary arteries and surrounded by the pericardium. This organ directly connects to the aorta and has two atria and two ventricles. Name this organ of the circulatory system that pumps blood through the body.",
+            "answers": ["heart"],
+            "incorrect1": "brain",
+            "incorrect2": "lungs",
+            "incorrect3": "stomach",
             "used": "TRUE"
         },
         {
@@ -10831,7 +10821,7 @@
         {
             "category": "Geography",
             "source": "2020 TAILS",
-            "question": "The oil field of Statfjord (stat-FYORD) lies in this sea, east of the Shetland Islands. The largest helicopter port in the world lies on the shore of this body of water in Aberdeen. Oil found under this body of water is responsible for Norway's large sovereign wealth fund. The English Channel connects this sea to the Atlantic. What rough sea named after a cardinal direction is between continental Europe, Scandinavia, and Britain?",
+            "question": "The oil field of Statfjord lies in this sea, east of the Shetland Islands. The largest helicopter port in the world lies on the shore of this body of water in Aberdeen. Oil found under this body of water is responsible for Norway's large sovereign wealth fund. The English Channel connects this sea to the Atlantic. What rough sea named after a cardinal direction is between continental Europe, Scandinavia, and Britain?",
             "answers": ["North Sea"],
             "incorrect1": "Baltic Sea",
             "incorrect2": "Mediterranean Sea",
@@ -10844,8 +10834,8 @@
             "question": "Frederick Hodgson's attempt to acquire an object made from this substance sparked a war with Queen Yaa Asantewaa. That object is this substance's \"stool.\" The price of this substance in Mamluk Egypt deflated after Mansa Musa's hajj. The trade of salt and this substance in the trans-Saharan trade made West African empires, like Mali, prosperous. Name this valuable metal, which sparked many \"rushes\" throughout history.",
             "answers": ["gold", "Golden Stool", "gold rushes"],
             "incorrect1": "silver",
-            "incorrect2": "pyrite",
-            "incorrect3": "banana",
+            "incorrect2": "sapphire",
+            "incorrect3": "diamond",
             "used": "TRUE"
         },
         {
@@ -10857,6 +10847,16 @@
             "incorrect3": "The Notebook",
             "used": "TRUE",
             "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 SCOP MS 7",
+            "question": "This language was used to write \"If on a winter's night a traveller\", the play \"Six Characters In Search of an Author\", and a short story collection in which Federigo serves his prized falcon to Monna Giovanna. The Decameron is written in this language, which was used by Calvino, Pirandello, and Boccaccio. Name this European language from a country whose capital is Rome.",
+            "answers": ["Italian", "Italiano"],
+            "incorrect1": "Spanish",
+            "incorrect2": "French",
+            "incorrect3": "Chinese",
+            "used": "TRUE"
         }
     ]
 ]
