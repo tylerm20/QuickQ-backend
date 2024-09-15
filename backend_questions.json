@@ -10331,7 +10331,7 @@
     [
         {
             "category": "Sports",
-            "question": "This NFL team's current head coach, Dan Quinn, was hired in 2024 after previously serving as the defensive coordinator for the Dallas Cowboys. They underwent a name change in 2020 amidst growing controversy surrounding its previous moniker. Its  The team's iconic burgundy and gold colors remain unchanged, representing a visual link to its storied past. It boasts three Super Bowl victories, the last of which came in 1991 under the leadership of legendary coach Joe Gibbs. What is the name of this team, based in the nation's capital?",
+            "question": "This NFL team's current head coach, Dan Quinn, was hired in 2024 after previously serving as the defensive coordinator for the Dallas Cowboys. They underwent a name change in 2020 amidst growing controversy surrounding its previous moniker. The team's iconic burgundy and gold colors remain unchanged, representing a visual link to its storied past. They boast three Super Bowl victories, the last of which came in 1991 under the leadership of legendary coach Joe Gibbs. What is the name of this team, based in the nation's capital?",
             "answers": ["Washington Commanders", "Commanders"],
             "incorrect1": "Washington Nationals",
             "incorrect2": "Dallas Cowboys",
