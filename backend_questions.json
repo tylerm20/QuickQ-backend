@@ -10858,5 +10858,442 @@
             "incorrect3": "Chinese",
             "used": "TRUE"
         }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "The Hamersley Range, in the western part of this country, accounts for over 90% of this country's iron ore production. The Great Artesian Basin covers one-fifth of this country, the Murray-Darling Basin covers another one-seventh, and it is home to the Great Sandy Desert. The Great Dividing Range, in its eastern sections, is the 4th longest in the world and includes Mount Kosiuszko. Bass Strait separates Tasmania from the main island of what country that occupies the Great Barrier Reef has its capital at Canberra and is home to Melbourne and Sydney?",
+            "answers": ["Australia", "Commonwealth of Australia"],
+            "incorrect1": "Great Britain",
+            "incorrect2": "New Zealand",
+            "incorrect3": "Thailand",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This athlete, known for her exceptional skills in slalom and giant slalom, became the youngest Olympic slalom champion at the 2014 Sochi Olympics at just 18 years old. She holds the record for the most World Cup wins in a single discipline, with an impressive 53 victories in slalom. Her overall World Cup wins tally stands at 88, making her the most successful female alpine skier in history. She has also clinched multiple World Championship titles across various disciplines, demonstrating her versatility and dominance in the sport. Who is this alpine skiing prodigy?",
+            "answers": ["Mikaela Shiffrin"],
+            "incorrect1": "Lindsey Vonn",
+            "incorrect2": "Chloe Kim",
+            "incorrect3": "Serena Williams",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2015 SAGES",
+            "question": "The first person to be assigned one of these was John Sweeney. One of these belonging to Todd Davis is printed on advertisements for his company LifeLock. They contain nine numbers in groups of three, two and four. Name these ID numbers used by a federal agency.",
+            "answers": ["Social Security Numbers", "SSN"],
+            "incorrect1": "Zip Codes",
+            "incorrect2": "PIN Numbers",
+            "incorrect3": "Surnames",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actor's iconic trench coat and fedora from the film \"Casablanca\" have become enduring symbols of classic Hollywood style. He earned his only Academy Award for his role as a cantankerous boat captain in \"The African Queen,\" opposite Katharine Hepburn. His other memorable performances include the cynical private detective Sam Spade in \"The Maltese Falcon\" and the world-weary Rick Blaine in \"Casablanca,\" solidifying his status as a Hollywood legend. Who is this actor, known for his tough-guy persona and distinctive voice?",
+            "answers": ["Humphrey Bogart"],
+            "incorrect1": "Cary Grant",
+            "incorrect2": "James Stewart",
+            "incorrect3": "Marlon Brando",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 HIGS",
+            "question": "The narrator of one poem by this writer \"look'd up in perfect silence at the stars\", while in another poem this man \"sounds his barbaric yawp.\" Besides \"When I Heard the Learn'd Astronomer\" and \"Song of Myself\", this poet wrote of a man who has \"fallen cold and dead\" in a poem dedicated to Abraham Lincoln. Name this poet of \"O Captain! My Captain!\" and the collection Leaves of Grass.",
+            "answers": ["Walt Whitman"],
+            "incorrect1": "Emily Dickinson",
+            "incorrect2": "Mark Twain",
+            "incorrect3": "Edgar Allan Poe",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Alberto Fujimori, the president of this nation from 1990-2000, died on September 11, 2024. He was general thought to be a dictator and dissolved Congress in 1992. This country is home to the Nazca Lines, a series of ancient geoglyphs etched into the desert, whose purpose remains a subject of fascination and speculation. Name this nation, home to Machu Picchu, an iconic Incan citadel perched high in the Andes Mountains, often called the \"Lost City of the Incas.\"",
+            "answers": ["Peru"],
+            "incorrect1": "Chile",
+            "incorrect2": "Brazil",
+            "incorrect3": "Spain",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2017 HIGS",
+            "question": "This class of animals evolved from synapsids and possess an inner ear formed from former jaw bones. Monotremes are egg-laying examples of these animals, which also include the marsupials and placentals. Along with platypuses and kangaroos, this group includes horses, bears, and primates. Name this class of warm-blooded vertebrates with hair or fur.",
+            "answers": ["mammals", "Mammalia"],
+            "incorrect1": "reptiles",
+            "incorrect2": "birds",
+            "incorrect3": "fish",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "This thinker introduced his concept of \"the doctrine of the mean\" as a balance between excess and deficiency, the ideal expression of virtue. In addition to that work named after his son, he described his impetus theory of motion in his Physics. In Politics, he claimed that the title entity is dynamic and comes before family and the individual. He stated that the objective of tragedy is to invoke catharsis in Poetics. Name this Greek Peripatetic philosopher who wrote The Nicomachean Ethics and was taught by Plato.",
+            "answers": ["Aristotle"],
+            "incorrect1": "Plato",
+            "incorrect2": "Socrates",
+            "incorrect3": "Julius Caesar",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2020 ERIS",
+            "question": "Asteroids sharing an orbit with this planet are called trojans. In 1994, the comet Shoemaker-Levy 9 collided with this planet. This planet's moons include the most volcanically active body in the solar system, Io, as well as the three other Galilean moons: Europa, Ganymede, and Callisto. The Great Red Spot is found on what largest planet in the solar system?",
+            "answers": ["Jupiter"],
+            "incorrect1": "Saturn",
+            "incorrect2": "Mars",
+            "incorrect3": "Sun",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "\"Shogun\" won 18 of awards and \"Hacks\" beat out \"The Bear\" for best comedy at this ceremony. These awards are a statuette, depicting a winged woman holding an atom. The first ceremony was held in 1949, and has since become a glamorous event celebrating the best in television. These awards, bestowed annually by the Academy of Television Arts & Sciences, recognize excellence in American primetime television programming.What is the name of these prestigious awards?",
+            "answers": ["The Emmys", "The Emmy Awards", "Emmys"],
+            "incorrect1": "The Oscars",
+            "incorrect2": "The Grammys",
+            "incorrect3": "The Super Bowl",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2017 HIGS",
+            "question": "This man's namesake \"center\" helped to nearly eradicate the Guinea Worm, and he met with Menachem Begin and Anwar Sadat to foster peace between Israel and Egypt during the Camp David Accords. This man's failure to rescue U.S. diplomats from an Iranian embassy contributed to his loss in the 1980 election. Name this predecessor of Ronald Reagan, a Democratic peanut farmer from Georgia.",
+            "answers": ["Jimmy Carter", "James Earl \"Jimmy\" Carter, Jr."],
+            "incorrect1": "Ronald Reagan",
+            "incorrect2": "Bill Clinton",
+            "incorrect3": "Elvis Presley",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2021 CERES",
+            "question": "This is the only nation in the world to recognize the Republic of Northern Cyprus as a country. Historically, the terms Asia Minor and Anatolia referred to the region that is now this country. Ships entering the Black Sea pass through the Bosphorus at this country's largest city, which contains the Hagia Sophia and was previously called Constantinople. What Eurasian country is home to Ankara and Istanbul?",
+            "answers": ["Turkiye", "Turkey", "Republic of Turkey"],
+            "incorrect1": "Greece",
+            "incorrect2": "Egypt",
+            "incorrect3": "Iran",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This Brazilian crime film, set in the favelas of Rio de Janeiro, follows the intertwined lives of two young men: Rocket, an aspiring photographer, and Z\u00e9 Pequeno, a ruthless drug dealer. Its non-linear narrative and gritty realism immerse viewers in the harsh realities of life in the favelas. It was co-directed by Fernando Meirelles and K\u00e1tia Lund, based on the semi-autobiographical novel of the same name by Paulo Lins. What is the title of this 2002 film, which has been praised for its raw and unflinching portrayal of poverty, violence, and the struggle for survival in a marginalized community?",
+            "answers": ["City of God"],
+            "incorrect1": "Slumdog Millionaire",
+            "incorrect2": "The Godfather",
+            "incorrect3": "The Shawshank Redemption",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "In this novel, a town is fooled by two men who pull off the Royal Nonesuch, and those men go on to steal the property of the late Peter Wilkes. The Widow Douglas wants to \"sivilize\" the title character, who misses a turn at Cairo and keeps floating south. Name this novel that sees Jim and the title friend of Tom Sawyer travel down the Mississippi River, a work by Mark Twain.",
+            "answers": [
+                "The Adventures of Huckleberry Finn",
+                "Huckleberry Finn"
+            ],
+            "incorrect1": "The Adventures of Tom Sawyer",
+            "incorrect2": "To Kill a Mockingbird",
+            "incorrect3": "Moby-Dick",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "This country's Kruger National Park, part of the lowveld grassland, is named for a 19th-century leader of its Transvaal region, the site of gold and diamond mines. Lesotho is completely surrounded by this country, which was governed by an \"apartheid\" regime before it elected Nelson Mandela president in 1994. Pretoria and Cape Town are two capitals of what country at the lowest extremity of the African continent?",
+            "answers": ["Republic of South Africa", "RSA", "South Africa"],
+            "incorrect1": "Nigeria",
+            "incorrect2": "Egypt",
+            "incorrect3": "Australia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's iconic home stadium, Shea Stadium, was demolished in 2009 and replaced by Citi Field. They achieved their first World Series victory in 1969, with a team with a \"Miracle\" moniker. They had historic players such as Tom Seaver and David Wright. Their most recent championship came in 1986, with a dramatic Game 7 victory over the Boston Red Sox. What is the name of this baseball team based in Queens, New York? ",
+            "answers": ["New York Mets", "Mets"],
+            "incorrect1": "New York Yankees",
+            "incorrect2": "Boston Red Sox",
+            "incorrect3": "New York Knicks",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This sports executive, who assumed his current position in 2014, demonstrated his commitment to social justice by swiftly banning Los Angeles Clippers owner Donald Sterling for life following racist remarks. He has also overseen significant changes within the league, including the implementation of a play-in tournament for postseason seeding and a stricter technical foul policy aimed at curbing on-court complaints toward referees. His tenure has also seen the league's media rights deals skyrocket in value, securing billions of dollars in revenue. Who is this current commissioner of the National Basketball Association (NBA)?",
+            "answers": ["Adam Silver"],
+            "incorrect1": "David Stern",
+            "incorrect2": "Roger Goodell",
+            "incorrect3": "Gary Bettman",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "After having much of his legislation overturned by the Supreme Court, this leader proposed his court packing plan. The Tennessee Valley Authority was one piece of New Deal legislation that was not overturned by the Court. Although he led his country for most of World War II, he did not make the decision to drop the atomic bombs on Japan. He succeeded Herbert Hoover. Who is the only President of the United States to be elected to more than two terms in office?",
+            "answers": ["Franklin Delano Roosevelt", "FDR"],
+            "incorrect1": "Theodore Roosevelt",
+            "incorrect2": "John F. Kennedy",
+            "incorrect3": "Abraham Lincoln",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This animated classic features the voice talents of renowned actors like James Earl Jones, Matthew Broderick, and Jeremy Irons. The film's opening sequence, set to the powerful song \"Circle of Life,\" showcases the breathtaking African savanna and introduces the young lion cub Simba. It features a memorable song, \"Hakuna Matata,\" which promotes a carefree philosophy of \"no worries.\" Its villain, Scar, delivers the chilling line, \"Long live the king,\" before betraying his brother Mufasa. What is the title of this beloved 1994 musical film? ",
+            "answers": ["The Lion King"],
+            "incorrect1": "The Jungle Book",
+            "incorrect2": "Aladdin",
+            "incorrect3": "Frozen",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2018 MVS RAMS",
+            "question": "This river is the habitat of a parasitic fish called the candiru that supposedly is attracted to urine streams. This river is also the habitat of a namesake pink dolphin. This river meets the ocean near Belem, and one of this river's tributaries is the Rio Negro. This river is also home to the carnivorous piranha, and this river was named for a mythological race of warrior women. Name this longest river in South America.",
+            "answers": ["Amazon River", "Amazonas"],
+            "incorrect1": "Nile River",
+            "incorrect2": "Mississippi River",
+            "incorrect3": "Yellow River",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2015 SCOP Novice 6",
+            "question": "In two works by this author, Leo attempts to build a Happiness Machine and an automated house functions after its inhabitants are vaporized. Douglas Spaulding's grandmother makes the title Dandelion Wine in one work by this author of The Martian Chronicles, who wrote about a man who works for Captain Beatty as a fireman who burns books. Name this author who wrote about Guy Montag in Fahrenheit 451.",
+            "answers": ["Ray Bradbury", "Ray Douglas Bradbury"],
+            "incorrect1": "Isaac Asimov",
+            "incorrect2": "George Orwell",
+            "incorrect3": "J.K. Rowling",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "This empire's first ruler defeated the Kaniaga dynasty at the Battle of Kirina and established this empire. That man was named Sundiata Keita, and all of the resulting rulers of this empire were descended from him. One of this empire's greatest cities was Timbuktu, a great center of trade where many libraries and Islamic universities were built. This empire's most famous ruler brought with him sixty thousand people and two hundred camels laden with gold on his hajj. Name this empire, whose ruler Mansa Musa depreciated the value of gold in Cairo during his pilgrimage to Mecca.",
+            "answers": ["Mali Empire"],
+            "incorrect1": "Roman Empire",
+            "incorrect2": "Ottoman Empire",
+            "incorrect3": "Ghana Empire",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2016 Pennsylvania Novice",
+            "question": "Nylon fibers are very strong due to many of these interactions between each polymer molecule. Alpha helices and beta sheets in proteins are stabilized by these interactions. Two of them are found in a base pair between adenine and thymine on opposite strands of the double helix of DNA. Many instances of this interaction in water cause its abnormally high boiling point. Identify this intermolecular force between an atom of nitrogen, oxygen, or fluorine and an atom of the namesake lightest element.",
+            "answers": ["hydrogen bonds"],
+            "incorrect1": "covalent bonds",
+            "incorrect2": "ionic bonds",
+            "incorrect3": "magnetic bonds",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Edward Caban resigned from this position in New York City after he was one of several members of Eric Adam's inner circle to be investigated. Figures like William Bratton, known for his \"broken windows\" strategy, and Daryl Gates, a controversial figure during the Rodney King era, have shaped the public perception of this role. In fiction, Clancy Wiggum of Springfield to the James Gordon of Gotham City highlight the challenges and complexities of this role.  What is this top leadership position in a police department, responsible for maintaining public safety and upholding the law?",
+            "answers": [
+                "Police commisioner",
+                "Chief of police",
+                "police chief"
+            ],
+            "incorrect1": "fire chief",
+            "incorrect2": "mayor",
+            "incorrect3": "school principal",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "One character in this work is locked in the red room by her cruel aunt, which she believes she is haunted by the ghost of her uncle. While attending school, the protagonist befriends Helen Burns, who later dies of consumption when a typhus epidemic sweeps Lowood. St. John and his two sisters take the title character in after she flees Thornfield, which she later discovers has been burned down by Bertha Mason. Name this novel about the title character eventually marrying the impassioned Mr. Rochester, written by Charlotte Bronte.",
+            "answers": ["Jane Eyre"],
+            "incorrect1": "Pride and Prejudice",
+            "incorrect2": "Wuthering Heights",
+            "incorrect3": "The Hunger Games",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This athlete's remarkable achievement of setting three world records and tying another within a single hour at the 1935 Big Ten track meet in Ann Arbor, Michigan, remains a testament to his exceptional athleticism. His four gold medals at the 1936 Berlin Olympics, in the face of Adolf Hitler's Aryan supremacy propaganda, made him an international symbol of triumph over prejudice. His victories in the 100-meter dash, 200-meter dash, long jump, and 4x100 meter relay shattered expectations and challenged prevailing racial stereotypes. Who was this legendary track and field athlete?",
+            "answers": ["Jesse Owens"],
+            "incorrect1": "Carl Lewis",
+            "incorrect2": "Usain Bolt",
+            "incorrect3": "Jackie Robinson",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This vibrant festival, celebrated in many Asian cultures, features a dazzling array of colorful lanterns adorning streets and homes. Mooncakes, pastries filled with sweet or savory fillings, are traditionally enjoyed during this festive occasion. It falls on the 15th day of the 8th lunar month, when the moon is believed to be at its fullest and brightest. The legend of Chang'e, the Moon Goddess, is often associated with this celebration. What is the name of this annual harvest festival?",
+            "answers": [
+                "Mid-Autumn Festival",
+                "Moon festival",
+                "Mooncake Festival"
+            ],
+            "incorrect1": "Chinese New Year",
+            "incorrect2": "Dragon Boat Festival",
+            "incorrect3": "Thanksgiving",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This element appears in the ion whose sodium compound drives the explosion of airbags, azide. In organic compounds, this element usually has one lone pair and forms three bonds, while it also exists as a diatomic molecule with a triple bond. A compound of this element and hydrogen is used in fertilizer and made in the Haber-Bosch process; that compound is ammonia. Name this element to the left of oxygen on the periodic table, with atomic symbol N.",
+            "answers": ["nitrogen"],
+            "incorrect1": "oxygen",
+            "incorrect2": "carbon dioxide",
+            "incorrect3": "water",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2020 ERIS",
+            "question": "While docked in this modern-day country, the USS Maine exploded, prompting the US to enter the Spanish-American War. Many refugees from this country traveled north to Florida by boat. This country's leader Fulgencio Batista was deposed in 1959 in favor of Fidel Castro. Guantanamo Bay is leased by the United States from what Caribbean island nation led from Havana?",
+            "answers": ["Cuba"],
+            "incorrect1": "Jamaica",
+            "incorrect2": "Spain",
+            "incorrect3": "Costa Rica",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "The northeast part of this nation is home to hundreds of thousands of cave drawings within the Camonica Valley. The easternmost point in this nation is located on the Salentine Peninsula, which lies west of the Strait of Otranto. Traveling south through the Brenner Pass grants access to this nation, the backbone of which is formed by the Apennine Mountains. The nation of San Marino is located entirely within this country, which contains Mount Etna on the island of Sicily. Name this European nation whose capital is Rome.",
+            "answers": ["Italy", "Italian Republic", "Repubblica Italiana"],
+            "incorrect1": "Spain",
+            "incorrect2": "Greece",
+            "incorrect3": "France",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This band holds the record for the most gold and multi-platinum albums by an American group. Their collaboration with Run-DMC on a remake of \"Walk This Way\" in 1986 bridged the gap between rock and hip-hop, introducing them to a new generation of fans. \"I Don't Want to Miss a Thing,\" from the 1998 film \"Armageddon,\" became their first and only number-one hit on the Billboard Hot 100. Their high-energy live performances and bluesy rock sound, led by the charismatic Steven Tyler and the guitar prowess of Joe Perry, earned them the nickname \"The Bad Boys from Boston.\" What is this band?",
+            "answers": ["Aerosmith"],
+            "incorrect1": "Guns N' Roses",
+            "incorrect2": "Rolling Stones",
+            "incorrect3": "The Beatles",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2018 SCOP Novice 9",
+            "question": "In 1985, a helicopter from this city's police department dropped a bomb on the headquarters of MOVE; this city's fire department let the ensuing blaze destroy 65 other homes. The Battle of Germantown was fought in what is now this city. This city's central grid, between the Schuylkill and Delaware Rivers, is home to a US Mint, Independence Hall, and the Liberty Bell. Name this temporary national capital, the largest city in Pennsylvania.",
+            "answers": ["Philadelphia"],
+            "incorrect1": "Pittsburgh",
+            "incorrect2": "Boston",
+            "incorrect3": "Atlanta",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2012 SCOP Novice 3",
+            "question": "In one novel set in this country, a glass church is transported hundreds of miles to settle a bet between Oscar and Lucinda. One author from this country described a factory owner who protected Jews during the Holocaust in Schindler's Ark. Jimmie Blacksmith and Ned Kelly live as bushrangers in this country in works by Thomas Keneally and Peter Carey. The Outback is a common setting in what large former British colony?",
+            "answers": ["Australia", "Commonwealth of Australia"],
+            "incorrect1": "New Zealand",
+            "incorrect2": "Indonesia",
+            "incorrect3": "South Africa",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This tennis star, known for his elegant one-handed backhand and graceful movement on the court, holds the record for the most consecutive weeks at the top of the ATP rankings, an impressive 237 weeks. He has won 20 Grand Slam singles titles, including a record eight Wimbledon championships. His rivalry with Rafael Nadal and Novak Djokovic captivated fans for years, producing some of the most memorable matches in tennis history. He retired from professional tennis in September 2022, leaving behind a legacy of unparalleled achievements and sportsmanship. Who is this iconic Swiss tennis player?",
+            "answers": ["Roger Federer"],
+            "incorrect1": "Rafael Nadal",
+            "incorrect2": "Novak Djokovic",
+            "incorrect3": "Tiger Woods",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 MAKEMAKE",
+            "question": "Agricultural runoff pollution causing algae blooms in one of these things led voters to pass its namesake \"Bill of Rights\". An \"effect\" named for one of these things causes heavy snowfall in cities like Buffalo and Cleveland. Artificial examples of these bodies of water are commonly known as reservoirs. Name these bodies of water exemplified by five \"Great\" ones in the US.",
+            "answers": ["lakes", "Lake Erie Bill of Rights", "Great Lakes"],
+            "incorrect1": "rivers",
+            "incorrect2": "oceans",
+            "incorrect3": "mountains",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This West African nation recently faced devastating floods in its northeastern region, displacing over 200,000 people and resulting in over 200 fatalities. The floods were triggered by heavy rainfall and the collapse of a major dam, causing widespread damage to infrastructure and farmland. It is the most populous country in Africa and a major oil producer. It is also known for its vibrant Nollywood film industry and its diverse cultural landscape, with over 250 ethnic groups. What is the name of this country, with a capital of Abuja and a largest city of Lagos? ",
+            "answers": ["Nigeria"],
+            "incorrect1": "South Africa",
+            "incorrect2": "Kenya",
+            "incorrect3": "Brazil",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This animated masterpiece won the Academy Award for Best Animated Feature in 2003, the first and only hand-drawn and non-English-language film to do so. The main character, Chihiro, must work in a bathhouse for spirits to free her parents who have been turned into pigs. Its iconic characters, like the enigmatic Haku and the mysterious No-Face, have resonated with audiences worldwide. What is the name of this critically acclaimed Japanese animated film directed by Hayao Miyazaki?",
+            "answers": ["Spirited Away"],
+            "incorrect1": "My Neighbor Totoro",
+            "incorrect2": "Princess Mononoke",
+            "incorrect3": "Frozen",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2019 SCOP Novice 10",
+            "question": "The efficiency of refrigerators was once rated in frigories, a unit equivalent to one of these units per hour. It is not a unit of mass or temperature, but one of these units defines the specific heat of water. There are 4.184 joules in the small version of this unit, and there are nine of their large kind in each gram of fat. Name this non-SI unit that is listed on packages to show the energy content of food.",
+            "answers": [
+                "calorie",
+                "small calorie",
+                "large calorie",
+                "food calorie",
+                "kilocalorie",
+                "cal",
+                "kcal"
+            ],
+            "incorrect1": "joule",
+            "incorrect2": "watt",
+            "incorrect3": "gram",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "One event in this country's history was a series of attacks on civilians and foreigners by the Videla Regime known as the Dirty War. Mossad carried out an operation to capture Adolf Eichmann in this country. This country fought a war against Great Britain for control of the Falkland Islands. Identify this country whose former leaders include Nestor Kirchner and Juan Peron.",
+            "answers": [
+                "Argentia",
+                "Republica Argentina",
+                "Argentine Republic"
+            ],
+            "incorrect1": "Brazil",
+            "incorrect2": "Chile",
+            "incorrect3": "Spain",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2017 HIGS",
+            "question": "The \"Committee of Five\" was assigned to create this document, which ends with signatories pledging \"our Lives, our Fortunes and our sacred Honor\". A large signature by John Hancock is distinguishable in this document, signed at the Second Continental Congress in Philadelphia, which states that \"all men are created equal\". Name this work by Thomas Jefferson, adopted on July 4, 1776, that announced the freedom of the colonies.",
+            "answers": [
+                "Declaration of Independence",
+                "United States Declaration of Independence",
+                "US Declaration of Independence"
+            ],
+            "incorrect1": "U.S. Constitution",
+            "incorrect2": "Bill of Rights",
+            "incorrect3": "Magna Carta",
+            "used": "TRUE"
+        }
     ]
 ]
