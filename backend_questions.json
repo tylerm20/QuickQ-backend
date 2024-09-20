@@ -10872,7 +10872,7 @@
         },
         {
             "category": "Sports",
-            "question": "This athlete, known for her exceptional skills in slalom and giant slalom, became the youngest Olympic slalom champion at the 2014 Sochi Olympics at just 18 years old. She holds the record for the most World Cup wins in a single discipline, with an impressive 53 victories in slalom. Her overall World Cup wins tally stands at 88, making her the most successful female alpine skier in history. She has also clinched multiple World Championship titles across various disciplines, demonstrating her versatility and dominance in the sport. Who is this alpine skiing prodigy?",
+            "question": "This athlete, known for her exceptional skills in slalom and giant slalom, became the youngest Olympic slalom champion at the 2014 Sochi Olympics at just 18 years old. She holds the record for the most World Cup wins in a single discipline, with an impressive 53 victories in slalom. Her overall World Cup wins tally stands at 88, making her the most successful female alpine skier in history. Name this athlete who has also clinched multiple World Championship titles across various disciplines, demonstrating her versatility and dominance in the sport.",
             "answers": ["Mikaela Shiffrin"],
             "incorrect1": "Lindsey Vonn",
             "incorrect2": "Chloe Kim",
@@ -10883,7 +10883,7 @@
         {
             "category": "US History",
             "source": "2015 SAGES",
-            "question": "The first person to be assigned one of these was John Sweeney. One of these belonging to Todd Davis is printed on advertisements for his company LifeLock. They contain nine numbers in groups of three, two and four. Name these ID numbers used by a federal agency.",
+            "question": "The first one of these was assigned to John Sweeney in 1936, a year after its namesake federal program was established. Identity theft protection companies, like LifeLock, often use one of these belonging to their founder in advertisements, highlighting their commitment to safeguarding sensitive information. They consist of nine digits, grouped in a 3-2-4 format, and serve as a unique identifier for individuals in various government and financial transactions. What is this nine-digit number, essential for working and receiving government benefits in the United States?",
             "answers": ["Social Security Numbers", "SSN"],
             "incorrect1": "Zip Codes",
             "incorrect2": "PIN Numbers",
@@ -10954,7 +10954,7 @@
         },
         {
             "category": "Current Events",
-            "question": "\"Shogun\" won 18 of awards and \"Hacks\" beat out \"The Bear\" for best comedy at this ceremony. These awards are a statuette, depicting a winged woman holding an atom. The first ceremony was held in 1949, and has since become a glamorous event celebrating the best in television. These awards, bestowed annually by the Academy of Television Arts & Sciences, recognize excellence in American primetime television programming.What is the name of these prestigious awards?",
+            "question": "\"Shogun\" won 18 awards and \"Hacks\" beat out \"The Bear\" for best comedy at this ceremony. These awards are a statuette, depicting a winged woman holding an atom. The first ceremony was held in 1949, and has since become a glamorous event celebrating the best in television. These awards, bestowed annually by the Academy of Television Arts & Sciences, recognize excellence in American primetime television programming.What is the name of these prestigious awards?",
             "answers": ["The Emmys", "The Emmy Awards", "Emmys"],
             "incorrect1": "The Oscars",
             "incorrect2": "The Grammys",
@@ -11101,7 +11101,7 @@
             "category": "Current Events",
             "question": "Edward Caban resigned from this position in New York City after he was one of several members of Eric Adam's inner circle to be investigated. Figures like William Bratton, known for his \"broken windows\" strategy, and Daryl Gates, a controversial figure during the Rodney King era, have shaped the public perception of this role. In fiction, Clancy Wiggum of Springfield to the James Gordon of Gotham City highlight the challenges and complexities of this role.  What is this top leadership position in a police department, responsible for maintaining public safety and upholding the law?",
             "answers": [
-                "Police commisioner",
+                "police commisioner",
                 "Chief of police",
                 "police chief"
             ],
