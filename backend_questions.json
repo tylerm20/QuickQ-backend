@@ -11295,5 +11295,419 @@
             "incorrect3": "Magna Carta",
             "used": "TRUE"
         }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2021 CERES",
+            "question": "Lake Ladoga, the largest freshwater lake fully in Europe, is in this country, and this country's exclave of Kaliningrad lies between Poland and Lithuania. The city of Vladivostok is located in the far east of this country, as is the deepest lake in the world, Lake Baikal. The Trans-Siberian Railway traverses what Eurasian country with its capital at Moscow, the largest country in the world by area?",
+            "answers": ["Russia"],
+            "incorrect1": "Ukraine",
+            "incorrect2": "Kazakhstan",
+            "incorrect3": "Canada",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2018 MVS RAMS",
+            "question": "In one work from this country, a naval commander uses straw boats to capture arrows from Cao Cao's archers, and three men swear the Oath of the Peach Garden. In another work from this country, Sandy and Pigsy go to India with Sun Wukong, the Monkey King. Romance of the Three Kingdoms and Journey to the West are two of the Four Classics of what country home to the writers Luo Guanzhong and Wu Cheng'en?",
+            "answers": ["China"],
+            "incorrect1": "Japan",
+            "incorrect2": "India",
+            "incorrect3": "Brazil",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2009 Fall Novice Tournament",
+            "question": "These objects can emit surface helium flash as they accrete matter from binary companions. Their upper mass limit, about 1.44 solar masses, is named for the Indian physicist Chandrasekhar; above it, electron degeneracy pressure fails and they collapse into neutron stars. Largely incapable of undergoing fusion, this is what type of faintly luminous, small stellar remnant, not to be confused with \"red\" and \"brown\" stars of the same size?",
+            "answers": ["white dwarf"],
+            "incorrect1": "red giant",
+            "incorrect2": "neutron star",
+            "incorrect3": "black hole",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2012 SCOP Novice 3",
+            "question": "A collection of some of these works, recited on holidays, is called Hallel, and its fifty-first section is known as the \"Miserere\". One passage of this book laments \"I have so many enemies\" as its author flees his son Absalom. Another portion reads, \"Give thanks to the Lord, for he is good.\" Name this Biblical book, written primarily by David, whose twenty-third section begins, \"The Lord is my shepherd.\"",
+            "answers": ["Book of Psalms", "Tehillim", "Psalms"],
+            "incorrect1": "Book of Proverbs",
+            "incorrect2": "Book of Genesis",
+            "incorrect3": "The Odyssey",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This tennis player holds the record for the most consecutive weeks ranked world No. 1 in women's tennis, with an impressive 186 weeks. Her powerful forehand, often referred to as the \"forehand drive,\" was a fearsome weapon that helped her dominate opponents on all surfaces. She achieved a \"Golden Slam\" in 1988, winning all four Grand Slam singles titles and the Olympic gold medal in the same calendar year. She retired from professional tennis in 1999, leaving behind a legacy of 22 Grand Slam singles titles and a reputation as one of the greatest players of all time. Who is this German tennis legend?",
+            "answers": ["Steffi Graf"],
+            "incorrect1": "Serena Williams",
+            "incorrect2": "Martina Navratilova",
+            "incorrect3": "Michelle Obama",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2014 SCOP Novice 5",
+            "question": "This event took place on King Street and was ended by Thomas Hutchinson's clearing of the crowd. An inaccurate engraving depicts the perpetrators of this event standing in an organized line; that engraving by Paul Revere also depicts the first victim of this event as a white man. Crispus Attucks was one of five people killed by British soldiers in what March 5, 1770 incident in Massachusetts?",
+            "answers": ["Boston Massacre"],
+            "incorrect1": "Boston Tea Party",
+            "incorrect2": "Battle of Bunker Hill",
+            "incorrect3": "American Civil War",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This institution cut interest rates for the first time since 2020 on September 8, 2024. Their current chair, Jerome Powell, was sworn into office in February 2018. It is divided into 12 regional banks across the United States, each with its own president. Its primary functions include conducting monetary policy, supervising and regulating banks, and maintaining the stability of the financial system. It was established in 1913. What is the name of this central banking system of the United States? ",
+            "answers": ["Federal Reserve", "The Fed", "Fed"],
+            "incorrect1": "Internal Revenue Service (IRS)",
+            "incorrect2": "Federal Bureau of Investigation (FBI)",
+            "incorrect3": "United Nations",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actor's iconic line, \"You talkin' to me?\", from \"Taxi Driver,\" captures the character's descent into madness. He also co-founded the Tribeca Film Festival, a platform for showcasing independent films and emerging talent. He won two Oscars, for his roles in \"The Godfather Part II\" and \"Raging Bull.\" He's known for his frequent collaborations with director Martin Scorsese, including \"Goodfellas\" and \"The Departed.\" Who is this legendary actor?",
+            "answers": ["Robert De Niro"],
+            "incorrect1": "Al Pacino",
+            "incorrect2": "Leonardo DiCaprio",
+            "incorrect3": "Barack Obama",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This sports executive, often referred to as the \"Commissioner of the World\" for his role in expanding the NBA's global reach, oversaw the creation of the WNBA and the NBA Development League during his tenure. He implemented the NBA draft lottery system in 1985, aimed at discouraging teams from intentionally losing games to secure the top pick. His leadership also saw the introduction of the salary cap and revenue sharing, which contributed to the league's financial stability and competitive balance. Who was this commissioner of the NBA from 1984 to 2014?",
+            "answers": ["David Stern"],
+            "incorrect1": "Adam Silver",
+            "incorrect2": "Roger Goodell",
+            "incorrect3": "Bill Gates",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2018 SCOP Novice 9",
+            "question": "This state's second-largest city is home to the BOK Tower, a half-sized replica of the original World Trade Center twin towers designed by the same firm. This state's flagship university is in Norman, a suburb of its largest city. The Choctaw Nation is established in the southeast of this state, which was once labeled Indian Territory. Name this central US state that is home to Tulsa and a prominent panhandle north of Texas.",
+            "answers": ["Oklahoma"],
+            "incorrect1": "Kansas",
+            "incorrect2": "Texas",
+            "incorrect3": "Ontario",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "One variant of this group of people in Iceland existed under the Vistarband system. In one country, this group of people could relocate themselves during the two weeks around Yuri's Day, and that country also saw many members of this group join Pugachev's Rebellion. Freed in Austria in 1848 and Prussia in 1807, this group of people could be owned by the Church and State as well as private landowners. Name this class of peasants who were tied to the land they worked on, finally emancipated in Russia by Alexander II in 1861.",
+            "answers": ["serfs", "Serfdom"],
+            "incorrect1": "knights",
+            "incorrect2": "slaves",
+            "incorrect3": "farmers",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "One famous depiction of this event was captured by John Filo, and most prominently featured Mary Ann Vecchio and Jeffrey Miller. Spurred in part by Governor James Rhodes describing participants of a protest as \"un-American\", this event saw 67 shots fired, which killed 4 people and injured 9 others, some of whom had been protesting the U.S. invasion of Cambodia. Identify this May 4, 1970 incident in which the Ohio National Guard fired into a crowd of unarmed protesters at an Ohio university.",
+            "answers": ["Kent State massacre"],
+            "incorrect1": "Rodney King riots",
+            "incorrect2": "George Floyd protests",
+            "incorrect3": "Waco standoff",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2020 SCOP MS 10",
+            "question": "This quantity can be defined as momentum squared divided by two times the mass. This quantity is conserved during elastic collisions but not inelastic collisions, and it is calculated by the formula one-half times mass times velocity squared. A roller coaster maximizes this energy at the bottom of a hill. Name this type of energy that is possessed by all moving objects, often contrasted with potential energy.",
+            "answers": ["kinetic energy", "KE", "kinetic"],
+            "incorrect1": "potential energy",
+            "incorrect2": "thermal energy",
+            "incorrect3": "chemical energy",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "In a coordinated attack by Israel against Hezbollah, these devices exploded killing at least 42 people. This technology, once ubiquitous in the 1990s, relies on radio frequencies and specialized networks to transmit brief text messages or numeric codes to a small, portable device. Its iconic numeric display and distinctive beep became synonymous with the era. Though largely eclipsed by smartphones and mobile messaging apps, it still finds use in specific contexts, such as hospitals and critical infrastructure systems, where its simplicity and dependability remain valuable. What is this technology?",
+            "answers": ["pagers", "walkie talkie", "walky talky"],
+            "incorrect1": "smartphones",
+            "incorrect2": "fax machines",
+            "incorrect3": "telegrams",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This iconic Western film's climactic scene, a three-way Mexican standoff in a cemetery, is renowned for its suspenseful buildup and Ennio Morricone's unforgettable score. The film's protagonist, the \"Man with No Name,\" is played by Clint Eastwood, solidifying his status as a Western icon. Its title refers to the three main characters: Blondie, Angel Eyes, and Tuco, who are all searching for a hidden treasure. The film is the third installment in Sergio Leone's \"Dollars Trilogy.\" What is the title of this epic Spaghetti Western?",
+            "answers": ["The Good, the Bad and the Ugly", "good bad and ugly"],
+            "incorrect1": "Once Upon a Time in the West",
+            "incorrect2": "A Fistful of Dollars",
+            "incorrect3": "The Godfather",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2013 SCOP Novice 4",
+            "question": "Heidhrun [\"HIDE\"-hroon] stands on top of this place and produces mead for this building's residents, who are woken daily by Gullinkambi. This building is contrasted with Folkvangr, and a boar is slaughtered every day to feed the Einherjar, who live here. This building's rafters are spears and its ceiling is made of shields. The Valkyries carry half of the heroes slain in battle to what mythological mead hall ruled over by Odin?",
+            "answers": ["Valhalla", "Valholl"],
+            "incorrect1": "Mount Olympus",
+            "incorrect2": "Elysium",
+            "incorrect3": "Shangri-La",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This NFL team relocated from Baltimore to Indianapolis in 1984, amidst a controversial midnight move orchestrated by then-owner Robert Irsay. They secured their first Super Bowl victory in 1971 in Baltimore, led by legendary quarterback Johnny Unitas. Their iconic horseshoe logo has become a symbol of the franchise. They experienced a resurgence in the 2000s, led by Peyton Manning, culminating in a Super Bowl XLI victory in 2007. What is the name of this team, whose home games are played at Lucas Oil Stadium?",
+            "answers": ["Indianapolis Colts", "Colts"],
+            "incorrect1": "Indianapolis 500",
+            "incorrect2": "New England Patriots",
+            "incorrect3": "Indiana Pacers",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2012 SCOP Novice 3",
+            "question": "This author dreams of a ritual surrounding the Valentine\"s Day mating of the birds in one work. In a poem by this author, three brothers attempt to kill Death, and an old woman teaches a knight what women want in marriage. A group of travelers gather in the Tabard Inn to hear stories from the Pardoner and the Wife of Bath in one of this man's works. Name this English author of The Parliament of Fowls and The Canterbury Tales.",
+            "answers": ["Geoffrey Chaucer"],
+            "incorrect1": "William Shakespeare",
+            "incorrect2": "Jane Austen",
+            "incorrect3": "Charles Dickens",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "In this state, the Secret Service spotted a potential gunman trying to assisinate Donald Trump on a golf course. This state's iconic citrus industry, particularly its oranges and grapefruits, has earned it the nickname \"The Citrus State,\" though it's more commonly known as \"The Sunshine State.\" It's home to the Everglades, a vast subtropical wetland teeming with unique wildlife like alligators and manatees. The Kennedy Space Center, located on its eastern coast, has been the launch site for numerous historic space missions, including the Apollo 11 moon landing. Name this state.",
+            "answers": ["Florida"],
+            "incorrect1": "California",
+            "incorrect2": "Texas",
+            "incorrect3": "Cuba",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2017 HIGS",
+            "question": "The first American casualty in this war took place at the Battle of Osan. After UN forces were pushed back to the Pusan Perimeter during this war, Douglas MacArthur led a counterattack from Inchon. A demilitarized zone along the 38th parallel was established after this war, which separated two countries. Name this war that was fought on a namesake Asian peninsula from 1950 to 1953.",
+            "answers": ["Korean War"],
+            "incorrect1": "Vietnam War",
+            "incorrect2": "World War II",
+            "incorrect3": "American Civil War",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This cult classic comedy features a protagonist who enjoys White Russians, bowling, and listening to Creedence Clearwater Revival. The film's iconic line, \"The Dude abides,\" perfectly encapsulates the laid-back attitude of its central charactee. The Dude, mistaken for a millionaire with the same name, finds himself entangled in a bizarre kidnapping plot involving a stolen rug, nihilists, and a pornographer named Jackie Treehorn. The film's eclectic soundtrack, quirky characters, and quotable dialogue have solidified its place as a beloved comedy with a dedicated fan following. What is the title of this 1998 film directed by the Coen brothers?",
+            "answers": ["The Big Lebowski"],
+            "incorrect1": "Fargo",
+            "incorrect2": "Pulp Fiction",
+            "incorrect3": "The Shawshank Redemption",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2012 SCOP Novice 3",
+            "question": "Some members of this phylum breathe using their plated book lungs while other organs are housed in the hemocoel. This phylum is characterized by, and named for, their jointed legs, and organisms in this phylum have a segmented body protected by an exoskeleton. The classes Trilobita and Arachnida fall under what phylum that includes invertebrates like crustaceans, spiders and insects?",
+            "answers": ["Arthropoda", "Arthropods"],
+            "incorrect1": "Mollusca",
+            "incorrect2": "Chordata",
+            "incorrect3": "Bacteria",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2015 SAGES",
+            "question": "This inventor was nicknamed \"The Wizard of Menlo Park.\" This man invented the movie camera and the phonograph. It is said that he didn't fail, he just \"found 10,000 ways that won't work\" when creating his most famous invention. What man invented the lightbulb?",
+            "answers": ["Thomas Edison", "Thomas Alva Edison"],
+            "incorrect1": "Alexander Graham Bell",
+            "incorrect2": "Nikola Tesla",
+            "incorrect3": "Benjamin Franklin",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2010 SCOP Novice",
+            "question": "Mount Darwin is the highest peak on its largest island, which lies north of the Drake Passage. The cities of Rio Grande and Ushuaia are possessed by one country, while another controls the island of Cape Horn, the southern tip of this archipelago. Separated from mainland South America by the Strait of Magellan, name this archipelago owned by Argentina and Chile, whose name means \"Land of Fire.\"",
+            "answers": ["Tierra del Fuego", "Land of Fire"],
+            "incorrect1": "Falkland Islands",
+            "incorrect2": "Galapagos Islands",
+            "incorrect3": "Easter Island",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "This music mogul recently faced a significant legal challenge when a federal grand jury in New York indicted him on charges of sex trafficking, racketeering conspiracy, and transportation to engage in prostitution. This man founded Bad Boy Entertainment in 1993. He achieved mainstream success with his debut album, \"No Way Out,\" featuring the chart-topping tribute song \"I'll Be Missing You.\" He also ventured into acting including appearing on the television series \"CSI: Miami.\" Beyond music and film, he launched the successful Sean John clothing line and ventured into the spirits industry with his Ciroc vodka brand. Who is this entertainment mogul, also known by his stage name Diddy?",
+            "answers": ["Sean Combs", "Diddy"],
+            "incorrect1": "Jay-Z",
+            "incorrect2": "Kanye West",
+            "incorrect3": "Will Smith",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2017 HIGS",
+            "question": "After being featured in The Hate that Hate Produced, this man controversially described JFK's assassination as \"chickens coming home to roost\". This man, who collaborated with Alex Haley on his biography, was assassinated at the Audubon Ballroom mere days after claiming that the Nation of Islam was trying to kill him. Name this African-American Muslim human rights activist.",
+            "answers": [
+                "Malcolm X",
+                "El-Hajj Malik El-Shabazz",
+                "Malcolm Little"
+            ],
+            "incorrect1": "Martin Luther King Jr.",
+            "incorrect2": "Frederick Douglass",
+            "incorrect3": "Barack Obama",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2014 SCOP Novice 5",
+            "question": "This city is home to the City Lights Bookstore and a music festival on its Treasure Island. Its Telegraph Hill is just south of Fisherman's Wharf. Its Haight-Ashbury district was a center of hippie culture in the 1960's, and its bay was once home to a federal prison on Alcatraz Island. Name this California city across the bay from Oakland, the home of cable cars and the Golden Gate Bridge.",
+            "answers": ["San Francisco"],
+            "incorrect1": "Los Angeles",
+            "incorrect2": "Seattle",
+            "incorrect3": "New York City",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This hockey legend's career was marked by both extraordinary talent and formidable health challenges, including Hodgkin's lymphoma, which he battled while still playing. Nicknamed \"The Magnificent One,\" he led the Pittsburgh Penguins to two consecutive Stanley Cup championships in 1991 and 1992.  His remarkable comeback in 2000, after a three-and-a-half-year retirement, further cemented his status as an icon.  He is the only person to have his name engraved on the Stanley Cup as both a player and an owner.  Who is this hockey great, often considered one of the most gifted players of all time?",
+            "answers": ["Mario Lemieux"],
+            "incorrect1": "Wayne Gretzky",
+            "incorrect2": "Sidney Crosby",
+            "incorrect3": "LeBron James",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2020 ERIS",
+            "question": "This group's membership was significantly expanded by the addition of a group known as the \"A8\". This group, which was preceded by the EEC and ECSC, was established via the 1992 Maastricht Treaty. In a move nicknamed \"Brexit\", the United Kingdom voted to leave this organization in a referendum. The Euro is the official currency of what organization of European states?",
+            "answers": ["European Union", "the EU", "EU"],
+            "incorrect1": "United Nations",
+            "incorrect2": "North Atlantic Treaty Organization (NATO)",
+            "incorrect3": "African Union",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2012 SCOP Novice 3",
+            "question": "The Goldhammer-Herzfeld ratio of these substances is nearly one. The oxides of these elements are used in glassmaking, and these elements are used to dope semiconductors. As it is lustrous yet brittle, selenium is sometimes considered in this group, which includes germanium, boron and silicon along the staircase of the periodic table. Give this term for elements with both metal and non-metal properties.",
+            "answers": ["metalloids", "semimetals"],
+            "incorrect1": "metals",
+            "incorrect2": "nonmetals",
+            "incorrect3": "noble gases",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film achieved a rare feat, sweeping all five major Academy Awards in 1976: Best Picture, Best Director, Best Actor, Best Actress, and Best Screenplay. Its powerful narrative unfolds within the confines of a mental institution, where the rebellious Randle McMurphy, played by Jack Nicholson, clashes with the tyrannical Nurse Ratched, portrayed by Louise Fletcher. The film's exploration of themes of conformity, rebellion, and the fight for individual freedom resonated deeply with audiences, making it a cinematic landmark. What is the title of this acclaimed film, based on Ken Kesey's novel?",
+            "answers": ["One Flew Over the Cuckoo's Nest"],
+            "incorrect1": "The Shining",
+            "incorrect2": "To Kill a Mockingbird",
+            "incorrect3": "The Great Gatsby",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2016 Pennsylvania Novice",
+            "question": "One painting by this artist depicts several figures crossing swords with a one\u00adeyed Batavian general. In addition to The Conspiracy of Claudius Civilis , a painting by this artist depicts the corpse of the criminal Aris Kindt on a table as the black\u00adhatted Dr. Nicolaes Tulp lectures and points to some exposed tendons. Another of this artist's works includes a girl in a golden dress with a chicken attached to her belt, a man waving a blue and yellow flag, and several militiamen led by Captain Frans Banning Cocq. Name this Dutch Golden Age painter of The Anatomy Lesson and The Night Watch .",
+            "answers": ["Rembrandt", "Rembrandt Harmenszoon van Rijn"],
+            "incorrect1": "Vincent van Gogh",
+            "incorrect2": "Leonardo da Vinci",
+            "incorrect3": "Michelangelo",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "This social network recently announced stricter settings for young users, including pausing their notifications at night. This platform, launched in 2010, initially gained popularity with its distinctive square format and vintage-inspired filters. It was acquired by Facebook in 2012 for a then-staggering sum of $1 billion. Its \"Stories\" feature, introduced in 2016, allows users to share ephemeral content that disappears after 24 hours, borrowing heavily from Snapchat's similar feature. It has since evolved to include features like Reels, IGTV, and live streaming, solidifying its position as a dominant force in social media. What is the name of this popular app?",
+            "answers": ["Instagram"],
+            "incorrect1": "TikTok",
+            "incorrect2": "Facebook",
+            "incorrect3": "YouTube",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2017 SCOP Novice 8",
+            "question": "Rivers that flow into this lake include the highly polluted Calumet River. This lake and its eastern neighbor are hydrologically considered the same lake because the Straits of Mackinac keep their water levels equal. Bays of this lake include Grand Traverse Bay and Green Bay. Name this Great Lake, found west of Lake Huron and south of Lake Superior, on which the city of Chicago lies.",
+            "answers": ["Lake Michigan"],
+            "incorrect1": "Lake Huron",
+            "incorrect2": "Lake Superior",
+            "incorrect3": "Lake Tahoe",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA franchise, currently playing their home games at the Frost Bank Center, holds the distinction of being the only former ABA team to have won multiple NBA championships. They clinched their first title in 1999, led by the iconic duo of David Robinson and Tim Duncan. Their success continued into the 2000s, with further championships in 2003, 2005, 2007, and 2014, under the guidance of legendary coach Gregg Popovich. The team's consistent success and emphasis on teamwork have earned them a reputation as a model franchise in professional sports. What is the name of this team, based in San Antonio, Texas?",
+            "answers": ["San Antonio Spurs", "Spurs"],
+            "incorrect1": "Los Angeles Lakers",
+            "incorrect2": "Dallas Mavericks",
+            "incorrect3": "San Antonio Commanders",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2021 CERES",
+            "question": "An obsolete and incredibly painful medical procedure known as PEG drained fluid from around this organ in order to image it with X-rays. This organ contains the limbic system, which includes the amygdala. Other parts of this organ include the temporal and frontal lobes, which are part of the cerebrum. The main organ of the nervous system is what organ is located inside the skull and responsible for thoughts?",
+            "answers": ["brain"],
+            "incorrect1": "heart",
+            "incorrect2": "lungs",
+            "incorrect3": "stomach",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 MOQBA Novice",
+            "question": "This author wrote about Otoo's rescue of Charley after the shipwreck of the Petite Jeanne in \"The Heathen.\" This author used Captain Alex MacLean as the basis of the protagonist of his novel The Sea Wolf, and in another of this author's short stories, a man dies of hypothermia while hiking in the Yukon. One of his title characters kills Jim Hall after Hall tries to kill his master Weedon Scott. Hal and Mercedes mistreat the protagonist of another of his novels, after which John Thornton rescues Buck. Name this author of \"To Build a Fire,\" White Fang, and The Call of the Wild.",
+            "answers": ["Jack London"],
+            "incorrect1": "Mark Twain",
+            "incorrect2": "Ernest Hemingway",
+            "incorrect3": "William Shakespeare",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2018 MVS RAMS",
+            "question": "Lieutenant William Calley was sentenced to life imprisonment after a massacre during this war, but served three years of house arrest. That massacre included the deaths of over 300 unarmed civilians at My Lai. This war's \"strategic hamlet\" program failed to halt the influence of a group which transported supplies along the Ho Chi Minh trail. That insurgent group helped carry out the Tet Offensive during this war. Name this war in Southeast Asia that ended with the fall of Saigon in 1975.",
+            "answers": ["Vietnam War", "Second Indochina War"],
+            "incorrect1": "Korean War",
+            "incorrect2": "World War II",
+            "incorrect3": "American Civil War",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "The Bukit Timah Nature Reserve is the largest area of rainforest left in this city. The five star Raffles Hotel is named after the city's founder, while the island of Sentosa is home to a new Universal Studios Theme Park. Its Changi airport is a regional hub, and the city is connected by bridge to Johor, in Malaysia. Name this Southeast Asian city-state, the most densely populated country in Asia.",
+            "answers": ["Singapore", "Republic of Singapore"],
+            "incorrect1": "Malaysia",
+            "incorrect2": "Thailand",
+            "incorrect3": "Hong Kong",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "The film's philosophical underpinnings explore themes of reality, free will, and the nature of existence, drawing inspiration from various philosophical traditions. It introduced the concept of the \"red pill\" and the \"blue pill,\" representing the choice between embracing the harsh truth of reality or remaining blissfully ignorant in a simulated world. Its groundbreaking visual effects and innovative action choreography set a new standard for the genre. The film features iconic action sequences like the \"bullet time\" scene, where Neo dodges bullets in slow motion while the camera seemingly circles him. What is the title of this 1999 film that revolutionized science fiction cinema?",
+            "answers": ["The Matrix"],
+            "incorrect1": "Inception",
+            "incorrect2": "The Terminator",
+            "incorrect3": "Avatar",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
     ]
 ]
