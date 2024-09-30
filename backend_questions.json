@@ -11709,5 +11709,497 @@
             "used": "TRUE",
             "source": "Marty Heavey"
         }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2022 SANDS",
+            "question": "An opera by this composer names a chord with the notes F, B, D-sharp, and G-sharp and ends with a character singing the \"Liebestod\" to mourn her lover's death. In another opera by this composer, the dwarf Alberich steals the title material from the Rhinemaidens and forges a magical object. Another opera by this composer features \"The Ride of the Valkyries\". Name this German composer of Tristan und Isolde and the Ring Cycle.",
+            "answers": ["Richard Wagner"],
+            "incorrect1": "Johann Sebastian Bach",
+            "incorrect2": "Ludwig van Beethoven",
+            "incorrect3": "Wolfgang Amadeus Mozart",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2016 SAGES",
+            "question": "This place was formerly a U.S. military building called Fort Gibson. About 5,000 people a day passed through this place in New York each year, and the first was a girl from Ireland. People coming through here passed by the Statue of Liberty. Name this immigration station from the early 20th century.",
+            "answers": ["Ellis Island"],
+            "incorrect1": "Angel Island",
+            "incorrect2": "Liberty Island",
+            "incorrect3": "Alcatraz Island",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "The independence of this commonwealth has been sought by Ruben Berrios, while an opposite approach has been pushed by its New Progressive Party under Pedro Pierluisi. In 2012, this commonwealth elected Alejandro Garcia Padilla as governor and voted in a referendum to end its territorial status. Name this Caribbean Island, a United States territory that may someday become the 51st state.",
+            "answers": ["Puerto Rico"],
+            "incorrect1": "Cuba",
+            "incorrect2": "Dominican Republic",
+            "incorrect3": "Costa Rica",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "The Sorbonne is the university of this city, which is divided into twenty arrondissements. This city is the site of a monument built to commemorate victory at the Battle of Austerlitz, the Arc de Triomphe. Notre Dame cathedral is located in this city on the Seine River, where tourists may also visit the Eiffel Tower. Name this capital of France.",
+            "answers": ["Paris"],
+            "incorrect1": "London",
+            "incorrect2": "Rome",
+            "incorrect3": "Barcelona",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This legendary crooner, known for his smooth vocals and charismatic stage presence, earned the nickname \"Ol' Blue Eyes\" for his striking blue eyes and captivating gaze. His signature song, \"My Way,\" became an anthem of self-determination and individualism.  He was a member of the Rat Pack, a group of entertainers known for their camaraderie and Las Vegas performances. His career spanned decades, with hits like \"Fly Me to the Moon,\" \"New York, New York,\" and \"Strangers in the Night\" solidifying his status as an icon. Who is this singer, often regarded as one of the greatest entertainers of the 20th century?",
+            "answers": ["Frank Sinatra"],
+            "incorrect1": "Dean Martin",
+            "incorrect2": "Elvis Presley",
+            "incorrect3": "Michael Jackson",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's iconic red and black uniforms became a symbol of basketball dominance in the 1990s. Their home arena, the United Center, witnessed legendary moments like Michael Jordan's \"flu game\" and \"The Shot\" over Craig Ehlo. Their theme song, \"Sirius\" by The Alan Parsons Project, became synonymous with their championship runs, creating an electrifying atmosphere at games. They achieved a historic \"three-peat\" twice, winning six NBA championships between 1991 and 1998, led by the legendary duo of Michael Jordan and Scottie Pippen. What is the name of this storied NBA franchise?",
+            "answers": ["Chicago Bulls", "bulls"],
+            "incorrect1": "Chicago Bears",
+            "incorrect2": "Los Angeles Lakers",
+            "incorrect3": "Boston Celtics",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This hurricane, the eighth named storm of the 2024 Atlantic hurricane season, rapidly intensified into a Category 4 hurricane, prompting hurricane warnings for parts of the Leeward Islands. Though it weakened and veered north, sparing the islands a direct hit, it still brought heavy rainfall and strong winds to the region. Its remnants caused significant flooding in the Carolinas and Appalachian Mountains, leading to widespread power outages and infrastructure damage.  What was the name of this hurricane, which ultimately dissipated over the North Atlantic?",
+            "answers": ["Helene", "hurricane helene"],
+            "incorrect1": "Mary",
+            "incorrect2": "Elizabeth",
+            "incorrect3": "Anne",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2020 SCOP MS 10",
+            "question": "This organ contains masses of lymphatic tissue known as Peyer's patches. This organ's surface area is increased by fingerlike villi that can be blunted by celiac disease. This organ, which receives chyme through the pyloric sphincter, consists of the ileum, jejunum, and duodenum. Name this digestive organ that is found between the stomach and a related, larger organ.",
+            "answers": ["small intestine", "small bowel"],
+            "incorrect1": "large intestine",
+            "incorrect2": "stomach",
+            "incorrect3": "liver",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "It was formed by the union of Chincasuyu, Antisuyu, Kuntisuyu, and Qullasuyu to form the Tahuantinsuyu, or The Four United Provinces, under the rule of Pachacuti. A later leader, Huayna Capac, divided this empire after his death among his two successors, one of whom was captured and executed by Pizarro despite paying a room full of gold as ransom. That last leader was Atahualpa. Identify this empire in South America with capital at Cusco.",
+            "answers": ["Inca Empire", "Tahuantinsuyu"],
+            "incorrect1": "Aztec Empire",
+            "incorrect2": "Mayan civilization",
+            "incorrect3": "Roman Empire",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This man was indicted on federal bribery charges on September 25, 2025. He became the first sitting mayor of New York City to be charged with crimes. Before he was a politician, this man served as a New York police office for more than 20 years. He went on to become the first Black President of Brooklyn Borough in New York in 2013. In 2021, this man was elected Mayor of New York over Curtis Silwa.",
+            "answers": ["Eric Adams"],
+            "incorrect1": "Bill DeBlasio",
+            "incorrect2": "Kathy Hochul",
+            "incorrect3": "Pete Buttigieg",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film, known for its complex dream-sharing technology and mind-bending visuals, features a rotating hallway fight scene that defied gravity and challenged viewers' perceptions. The haunting musical motif, featuring a slowed-down version of \u00c9dith Piaf's \"Non, je ne regrette rien,\" signals transitions between dream levels and heightens the film's atmosphere. Leonardo DiCaprio stars as Dom Cobb, a skilled thief who infiltrates people's dreams to steal valuable information. The film's ambiguous ending, with a spinning top left unresolved, has sparked endless debate and fan theories. What is the title of this 2010 science fiction thriller directed by Christopher Nolan?",
+            "answers": ["Inception"],
+            "incorrect1": "Interstellar",
+            "incorrect2": "The Matrix",
+            "incorrect3": "The Dark Knight",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "This person won the Nobel Peace Prize for leading negotiations for the Treaty of Portsmouth, which ended the Russo-Japanese War. This leader coined the term \"bully pulpit\" and introduced the Square Deal. During the Spanish-American War, he led a charge up San Juan Hill with the Rough Riders, and he would later run for President on the Bull Moose ticket. Name this President who succeeded William McKinley.",
+            "answers": ["Theodore Roosevelt", "Teddy Roosevelt"],
+            "incorrect1": "Franklin D. Roosevelt",
+            "incorrect2": "William Howard Taft",
+            "incorrect3": "Abraham Lincoln",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2015 SCOP Novice 6",
+            "question": "Salts of this element were once administered intramuscularly as a method of treating rheumatoid arthritis. Aqua regia, a mixture of nitric and hydrochloric acid, was given the nickname \"royal water\" for its ability to dissolve this element. Ernest Rutherford proved the existence of the atomic nucleus using a thin foil of this element, which is found below silver on the periodic table. Name this heavy transition metal with symbol Au.",
+            "answers": ["gold", "aurum"],
+            "incorrect1": "silver",
+            "incorrect2": "iron",
+            "incorrect3": "pyrite",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 SCOP A",
+            "question": "The Pantanal is mostly in this country's state of Mato Grosso do Sul. The Iguacu Falls border this nation's state of Parana, whose state capital is Curitiba. The Treaty of Madrid established the Javari River as the border between Peru and a state in this country that contains a section of the Amazon River basin. Name this South American country whose statue of Christ the Redeemer towers over Rio de Janeiro.",
+            "answers": ["Brazil", "Brasil"],
+            "incorrect1": "Argentina",
+            "incorrect2": "Mexico",
+            "incorrect3": "Portugal",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This manager is one of only three managers in Major League Baseball history to win World Series titles in both the American League and National League. He began his managerial career with the San Diego Padres, guiding them to a World Series appearance in 1998. He is known for his calm demeanor and strategic prowess, led the San Francisco Giants to three World Series titles in a span of five years (2010, 2012, 2014).   He recently came out of retirement to manage the Texas Rangers, leading them to their first-ever World Series title in 2023.  Who is this veteran skipper?",
+            "answers": ["Bruce Bochy"],
+            "incorrect1": "Dusty Baker",
+            "incorrect2": "Joe Maddon",
+            "incorrect3": "Tommy Lasorda",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 SCOP A",
+            "question": "Works in this musical genre include La grenouille, which uses a unison bariolage to imitate the croaking of a frog. Schubert's Death and the Maiden is a work in this genre, as is a set of these works by Beethoven dedicated to Count Razumovsky. Mozart dedicated a work in this genre, nicknamed\"Dissonance,\" to the composer of \"The Lark\" and \"Emperor,\" this genre's \"Father,\" Joseph Hadyn. Name this type of musical work written for two violins, a viola, and a cello.",
+            "answers": ["string quartets"],
+            "incorrect1": "symphonies",
+            "incorrect2": "operas",
+            "incorrect3": "concertos",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2021 CERES",
+            "question": "Dry Tortugas National Park lies in this body of water, into which rivers such as the Brazos and Atchafalaya drain. This body of water was the site of the Deepwater Horizon oil spill. Cities like Mobile and Tampa lie on this body of water. New Orleans and Houston are on what gulf, which receives the Mississippi River and borders states like Louisiana and Texas?",
+            "answers": ["Gulf of Mexico", "Golfo de Mexico"],
+            "incorrect1": "Gulf of California",
+            "incorrect2": "Atlantic Ocean",
+            "incorrect3": "Caribbean Sea",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "The city's baseball team played its last game at The Coliseum in September 2024. The city's team, the Athletics, starting playing in this city in 1968 and will move to Las Vegas when a new stadium is constructed.  Its location on the eastern shore of the San Francisco Bay provides stunning views of the city skyline and the iconic Golden Gate Bridge. It also played a significant role in the Black Panther Party's history, serving as the organization's founding city in 1966. What is the name of this California city, often referred to as \"The Town\"?",
+            "answers": ["Oakland"],
+            "incorrect1": "San Francisco",
+            "incorrect2": "San Jose",
+            "incorrect3": "Sacramento",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This musical prodigy from Minnesota taught himself to play over 20 instruments by the age of 14, showcasing his exceptional musical talent. His flamboyant stage presence, often featuring androgynous attire and electrifying performances, captivated audiences worldwide. He wrote and produced his debut album, \"For You,\" at the age of 19, playing all 27 instruments himself. His iconic film \"Purple Rain,\" released in 1984, solidified his status as a pop culture icon, blending music, drama, and social commentary. Who is this legendary musician, known for his innovative sound and enigmatic persona?",
+            "answers": ["Prince"],
+            "incorrect1": "Michael Jackson",
+            "incorrect2": "David Bowie",
+            "incorrect3": "Elvis Presley",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 HIGS",
+            "question": "The title character of this novel is entertained by the \"Akashi Novice\" and disappears in the chapter \"Vanished into the Clouds\". In this novel, Suzaku exiles the title character to Suma. Reizei and Kaoru are children of the protagonist of this novel, who betrays his wife Aoi no Ue by having an affair with Lady Fujitsubo. Name this Heian period work by Lady Murasaki about the title \"shining prince\", considered to be the world's first novel.",
+            "answers": ["The Tale of Genji"],
+            "incorrect1": "The Odyssey",
+            "incorrect2": "Don Quixote",
+            "incorrect3": "Pride and Prejudice",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2017 SCOP Novice 8",
+            "question": "Diving below ten meters can lead to this element's namesake narcosis. A drug containing three atoms of this element is commonly used to treat chest pains. The urea cycle excretes this element's waste, and Azotobacter soil microbes fix this element in its namesake cycle. Nucleotide bases like adenine and thymine include several atoms of what gaseous element with 7 protons in its nucleus and chemical symbol N?",
+            "answers": ["nitrogen"],
+            "incorrect1": "oxygen",
+            "incorrect2": "carbon dioxide",
+            "incorrect3": "water",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "The Poona Pact was a result of this man's protests of reserved seating in the \"harijan.\" This man, who led a division of stretcher bearers in a Zulu Rebellion, wrote The Story of My Experiments with Truth and married Kasturba. He made a compromise with Lord Irwin but still wore homespun cloth as a boycott of foreign textiles. One of his most well known actions took place from Sabamarti to Dandi. That action included seventy-eight volunteers, at its peak was nearly two miles long, and was known as the Salt March. Name this leader of the Indian independence movement who was a proponent of nonviolence.",
+            "answers": ["Mahatma Gandhi", "Mohanndas Karamchand Gandhi"],
+            "incorrect1": "Nelson Mandela",
+            "incorrect2": "Martin Luther King Jr.",
+            "incorrect3": "Abraham Lincoln",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This baseball team set a record for most losses in a single season in 2024. This team's infamous 1919 World Series loss, known as the \"Black Sox Scandal,\" involved eight players intentionally throwing games in exchange for money from gamblers.  Despite this dark chapter, they have won three World Series titles, including a memorable championship run in 2005 that ended an 88-year drought. They are known for their classic black and white uniforms and their passionate fanbase on the South Side of Chicago.  What is the name of this American League team?",
+            "answers": ["Chicago White Sox", "white sox"],
+            "incorrect1": "Chicago Cubs",
+            "incorrect2": "St. Louis Cardinals",
+            "incorrect3": "New York Yankees",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2022 SCOP MS 11",
+            "question": "Press Secretary Ron Ziegler described the start of this event as a \"third-rate burglary attempt.\" During this event, Room 419 at a Howard Johnson motel was used as a lookout post, but officers arrested James McCord and four other people at DNC headquarters. A \"smoking gun\" tape recorded at the White House revealed the involvement of the president in what 1972 break-in and ensuing cover-up that led to the resignation of Richard Nixon?",
+            "answers": ["Watergate burglary", "Watergate", "Watergate scandal"],
+            "incorrect1": "Iran-Contra affair",
+            "incorrect2": "Teapot Dome scandal",
+            "incorrect3": "Lewinsky scandal",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2015 SAGES",
+            "question": "In this 2014 Stephen Sondheim musical film, a childless couple must gather items to break a witch's spell. One character in this film steals coins and a harp and sings about \"Giants in the Sky.\" Two princes sing of their \"Agony\" in this film on a waterfall. Name this movie starring Anna Kendrick as Cinderella.",
+            "answers": ["Into the Woods"],
+            "incorrect1": "Sweeney Todd",
+            "incorrect2": "Wicked",
+            "incorrect3": "The Sound of Music",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2013 SCOP Novice 4",
+            "question": "This work's last \"Fact\" notes that the enemy has recruited \"merciless Indian Savages.\" It ends with 56 people mutually pledging \"our Lives, our Fortunes, and our sacred Honor.\" This work holds that all men are endowed with \"certain unalienable Rights,\" including \"Life, Liberty, and the pursuit of Happiness,\" and that \"all men are created equal.\" Name this document, adopted on July 4, 1776, in which the U.S. broke away from Great Britain.",
+            "answers": ["U.S. Declaration of Independence"],
+            "incorrect1": "U.S. Constitution",
+            "incorrect2": "Bill of Rights",
+            "incorrect3": "Magna Carta",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2015 SAGES",
+            "question": "This continent was first discovered by the Russian ship Vostok, which is also the name of this continent's largest lake. The Amundsen Sea on the western part of this continent is usually frozen over. Name this continent that contains the Ross Ice Shelf and is located at the South Pole.",
+            "answers": ["Antarctica"],
+            "incorrect1": "Arctic",
+            "incorrect2": "Greenland",
+            "incorrect3": "Australia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film, shot predominantly in black and white with a few deliberate uses of color, features a poignant scene where a young girl in a red coat wanders through the Krak\u00f3w ghetto. The film's director, Steven Spielberg, refused to accept a salary for his work, considering any earnings to be \"blood money.\" It is based on the true story of a German businessman who saved the lives of over a thousand Jewish refugees by employing them in his factories. It won seven Academy Awards, including Best Picture and Best Director. What is the title of this powerful 1993 historical drama?",
+            "answers": ["Schindler's List"],
+            "incorrect1": "Saving Private Ryan",
+            "incorrect2": "The Pianist",
+            "incorrect3": "The Shawshank Redemption",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This man prosecuted Dolabella when he returned home after his marriage to Cornelia forced him to flee during Sulla's dictatorship. At Alesia, this man defeated Vercingetorix, and at the Battle of Pharsalus he defeated Pompey, who, with Crassus and this man, had been in the first triumvirate. The conqueror of Gaul name this Roman who crossed the Rubicon after saying \"the die is cast\", and was assassinated on the Ides of March by Brutus in 44 B.C.E.",
+            "answers": ["Gaius Julius Caesar"],
+            "incorrect1": "Augustus Caesar",
+            "incorrect2": "Nero",
+            "incorrect3": "Alexander the Great",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL coach began his NFL coaching career as a special assistant with the Baltimore Colts in 1975. His coaching tree, which includes prominent names like Brian Flores and Matt Patricia, reflects his influence on the sport. He is known for his signature hoodie and stoic demeanor on the sidelines, holds the record for the most Super Bowl wins as a head coach, with six championships to his name. Who is this legendary coach who led to New England Patriots to multiple Super Bowls?",
+            "answers": ["Bill Belichick"],
+            "incorrect1": "Tom Brady",
+            "incorrect2": "Vince Lombardi",
+            "incorrect3": "Pete Carroll",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This US state is one of 2 states (along with Maine) that does not award it's electoral votes in a winner-take-all fashion. The state's governor favored changing to a winner-take-all system, but failed to secure the State Senate votes in September 2024. It is the only state with a unicameral legislature which consists of a single chamber of nonpartisan senators.. What is this Midwestern state, home to Omaha and nicknamed the \"Cornhusker State\"?",
+            "answers": ["Nebraska"],
+            "incorrect1": "Kansas",
+            "incorrect2": "Iowa",
+            "incorrect3": "Nevada",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2018 MVS RAMS",
+            "question": "In RSA encryption, two of these numbers are multiplied to create a public key. These numbers can be identified using the Sieve of Eratosthenes, and Hillel Furstenberg and Euclid both published proofs demonstrating that there are infinitely many of these numbers. Every positive integer can be expressed by a factorization of these numbers. Name these numbers whose only factors are themselves and one.",
+            "answers": ["prime numbers", "primes"],
+            "incorrect1": "odd numbers",
+            "incorrect2": "even numbers",
+            "incorrect3": "composite numbers",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "The US Justice Department sued this company in late September 2024 for maintaining a monopoly on debit card payments. This financial services corporation, with its iconic logo featuring a blue and gold design, facilitates electronic funds transfers globally through its vast network. Its origins trace back to 1958 when it was launched as BankAmericard by Bank of America. Name this company that processes billions of transactions annually, connecting consumers, businesses, and financial institutions worldwide.",
+            "answers": ["Visa"],
+            "incorrect1": "Mastercard",
+            "incorrect2": "American Express",
+            "incorrect3": "Discover",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "The Czech school of this movement included Otto Guttfreund, while the Puteaux Group or Golden Section practiced Orphism. The name for this movement was coined by Louis Vauxcelles as a criticism of the work of Fernand Leger. A portrait of the founder of this movement was made by Juan Gris. Works by more famous members of this movement include Still-life with Chair Caning and Three Musicians. A work by the founder of this movement depicts the bombing of a Basque town during the Spanish Civil War. Name this art movement which had analytic and synthetic types, led by Georges Braque and Pablo Picasso.",
+            "answers": ["Cubism"],
+            "incorrect1": "Impressionism",
+            "incorrect2": "Surrealism",
+            "incorrect3": "Realism",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actor, known for his immersive approach to his roles, famously gained 60 pounds for his portrayal of Howard Hughes in \"The Aviator.\" He began his career with recurring roles in television series like \"Growing Pains\" and \"Santa Barbara.\"  He earned his first Academy Award for Best Actor in 2016 for his grueling performance in \"The Revenant.\" He is also a dedicated environmental activist. Who is this acclaimed actor, known for his collaborations with Martin Scorsese and his roles in films like \"Titanic\" and \"Inception\"?",
+            "answers": ["Leonardo DiCaprio"],
+            "incorrect1": "Brad Pitt",
+            "incorrect2": "Tom Hanks",
+            "incorrect3": "Matt Damon",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL team, whose home games are played at MetLife Stadium in East Rutherford, New Jersey, shares its stadium with another New York-based team. They have a storied rivalry with the Dallas Cowboys, a matchup that often draws national attention and fervent fan engagement. The team has won eight NFL championships, four in the pre-Super Bowl era and four Super Bowl titles. Their iconic blue and white uniforms and the \"NY\" logo are instantly recognizable symbols of the franchise. What is the name of this team, whose recent history includes a surprising playoff run in 2023?",
+            "answers": ["New York Giants", "giants"],
+            "incorrect1": "New York Jets",
+            "incorrect2": "Dallas Cowboys",
+            "incorrect3": "New York Yankees",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2021 SCOP B",
+            "question": "A 1946 essay that argued that this field of thought \"is a Humanism\" was later rejected by its author. An absurd essay in this philosophical movement ends by noting that \"one must imagine Sisyphus happy,\" since a key tenet of this philosophy is the angst or anxiety of living in a meaningless world. Soren Kierkegaard and Jean-Paul Sartre were thinkers in what branch of philosophy that focuses on the individual's place in reality?",
+            "answers": ["existentialism"],
+            "incorrect1": "absurdism",
+            "incorrect2": "nihilism",
+            "incorrect3": "stoicism",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "Prior to moving to Texas, Sam Houston represented this state in Congress and served as its governor. The unequal populations of its House districts led to the principle of \"one man, one vote\" arising from the Supreme Court decision Baker v. Carr. Its senators have included Estes Kefauver, John Bell, and the most recent presidential candidate to win the popular vote but not the Electoral College. The Battle of Lookout Mountain and the assassination of Martin Luther King, Jr., both took place in what U.S. state, the political home of James K. Polk, Andrew Johnson, and Al Gore?",
+            "answers": ["Tennessee"],
+            "incorrect1": "Kentucky",
+            "incorrect2": "Arkansas",
+            "incorrect3": "Texas",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "Nk'mip is this country's only hot desert, located near the town of Osoyoos. This country is home to the world's largest freshwater sand dunes and bar system, which is located in its most populous political subdivision. The volcano Mount Garibaldi is found in this country, and this country's highest point is at Mount Logan. This country's longest river was dubbed \"disappointment\" river by its founder. That river is the Mackenzie River which has its source at the Great Slave Lake. Name this North American country with capital at Ottawa.",
+            "answers": ["Canada"],
+            "incorrect1": "United States",
+            "incorrect2": "Mexico",
+            "incorrect3": "Greenland",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2021 CERES",
+            "question": "Along with sulfur, oxides of this element in the air combine with water to form acid rain. A fixation process named for this element which occurs in plants produces ammonia, which contains one atom of this element bonded to 3 hydrogen atoms. This is the most common element in the Earth's atmosphere, which is composed of 78% of this element. What element with atomic number 7 has the chemical symbol N?",
+            "answers": ["nitrogen"],
+            "incorrect1": "oxygen",
+            "incorrect2": "carbon dioxide",
+            "incorrect3": "water",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "Neuseider Lake can be found in this country, which also features the Arlberg Mountain range in this country's Tyrol province. The Danube River flows through this country's city of Linz before heading into this country's capital, which features the Schonbrunn Palace. Thoroughly covered by the Alps, this country's highest mountain is the aptly-named Grossglockner. Home country to the 1815 Conference that set the balance of power after the Napoleonic Wars name this central European country with capital at Vienna.",
+            "answers": ["Austria"],
+            "incorrect1": "Australia",
+            "incorrect2": "Germany",
+            "incorrect3": "Switzerland",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This MLB team's home stadium, Rogers Centre, features a retractable roof, a unique feature that allows for both indoor and outdoor games. The team's iconic victory in the 1992 World Series, clinched with a walk-off home run by Joe Carter, marked the first time a Canadian team won the championship. Their distinctive blue and white uniforms, with a prominent maple leaf emblem, represent their Canadian heritage. What is the name of this Major League Baseball team based in Toronto?",
+            "answers": ["Toronto Blue Jays", "blue jays"],
+            "incorrect1": "Toronto Maple Leafs",
+            "incorrect2": "New York Yankees",
+            "incorrect3": "Montreal Expos",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This BBC series' creators, Steven Moffat and Mark Gatiss, are also known for their work on another popular BBC series, \"Doctor Who.\" It is a modern update to the classic stories, features a memorable scene where Benedict Cumberbatch's character dramatically jumps from a hospital rooftop, seemingly to his death. Its contemporary setting and fast-paced editing style contrast with traditional depictions of the detective, while still retaining the core elements of the original stories. The series' popularity sparked a renewed interest in Sherlock Holmes and catapulted its lead actors to international fame. What is the name of this acclaimed television series?",
+            "answers": ["Sherlock"],
+            "incorrect1": "Poirot",
+            "incorrect2": "James Bond",
+            "incorrect3": "Harry Potter",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "The density of this quantity is equal to electrical field times conductivity. The integral of the magnetic field is proportional to this quantity by Ampere's Law. For a diode, this is proportional to the exponential voltage. Ohm's Law states that voltage is equal to this quantity times resistance. Name this quantity measured in amperes, the amount of charge flowing through a point over time.",
+            "answers": ["current", "I"],
+            "incorrect1": "voltage",
+            "incorrect2": "resistance",
+            "incorrect3": "power",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Moo Deng, a pygmy animal of this species living in a Thai zoo, gained notoriety at two months of age in September 2024 as a popular meme. This semi-aquatic mammal, despite its herbivorous diet, possesses incredibly strong jaws and sharp teeth, capable of biting with a force of over 2,000 pounds per square inch. Its name comes from the ancient Greek for \"river horse,\" reflecting its affinity for water and its horse-like appearance. What is this large, thick-skinned mammal native to sub-Saharan Africa? ",
+            "answers": ["Hippopotamus", "hippo", "pygmy Hippopotamus"],
+            "incorrect1": "Rhinoceros",
+            "incorrect2": "Elephant",
+            "incorrect3": "Giraffe",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2022 KICKOFF Novice",
+            "question": "This thinker blamed social issues on not calling things by their proper names, a problem he resolved with his \"rectification of names.\" This mentor of Mencius advocated for archery and calligraphy in his \"Six Arts,\" which are essential to becoming a perfect gentleman. This thinker developed five kinds of relationships, which are subject to filial piety. Name this Ancient Chinese philosopher, whose thoughts are collected in the Analects.",
+            "answers": ["Confucius"],
+            "incorrect1": "Lao Tzu",
+            "incorrect2": "Buddha",
+            "incorrect3": "Socrates",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "Policies during this war included the \"strategic hamlet\" program and the use of Agent Orange as a defoliant. The Battle of Khe Sanh was fought during this war, which ended with the fall of Saigon, a city that was renamed after the victorious side's leader, Ho Chi Minh. A memorial wall in Washington, DC lists the American casualties of what conflict in Southeast Asia?",
+            "answers": ["Vietnam War"],
+            "incorrect1": "Korean War",
+            "incorrect2": "World War II",
+            "incorrect3": "American Civil War",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2022 MAKEMAKE",
+            "question": "Carabosse curses a princess in a ballet by this composer, which features Desire waking her up with a kiss. Some productions of a ballet by this composer of Sleeping Beauty include a scene depicting Von Rothbart turning Odette into the title animal. In addition to Swan Lake, this man wrote a ballet featuring the Dance of the Sugar Plum Fairies. Name this Russian composer of The Nutcracker.",
+            "answers": ["Peter Tchaikovsky", "Pyotr Ilyich Tchaikovsky"],
+            "incorrect1": "Johann Sebastian Bach",
+            "incorrect2": "Ludwig van Beethoven",
+            "incorrect3": "Wolfgang Amadeus Mozart",
+            "used": "TRUE"
+        }
     ]
 ]
