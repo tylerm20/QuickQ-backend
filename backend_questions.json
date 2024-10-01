@@ -11724,7 +11724,7 @@
         {
             "category": "US History",
             "source": "2016 SAGES",
-            "question": "This place was formerly a U.S. military building called Fort Gibson. About 5,000 people a day passed through this place in New York each year, and the first was a girl from Ireland. People coming through here passed by the Statue of Liberty. Name this immigration station from the early 20th century.",
+            "question": "This immigration station, which processed millions of newcomers to the United States in the early 20th century, was built on the site of a former military installation, Fort Gibson.  A young girl from Ireland was the first immigrant to pass through its doors, embarking on a new life in America.  Located near the Statue of Liberty, it served as a symbolic gateway to the nation, offering hope and opportunity to those seeking a better future. What is the name of this historic landmark?",
             "answers": ["Ellis Island"],
             "incorrect1": "Angel Island",
             "incorrect2": "Liberty Island",
@@ -11763,7 +11763,7 @@
         },
         {
             "category": "Sports",
-            "question": "This team's iconic red and black uniforms became a symbol of basketball dominance in the 1990s. Their home arena, the United Center, witnessed legendary moments like Michael Jordan's \"flu game\" and \"The Shot\" over Craig Ehlo. Their theme song, \"Sirius\" by The Alan Parsons Project, became synonymous with their championship runs, creating an electrifying atmosphere at games. They achieved a historic \"three-peat\" twice, winning six NBA championships between 1991 and 1998, led by the legendary duo of Michael Jordan and Scottie Pippen. What is the name of this storied NBA franchise?",
+            "question": "This team's iconic red and black uniforms became a symbol of basketball dominance in the 1990s. Their home arena, the United Center, witnessed legendary moments like Michael Jordan's \"flu game\" and \"The Shot\" over Craig Ehlo. Their theme song, \"Sirius\" by The Alan Parsons Project, became synonymous with their championship runs. They achieved a historic \"three-peat\" twice, winning six NBA championships between 1991 and 1998, led by the legendary duo of Michael Jordan and Scottie Pippen. What is the name of this storied NBA franchise?",
             "answers": ["Chicago Bulls", "bulls"],
             "incorrect1": "Chicago Bears",
             "incorrect2": "Los Angeles Lakers",
@@ -11805,7 +11805,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This man was indicted on federal bribery charges on September 25, 2025. He became the first sitting mayor of New York City to be charged with crimes. Before he was a politician, this man served as a New York police office for more than 20 years. He went on to become the first Black President of Brooklyn Borough in New York in 2013. In 2021, this man was elected Mayor of New York over Curtis Silwa.",
+            "question": "This man was indicted on federal bribery charges on September 25, 2025. He became the first sitting mayor of New York City to be charged with crimes. Before he was a politician, this man served as a New York police officer for more than 20 years. He went on to become the first Black President of Brooklyn Borough in New York in 2013. In 2021, this man was elected Mayor of New York over Curtis Silwa.",
             "answers": ["Eric Adams"],
             "incorrect1": "Bill DeBlasio",
             "incorrect2": "Kathy Hochul",
@@ -11815,7 +11815,7 @@
         },
         {
             "category": "Entertainment",
-            "question": "This film, known for its complex dream-sharing technology and mind-bending visuals, features a rotating hallway fight scene that defied gravity and challenged viewers' perceptions. The haunting musical motif, featuring a slowed-down version of \u00c9dith Piaf's \"Non, je ne regrette rien,\" signals transitions between dream levels and heightens the film's atmosphere. Leonardo DiCaprio stars as Dom Cobb, a skilled thief who infiltrates people's dreams to steal valuable information. The film's ambiguous ending, with a spinning top left unresolved, has sparked endless debate and fan theories. What is the title of this 2010 science fiction thriller directed by Christopher Nolan?",
+            "question": "This film, known for its complex dream-sharing technology and mind-bending visuals, features a rotating hallway fight scene that defied gravity. The haunting musical motif, featuring a slowed-down version of \u00c9dith Piaf's \"Non, je ne regrette rien,\" signals transitions between dream levels and heightens the film's atmosphere. Leonardo DiCaprio stars as Dom Cobb, a skilled thief who infiltrates people's dreams to steal valuable information. The film's ambiguous ending, with a spinning top left unresolved, has sparked endless debate and fan theories. What is the title of this 2010 science fiction thriller directed by Christopher Nolan?",
             "answers": ["Inception"],
             "incorrect1": "Interstellar",
             "incorrect2": "The Matrix",
