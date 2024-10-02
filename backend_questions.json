@@ -11805,7 +11805,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This man was indicted on federal bribery charges on September 25, 2025. He became the first sitting mayor of New York City to be charged with crimes. Before he was a politician, this man served as a New York police officer for more than 20 years. He went on to become the first Black President of Brooklyn Borough in New York in 2013. In 2021, this man was elected Mayor of New York over Curtis Silwa.",
+            "question": "This man was indicted on federal bribery charges on September 25, 2025. He became the person holding his position to be charged with crimes while in office. Before he was a politician, this man served as a New York police officer for more than 20 years. He went on to become the first Black President of Brooklyn Borough in New York in 2013. Name this man who was elected Mayor of New York over Curtis Silwa in 2021.",
             "answers": ["Eric Adams"],
             "incorrect1": "Bill DeBlasio",
             "incorrect2": "Kathy Hochul",
@@ -11815,7 +11815,7 @@
         },
         {
             "category": "Entertainment",
-            "question": "This film, known for its complex dream-sharing technology and mind-bending visuals, features a rotating hallway fight scene that defied gravity. The haunting musical motif, featuring a slowed-down version of \u00c9dith Piaf's \"Non, je ne regrette rien,\" signals transitions between dream levels and heightens the film's atmosphere. Leonardo DiCaprio stars as Dom Cobb, a skilled thief who infiltrates people's dreams to steal valuable information. The film's ambiguous ending, with a spinning top left unresolved, has sparked endless debate and fan theories. What is the title of this 2010 science fiction thriller directed by Christopher Nolan?",
+            "question": "This film, known for its complex dream-sharing technology and mind-bending visuals, features a rotating hallway fight scene that defied gravity. The haunting musical motif, featuring a slowed-down version of \u00c9dith Piaf's \"Non, je ne regrette rien,\" signals transitions between dream levels. Leonardo DiCaprio stars as Dom Cobb, a skilled thief who infiltrates people's dreams to steal valuable information. The film's ambiguous ending, with a spinning top left unresolved, has sparked endless fan theories. What is the title of this 2010 science fiction thriller directed by Christopher Nolan?",
             "answers": ["Inception"],
             "incorrect1": "Interstellar",
             "incorrect2": "The Matrix",
@@ -11897,7 +11897,7 @@
         },
         {
             "category": "Entertainment",
-            "question": "This musical prodigy from Minnesota taught himself to play over 20 instruments by the age of 14, showcasing his exceptional musical talent. His flamboyant stage presence, often featuring androgynous attire and electrifying performances, captivated audiences worldwide. He wrote and produced his debut album, \"For You,\" at the age of 19, playing all 27 instruments himself. His iconic film \"Purple Rain,\" released in 1984, solidified his status as a pop culture icon, blending music, drama, and social commentary. Who is this legendary musician, known for his innovative sound and enigmatic persona?",
+            "question": "This musical prodigy from Minnesota taught himself to play over 20 instruments by the age of 14, showcasing his exceptional talent. His flamboyant stage presence, often featuring androgynous attire, captivated audiences worldwide. He wrote and produced his debut album, \"For You,\" at the age of 19, playing all 27 instruments himself. His iconic film \"Purple Rain,\" released in 1984, solidified his status as a pop culture icon. Who is this legendary musician, known for his innovative sound and enigmatic persona?",
             "answers": ["Prince"],
             "incorrect1": "Michael Jackson",
             "incorrect2": "David Bowie",
@@ -11937,11 +11937,11 @@
         },
         {
             "category": "Sports",
-            "question": "This baseball team set a record for most losses in a single season in 2024. This team's infamous 1919 World Series loss, known as the \"Black Sox Scandal,\" involved eight players intentionally throwing games in exchange for money from gamblers.  Despite this dark chapter, they have won three World Series titles, including a memorable championship run in 2005 that ended an 88-year drought. They are known for their classic black and white uniforms and their passionate fanbase on the South Side of Chicago.  What is the name of this American League team?",
-            "answers": ["Chicago White Sox", "white sox"],
-            "incorrect1": "Chicago Cubs",
-            "incorrect2": "St. Louis Cardinals",
-            "incorrect3": "New York Yankees",
+            "question": "This NFL coach began his NFL coaching career as a special assistant with the Baltimore Colts in 1975. His coaching tree, which includes prominent names like Brian Flores and Matt Patricia, reflects his influence on the sport. He is known for his signature hoodie and stoic demeanor on the sidelines, holds the record for the most Super Bowl wins as a head coach, with six championships to his name. Who is this legendary coach who led to New England Patriots to multiple Super Bowls?",
+            "answers": ["Bill Belichick"],
+            "incorrect1": "Tom Brady",
+            "incorrect2": "Vince Lombardi",
+            "incorrect3": "Pete Carroll",
             "used": "TRUE",
             "source": "Marty Heavey"
         },
@@ -12009,11 +12009,11 @@
         },
         {
             "category": "Sports",
-            "question": "This NFL coach began his NFL coaching career as a special assistant with the Baltimore Colts in 1975. His coaching tree, which includes prominent names like Brian Flores and Matt Patricia, reflects his influence on the sport. He is known for his signature hoodie and stoic demeanor on the sidelines, holds the record for the most Super Bowl wins as a head coach, with six championships to his name. Who is this legendary coach who led to New England Patriots to multiple Super Bowls?",
-            "answers": ["Bill Belichick"],
-            "incorrect1": "Tom Brady",
-            "incorrect2": "Vince Lombardi",
-            "incorrect3": "Pete Carroll",
+            "question": "This baseball team set a record for most losses in a single season in 2024. This team's infamous 1919 World Series loss, known as the \"Black Sox Scandal,\" involved eight players intentionally throwing games in exchange for money from gamblers.  Despite this dark chapter, they have won three World Series titles, including a memorable championship run in 2005 that ended an 88-year drought. They are known for their classic black and white uniforms and their passionate fanbase on the South Side of Chicago.  What is the name of this American League team?",
+            "answers": ["Chicago White Sox", "white sox"],
+            "incorrect1": "Chicago Cubs",
+            "incorrect2": "St. Louis Cardinals",
+            "incorrect3": "New York Yankees",
             "used": "TRUE",
             "source": "Marty Heavey"
         },
