@@ -12052,7 +12052,7 @@
         {
             "category": "Arts & Literature",
             "source": "2013 Fall Kickoff Tournament (FKT)",
-            "question": "The Czech school of this movement included Otto Guttfreund, while the Puteaux Group or Golden Section practiced Orphism. The name for this movement was coined by Louis Vauxcelles as a criticism of the work of Fernand Leger. A portrait of the founder of this movement was made by Juan Gris. Works by more famous members of this movement include Still-life with Chair Caning and Three Musicians. A work by the founder of this movement depicts the bombing of a Basque town during the Spanish Civil War. Name this art movement which had analytic and synthetic types, led by Georges Braque and Pablo Picasso.",
+            "question": "The Czech school of this movement included Otto Guttfreund, while the Puteaux Group or Golden Section practiced Orphism. The name for this movement was coined by Louis Vauxcelles as a criticism of the work of Fernand Leger. Works by more famous members of this movement include Still-life with Chair Caning and Three Musicians. A work by the founder of this movement depicts the bombing of a Basque town during the Spanish Civil War. Name this art movement which had analytic and synthetic types, led by Georges Braque and Pablo Picasso.",
             "answers": ["Cubism"],
             "incorrect1": "Impressionism",
             "incorrect2": "Surrealism",
@@ -12071,7 +12071,7 @@
         },
         {
             "category": "Sports",
-            "question": "This NFL team, whose home games are played at MetLife Stadium in East Rutherford, New Jersey, shares its stadium with another New York-based team. They have a storied rivalry with the Dallas Cowboys, a matchup that often draws national attention and fervent fan engagement. The team has won eight NFL championships, four in the pre-Super Bowl era and four Super Bowl titles. Their iconic blue and white uniforms and the \"NY\" logo are instantly recognizable symbols of the franchise. What is the name of this team, whose recent history includes a surprising playoff run in 2023?",
+            "question": "This NFL team, whose home games are played at MetLife Stadium in East Rutherford, New Jersey. They have a storied rivalry with the Dallas Cowboys, a matchup that often draws national attention and fervent fan engagement. The team has won eight NFL championships, four in the pre-Super Bowl era and four Super Bowl titles. Their iconic blue and white uniforms and the \"NY\" logo are instantly recognizable symbols of the franchise. What is the name of this team, whose recent history includes a surprising playoff run in 2023?",
             "answers": ["New York Giants", "giants"],
             "incorrect1": "New York Jets",
             "incorrect2": "Dallas Cowboys",
@@ -12092,7 +12092,7 @@
         {
             "category": "US History",
             "source": "2013 Fall Kickoff Tournament (FKT)",
-            "question": "Prior to moving to Texas, Sam Houston represented this state in Congress and served as its governor. The unequal populations of its House districts led to the principle of \"one man, one vote\" arising from the Supreme Court decision Baker v. Carr. Its senators have included Estes Kefauver, John Bell, and the most recent presidential candidate to win the popular vote but not the Electoral College. The Battle of Lookout Mountain and the assassination of Martin Luther King, Jr., both took place in what U.S. state, the political home of James K. Polk, Andrew Johnson, and Al Gore?",
+            "question": "Prior to moving to Texas, Sam Houston represented this state in Congress and served as its governor. The unequal populations of its House districts led to the principle of \"one man, one vote\" arising from the Supreme Court decision Baker v. Carr. The Battle of Lookout Mountain and the assassination of Martin Luther King, Jr., both took place in what U.S. state, the political home of James K. Polk, Andrew Johnson, and Al Gore?",
             "answers": ["Tennessee"],
             "incorrect1": "Kentucky",
             "incorrect2": "Arkansas",
@@ -12102,7 +12102,7 @@
         {
             "category": "Geography",
             "source": "2013 Fall Kickoff Tournament (FKT)",
-            "question": "Nk'mip is this country's only hot desert, located near the town of Osoyoos. This country is home to the world's largest freshwater sand dunes and bar system, which is located in its most populous political subdivision. The volcano Mount Garibaldi is found in this country, and this country's highest point is at Mount Logan. This country's longest river was dubbed \"disappointment\" river by its founder. That river is the Mackenzie River which has its source at the Great Slave Lake. Name this North American country with capital at Ottawa.",
+            "question": "Nk'mip is this country's only hot desert, located near the town of Osoyoos. This country is home to the world's largest freshwater sand dunes and bar system. The volcano Mount Garibaldi is found in this country, and this country's highest point is at Mount Logan. The country's longest river is the Mackenzie River which has its source at the Great Slave Lake. Name this North American country with capital at Ottawa.",
             "answers": ["Canada"],
             "incorrect1": "United States",
             "incorrect2": "Mexico",
@@ -12199,6 +12199,262 @@
             "incorrect1": "Johann Sebastian Bach",
             "incorrect2": "Ludwig van Beethoven",
             "incorrect3": "Wolfgang Amadeus Mozart",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This baseball legend passed away in September 2024. Nicknamed \"Charlie Hustle\" for his relentless style of play, he holds the Major League record for most career hits, with 4,256 hits. He won three World Series titles, one with the Cincinnati Reds and two with the Philadelphia Phillies. He was a key member of the \"Big Red Machine\" dynasty of the 1970s. However, his legacy is marred by a lifetime ban from baseball in 1989 for betting on games while managing the Reds. Who is this controversial figure in baseball history?",
+            "answers": ["Pete Rose"],
+            "incorrect1": "Barry Bonds",
+            "incorrect2": "Babe Ruth",
+            "incorrect3": "Michael Jordan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2013 SCOP Novice 4",
+            "question": "This city is home to the cylindrically-shaped Hirshhorn Art Museum, just west of the National Museum of the American Indian on Independence Avenue. Robert Mills and Maya Lin designed memorials in this city, which lies on the junction of the Anacostia and Potomac Rivers. Eleven of the Smithsonian Institution's museums are on the National Mall in this city, west of the Capitol Building. Name this city, home of the White House.",
+            "answers": [
+                "Washington, D.C.",
+                "District of Columbia",
+                "Washington",
+                "DC",
+                "D.C."
+            ],
+            "incorrect1": "New York City",
+            "incorrect2": "Los Angeles",
+            "incorrect3": "London",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This notoriously private actor, known for his intense method acting, once worked as a shoemaker's apprentice in Florence, Italy, during a break from acting. He famously remained in character as Christy Brown, a writer and painter with cerebral palsy, throughout the filming of \"My Left Foot,\" even requiring assistance with eating and moving around. He is one of only three men to have won three Academy Awards for Best Actor, a testament to his exceptional talent and dedication to his craft. Who is this acclaimed actor, the star of \"Lincoln\", that announced his retirement from acting in 2017? ",
+            "answers": ["Daniel Day-Lewis"],
+            "incorrect1": "Tom Hanks",
+            "incorrect2": "Meryl Streep",
+            "incorrect3": "Leonardo DiCaprio",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2017 Darien DEFT",
+            "question": "An archaeological site from this civilization includes The Temple of the Sun and the Room of Three Windows and was discovered by Hiram Bingham. A successor state to this empire was centered at Vilcabamba and led by Manco Capac and Tupac Amaru. One ruler of this empire defeated his brother Huascar in a civil war and offered a roomful of gold as a ransom after he was captured by a conquistador at the Battle of Cajamarca. Atahualpa led what South American empire conquered by Francisco Pizarro?",
+            "answers": ["Incan Empire"],
+            "incorrect1": "Aztec Empire",
+            "incorrect2": "Mayan civilization",
+            "incorrect3": "Roman Empire",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2015 SAGES",
+            "question": "This place is the setting of the poem \"Paradise Lost\" by John Milton. Mormons believe that this place is located in Jackson County, Missouri. God placed a special tree and a serpent in this place. Name this place where Adam and Eve disobeyed God after eating a piece of Forbidden Fruit.",
+            "answers": ["The Garden of Eden"],
+            "incorrect1": "Mount Olympus",
+            "incorrect2": "Atlantis",
+            "incorrect3": "Shangri-La",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "A labor action by members of this profession, involving approximately 45,000 workers across 36 ports from Maine to Texas, marks the first major strike in this industry in over four decades. The key issues at stake include wage increases, the rising cost of living, and concerns about the impact of automation on jobs. The strike has the potential to disrupt supply chains and contribute to inflation if it continues for an extended period. Which group of workers, represented by the International Longshoremen's Association (ILA), were on strike to start October, impacting ports along the East and Gulf Coasts of the United States?",
+            "answers": ["Dockworkers", "port workers"],
+            "incorrect1": "Truck drivers",
+            "incorrect2": "Construction workers",
+            "incorrect3": "Office workers",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2020 SCOP A",
+            "question": "This activist was bailed out of jail by Virginia Durr, who had earlier helped her attend Highlander Folk School. In 1955, this activist resisted the orders of James Blake, leading to her arrest on Cleveland Avenue, which has since been named after this woman. Name this woman who, after finishing her job as a seamstress, sparked the Montgomery Bus Boycott by refusing to sit in the back of a bus.",
+            "answers": ["Rosa Parks"],
+            "incorrect1": "Harriet Tubman",
+            "incorrect2": "Sojourner Truth",
+            "incorrect3": "Michelle Obama",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2020 TAILS",
+            "question": "Double fertilization is used by organisms that produce these structures. Those organisms, angiosperms, produce parts of these structures in multiples of 3 when monocots and multiples of 4 or 5 when dicots. These structures contain the carpel and the stamen, and may contain nectar to attract animals and promote pollination. Name these colorful reproductive organs of plants like tulips, daisies, and roses.",
+            "answers": ["flowers", "fruits"],
+            "incorrect1": "trees",
+            "incorrect2": "weeds",
+            "incorrect3": "rocks",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2020 SCOP MS 10",
+            "question": "This natural phenomenon can be graphed by sinusoidal functions. This phenomenon's standing type has minimal displacement at its nodes. Compton scattering demonstrates that light behaves like a particle, and not just as this phenomenon. Name this physical phenomenon that can carry energy without transferring mass, as seen on the moving surface of the ocean.",
+            "answers": ["waves", "standing waves"],
+            "incorrect1": "currents",
+            "incorrect2": "tides",
+            "incorrect3": "clouds",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This award is given annually by the MacArthur Foundation to typically between 20 and 30 individuals. This year the award was given to 22 people including Sterlin Harjo, the creator of the TV show \"Reservation Dogs\". The award grants the winners $800,000 over five years with no strings attach. Name this award that is best known by its informal name that is given to people who have shown \"extraordinary originality and dedication in their creative pursuits and a marked capacity for self-direction.\"",
+            "answers": [
+                "MacArthur Genius Grant",
+                "Genius Grant",
+                "MacArthur Fellowship"
+            ],
+            "incorrect1": "Nobel Prize",
+            "incorrect2": "Pulitzer Prize",
+            "incorrect3": "Academy Award",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2017 SCOP MS 7",
+            "question": "The Cullen-Harrison Act weakened this policy, which was effectively begun by the Volstead Act. This policy ended with the 1933 ratification of the 21st Amendment, though it had been defied by speakeasies and bootleggers. Franklin Roosevelt joked \"I think this would be a good time for a beer\" to end what period of American history when alcoholic beverages were banned?",
+            "answers": ["Prohibition"],
+            "incorrect1": "The Great Depression",
+            "incorrect2": "The New Deal",
+            "incorrect3": "World War II",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This war film's graphic opening scene, depicting the D-Day landings, is considered one of the most realistic portrayals of combat ever filmed. It follows Captain John Miller, played by Tom Hanks, and his squad as they search for a Private, whose brothers have been killed in action. The film explores themes of duty and sacrifice during World War II. It won five Academy Awards, including Best Director for Steven Spielberg. What is the title of this acclaimed 1998 film?",
+            "answers": ["Saving Private Ryan"],
+            "incorrect1": "Dunkirk",
+            "incorrect2": "Platoon",
+            "incorrect3": "The Godfather",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2022 MAKEMAKE",
+            "question": "An official of one kingdom in this modern-day country created the first modern welfare state and attacked the Catholic Church in the Kulturkampf. That official claimed that only \"iron and blood\" would solve debates over this country's unification, after which Wilhelm I ruled as emperor over the former lands of Bavaria and Prussia. Name this country where Otto von Bismarck attended the Frankfurt Parliament.",
+            "answers": ["Germany"],
+            "incorrect1": "France",
+            "incorrect2": "Poland",
+            "incorrect3": "Brazil",
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 TAILS",
+            "question": "The Atchafalaya River branches off this other river. The 1928 Flood Control Act was passed in response to the worst flood in US history, which occurred on this body of water. This river briefly flowed backwards in 1812 due to an earthquake near New Madrid, Missouri. This river passes directly east of the Gateway Arch in St. Louis and ends near New Orleans. Name this longest river in the United States.",
+            "answers": ["Mississippi River"],
+            "incorrect1": "Missouri River",
+            "incorrect2": "Amazon River",
+            "incorrect3": "Grand Canyon",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 SCOP MS 10",
+            "question": "In a play by this author, Miss Prism accidentally leaves a baby in a handbag at a train station, and finally reveals her mistake to Jack Worthing and Algernon Moncrief. This author of Lady Windermere's Fan wrote the poem The Ballad of Reading Gaol [redding jail] after he was imprisoned for homosexuality. Name this English playwright of satirical plays like The Importance of Being Earnest.",
+            "answers": ["Oscar Wilde"],
+            "incorrect1": "William Shakespeare",
+            "incorrect2": "Edgar Allan Poe",
+            "incorrect3": "Charles Dickens",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA legend passed away at age 58 due to brain cancer. His signature finger wag, used to taunt opponents after blocking their shots, became one of the most iconic celebrations in NBA history. He was renowned for his defensive prowess, earning four Defensive Player of the Year awards and leading the league in blocks for three consecutive seasons. He played for several teams throughout his 18-year career, including the Denver Nuggets, Atlanta Hawks, and Houston Rockets. He is also known for his humanitarian work, starting a foundation improve living conditions in his native Democratic Republic of Congo. Who is this legendary shot-blocker?",
+            "answers": ["Dikembe Mutombo"],
+            "incorrect1": "Hakeem Olajuwon",
+            "incorrect2": "Shaquille O'Neal",
+            "incorrect3": "Michael Jordan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2020 ERIS",
+            "question": "Spartacus led a slave rebellion which rappelled down this mountain to win a battle. The ancient city of Herculaneum was located near this mountain. Pliny the Elder died during a natural disaster caused by this volcano, whose eruption buried an ancient Roman city in volcanic ash, preserving it. Name this volcano which destroyed Pompeii.",
+            "answers": ["Mount Vesuvius", "Mt Vesuvius"],
+            "incorrect1": "Mount Etna",
+            "incorrect2": "Mount Kilimanjaro",
+            "incorrect3": "Mount Everest",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This comedy series features a unique points system where individuals are judged based on the ethical value of their actions during their lives. The show follows a woman who is mistakenly placed in a seemingly utopian afterlife despite her morally questionable past.It explores philosophical concepts such as the nature of good and evil, ethics, and morality in a humorous and accessible way. What is the name of this critically acclaimed series starring Kristen Bell?",
+            "answers": ["The Good Place"],
+            "incorrect1": "The Office",
+            "incorrect2": "Parks and Recreation",
+            "incorrect3": "Breaking Bad",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This holiday began on the evening of Wed, Oct 2, 2024. A key ritual involves the blowing of the shofar, a ram's horn, which serves as a call to repentance and reflection. The holiday's traditional greeting is \"L'Shanah Tovah,\" meaning \"a good year\" in Hebrew. It is celebrated by eating apples dipped in honey, symbolizing the hope for a sweet new year. It marks the beginning of the Jewish High Holy Days, a ten-day period of introspection culminating in Yom Kippur. What is this holiday, the Jewish New Year?",
+            "answers": ["Rosh Hashanah"],
+            "incorrect1": "Yom Kippur",
+            "incorrect2": "Hanukkah",
+            "incorrect3": "Passover",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's dramatic relocation from New Jersey to Brooklyn in 2012 marked a new era for the franchise, complete with a sleek black-and-white rebranding. They experienced a brief but exciting period of championship contention with the star-studded trio of Kevin Durant, Kyrie Irving, and James Harden. However, despite high expectations, they failed to reach the NBA Finals and ultimately disbanded the trio. What is the name of this team, whose history includes two ABA championships and a passionate fanbase?",
+            "answers": ["Brooklyn Nets", "nets"],
+            "incorrect1": "New York Knicks",
+            "incorrect2": "Boston Celtics",
+            "incorrect3": "Los Angeles Lakers",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2022 SANDS",
+            "question": "A curse is broken when this novel's protagonist sings a song beginning and ending with \"if only, if only.\" A lipstick tube in one of this novel's title entities marks the location of \"Kissin' Kate\" Barlow's treasure. This novel's protagonist breaks the curse on his family by carrying Hector Zeroni up a mountain. Juvenile delinquents at Camp Green Lake dig the title entities of what Louis Sachar novel about Stanley Yelnats?",
+            "answers": ["Holes"],
+            "incorrect1": "The Hunger Games",
+            "incorrect2": "Wonder",
+            "incorrect3": "The Lord of the Rings",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2022 SANDS",
+            "question": "The perpetrators of an attack in this city claimed the benefit of the clergy to reduce their punishments. That attack in this city, which allegedly started with onlookers throwing snowballs, resulted in the death of Crispus Attucks. Mohawk disguises were worn by Samuel Adams's Sons of Liberty before they dumped hundreds of tea chests into the harbor of what city, the capital of Massachusetts?",
+            "answers": ["Boston", "Boston Massacre", "Boston Tea Party"],
+            "incorrect1": "New York City",
+            "incorrect2": "Philadelphia",
+            "incorrect3": "London",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 SANDS",
+            "question": "This city's Baixa district is home to Pombaline architecture built after a major 1755 earthquake. This port city's longest bridge crosses the Tagus River and is named after explorer Vasco da Gama. This city is the westernmost capital in mainland Europe. This is the capital of the smaller of two countries on the Iberian Peninsula. Name this capital of Portugal.",
+            "answers": ["Lisbon"],
+            "incorrect1": "Madrid",
+            "incorrect2": "Barcelona",
+            "incorrect3": "Paris",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "The Bernoulli one approximates the powers of x plus 1 to a linear equation using the power for the slope. The \"triangle\" one sets a restriction for the possible lengths of the third side of a triangle given the other two. Dividing by a negative number results in a sign change in what mathematical statement about relative size of two entities, characterized by use of greater-than and less-than signs?",
+            "answers": ["inequality"],
+            "incorrect1": "equality",
+            "incorrect2": "factorial",
+            "incorrect3": "equation",
             "used": "TRUE"
         }
     ]
