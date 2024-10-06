@@ -12262,7 +12262,7 @@
         {
             "category": "Current Events",
             "question": "A labor action by members of this profession, involving approximately 45,000 workers across 36 ports from Maine to Texas, marks the first major strike in this industry in over four decades. The key issues at stake include wage increases, the rising cost of living, and concerns about the impact of automation on jobs. The strike has the potential to disrupt supply chains and contribute to inflation if it continues for an extended period. Which group of workers, represented by the International Longshoremen's Association (ILA), were on strike to start October, impacting ports along the East and Gulf Coasts of the United States?",
-            "answers": ["Dockworkers", "port workers"],
+            "answers": ["Dockworkers", "port workers", "Longshoremen"],
             "incorrect1": "Truck drivers",
             "incorrect2": "Construction workers",
             "incorrect3": "Office workers",
@@ -12358,7 +12358,7 @@
         {
             "category": "Arts & Literature",
             "source": "2020 SCOP MS 10",
-            "question": "In a play by this author, Miss Prism accidentally leaves a baby in a handbag at a train station, and finally reveals her mistake to Jack Worthing and Algernon Moncrief. This author of Lady Windermere's Fan wrote the poem The Ballad of Reading Gaol [redding jail] after he was imprisoned for homosexuality. Name this English playwright of satirical plays like The Importance of Being Earnest.",
+            "question": "In a play by this author, Miss Prism accidentally leaves a baby in a handbag at a train station, and finally reveals her mistake to Jack Worthing and Algernon Moncrief. This author of Lady Windermere's Fan wrote the poem The Ballad of Reading Gaol after he was imprisoned for homosexuality. Name this Irish playwright and author of satirical plays like The Importance of Being Earnest and The Picture of Dorian Gray.",
             "answers": ["Oscar Wilde"],
             "incorrect1": "William Shakespeare",
             "incorrect2": "Edgar Allan Poe",
@@ -12389,7 +12389,7 @@
         },
         {
             "category": "Entertainment",
-            "question": "This comedy series features a unique points system where individuals are judged based on the ethical value of their actions during their lives. The show follows a woman who is mistakenly placed in a seemingly utopian afterlife despite her morally questionable past.It explores philosophical concepts such as the nature of good and evil, ethics, and morality in a humorous and accessible way. What is the name of this critically acclaimed series starring Kristen Bell?",
+            "question": "This comedy series features a unique points system where individuals are judged based on the ethical value of their actions during their lives. The show follows a woman who is mistakenly placed in a seemingly utopian afterlife despite her morally questionable past. It explores philosophical concepts such as the nature of good and evil, ethics, and morality in a humorous and accessible way. What is the name of this critically acclaimed series starring Kristen Bell?",
             "answers": ["The Good Place"],
             "incorrect1": "The Office",
             "incorrect2": "Parks and Recreation",
