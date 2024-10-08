@@ -12457,5 +12457,437 @@
             "incorrect3": "equation",
             "used": "TRUE"
         }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2016 Pennsylvania Novice",
+            "question": "George Balanchine added a brief interpolation to this work from its composer's Sleeping Beauty in the 1954 performance that popularized it in America. This work begins with a party at the Stahlbaum residence, where an owl transforms into Drosselmeyer. Bonbons emerge from Mother Ginger's dress before Clara and the title character depart in a sleigh drawn by a reindeer after the Dance of the Sugarplum Fairy. Name this ballet by Peter Ilyich Tchaikovsky about the namesake toy coming to life, often performed around Christmas.",
+            "answers": ["The Nutcracker"],
+            "incorrect1": "Swan Lake",
+            "incorrect2": "The Sleeping Beauty",
+            "incorrect3": "The Sound of Music",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2009 Fall Novice Tournament",
+            "question": "This nation includes the Merida and Sierra de Perija mountain ranges and the Catatumbo River. Major cities in this nation include Ciudad Guyana, Barquisimento, and, despite not being Spain, Valencia. This nation contains most of the Orinoco River, and two thirds of this nation's oil production occurs at its largest lake, which is also the largest lake in South America, Lake Maracaibo. Name this nation with capital at Caracas.",
+            "answers": [
+                "Venezuela",
+                "Bolivarian Republic of Venezuela",
+                "Republica Bolivariana de Venezuela"
+            ],
+            "incorrect1": "Colombia",
+            "incorrect2": "Chile",
+            "incorrect3": "Mexico",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA team, founded in 1946 as one of the original members of the Basketball Association of America plays at what is often dubbed \"The World's Most Famous Arena.\" Their classic blue and orange uniforms have remained largely unchanged throughout their history, a symbol of the franchise's enduring legacy. Despite a championship drought dating back to 1973, their passionate fanbase, known for their unwavering loyalty and high expectations, continues to fill \"The Garden\" with electrifying energy. What is the name of this team, whose history includes legendary players like Patrick Ewing and Walt \"Clyde\" Frazier?",
+            "answers": ["New York Knicks", "Knicks"],
+            "incorrect1": "Brooklyn Nets",
+            "incorrect2": "Los Angeles Lakers",
+            "incorrect3": "New York Yankees",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2020 SCOP MS 10",
+            "question": "After this disaster, Louis Sullivan designed the Auditorium Building in the affected city. The Palmer House was destroyed in this event, but the Water Tower was spared. This disaster, which was less deadly than a simultaneous event in Peshtigo, Wisconsin, began on De Koven Street after Catherine O'Leary's cow supposedly kicked over a lantern. Name this 1871 disaster that devastated a mostly-wooden Illinois city.",
+            "answers": [
+                "Great Chicago Fire",
+                "Great Chicago Fire of 1871",
+                "fire"
+            ],
+            "incorrect1": "Great San Francisco earthquake",
+            "incorrect2": "Hurricane Katrina",
+            "incorrect3": "9/11 attacks",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film, based on a Stephen King novel, features a heartbreaking scene where a condemned man, John Coffey, cries after watching a movie and shares his grief with prison guard Paul Edgecombe. The film's title refers to the green-colored flooring leading to the execution chamber. It explores themes of injustice, faith, and the supernatural within the confines of a Depression-era death row. The film received four Academy Award nominations, including Best Supporting Actor for Michael Clarke Duncan's portrayal of John Coffey. What is the name of this 1999 drama directed by Frank Darabont?",
+            "answers": ["The Green Mile"],
+            "incorrect1": "The Shawshank Redemption",
+            "incorrect2": "Forrest Gump",
+            "incorrect3": "The Godfather",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2020 ERIS",
+            "question": "The ampulla of Vater is formed by the common bile duct and a duct named for this organ, which is also known as the duct of Wirsung. This organ's islets of Langerhans contain its endocrine cells, which secrete hormones such as glucagon. Diabetes results in reduced function of what organ which regulates blood sugar levels through the production of insulin?",
+            "answers": ["pancreas"],
+            "incorrect1": "liver",
+            "incorrect2": "kidneys",
+            "incorrect3": "stomach",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "England, where the industrial revolution began, closed its last energy plant which exclusively burns this fossil fuel. This material, formed from ancient plant matter over millions of years, powered the iconic Titanic's maiden voyage in 1912, highlighting its dominance in the early 20th century. In 2022 alone, the United States produced over 594 million short tons of it, contributing to its position as the world's fourth-largest producer. It generates roughly 40% of India's electricity, demonstrating its continued importance in powering developing economies. However, concerns about its environmental impact, including its contribution to climate change, have led to a global push for cleaner energy sources. What is this combustible black or brownish-black sedimentary rock?",
+            "answers": ["coal"],
+            "incorrect1": "oil",
+            "incorrect2": "natural gas",
+            "incorrect3": "diamonds",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2016 PLATO",
+            "question": "This person imposed martial law in his country in a period known as \"White Terror.\" This leader was the head of the Whampoa Military Academy and replaced Sun Yat\u00adsen as the leader of the Kuomintang. The Communists' Long March was to escape the forces of this leader. Name this political rival of Mao Zedong in China who became the first President of Taiwan after being exiled there.",
+            "answers": [
+                "Chiang Kai\u00adShek",
+                "Jiang Jieshi",
+                "Chiang Kai-shek"
+            ],
+            "incorrect1": "Mao Zedong",
+            "incorrect2": "Sun Yat-sen",
+            "incorrect3": "Deng Xiaoping",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2022 SANDS",
+            "question": "During this man's presidency, the Gulf of Tonkin Resolution increased U.S. involvement in one conflict. This president's domestic welfare policies and so-called \"War on Poverty\" were collectively known as the Great Society. This president signed the Civil Rights Act into law in 1964. What Texan succeeded John F. Kennedy as president?",
+            "answers": ["Lyndon B. Johnson", "LBJ", "Lyndon Johnson"],
+            "incorrect1": "John F. Kennedy",
+            "incorrect2": "Franklin D. Roosevelt",
+            "incorrect3": "Harry S. Truman",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This Major League Baseball team's home stadium, American Family Field, was originally built with a retractable roof, a unique feature for a baseball stadium at the time. They made their only World Series appearance in 1982, falling to the St. Louis Cardinals in a thrilling seven-game series. Their memorable 1980s logo, featuring a ball glove forming the letters \"M\" and \"B,\" has become a sought-after collectible for fans. What is the name of this team, based in Milwaukee, Wisconsin?",
+            "answers": ["Milwaukee Brewers", "Brewers"],
+            "incorrect1": "Milwaukee Bucks",
+            "incorrect2": "St. Louis Cardinals",
+            "incorrect3": "Chicago Cubs",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2014 SCOP Novice 5",
+            "question": "The Davisson-Germer experiment scattered these entities, proving their wave-particle duality. The charge-to-mass ratio of these leptons were measured in a cathode ray tube by J.J. Thomson, and their charge was calculated in the oil drop experiment by Robert Millikan. Name this subatomic particle with charge opposite that of a proton, found orbiting the nucleus of the atom.",
+            "answers": ["electrons"],
+            "incorrect1": "protons",
+            "incorrect2": "neutrons",
+            "incorrect3": "photons",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2018 MVS RAMS",
+            "question": "During his career as a songwriter, this man wrote \"A Boy Named Sue\" for Johnny Cash. This man wrote a book in which Runny Babbit is raised by his \"Dummy and Mad,\" and another book in which a circle goes looking for his \"missing piece.\" This author wrote about a boy who makes a boat from the trunk of the title \"Giving Tree,\" and he created \"Little Peggy Ann McKay,\" who \"cannot go to school today.\" Name this poet of Where the Sidewalk Ends.",
+            "answers": ["Shel Silverstein", "Uncle Shelby"],
+            "incorrect1": "Dr. Seuss",
+            "incorrect2": "Roald Dahl",
+            "incorrect3": "J.K. Rowling",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This legendary frontman, known for his captivating stage presence and four-octave vocal range, designed his band's iconic crest, incorporating the zodiac signs of all four band members. He collaborated with opera singer Montserrat Caball\u00e9 on the album \"Barcelona,\" showcasing his diverse musical influences. His final live performance with Queen was at Knebworth Park in 1986, a concert that solidified their status as one of the greatest live acts in music history. Who is this iconic musician, born Farrokh Bulsara, who captivated audiences with his flamboyant persona and powerful vocals?",
+            "answers": ["Freddie Mercury"],
+            "incorrect1": "David Bowie",
+            "incorrect2": "Elton John",
+            "incorrect3": "Mick Jagger",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This US president recently became the first to celebrate his 100th birthday. He graduated from the U.S. Naval Academy in 1946 and served on naval submarines. Raised in Plains, Georgia, he and his family were peanut farmers. On the second day of his presidency, he pardoned all Vietnam War draft dodgers. Name this politician who served as the governor of Georgia and then the 39th president fo the United States.",
+            "answers": ["Jimmy Carter"],
+            "incorrect1": "John F. Kennedy",
+            "incorrect2": "George W. Bush",
+            "incorrect3": "Richard Nixon",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This nation is home to the volcano Mount Garibaldi and its highest point is at Mount Logan. This country's longest river, which flows into the Beaufort Sea, is the Mackenzie. In 1999, the territory of Nunavut, which includes Baffin Island, was created in this country's northern region. Its provincial capitals include Regina and Halifax, and it contains the Hudson Bay. Name this country with capital at Ottawa, the northern neighbor of the US.",
+            "answers": ["Canada"],
+            "incorrect1": "United States",
+            "incorrect2": "Mexico",
+            "incorrect3": "Greenland",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2019 SCOP Novice 10",
+            "question": "A precursor to this organization sought to unite coal and steel industries and was part of a 1965 Merger Treaty with the EEC. This organization's Single Market allows the free movement of capital and persons, allowing citizens to work and live in any member country. The United Kingdom voted to leave this organization in 2016, a decision known as Brexit. Name this organization of countries whose primary currency is the Euro.",
+            "answers": ["European Union", "EU"],
+            "incorrect1": "United Nations",
+            "incorrect2": "NATO",
+            "incorrect3": "G7",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "The film's dark and gritty atmosphere is enhanced by its distinctive visual style, with desaturated colors and rain-soaked cityscapes. This neo-noir thriller features a shocking climax where a detective's wife is murdered by a serial killer obsessed with the seven deadly sins. It stars Brad Pitt as Detective David Mills, a young and ambitious detective, and Morgan Freeman as Detective William Somerset, a veteran detective on the verge of retirement. What is the title of this 1995 film directed by David Fincher?",
+            "answers": ["Se7en", "seven", "7"],
+            "incorrect1": "The Silence of the Lambs",
+            "incorrect2": "Zodiac",
+            "incorrect3": "The Shawshank Redemption",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "QSR Magazine named this fast food chain the fastest drive-thru the fourth year in a row. Its iconic advertising campaign, featuring a talking chihuahua, became a cultural phenomenon in the late 1990s. It was founded by Glen Bell in 1962, with its first location in Downey, California. This chain, known for its signature crunchy tacos and Doritos Locos Tacos, recently sparked a debate by discontinuing its beloved Mexican Pizza, only to bring it back with a refreshed recipe due to popular demand. What is the name of this popular fast-food chain?",
+            "answers": ["Taco Bell"],
+            "incorrect1": "McDonald's",
+            "incorrect2": "Wendy's",
+            "incorrect3": "Subway",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2017 Darien DEFT",
+            "question": "One leader of this country authored the book The Presidential Succession in 1910 and invoked the Plan of San Luis Potosi after his arrest. The Cristero War was a pro-Catholic revolt in response to this country's Constitution of 1917. This country's \"Ten Tragic Days\" saw Victoriano Huerta overthrow Francisco Madero. One rebel in this country was hunted by General John Pershing after raiding Columbus. Porfirio Diaz was overthrown in the \"Revolution\" of what country home to Pancho Villa?",
+            "answers": ["Mexico", "United Mexican States"],
+            "incorrect1": "Canada",
+            "incorrect2": "Brazil",
+            "incorrect3": "Spain",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2016 Pennsylvania Novice",
+            "question": "This battle opened on Miller's Cornfield, when forces under Joseph Hooker attempted to capture Dunker Church. During this battle, the Sunken Road became known as \"Bloody Lane.\" A stream crossing by Union forces in this battle eventually took place at Burnside's Bridge. After this battle, George McClellan was relieved of command for the final time. Following this battle, Abraham Lincoln issued the Emancipation Proclamation. Name this bloodiest single\u00adday battle in American history, which took place in Maryland.",
+            "answers": [
+                "Battle of Antietam",
+                "Battle of Sharpsburg",
+                "Antietam"
+            ],
+            "incorrect1": "Battle of Gettysburg",
+            "incorrect2": "Battle of Vicksburg",
+            "incorrect3": "American Revolutionary War",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "Cadmus once killed this deity's dragon and had to serve this deity for eight years, after which he married Harmonia, this deity's daughter. This deity was wounded by Diomedes during the Trojan War when he appeared on the battlefield helping the Trojans. This deity's union with Aphrodite yielded Eros and his attendants Phobos and Deimos. Which son of Zeus and Hera is the Greek god of war?",
+            "answers": ["Ares", "Mars"],
+            "incorrect1": "Zeus",
+            "incorrect2": "Hades",
+            "incorrect3": "Thor",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "These particles were used in the Davisson-Germer experiment to prove the de Broglie hypothesis, and its namesake capture is the decay process of lighter isotopes of transition metals such as silver 105. A muon decays into a neutrino, an antineutrino, and this other lepton, and an inelastic collision between a photon and this particle is called Compton scattering. The Pauli Exclusion Principle causes them to occupy different orbitals in an atom, and its antiparticle is the positron. The final product of beta decay identify this elementary particle with a -1 charge.",
+            "answers": ["electron"],
+            "incorrect1": "proton",
+            "incorrect2": "neutron",
+            "incorrect3": "photon",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This non-contact team sport, often played on a field similar in size to a soccer field, has origins tracing back to a group of high school students in Maplewood, New Jersey, who developed the game in 1968.  The objective is to score points by passing a disc to a teammate in the opposing team's end zone. It is known for its \"Spirit of the Game\" which emphasizes fair play, sportsmanship, and self-officiation, even at the highest levels of competition. What is the name of this sport, which combines elements of soccer, basketball, and American football and uses a frisbee?",
+            "answers": ["Ultimate Frisbee", "ultimate"],
+            "incorrect1": "Disc golf",
+            "incorrect2": "Football",
+            "incorrect3": "Basketball",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2021 CERES",
+            "question": "This state's high point, Britton Hill, is the lowest high point of any of the fifty states. This state and a state to its north share the Okefenokee Swamp, and Lake Okeechobee is in this state. This state's largest city of Jacksonville lies 150 miles from the Georgia border, and this state has the largest population of Cubans in the US. What state contains cities like Orlando and Tallahassee?",
+            "answers": ["Florida"],
+            "incorrect1": "California",
+            "incorrect2": "Georgia",
+            "incorrect3": "Cuba",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This basketball superstar, born in Akron, Ohio, was drafted straight out of high school by his hometown Cleveland Cavaliers with the No. 1 overall pick in 2003. He's known for his powerful drives to the basket, exceptional court vision, and leadership qualities, earning him the nickname \"The King.\"  He has led three different franchises to NBA championships, including the Miami Heat, Cleveland Cavaliers, and Los Angeles Lakers. In 2023, he surpassed Kareem Abdul-Jabbar to become the NBA's all-time leading scorer. Who is this iconic athlete? ",
+            "answers": ["LeBron James"],
+            "incorrect1": "Michael Jordan",
+            "incorrect2": "Kobe Bryant",
+            "incorrect3": "Tom Brady",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "The European cuckoo is a brood example of this type of bird, and mistletoe is a common plant of this type. Trypanosomes, which cause sleeping sickness, are one of many protist species of this type, and the blood fluke is this kind of worm that uses a snail as an intermediate host. Name these organisms, like ticks and tapeworms, that feed in or on the body of another organism, harming it in the process.",
+            "answers": ["parasite", "parasitic"],
+            "incorrect1": "predator",
+            "incorrect2": "symbiont",
+            "incorrect3": "decomposer",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Mining of the high-purity form of this mineral was impacted by Hurricane Helene as 80-90% of the world\u2019s supply of is mined in a North Carolina town hit by the hurricane. This mineral, composed of silicon and oxygen atoms in a continuous framework, is the second most abundant mineral in the Earth's continental crust. Its piezoelectric properties, meaning it can generate electricity when subjected to mechanical stress, make it valuable in electronic devices like watches and radios. Name this mineral that occurs in a variety of colors, including amethyst (purple), citrine (yellow), and a rose variety (pink).",
+            "answers": ["quartz", "high-purity quartz"],
+            "incorrect1": "diamond",
+            "incorrect2": "feldspar",
+            "incorrect3": "glass",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2014 SCOP Novice 5",
+            "question": "The loser of the first of these events was further threatened by an uprising called the Mercenary War. The Siege of Saguntum triggered the second of these events, while the last was spurred by Cato the Elder's calls for destruction. The second of these conflicts saw Scipio Africanus win the Battle of Zama against a force of war elephants led by Hannibal. Name this series of three wars between Rome and Carthage.",
+            "answers": ["Punic Wars"],
+            "incorrect1": "Persian Wars",
+            "incorrect2": "Gallic Wars",
+            "incorrect3": "World War I",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2021 CERES",
+            "question": "Route G318, this country's longest national highway, has its western terminus at a \"Friendship Bridge\" to Nepal. Millions of people were displaced by the construction of this country's Three Gorges Dam, which lies on its Yangtze River. This country's capital contains the Forbidden City, formerly home to its imperial court. What country contains cities like Shanghai and Beijing?",
+            "answers": ["China", "People's Republic of China"],
+            "incorrect1": "Japan",
+            "incorrect2": "India",
+            "incorrect3": "Russia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 SCOP A",
+            "question": "This collection includes a Hanna Diyab story added by Antoine Galland in which Badr al-Badur marries the son of Mustapha the tailor and accidentally sells one of his possessions to an evil sorcerer. A character in this collection tries to carry the enormous egg of a Roc home to Baghdad, and appears in the nightly entertainments Scheherazade performs for her royal husband. Name this collection of Middle-Eastern folk tales that often includes the stories of Sindbad and Aladdin.",
+            "answers": [
+                "The Thousand and One Nights",
+                "1001 nights",
+                "arabian nights",
+                "A Thousand and One Nights",
+                "Alf Laylah wa-Laylah"
+            ],
+            "incorrect1": "The Canterbury Tales",
+            "incorrect2": "The Tale Of Genji",
+            "incorrect3": "The Odyssey",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2018 MVS RAMS",
+            "question": "This movement was supported by Neal S. Dow, the mayor of Portland, Maine, as well as by first lady Lucy Hayes, who earned her nickname for support of this movement. Wayne Wheeler drafted a notorious piece of legislation in support of this movement named after Minnesota Senator Andrew Volstead. That act allowed the 18th Amendment to be implemented. Carrie Nation was a notable advocate of which movement championed by the Anti-Saloon League and repealed by the 21st Amendment?",
+            "answers": ["Prohibition", "temperance", "Eighteenth Amendment"],
+            "incorrect1": "The Great Depression",
+            "incorrect2": "The New Deal",
+            "incorrect3": "World War II",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actress, often hailed as one of the greatest of all time, won three Academy Awards, including Best Actress for her role in \"Gaslight\" and Best Supporting Actress for \"Murder on the Orient Express.\"  Her controversial affair with director Roberto Rossellini led to a public outcry and a temporary ban from Hollywood. She made a triumphant return to American cinema, winning her third Oscar for her role in \"Anastasia.\" Name this Swedish-born actress who starred in the classic film \"Casablanca\" alongside Humphrey Bogart.",
+            "answers": ["Ingrid Bergman"],
+            "incorrect1": "Greta Garbo",
+            "incorrect2": "Audrey Hepburn",
+            "incorrect3": "Marilyn Monroe",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2011 SCOP Novice 2",
+            "question": "This author of Tales of the Alhambra used pseudonyms like \"Jonathan Oldstyle.\" One of his short stories concerns Abraham Van Brunt and Katrina Van Tassel. In another, a Dutch settler falls asleep in the Catskill Mountains. A long-dead Hessian pursues Ichabod Crane in one of this author's works. Name this author, whose collection The Sketchbook of Geoffrey Crayon includes \"Rip Van Winkle\" and \"The Legend of Sleepy Hollow.\"",
+            "answers": ["Washington Irving"],
+            "incorrect1": "Edgar Allan Poe",
+            "incorrect2": "Nathaniel Hawthorne",
+            "incorrect3": "William Shakespeare",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This baseball team's historic rivalry with the San Francisco Giants, which began in New York, has continued across the country, adding an extra layer of excitement to their matchups. They hold the record for the most Cy Young Awards won by a single franchise, with 12 awards earned by their legendary pitchers. Their home stadium is the third-oldest ballpark in Major League Baseball and boasts stunning views of the Los Angeles skyline. What is the name of this team currently starring Shohei Ohtani and Mookie Betts, known for their distinctive blue uniforms?",
+            "answers": ["Los Angeles Dodgers", "Dodgers"],
+            "incorrect1": "San Francisco Giants",
+            "incorrect2": "New York Yankees",
+            "incorrect3": "Los Angeles Angels",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2018 MVS RAMS",
+            "question": "The Penrose process theorizes how energy can be obtained from these objects. These objects can evaporate due to their emission of Hawking radiation. According to the no-hair theorem, these objects have three observable properties. The boundary of these objects is the event horizon, and a \"supermassive\" one of these objects is theorized to be at the center of the Milky Way. Name these massive astronomical objects from which light cannot escape.",
+            "answers": ["black holes"],
+            "incorrect1": "neutron stars",
+            "incorrect2": "supernovae",
+            "incorrect3": "white dwarfs",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This high-profile private company is currently in the process of restructuring from a non-profit to become a for-profit company. They recently raised $6.6 billion at a $157 billion valuation. This company also made headlines when its CTO Mira Murati annouced she was departing following the departure of the leader Ilya Sutskever. It was co-founded by Elon Musk and Sam Altman among others, and made headlines in 2022 with the release of DALL-E 2, an AI system that can create realistic images. Its mission is to ensure that artificial general intelligence benefits all of humanity. It also developed the powerful language model GPT-3, capable of generating human-like text, and its successor, GPT-4. What is the name of this leading AI research organization?",
+            "answers": ["OpenAI", "open ai"],
+            "incorrect1": "Google",
+            "incorrect2": "Microsoft",
+            "incorrect3": "Tesla",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 TAILS",
+            "question": "Resort towns like Destin and Pensacola are located on this body of water, and they are threatened by toxic algal blooms known as red tide. In 2015, British Petroleum reached an $18.7 billion settlement over damage caused by an oil spill in this body of water, known as the Deepwater Horizon disaster. The Yucatan Peninsula and Florida help define what gulf between its namesake country and the U.S.?",
+            "answers": ["Gulf of Mexico"],
+            "incorrect1": "Gulf of California",
+            "incorrect2": "Atlantic Ocean",
+            "incorrect3": "Mediterranean Sea",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2014 SCOP Novice 5",
+            "question": "Refusal by one party to obey this law led to an uprising supported by Louis VIII and led by Robert Fitzwalter; that ruler had previously lost control of Brittany when Philip Augustus was victorious at the Battle of Bouvines. This document's Clause 61 gave a certain group of barons the power to override unlawful acts of the king. Name this charter signed at Runnymede by King John in 1215.",
+            "answers": ["Magna Carta"],
+            "incorrect1": "Declaration of Independence",
+            "incorrect2": "U.S. Constitution",
+            "incorrect3": "Bill of Rights",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2021 SCOP B",
+            "question": "This woman wrote a letter criticizing censorship after her book How I Became a Socialist was burned by Nazis. In her autobiography The Story of My Life, this woman described the day she met her teacher as \"my soul's birthday.\" This woman struggled to understand that every object had a corresponding word until her hand was held under running water as the word \"water\" was spelled out in her palm. Anne Sullivan taught what woman who lost her hearing and sight as an infant?",
+            "answers": ["Helen Keller"],
+            "incorrect1": "Anne Frank",
+            "incorrect2": "Marie Curie",
+            "incorrect3": "Harriet Tubman",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This television series, known for its captivating mysteries and compelling characters, captivated audiences with its unique blend of drama, science fiction, and supernatural elements.  The show's pilot episode, which depicted the aftermath of a plane crash on a mysterious island, became one of the most expensive pilot episodes in television history. Its recurring use of flashbacks to delve into the characters' backstories added depth and complexity to the narrative. The series finale, which aired in 2010, sparked widespread debate and discussion among fans and critics alike. What is the name of this popular ABC series?",
+            "answers": ["Lost"],
+            "incorrect1": "Survivor",
+            "incorrect2": "Breaking Bad",
+            "incorrect3": "Game of Thrones",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
     ]
 ]
