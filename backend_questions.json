@@ -12485,7 +12485,7 @@
         },
         {
             "category": "Sports",
-            "question": "This NBA team, founded in 1946 as one of the original members of the Basketball Association of America plays at what is often dubbed \"The World's Most Famous Arena.\" Their classic blue and orange uniforms have remained largely unchanged throughout their history, a symbol of the franchise's enduring legacy. Despite a championship drought dating back to 1973, their passionate fanbase, known for their unwavering loyalty and high expectations, continues to fill \"The Garden\" with electrifying energy. What is the name of this team, whose history includes legendary players like Patrick Ewing and Walt \"Clyde\" Frazier?",
+            "question": "This NBA team, founded in 1946 as one of the original members of the Basketball Association of America, plays at what is often dubbed \"The World's Most Famous Arena.\" Their classic blue and orange uniforms have remained largely unchanged throughout their history, a symbol of the franchise's enduring legacy. Despite a championship drought dating back to 1973, their passionate fanbase, known for their unwavering loyalty and high expectations, continues to fill \"The Garden\" with electrifying energy. What is the name of this team, whose history includes legendary players like Patrick Ewing and Walt \"Clyde\" Frazier?",
             "answers": ["New York Knicks", "Knicks"],
             "incorrect1": "Brooklyn Nets",
             "incorrect2": "Los Angeles Lakers",
@@ -12541,11 +12541,7 @@
             "category": "World History",
             "source": "2016 PLATO",
             "question": "This person imposed martial law in his country in a period known as \"White Terror.\" This leader was the head of the Whampoa Military Academy and replaced Sun Yat\u00adsen as the leader of the Kuomintang. The Communists' Long March was to escape the forces of this leader. Name this political rival of Mao Zedong in China who became the first President of Taiwan after being exiled there.",
-            "answers": [
-                "Chiang Kai\u00adShek",
-                "Jiang Jieshi",
-                "Chiang Kai-shek"
-            ],
+            "answers": ["Chiang Kai-Shek", "Jiang Jieshi", "Chiang Kai-shek"],
             "incorrect1": "Mao Zedong",
             "incorrect2": "Sun Yat-sen",
             "incorrect3": "Deng Xiaoping",
@@ -12605,7 +12601,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This US president recently became the first to celebrate his 100th birthday. He graduated from the U.S. Naval Academy in 1946 and served on naval submarines. Raised in Plains, Georgia, he and his family were peanut farmers. On the second day of his presidency, he pardoned all Vietnam War draft dodgers. Name this politician who served as the governor of Georgia and then the 39th president fo the United States.",
+            "question": "This US president recently became the first to celebrate his 100th birthday. He graduated from the U.S. Naval Academy in 1946 and served on naval submarines. Raised in Plains, Georgia, he and his family were peanut farmers. On the second day of his presidency, he pardoned all Vietnam War draft dodgers. Name this politician who served as the governor of Georgia and then the 39th president of the United States.",
             "answers": ["Jimmy Carter"],
             "incorrect1": "John F. Kennedy",
             "incorrect2": "George W. Bush",
@@ -12626,7 +12622,7 @@
         {
             "category": "World History",
             "source": "2019 SCOP Novice 10",
-            "question": "A precursor to this organization sought to unite coal and steel industries and was part of a 1965 Merger Treaty with the EEC. This organization's Single Market allows the free movement of capital and persons, allowing citizens to work and live in any member country. The United Kingdom voted to leave this organization in 2016, a decision known as Brexit. Name this organization of countries whose primary currency is the Euro.",
+            "question": "A precursor to this organization sought to unite coal and steel industries and was part of a 1965 Merger Treaty with the EEC. This organization's Single Market allows the free movement of capital and persons, allowing citizens to work and live in any member country. The United Kingdom voted to leave this organization in 2016, a decision known as Brexit. Name this organization of countries where the most popular currency is the Euro.",
             "answers": ["European Union", "EU"],
             "incorrect1": "United Nations",
             "incorrect2": "NATO",
