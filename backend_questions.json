@@ -12552,7 +12552,7 @@
         {
             "category": "US History",
             "source": "2022 SANDS",
-            "question": "During this man's presidency, the Gulf of Tonkin Resolution increased U.S. involvement in one conflict. This president's domestic welfare policies and so-called \"War on Poverty\" were collectively known as the Great Society. This president signed the Civil Rights Act into law in 1964. What Texan succeeded John F. Kennedy as president?",
+            "question": "During this man's presidency, the Gulf of Tonkin Resolution increased U.S. involvement in one Southeast Asian conflict. This president's domestic welfare policies and so-called \"War on Poverty\" were collectively known as the Great Society. This president signed the Civil Rights Act into law in 1964. What Texan succeeded John F. Kennedy as president?",
             "answers": ["Lyndon B. Johnson", "LBJ", "Lyndon Johnson"],
             "incorrect1": "John F. Kennedy",
             "incorrect2": "Franklin D. Roosevelt",
@@ -12643,7 +12643,7 @@
         },
         {
             "category": "Current Events",
-            "question": "QSR Magazine named this fast food chain the fastest drive-thru the fourth year in a row. Its iconic advertising campaign, featuring a talking chihuahua, became a cultural phenomenon in the late 1990s. It was founded by Glen Bell in 1962, with its first location in Downey, California. This chain, known for its signature crunchy tacos and Doritos Locos Tacos, recently sparked a debate by discontinuing its beloved Mexican Pizza, only to bring it back with a refreshed recipe due to popular demand. What is the name of this popular fast-food chain?",
+            "question": "QSR Magazine named this fast food chain the fastest drive-thru the fourth year in a row. Its advertising campaign featuring a talking chihuahua became a cultural phenomenon in the late 1990s. It was founded by Glen Bell in 1962, with its first location in Downey, California. This chain, known for its signature crunchy tacos and Doritos Locos Tacos, recently sparked a debate by discontinuing its beloved Mexican Pizza, only to bring it back with a refreshed recipe due to popular demand. What is the name of this popular fast-food chain?",
             "answers": ["Taco Bell"],
             "incorrect1": "McDonald's",
             "incorrect2": "Wendy's",
@@ -12687,12 +12687,12 @@
         },
         {
             "category": "Science",
-            "source": "2011 Fall Kickoff Tournament (FKT)",
-            "question": "These particles were used in the Davisson-Germer experiment to prove the de Broglie hypothesis, and its namesake capture is the decay process of lighter isotopes of transition metals such as silver 105. A muon decays into a neutrino, an antineutrino, and this other lepton, and an inelastic collision between a photon and this particle is called Compton scattering. The Pauli Exclusion Principle causes them to occupy different orbitals in an atom, and its antiparticle is the positron. The final product of beta decay identify this elementary particle with a -1 charge.",
-            "answers": ["electron"],
-            "incorrect1": "proton",
-            "incorrect2": "neutron",
-            "incorrect3": "photon",
+            "source": "2018 MVS RAMS",
+            "question": "The Penrose process theorizes how energy can be obtained from these objects. These objects can evaporate due to their emission of Hawking radiation. According to the no-hair theorem, these objects have three observable properties. The boundary of these objects is the event horizon, and a \"supermassive\" one of these objects is theorized to be at the center of the Milky Way. Name these massive astronomical objects from which light cannot escape.",
+            "answers": ["black holes"],
+            "incorrect1": "neutron stars",
+            "incorrect2": "supernovae",
+            "incorrect3": "white dwarfs",
             "used": "TRUE"
         },
         {
@@ -12739,7 +12739,7 @@
         },
         {
             "category": "Current Events",
-            "question": "Mining of the high-purity form of this mineral was impacted by Hurricane Helene as 80-90% of the world\u2019s supply of is mined in a North Carolina town hit by the hurricane. This mineral, composed of silicon and oxygen atoms in a continuous framework, is the second most abundant mineral in the Earth's continental crust. Its piezoelectric properties, meaning it can generate electricity when subjected to mechanical stress, make it valuable in electronic devices like watches and radios. Name this mineral that occurs in a variety of colors, including amethyst (purple), citrine (yellow), and a rose variety (pink).",
+            "question": "Mining of the high-purity form of this mineral was impacted by Hurricane Helene as 80-90% of the world\u2019s supply is mined in a North Carolina town hit by the hurricane. This mineral, composed of silicon and oxygen atoms in a continuous framework, is the second most abundant mineral in the Earth's continental crust. Its piezoelectric properties, meaning it can generate electricity when subjected to mechanical stress, make it valuable in electronic devices like watches and radios. Name this mineral that occurs in a variety of colors, including amethyst (purple), citrine (yellow), and a rose variety (pink).",
             "answers": ["quartz", "high-purity quartz"],
             "incorrect1": "diamond",
             "incorrect2": "feldspar",
@@ -12827,12 +12827,12 @@
         },
         {
             "category": "Science",
-            "source": "2018 MVS RAMS",
-            "question": "The Penrose process theorizes how energy can be obtained from these objects. These objects can evaporate due to their emission of Hawking radiation. According to the no-hair theorem, these objects have three observable properties. The boundary of these objects is the event horizon, and a \"supermassive\" one of these objects is theorized to be at the center of the Milky Way. Name these massive astronomical objects from which light cannot escape.",
-            "answers": ["black holes"],
-            "incorrect1": "neutron stars",
-            "incorrect2": "supernovae",
-            "incorrect3": "white dwarfs",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "These particles were used in the Davisson-Germer experiment to prove the de Broglie hypothesis, and its namesake capture is the decay process of lighter isotopes of transition metals such as silver 105. A muon decays into a neutrino, an antineutrino, and this other lepton, and an inelastic collision between a photon and this particle is called Compton scattering. The Pauli Exclusion Principle causes them to occupy different orbitals in an atom, and its antiparticle is the positron. The final product of beta decay identify this elementary particle with a -1 charge.",
+            "answers": ["electron"],
+            "incorrect1": "proton",
+            "incorrect2": "neutron",
+            "incorrect3": "photon",
             "used": "TRUE"
         },
         {
@@ -12877,7 +12877,7 @@
         },
         {
             "category": "Entertainment",
-            "question": "This television series, known for its captivating mysteries and compelling characters, captivated audiences with its unique blend of drama, science fiction, and supernatural elements.  The show's pilot episode, which depicted the aftermath of a plane crash on a mysterious island, became one of the most expensive pilot episodes in television history. Its recurring use of flashbacks to delve into the characters' backstories added depth and complexity to the narrative. The series finale, which aired in 2010, sparked widespread debate and discussion among fans and critics alike. What is the name of this popular ABC series?",
+            "question": "This television series, known for its mysteries and compelling characters, captivated audiences with its unique blend of drama, science fiction, and supernatural elements. The show's pilot episode, which depicted the aftermath of a plane crash on a mysterious island, became one of the most expensive pilot episodes in television history. Its recurring use of flashbacks to delve into the characters' backstories added depth and complexity to the narrative. The series finale, which aired in 2010, sparked widespread debate and discussion among fans and critics alike. What is the name of this popular ABC series?",
             "answers": ["Lost"],
             "incorrect1": "Survivor",
             "incorrect2": "Breaking Bad",
