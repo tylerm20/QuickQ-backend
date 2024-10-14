@@ -12885,5 +12885,337 @@
             "used": "TRUE",
             "source": "Marty Heavey"
         }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This film, based on the 1853 memoir of Solomon Northup, features a haunting scene where the protagonist, played by Chiwetel Ejiofor, is left hanging from a tree, his toes barely touching the ground, for an extended period.  It won three Academy Awards, including Best Picture, making it the first film directed by a black filmmaker to receive the award.  The film's unflinching portrayal of the brutality and dehumanization of slavery sparked widespread critical acclaim and renewed discussions about America's history.  What is the title of this 2013 historical drama directed by Steve McQueen? ",
+            "answers": ["12 Years a Slave"],
+            "incorrect1": "The Color Purple",
+            "incorrect2": "Django Unchained",
+            "incorrect3": "Gone with the Wind",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "One side in this battle sent a message saying that AF was short of water, allowing Joseph Rochefort's Station Hypo to figure out that a simultaneous attack on the Aleutian Islands was a diversion. Bull Halsey contracted psoriasis and was replaced by Raymond Spruance for this battle, in which Spruance repaired the U.S.S. Yorktown quickly after the Battle of the Coral Sea, only for it to be sunk by a submarine after its planes sunk the Soryu; other Japanese losses included the Hiryu, Akagi, and Kaga. Name this June, 1942 battle in which the Japanese aircraft carrier fleet was crippled near Hawaii.",
+            "answers": ["Battle of Midway"],
+            "incorrect1": "Battle of Guadalcanal",
+            "incorrect2": "Battle of Iwo Jima",
+            "incorrect3": "Battle of Hastings",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2011 SCOP Novice 2",
+            "question": "This figure wrote the Mahabharata as dictated by Vyasa. In one tale, he received a mango of knowledge when he won a race with his brother, Skanda, by walking around his parents. He was beheaded either by Shani or by Shiva when he defended his bathing mother, Parvati. This god rides a mouse and is known as the Remover of Obstacles. Name this Hindu deity with an elephant's head.",
+            "answers": ["Ganesha", "Ganapati", "Vinayaka", "Pillaiyar"],
+            "incorrect1": "Vishnu",
+            "incorrect2": "Shiva",
+            "incorrect3": "Buddha",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This baseball executive, instrumental in bringing Major League Baseball back to Milwaukee after the Braves moved to Atlanta, purchased the Seattle Pilots out of bankruptcy and relocated them to Wisconsin in 1970. He later spearheaded the creation of interleague play, a move that initially faced resistance but ultimately enhanced the appeal of the sport.  He also played a key role in resolving the 1994-95 players' strike, which had significantly damaged the league's image. Who is this former commissioner of Major League Baseball, who served from 1992 to 2015?",
+            "answers": ["Bud Selig"],
+            "incorrect1": "Kenesaw Mountain Landis",
+            "incorrect2": "Rob Manfred",
+            "incorrect3": "Babe Ruth",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2022 SCOP MS 11",
+            "question": "An essay about this genre of play Apollonian and Dionysian types of it. The central conflict of this dramatic genre should inspire catharsis in the audience, according to Aristotle's Poetics, which discusses the difference between satyr plays and this genre in the work of Aeschylus and Euripides. Name this genre of play used to tell stories of personal flaws, fatal mistakes, and misfortune, unlike the genre of comedy.",
+            "answers": ["Greek tragedy", "tragoidia"],
+            "incorrect1": "Shakespearean drama",
+            "incorrect2": "Greek comedy",
+            "incorrect3": "opera",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 SANDS",
+            "question": "This city lies opposite Bainbridge Island across the Puget Sound. This city, currently home to the NHL's Kraken, was once home to the NBA's Supersonics. Boeing was founded in this city, which contains the headquarters of Starbucks and Amazon. The Space Needle dominates the skyline of this notoriously rainy city in the Pacific Northwest. Name this largest city in Washington.",
+            "answers": ["Seattle"],
+            "incorrect1": "Portland",
+            "incorrect2": "Vancouver",
+            "incorrect3": "San Francisco",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This hurricane was the second-most intense Atlantic hurricane ever recorded over the Gulf of Mexico. It reached category 5 and made landfall on the west coast of the U.S. state of Florida, less than two weeks after Hurricane Helene. Hundreds of communities within the state of Florida received tornado warnings and hundreds of homes were destroyed within the state. Name this hurricane which led to at least 25 deaths across the US and Mexico.",
+            "answers": ["Milton", "Hurricane Milton"],
+            "incorrect1": "Helene",
+            "incorrect2": "Mildred",
+            "incorrect3": "Michael",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2010 SCOP Novice",
+            "question": "One theory with this name predicts the Lense-Thirring effect, as well as the equivalence principle, which equates gravitational and inertial mass. Another theory with this name is formulated within a Minkowski space and leads to the twin paradox, wherein one twin brother returns from space travel to find he has aged less than his brother as a result of time dilation. Give this name of two theories concerning reference frames known as the special and general types, both formulated by Albert Einstein.",
+            "answers": [
+                "relativity",
+                "general relativity",
+                "special relativity"
+            ],
+            "incorrect1": "gravity",
+            "incorrect2": "quantum mechanics",
+            "incorrect3": "thermodynamics",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This NBA team, known for its physical and defensive style of play, earned the nickname \"Bad Boys\" during their championship runs in the late 1980s and early 1990s. They have won three NBA championships, with their most recent victory coming in 2004 against the heavily favored Los Angeles Lakers.  Their home arena, Little Caesars Arena, is located in the heart of downtown Detroit and shares its space with the NHL's Detroit Red Wings.  What is the name of this team, whose history includes legendary players like Isiah Thomas and Joe Dumars?",
+            "answers": ["Detroit Pistons", "Pistons"],
+            "incorrect1": "Detroit Lions",
+            "incorrect2": "Chicago Bulls",
+            "incorrect3": "Los Angeles Lakers",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "This novel's main character is falsely accused of stealing a baseball player's shoes from a charity auction. That character's ancestor Elya tried to marry Myra Menke, but in doing so wronged Madame Zeroni. Camp Green Lake is infested with yellow-spotted lizards and has employees including The Warden, Mr. Pendanski, and Mr. Sir in what novel about Stanley Yelnats IV, written by Louis Sachar?",
+            "answers": ["Holes"],
+            "incorrect1": "The BFG",
+            "incorrect2": "Matilda",
+            "incorrect3": "The Hunger Games",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2014 SCOP Novice 5",
+            "question": "Competing populations of species in this phylum are used to measure climate change in Antarctica's dry valleys. The fungus Arthrobotrys grows nets to catch soil- dwelling members of this phylum, which also includes the model organism C. elegans and the parasite that causes heartworm infection in pets. Name this phylum, whose members have external cuticles and cylindrical bodies and which is commonly known as roundworms.",
+            "answers": ["Nematoda", "Nematodes", "roundworms"],
+            "incorrect1": "Annelida",
+            "incorrect2": "Arthropoda",
+            "incorrect3": "Mammalia",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2017 SCOP Novice 8",
+            "question": "James Wilkinson exposed this man's plan to help Mexico force Spain out of the American southwest. After 35 deadlocked ballots, this man became Vice President after Federalists switched their support to Thomas Jefferson. This man was nearly indicted in New Jersey for slaying a political rival in a duel at Weehawken. Name this American statesman who ruined his political career by killing Alexander Hamilton.",
+            "answers": ["Aaron Burr Jr.", "Aaron Burr"],
+            "incorrect1": "Alexander Hamilton",
+            "incorrect2": "Thomas Jefferson",
+            "incorrect3": "John Adams",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2019 SCOP Novice 10",
+            "question": "A group of these people defeated Gaius Claudius Glaber after rappelling down Mount Vesuvius on vines. The annual declaration of war on another group of these people allowed kryptes to freely kill them in order to complete the agoge. Helots were classified as these people in Sparta, and thousands of these people were crucified along the Appian Way after Spartacus's revolt failed. The Roman libertini were formerly what class of un-free people?",
+            "answers": ["slaves"],
+            "incorrect1": "servants",
+            "incorrect2": "peasants",
+            "incorrect3": "workers",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "These prizes established in 1895 by a Swedish scientist are awaded to individuals in five categories each year. This year, the prize for literature went to Han Kang, a South Korean author. The award for physics when to an individual who has been called the \"Godfather of AI\", and the prize for medicine went to a pair for their discovery for microRNA. The most famous of these prizes is the \"Peace Prize\" that was awarded to a Japanese group of atomic bomb survivors and peace activists. This Peace Prize has been awarded to Malala Yousafzai, Martin Luther King Jr., and Mother Teresa. Name this prestigious award.",
+            "answers": ["Nobel prize", "nobel peace prize"],
+            "incorrect1": "Pulitzer Prize",
+            "incorrect2": "Academy Award",
+            "incorrect3": "Tony Award",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film is presented in a non-linear narrative style with stark shifts between black and white and color sequences.  The film explores themes of racism, redemption, and the destructive influence of hate groups.  Edward Norton delivers a chilling performance as Derek Vinyard, a neo-Nazi skinhead who undergoes a transformation while in prison.  What is the title of this 1998 crime drama that delves into the dark underbelly of white supremacy?",
+            "answers": ["American History X"],
+            "incorrect1": "Schindler's List",
+            "incorrect2": "Pulp Fiction",
+            "incorrect3": "The Shawshank Redemption",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "The Hamersley Range, in the western part of this country, accounts for over 90% of this country's iron ore production. The Great Artesian Basin covers one-fifth of this country, the Murray-Darling Basin covers another one-seventh, and it is home to the Great Sandy Desert. The Great Dividing Range, in its eastern sections, is the 4th longest in the world and includes Mount Kosiuszko. Bass Strait separates Tasmania from the main island of what country that occupies the Great Barrier Reef has its capital at Canberra and is home to Melbourne and Sydney?",
+            "answers": ["Australia"],
+            "incorrect1": "Austria",
+            "incorrect2": "New Zealand",
+            "incorrect3": "Brazil",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "This US retailer said it would open five new pet-services centers this fall. This corporate giant, founded in 1962, started as a single discount store in Rogers, Arkansas, and has grown into a global behemoth with over 10,500 stores in 24 countries. Its \"Everyday Low Prices\" strategy has resonated with consumers, making it a household name synonymous with affordability and convenience.  It is the world's largest company by revenue, employing over 2.3 million people worldwide.  Its signature blue vest, worn by its employees, has become a recognizable symbol of the company's presence in communities across the globe. What is the name of this retail giant founded by Sam Walton?",
+            "answers": ["Walmart"],
+            "incorrect1": "Target",
+            "incorrect2": "Amazon",
+            "incorrect3": "Costco",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2011 SCOP Novice 2",
+            "question": "The ancient city of Sigiriya lies in this island's center, and Adam's Bridge connects it to the mainland. Its Horton's Plains National Park includes Adam's Peak, and its southern city of Galle was devastated in the 2004 Indian Ocean tsunami. Sinhalese Buddhists are the majority here, and Tamil separatists recently laid down arms here. Formerly known as Ceylon and with capital at Colombo name this island nation southeast of India.",
+            "answers": ["Sri Lanka"],
+            "incorrect1": "Madagascar",
+            "incorrect2": "Indonesia",
+            "incorrect3": "New Zealand",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This tennis legend announced he will retire in 2024 after the Davis Cup. This tennis star, known as the \"King of Clay,\" has won a record 14 French Open titles, dominating the tournament with his powerful forehand and relentless intensity. He is known for his meticulous pre-serve rituals, including the precise placement of his water bottles and the tucking of his hair behind his ears.  His epic rivalry with Roger Federer and Novak Djokovic has produced some of the most memorable matches in tennis history.  He completed a career Golden Slam by winning the 2008 Beijing Olympics gold medal in singles. Who is this Spanish tennis legend?",
+            "answers": ["Rafael Nadal", "Rafa Nadal"],
+            "incorrect1": "Novak Djokovic",
+            "incorrect2": "Roger Federer",
+            "incorrect3": "Cristiano Ronaldo",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2018 MVS RAMS",
+            "question": "It's not Buddhism, but members of this religion may write wishes on wooden plaques called ema and hang them at shrines. One shrine in this religion is destroyed and rebuilt every 20 years; that shrine is called Ise Jingu and is dedicated to Amaterasu, one of this religion's kami. Name this traditional religion of Japan.",
+            "answers": ["Shintoism", "Kami-no-michi"],
+            "incorrect1": "Buddhism",
+            "incorrect2": "Confucianism",
+            "incorrect3": "Hinduism",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "1. He created the Preparedness Investigating Subcommittee in the Senate Armed Services Committee during the Korean War and, two weeks after becoming President, he imposed the \"Chicken tax\" on light trucks from Europe. He signed the Elementary and Secondary Education Act into law, appointed members of the Warren Commission, and established Medicare and Medicaid during his presidency. He passed the Economic Opportunity Act in 1964, and made the \"Great Society\" speech in 1965. Identify this President from Texas who succeeded J.F. Kennedy.",
+            "answers": ["Lyndon B. Johnson", "LBJ", "lyndon johnson"],
+            "incorrect1": "John F. Kennedy",
+            "incorrect2": "Richard Nixon",
+            "incorrect3": "Jimmy Carter",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2016 PLATO",
+            "question": "This object was rediscovered at the French Fort Julien in 1799, although it currently resides in the British Museum. While Thomas Young determined some properties of its Demotic middle section, it was Jean \u00adFrancois Champollion who found that certain symbols on this object represented both full words and syllables. The decree on this slab is also written in Ancient Greek. Name this stone that allowed for reading ancient Egyptian hieroglyphics.",
+            "answers": ["Rosetta Stone"],
+            "incorrect1": "Stonehenge",
+            "incorrect2": "Hope Diamond",
+            "incorrect3": "Dead Sea Scrolls",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This British science fiction series, which premiered in 1963, features a protagonist who travels through time and space in a blue police box.  The protagonist can regenerate into a new body when facing death, allowing for different actors to portray the character throughout the show's long history. The Time Lord known as \"The Doctor\" often faces iconic enemies like the Daleks, cyborg aliens with a distinctive robotic voice, and the Weeping Angels, terrifying creatures that can only move when not being observed. What is the name of this long-running series, known for its imaginative storylines and dedicated fanbase?",
+            "answers": ["Doctor Who", "Dr. Who", "dr who"],
+            "incorrect1": "Star Trek",
+            "incorrect2": "Sherlock",
+            "incorrect3": "The X-Files",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2022 MAKEMAKE",
+            "question": "A period of low observance of certain features on this body occurred during the Maunder Minimum and they follow an 11-year cycle. The radiative zone causes mass ejections that occur from the hottest layer of this body. The photosphere of this star forms dark areas in regions where certain \"spots\" form. NASA proposed a HelioSwarm mission to this star using nine probes. Name this closest star to Earth.",
+            "answers": ["Sun", "the sun"],
+            "incorrect1": "Moon",
+            "incorrect2": "Jupiter",
+            "incorrect3": "Sirius",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2015 SAGES",
+            "question": "This city was led by a group of five ephors, who advised its two kings. This city's helots were slaves that made up 90% of its population. Name this Greek city-state that was known for its warrior culture, which helped it beat Athens in the Peloponnesian War.",
+            "answers": ["Sparta"],
+            "incorrect1": "Athens",
+            "incorrect2": "Rome",
+            "incorrect3": "Thebes",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2021 CERES",
+            "question": "Time zones in the US were first created to coordinate the use of these structures. Chinese workers for the Central Pacific Company built one of these structures that was completed at Promontory Point, Utah. A system to help slaves escape the South was called the \"Underground\" one of these structures. Name this type of structure whose \"Transcontinental\" type transported steam locomotives across the US.",
+            "answers": ["railroads", "railways"],
+            "incorrect1": "highways",
+            "incorrect2": "canals",
+            "incorrect3": "airlines",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 TAILS",
+            "question": "In one painting by this artist, infants Jesus and John the Baptist hold birds, and in another two bored-looking angels look up at the central figure. This artist of Madonna and the Goldfinch and Sistine Madonna created a work where Euclid and Pythagoras lounge on steps in the foreground. That work also depicts Plato pointing at the sky and Aristotle pointing at the earth. Name this Renaissance artist of The School of Athens.",
+            "answers": ["Raphael", "Raffaello Sanzio da Urbino"],
+            "incorrect1": "Michelangelo",
+            "incorrect2": "Leonardo da Vinci",
+            "incorrect3": "Donatello",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 MAKEMAKE",
+            "question": "An airport in this city is nicknamed \"The Busiest Square Mile on Earth\". The South Shore Line is a commuter train connecting this city to South Bend. The codes MDW and ORD are used for airports in this city. This city's elevated trains, nicknamed the \"El\", converge in a downtown area named the Loop. Midway Airport and O'Hare Airport serve what most populous city in Illinois?",
+            "answers": ["Chicago", "Chicago, Illinois"],
+            "incorrect1": "New York City",
+            "incorrect2": "Los Angeles",
+            "incorrect3": "Toronto",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2020 TAILS",
+            "question": "Alpha particles were shot at a thin layer of this element in an Ernest Rutherford experiment that proved the existence of the atomic nucleus. This element combines with silver to form the alloy electrum, and it is the most malleable and ductile metal. Since iron pyrite looks very similar to this element, it is nicknamed \"fool's\" this element. Name this element whose symbol is Au, a precious yellow metal.",
+            "answers": ["gold"],
+            "incorrect1": "silver",
+            "incorrect2": "platinum",
+            "incorrect3": "iron",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This animated sitcom, the longest-running American sitcom and animated program, features a family whose address, 742 Evergreen Terrace, has become a pop culture landmark.  The show's signature opening sequence, with its iconic couch gag and Bart writing lines on the chalkboard, is instantly recognizable to viewers worldwide.  Its creator, Matt Groening, named the main characters after his own family members, with the exception of Bart, which is an anagram for \"brat.\" What is the name of this animated sitcom, set in the fictional town of Springfield?",
+            "answers": ["The Simpsons", "Simpsons"],
+            "incorrect1": "Family Guy",
+            "incorrect2": "South Park",
+            "incorrect3": "Friends",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's home stadium, Citizens Bank Park, features a unique Liberty Bell that rings and lights up whenever the home team hits a home run.  They have a long-standing rivalry with the New York Mets, fueled by passionate fans and close geographic proximity.  Their mascot, the Phanatic, is a furry green creature known for its mischievous antics and crowd interactions.  They won their first World Series title in 1980, led by star third baseman Mike Schmidt.  What is the name of this National League team based in Philadelphia?",
+            "answers": ["Philadelphia Phillies", "phillies"],
+            "incorrect1": "Philadelphia Eagles",
+            "incorrect2": "New York Yankees",
+            "incorrect3": "Pittsburgh Pirates",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "An HBO documentary released in October 2024, claimed to uncover the secret creator of this technological innovation. This digial currency gained notoriety for its association with the Silk Road online marketplace, where it was used for illicit transactions.  Its value has been notoriously volatile, experiencing dramatic price swings and attracting both fervent supporters and skeptical critics. In El Salvador, it made history by becoming legal tender alongside the US dollar. Name this currency, created in 2009 by the pseudonymous Satoshi Nakamoto, operates on a decentralized ledger technology known as blockchain.",
+            "answers": ["Bitcoin"],
+            "incorrect1": "Artificial Intelligence",
+            "incorrect2": "Ethereum",
+            "incorrect3": "gold",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
     ]
 ]
