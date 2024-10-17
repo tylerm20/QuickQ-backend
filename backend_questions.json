@@ -13077,7 +13077,7 @@
         },
         {
             "category": "Sports",
-            "question": "This tennis legend announced he will retire in 2024 after the Davis Cup. This tennis star, known as the \"King of Clay,\" has won a record 14 French Open titles, dominating the tournament with his powerful forehand and relentless intensity. He is known for his meticulous pre-serve rituals, including the precise placement of his water bottles and the tucking of his hair behind his ears.  His epic rivalry with Roger Federer and Novak Djokovic has produced some of the most memorable matches in tennis history.  He completed a career Golden Slam by winning the 2008 Beijing Olympics gold medal in singles. Who is this Spanish tennis legend?",
+            "question": "This tennis legend announced he will retire in 2024 after the Davis Cup. Known as the \"King of Clay,\" he has won a record 14 French Open titles, dominating the tournament with his powerful forehand and relentless intensity. He is known for his meticulous pre-serve rituals, including the precise placement of his water bottles and the tucking of his hair behind his ears.  His epic rivalry with Roger Federer and Novak Djokovic has produced some of the most memorable matches in tennis history.  He completed a career Golden Slam by winning the 2008 Beijing Olympics gold medal in singles. Who is this Spanish tennis legend?",
             "answers": ["Rafael Nadal", "Rafa Nadal"],
             "incorrect1": "Novak Djokovic",
             "incorrect2": "Roger Federer",
@@ -13098,7 +13098,7 @@
         {
             "category": "US History",
             "source": "2011 Fall Kickoff Tournament (FKT)",
-            "question": "1. He created the Preparedness Investigating Subcommittee in the Senate Armed Services Committee during the Korean War and, two weeks after becoming President, he imposed the \"Chicken tax\" on light trucks from Europe. He signed the Elementary and Secondary Education Act into law, appointed members of the Warren Commission, and established Medicare and Medicaid during his presidency. He passed the Economic Opportunity Act in 1964, and made the \"Great Society\" speech in 1965. Identify this President from Texas who succeeded J.F. Kennedy.",
+            "question": "This man created the Preparedness Investigating Subcommittee in the Senate Armed Services Committee during the Korean War, and two weeks after becoming President he imposed the \"Chicken tax\" on light trucks from Europe. He signed the Elementary and Secondary Education Act into law, appointed members of the Warren Commission, and established Medicare and Medicaid during his presidency. He passed the Economic Opportunity Act in 1964, and made the \"Great Society\" speech in 1965. Identify this President from Texas who succeeded J.F. Kennedy.",
             "answers": ["Lyndon B. Johnson", "LBJ", "lyndon johnson"],
             "incorrect1": "John F. Kennedy",
             "incorrect2": "Richard Nixon",
@@ -13108,7 +13108,7 @@
         {
             "category": "World History",
             "source": "2016 PLATO",
-            "question": "This object was rediscovered at the French Fort Julien in 1799, although it currently resides in the British Museum. While Thomas Young determined some properties of its Demotic middle section, it was Jean \u00adFrancois Champollion who found that certain symbols on this object represented both full words and syllables. The decree on this slab is also written in Ancient Greek. Name this stone that allowed for reading ancient Egyptian hieroglyphics.",
+            "question": "This object was rediscovered at the French Fort Julien in 1799, although it currently resides in the British Museum. While Thomas Young determined some properties of its Demotic middle section, it was Jean-Francois Champollion who found that certain symbols on this object represented both full words and syllables. The decree on this slab is also written in Ancient Greek. Name this stone that allowed for reading ancient Egyptian hieroglyphics.",
             "answers": ["Rosetta Stone"],
             "incorrect1": "Stonehenge",
             "incorrect2": "Hope Diamond",
@@ -13117,7 +13117,7 @@
         },
         {
             "category": "Entertainment",
-            "question": "This British science fiction series, which premiered in 1963, features a protagonist who travels through time and space in a blue police box.  The protagonist can regenerate into a new body when facing death, allowing for different actors to portray the character throughout the show's long history. The Time Lord known as \"The Doctor\" often faces iconic enemies like the Daleks, cyborg aliens with a distinctive robotic voice, and the Weeping Angels, terrifying creatures that can only move when not being observed. What is the name of this long-running series, known for its imaginative storylines and dedicated fanbase?",
+            "question": "This British science fiction series, which premiered in 1963, features a protagonist who can regenerate into a new body when facing death, allowing for different actors to portray the character throughout the show's long history. The Time Lord known as \"The Doctor\" often faces iconic enemies like the Daleks, cyborg aliens with a distinctive robotic voice, and the Weeping Angels, terrifying creatures that can only move when not being observed. What is the name of this long-running series, known for its protagonist who travels through time and space in a blue police box?",
             "answers": ["Doctor Who", "Dr. Who", "dr who"],
             "incorrect1": "Star Trek",
             "incorrect2": "Sherlock",
