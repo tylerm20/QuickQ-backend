@@ -13217,5 +13217,257 @@
             "used": "TRUE",
             "source": "Marty Heavey"
         }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "Liam Payne, a member of this band, died at age 31 after falling from a hotel in Argentina. This boy band, formed on the British reality show \"The X Factor\" in 2010, originally consisted of five members. Their debut single, \"What Makes You Beautiful,\" topped the charts in several countries and became a global phenomenon. They amassed a devoted fanbase, known as \"Directioners,\" who fueled their rise to international stardom.  Despite their disbandment in 2016, each member went on to achieve solo success in music and other ventures. What is the name of this popular boy band?",
+            "answers": ["One Direction"],
+            "incorrect1": "The Beatles",
+            "incorrect2": "Backstreet Boys",
+            "incorrect3": "Jonas Brothers",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "This children's classic features a memorable tea party where time stands still and nonsensical conversations abound. The Cheshire Cat, known for its mischievous grin and ability to disappear and reappear at will, guides the protagonist through Wonderland's curious landscape. The Queen of Hearts, with her penchant for shouting \"Off with their heads!\", adds a touch of tyranny to the whimsical world. The story's author, Lewis Carroll, was a mathematician and logician, which is reflected in the book's playful use of language and logic puzzles.  What is the name of this beloved tale of Alice's fantastical adventures?",
+            "answers": ["Alice in Wonderland"],
+            "incorrect1": "The Wonderful Wizard of Oz",
+            "incorrect2": "Peter Pan",
+            "incorrect3": "Charlie and the Chocolate Factory",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "His title is loosely translated from Mongolian and means \"Ocean of Wisdom.\" Until his exile, he lived either in Potala Palace or Norbulingka Palace, which are both in the same city less than 2 miles apart. He won the Nobel Peace Prize in 1989, and currently resides in India when not involved in new travels. His recent trip to Taiwan to visit the victims of the Typhoon Morakot led to protests from the Chinese government. Identify this 74-year-old religious leader from Lhasa, the leader of the Tibetan Government-in-exile.",
+            "answers": ["Dalai Lama"],
+            "incorrect1": "Pope Francis",
+            "incorrect2": "Buddha",
+            "incorrect3": "Mahatma Gandhi",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This critically acclaimed AMC drama's opening credits sequence, featuring a silhouetted figure falling through a cityscape, has become an iconic visual representation of the show's themes of identity and disillusionment. The series finale, which is set in 1970, ended with a serene image of Don Draper meditating on a cliffside retreat, leaving the audience to ponder his fate and the meaning of his journey. Set in the 1960s advertising world, it features a protagonist, Don Draper, whose mysterious past and hidden identity unravel throughout the series. What is the name of this Emmy Award-winning drama?",
+            "answers": ["Mad Men"],
+            "incorrect1": "Breaking Bad",
+            "incorrect2": "The Sopranos",
+            "incorrect3": "Game of Thrones",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 SCOP MS 7",
+            "question": "This island's native Taino people fought the settlers of La Navidad, which was founded after Columbus' Santa Maria ran aground on this island's western shore. In 2010, this island was rocked by a massive earthquake near the city of Port-au-Prince. Name this Caribbean island that is politically divided between Haiti and the Dominican Republic and whose name illustrates its possession by Spain.",
+            "answers": ["Hispaniola", "Hispanola"],
+            "incorrect1": "Cuba",
+            "incorrect2": "Puerto Rico",
+            "incorrect3": "Jamaica",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's infamous \"butt fumble\" play, where quarterback Mark Sanchez ran into his own teammate's backside, resulting in a turnover, has become a symbol of the franchise's struggles and misfortunes.  Despite winning their only Super Bowl title in 1969, led by quarterback Joe Namath, they have endured a long championship drought, often finding themselves overshadowed by their crosstown rivals, the New York Giants. Name this team whose home stadium is shared with the Giants, creating a unique dynamic in the NFL landscape.",
+            "answers": ["New York Jets", "Jets", "NY Jets"],
+            "incorrect1": "New York Giants",
+            "incorrect2": "New England Patriots",
+            "incorrect3": "Buffalo Bills",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2021 SCOP B",
+            "question": "This period was legally enforced by the Volstead Act, which was drafted by Wayne Wheeler. Companies during this period warned customers not to leave bricks of dehydrated grapes in a \"cool cupboard for twenty-one days.\" This period was ushered in by the eighteenth amendment, which was repealed just fourteen years later by the twenty-first amendment. Name this period in American history in which the consumption of alcohol was illegal.",
+            "answers": ["Prohibition", "alcohol"],
+            "incorrect1": "The Great Depression",
+            "incorrect2": "The New Deal",
+            "incorrect3": "World War II",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "Neil Sloane and Simon Plouffe first defined the \"super\" form of this expression, which Clifford Pickover used a dollar sign to signify. Sterling's approximation can find large values of these, which are found in the denominator in every term of the Taylor series for e^x (e to the x). Used in combinations and permutations, the only prime one of these is 2, and its value for 4 and 5 is 24 and 120, respectively. Identify this mathematical expression whose value for n is the product of all positive integers less than or equal to n, symbolized as an exclamation point.",
+            "answers": ["factorial", "!", "exclamation point"],
+            "incorrect1": "exponent",
+            "incorrect2": "square root",
+            "incorrect3": "derivative",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2020 SCOP A",
+            "question": "An author from this country wrote about Hana caring for Count Almasy in The English Patient. This is the home country of Michael Ondaatje, Nobel Prize winner Alice Munro, and the author of a novel in which Offred tries to escape from her oppressive life in the Republic of Gilead, The Handmaid's Tale. Author Margaret Atwood is from what country north of the United States?",
+            "answers": ["Canada"],
+            "incorrect1": "United States",
+            "incorrect2": "Mexico",
+            "incorrect3": "Greenland",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2020 MOQBA Novice",
+            "question": "This country hosted the conference that created the Non-Aligned Movement in its city of Bandung. A leader of this country launched a purge of communists after a coup by the 30th of September movement failed to overthrow him and attempted to implement \"guided democracy\" in this country. That leader was Sukarno. This country's capital was known as Batavia when it was colonized by the Dutch. Name this island nation that has the largest Muslim population in the world, with capital Jakarta.",
+            "answers": ["Indonesia", "Republic of Indonesia"],
+            "incorrect1": "Malaysia",
+            "incorrect2": "Philippines",
+            "incorrect3": "New Zealand",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's mascot, Champ, a spirited blue horse, entertains fans with his acrobatic dunks and playful antics. Their home arena, the American Airlines Center, is a state-of-the-art facility that has hosted numerous major sporting and entertainment events. They achieved their first and only NBA championship in 2011, led by Dirk Nowitzki, a German-born power forward who became a global icon. What is the name of this Texas-based NBA franchise?",
+            "answers": ["Dallas Mavericks", "Mavericks", "Mavs"],
+            "incorrect1": "Dallas Cowboys",
+            "incorrect2": "San Antonio Spurs",
+            "incorrect3": "Houston Rockets",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "The women's record time for this race was set by Ruth Chepng'etich in Chicago on October 13, 2024. The first modern one of these was held at the 1896 Summer Olympics in Athens, its namesake route. The world record for the fastest completion of this race is held by another Kenyan in under 2 hours and one minute. This footrace, famously commemorating the legendary run of Pheidippides to Athens in 490 BC, covers a distance of 26.2 miles, or 42.2 kilometers. What is this grueling yet rewarding athletic event?",
+            "answers": ["Marathon"],
+            "incorrect1": "100 Meters",
+            "incorrect2": "Triathlon",
+            "incorrect3": "10 Kilometers",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This rock and roll icon, known for his energetic performances and signature dance moves, was famously nicknamed \"the Pelvis\" due to his suggestive hip gyrations.  His debut single, \"That's All Right,\" released in 1954, helped popularize rock and roll music and launched him to stardom. He served in the US Army from 1958 to 1960, stationed in Germany, where he met his future wife, Priscilla Beaulieu. His Graceland mansion in Memphis, Tennessee, has become a popular tourist destination and a shrine for fans worldwide. Who is this legendary singer and actor, often dubbed the \"King of Rock and Roll\"?",
+            "answers": ["Elvis Presley"],
+            "incorrect1": "Chuck Berry",
+            "incorrect2": "Buddy Holly",
+            "incorrect3": "Michael Jackson",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 TAILS",
+            "question": "Climbers traditionally stop just short of the peak of a mountain in this range named for five treasures, which is called Kangchenjunga. A majority of the so-called \"Eight Thousanders\" are in this young range. Tenzing Norgay accompanied Edmund Hillary in climbing a mountain in this range \"because it's there\". What mountain range contains Mount Everest, the tallest mountain in the world?",
+            "answers": ["Himalayas", "Himalayan Mountains"],
+            "incorrect1": "Alps",
+            "incorrect2": "Andes",
+            "incorrect3": "Rocky Mountains",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2017 SCOP Novice 8",
+            "question": "In 2008, Otis McDonald sued the city of Chicago over a ban on these items; the Supreme Court struck down that ban shortly after deciding a similar case, DC vs. Heller. As the head of an organization advocating for these items, Charlton Heston stated that Al Gore could take one from his \"cold dead hands.\" The Brady Bill requires federal background checks be performed before buying what objects that are the subject of the 2nd Amendment?",
+            "answers": ["guns", "handguns", "arms"],
+            "incorrect1": "knives",
+            "incorrect2": "bows and arrows",
+            "incorrect3": "tanks",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2017 SCOP MS 7",
+            "question": "A popular method for solving systems of linear equations works one of these objects into reduced \"row-echelon form.\" If one of these objects is square, its trace is simply the sum of values along a diagonal, and these mathematical arrangements have an inverse if and only if their determinant is not zero. Name these rectangular arrays of numbers, arranged in columns and rows.",
+            "answers": ["matrix", "matrices"],
+            "incorrect1": "array",
+            "incorrect2": "vector",
+            "incorrect3": "algorithm",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This NBA team, known for its recent string of playoff appearances, has a history marked by both exciting moments and unfortunate setbacks.  Despite boasting star players like Kawhi Leonard and Paul George, they have yet to reach the NBA Finals, often falling short in crucial playoff series. They shared their home arena, Crypto.com Arena, with their crosstown rivals, the Los Angeles Lakers before the Intuit Dome opened in Inglewood. Name this team who often plays second fiddle to the Lakes in Los Angeles.",
+            "answers": ["LA Clippers", "Clippers", " Los Angeles Clippers"],
+            "incorrect1": "LA Lakers",
+            "incorrect2": "Golden State Warriors",
+            "incorrect3": "Los Angeles Angels",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2016 Pennsylvania Novice",
+            "question": "This man once refused to escape from prison despite an earthquake having destroyed the building. At the incident of Antioch, he confronted another man about that man's gentile\u00adlike behavior. This man frequently traveled with men named Silas and Timothy. His sight was restored by Ananias of Damascus after he had been temporarily blinded, and he had participated in the stoning of St. Stephen before his conversion to Christianity. Name this apostle whose letters comprise more than half of the New Testament of the Bible.",
+            "answers": [
+                "St. Paul the Apostle",
+                "Saul of Tarsus",
+                "Paul",
+                "Saint Paul",
+                "St. Paul"
+            ],
+            "incorrect1": "St. Peter the Apostle",
+            "incorrect2": "St. John the Apostle",
+            "incorrect3": "Moses",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2012 SCOP Novice 3",
+            "question": "Orthoclase is a type of feldspar that contains this element, whose isotope-40 is used with argon to date rock formations. This element's chloride is used in executions, and nitrates of it are found in saltpeter and fertilizer. This element emits a lilac color in a flame test, and a water-soluble form of this element is found in potash. Name this alkali element, slightly less reactive to air and water than sodium, whose chemical symbol is K.",
+            "answers": ["Potassium", "K"],
+            "incorrect1": "Calcium",
+            "incorrect2": "Sodium",
+            "incorrect3": "Iron",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "C/2023 A3 (Tsuchinshan\u2013ATLAS), one of these objects, was discovered in 2023 and is the brighest one since Neowise in 2020. These celestial objects, often described as \"dirty snowballs,\" are composed of ice, dust, and rock, and originate from the outer regions of the solar system.  They are known for their distinctive tails, which are formed when the sun's heat vaporizes the ice and dust, creating a luminous trail that can stretch for millions of miles. Halley's, perhaps the most famous of its kind, is visible from Earth every 76 years. What are these icy wanderers of the solar system?",
+            "answers": ["comet"],
+            "incorrect1": "asteroid",
+            "incorrect2": "meteor",
+            "incorrect3": "planet",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This band's iconic album, *The Joshua Tree*, released in 1987, features a stark black and white cover photograph shot by Anton Corbijn in the Mojave Desert. Their politically charged anthem, \"Sunday Bloody Sunday,\" commemorates the 1972 Bogside Massacre in Northern Ireland. They famously performed on a rooftop in Los Angeles in 1987, causing a traffic jam and leading to their arrest. The band's four members\u2014Bono, The Edge, Adam Clayton, and Larry Mullen Jr.\u2014have remained together since their formation in 1976.  What is the name of this Irish rock band known for their anthemic sound and social activism?",
+            "answers": ["U2"],
+            "incorrect1": "Coldplay",
+            "incorrect2": "The Beatles",
+            "incorrect3": "The Rolling Stones",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "British troops were withdrawn to Castle Island after this event. John Adams was among the men who served as defense attorneys in a trial following this event. Henry Pelham and Paul Revere made depictions of this event to serve as propaganda against one side in this event. This event, which followed the passing of the Townshend Acts, saw Crispus Attucks killed by musket fire after a crowd attacked British soldiers. Name this event in 1770, where five people were killed in a city in Massachusetts.",
+            "answers": ["Boston Massacre"],
+            "incorrect1": "Boston Tea Party",
+            "incorrect2": "Battle of Bunker Hill",
+            "incorrect3": "American Revolution",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "This ruler wrote of his support of witch hunts in his Daemonologie. The Main Plot led to the arrest of Sir Walter Raleigh during this man's rule. The son of Mary, Queen of Scots, this monarch was said to have had a homosexual relationship with the Duke of Buckingham, while he faced an assassination attempt led by Robert Catesby and Guy Fawkes. The Gunpowder Plot occurred during this man's reign, which also saw a translation of the Bible named after him. Name the first Stuart king of England, who succeeded Elizabeth I.",
+            "answers": ["James I", "James"],
+            "incorrect1": "Henry VIII",
+            "incorrect2": "Charles I",
+            "incorrect3": "George III",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "This river divides Minneapolis and St. Paul. In 1927, this river's flood was the worst in US history, causing a system of levees to be built that was the world's longest. Nicknamed the \"Big Muddy\", this river serves as part of the border between Louisiana and its namesake state. Name this river that, with the Missouri, makes up the longest river system in the United States.",
+            "answers": ["Mississippi River"],
+            "incorrect1": "Missouri River",
+            "incorrect2": "Amazon River",
+            "incorrect3": "Nile River",
+            "used": "TRUE"
+        }
     ]
 ]
