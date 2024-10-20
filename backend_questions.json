@@ -13469,5 +13469,678 @@
             "incorrect3": "Nile River",
             "used": "TRUE"
         }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "One of these landforms \"of Tehuantepec\" is found in the Mexican states of Oaxaca and Veracruz. One \"of Kra\" connects the Malay Peninsula to the rest of Asia. The Suez Canal was built across one of these landforms separating the Red and Mediterranean Seas. Name these narrow strips of land that connect larger land masses, another of which is the country of Panama.",
+            "answers": ["isthmus", "isthmi"],
+            "incorrect1": "peninsula",
+            "incorrect2": "strait",
+            "incorrect3": "island",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 ERIS",
+            "question": "An instrument of this type plays a continuous ostinato for the entirety of Maurice Ravel's Bolero. The tabla is an Indian instrument of this type. A metal kind of this instrument popular in Caribbean music can play several different notes and is called its \"steel\" type. Timpanis are large, tunable examples of what percussion instruments with \"bass\" and \"snare\" types?",
+            "answers": ["drums"],
+            "incorrect1": "guitars",
+            "incorrect2": "violins",
+            "incorrect3": "trumpets",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2016 Pennsylvania Novice",
+            "question": "The death of two Guyanese immigrants in this city sparked the Crown Heights riots between its black and Jewish populations. In 1969, a police raid of this city's Stonewall Inn sparked the beginning of the modern LGBT movement. Peter Minuit purchased the land that would eventually become this city from Native Americans. Mayor Fiorello La Guardia took down this city's Tammany Hall political machine. In 2001, two planes crashed into its World Trade Center. Name this most populous city in the United States.",
+            "answers": ["New York City"],
+            "incorrect1": "Los Angeles",
+            "incorrect2": "Chicago",
+            "incorrect3": "London",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This fashion house teamed up with Axiom to design a space suit for NASA's 2026 moon landing. This luxury fashion house, founded in Milan in 1913, initially gained recognition for its high-quality leather goods and travel accessories. Its iconic nylon backpack, introduced in the 1980s, revolutionized the fashion industry with its blend of practicality and luxury.  Name this brand whose signature triangular logo, often discreetly placed on its products, has become a symbol of understated elegance and sophistication.",
+            "answers": ["Prada"],
+            "incorrect1": "Gucci",
+            "incorrect2": "Louis Vuitton",
+            "incorrect3": "Nike",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2010 Fall Novice Tournament",
+            "question": "His wife was part of the Gang of Four, and he supported, then suppressed, the Hundred Flowers campaign. He encouraged a phase in which village furnaces produced low-quality steel and another in which the \"Four Olds\" were attacked by Red Guards. He retreated on the Long March from Chiang Kai-Shek. The initiator of the Great Leap Forward and the Cultural Revolution, and author of the Little Red Book name the first Chairman of Communist China.",
+            "answers": ["Mao Zedong", "Mao Tse-Tung", "Chairman Mao"],
+            "incorrect1": "Deng Xiaoping",
+            "incorrect2": "Sun Yat-sen",
+            "incorrect3": "Kim Jong-un",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's legendary double-play combination of Tinker to Evers to Chance, immortalized in a 1910 poem by Franklin Pierce Adams, became a symbol of baseball's golden age. Their home ballpark, Wrigley Field, is the second-oldest ballpark in Major League Baseball and is known for its ivy-covered outfield walls and iconic marquee.  They famously broke a 108-year championship drought in 2016, winning a thrilling World Series in seven games against the Cleveland Indians.  What is the name of this National League MLB team?",
+            "answers": ["Chicago Cubs", "cubs"],
+            "incorrect1": "Chicago White Sox",
+            "incorrect2": "St. Louis Cardinals",
+            "incorrect3": "New York Yankees",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This band's 1975 self-titled album, featuring the hit single \"Rhiannon,\" marked a significant shift in their sound, incorporating more pop and rock elements. The album's success propelled them to international stardom and laid the groundwork for their even more successful follow-up. Rumours, released in 1977, became one of the best-selling albums of all time, fueled by interpersonal drama within the band and hit songs like \"Go Your Own Way\" and \"Dreams.\"  The band's classic lineup consisted of Lindsey Buckingham, Stevie Nicks, Christine McVie, John McVie, and Mick Fleetwood. What is the name of this British-American rock band?",
+            "answers": ["Fleetwood Mac"],
+            "incorrect1": "The Beatles",
+            "incorrect2": "The Rolling Stones",
+            "incorrect3": "Led Zeppelin",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "This author wrote about \"Irma's Injection\" in his 1900 book The Interpretation of Dreams. \"Anna O.,\" \"Little Hans,\" and the \"Wolf Man\" were some of the patients who sought advice from his Vienna clinic. \"Jokes and their Relation to the Unconscious\" is an essay by this man, whose \"structural theory\" proposed that the mind is divided into the id, the ego, and the superego. Name this Austrian founder of psychoanalysis.",
+            "answers": ["Sigmund Freud", "Sigismund Schlomo"],
+            "incorrect1": "Carl Jung",
+            "incorrect2": "Albert Einstein",
+            "incorrect3": "Stephen Hawking",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2017 Darien DEFT",
+            "question": "This man made a speech stating \"I have given my life to this struggle of the African people,\" and mentioning \"an ideal I hope to live for.\" That speech was due to this man's involvement in Umkhonto We Sizwe, the \"Spear of the Nation.\" This founder of the Truth and Reconciliation Commission stated \"I am prepared to die\" at the Rivonia Trial and spent 18 years on Robben Island before he was released from prison by F.W. De Klerk. Name this civil rights leader and first black President of South Africa.",
+            "answers": ["Nelson Mandela"],
+            "incorrect1": "Martin Luther King Jr.",
+            "incorrect2": "Mahatma Gandhi",
+            "incorrect3": "Barack Obama",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This gymnast, the first Hmong-American Olympian, captivated the world with her performance at the 2020 Tokyo Olympics, where she secured the all-around gold medal.  She overcame adversity, including a fall on the uneven bars during the team competition and the challenges of competing amidst the COVID-19 pandemic.  Her powerful routines and graceful artistry earned her a silver medal in the team event and a bronze medal on the uneven bars.  Who is this talented athlete, who later competed for Auburn University's gymnastics team while also appearing on \"Dancing with the Stars\"?",
+            "answers": ["Sunisa Lee", "Suni Lee"],
+            "incorrect1": "Simone Biles",
+            "incorrect2": "Gabby Douglas",
+            "incorrect3": "Serena Williams",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "One deity from this myth system received the four winds as a gift from his grandfather and used them to kill its creator goddess, Tiamat. Another deity from this myth system corresponds to the Sumerian Inanna and removed seven objects of clothing at seven different gates in the underworld. Marduk and Ishtar appear in what myth system that also includes the legendary king Gilgamesh?",
+            "answers": ["Babylonian", "Mesopotamian"],
+            "incorrect1": "Egyptian",
+            "incorrect2": "Sumerian",
+            "incorrect3": "Greek",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This international convenience store chain is closing 444 underperforming stores in North America. The company's origins trace back to 1927 as an ice house storefront in Dallas, Texas, where customers could purchase essential groceries like bread and milk.  It was the first convenience store to franchise its operations, paving the way for its rapid expansion and dominance in the industry. The chain, with over 77,000 locations worldwide, holds the record for the most convenience stores globally. Name this chain, home to the iconic Slurpee, a frozen carbonated beverage, which has become a summertime staple and a symbol of the brand.",
+            "answers": ["7-Eleven", "7-11", "seven eleven"],
+            "incorrect1": "Circle K",
+            "incorrect2": "Walmart",
+            "incorrect3": "Starbucks",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This FX crime drama, known for its gritty realism and morally ambiguous characters, centered around the Strike Team, a corrupt yet effective unit within the Los Angeles Police Department.  The show's protagonist, Detective Vic Mackey, played by Michael Chiklis, was a complex anti-hero who often blurred the lines between justice and brutality.  The series finale, which aired in 2008, left viewers with a sense of unease and ambiguity, as Mackey's actions finally caught up with him.  What is the name of this acclaimed series, which explored the dark side of law enforcement and the complexities of morality?",
+            "answers": ["The Shield"],
+            "incorrect1": "The Wire",
+            "incorrect2": "Law & Order",
+            "incorrect3": "Friends",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2022 SANDS",
+            "question": "Establishments that violated this policy were vandalized by the hatchet-wielding Carrie Nation. This policy was enforced by the Volstead Act, and it was later repealed by the 21st Amendment. Supporters of this policy were known as \"drys\" while those who opposed it were known as \"wets.\" Groups like the Anti-Saloon League pushed for what policy banning alcohol in the United States?",
+            "answers": ["Prohibition", "temperance"],
+            "incorrect1": "The Great Depression",
+            "incorrect2": "The New Deal",
+            "incorrect3": "World War II",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This property was discovered by Uhlenbeck and Goudsmit in alkali metals. Graviton has a value of 2 for this property, and the Higgs boson has a value of 0 for it. This property causes ferromagnetism when its moment for all atoms line up in the material. Electrons with the same value for it are forbidden to share an orbital due to the Pauli Exclusion Principle. An integer for bosons and half-integer for fermions identify this property, the intrinsic angular momentum of a subatomic particle that is either one-half or negative one-half for the electron.",
+            "answers": ["spin"],
+            "incorrect1": "rotation",
+            "incorrect2": "velocity",
+            "incorrect3": "gravity",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "The peak of Mt. Chimborazo in this mountain range is the farthest point on Earth's surface from the center of Earth, and Tupungato and Cotopaxi are volcanoes found in this mountain range. Ojos del Salado, the world's highest active volcano, is located here, and the Altiplano plateau is the world's second highest plateau. Cities such as Arequippa and Medellin can be found in other plateaus in this mountain range, and Mendoza is a frequent stop for climbers of Aconcagua. Identify longest continental mountain range on Earth, stretching from Colombia and Venezuela to Chile and Argentina.",
+            "answers": ["the Andes", "Andes mountains"],
+            "incorrect1": "The Himalayas",
+            "incorrect2": "The Alps",
+            "incorrect3": "The Rocky Mountains",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2017 SCOP MS 7",
+            "question": "This state's \"Unassigned Lands\" were claimed in an infamous 1889 land rush. In this state's capital, 168 people were killed in a 1995 bombing by Timothy McVeigh. In 1921, the wealthiest African-American community in the country, the Greenwood district, was burned during this state's Tulsa race riots. Name this central U.S. state where \"Sooners\" now live in a panhandle north of Texas.",
+            "answers": ["Oklahoma"],
+            "incorrect1": "Kansas",
+            "incorrect2": "Texas",
+            "incorrect3": "Ohio",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This singer's powerful rendition of \"The Star-Spangled Banner\" at Super Bowl XXV in 1991, amidst the backdrop of the Gulf War, became a cultural touchstone and a symbol of national unity.  Her iconic performance in the 1992 film The Bodyguard propelled the soundtrack to become one of the best-selling albums of all time.  She achieved unprecedented success with her debut album, which featured three consecutive number-one singles: \"Saving All My Love for You,\" \"How Will I Know,\" and \"Greatest Love of All.\"  Who is this legendary vocalist, known for her soaring vocals and impressive range?",
+            "answers": ["Whitney Houston"],
+            "incorrect1": "Mariah Carey",
+            "incorrect2": "Celine Dion",
+            "incorrect3": "Beyoncé",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2022 MAKEMAKE",
+            "question": "William the Conqueror commissioned the \"Domesday\" one of these objects to determine land ownership. One of these objects \"of Common Prayer\" standardized the practice of Anglicanism. A means of mass-producing these objects was invented by Johannes Gutenberg. A famous one of these objects was produced in Kells, Ireland. Illuminated manuscripts were hand-written examples of what objects which are kept in libraries?",
+            "answers": ["books", "Domesday Book", "Book of Common Prayer"],
+            "incorrect1": "movies",
+            "incorrect2": "magazines",
+            "incorrect3": "newspapers",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL team, whose iconic purple and gold uniforms and horned helmets are instantly recognizable, plays its home games in a stadium with a unique nautical-themed design, featuring a ship's horn that blasts after every score.  Despite four Super Bowl appearances, the team has yet to claim a championship title, a source of both frustration and enduring loyalty for its passionate fanbase.  Its legendary players, including Fran Tarkenton, Randy Moss, and Adrian Peterson, have left a lasting impact on the franchise and the sport.  What is the name of this team, based in Minneapolis, Minnesota?",
+            "answers": ["Minnesota Vikings", "vikings"],
+            "incorrect1": "Green Bay Packers",
+            "incorrect2": "Minnesota Twins",
+            "incorrect3": "Dallas Cowboys",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2017 HIGS",
+            "question": "These structures may have holes in them called moulins, and elongated hills called drumlins form when they retreat. These features may carve \"U\" shaped valleys, and they can leave till behind in the form of lateral and terminal moraines. Ice ages are periods of time when continental ones covered most of Earth, and icebergs form by breaking off from these structures. Name these large moving masses of ice.",
+            "answers": ["glaciers"],
+            "incorrect1": "icebergs",
+            "incorrect2": "snow",
+            "incorrect3": "rivers",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 Darien DEFT",
+            "question": "This author wrote about Pelayo and Elisenda, who charge villagers a fee to see an angel locked in their chicken coop in \"A Very Old Man With Enormous Wings.\" Dr. Juvenal Urbino dies after falling off a ladder, enabling Fermina Daza to marry Florentino Ariza, in a novel by this author. Ursula Iguaran and the colonel Aureliano are part of the seven generations of Macondo's Buendia family in a magical realism novel by this author. Name this Colombian author of Love in the Time of Cholera and One Hundred Years of Solitude.",
+            "answers": ["Gabriel Garcia Marquez"],
+            "incorrect1": "Pablo Neruda",
+            "incorrect2": "Isabel Allende",
+            "incorrect3": "Jorge Luis Borges",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This city is planning to build a second sphere like the one currently in Las Vegas. Located on a T-shaped island in the Persian Gulf, the city boasts the Sheikh Zayed Grand Mosque, a stunning architectural marvel that can accommodate over 40,000 worshippers. It is home to a middle eastern Louvre. Its futuristic skyline features iconic structures like the Etihad Towers and the Capital Gate building, which leans at an 18-degree angle. It also hosts the Formula 1 Grand Prix. What is the name of this capital city of the United Arab Emirates?",
+            "answers": ["Abu Dhabi"],
+            "incorrect1": "Dubai",
+            "incorrect2": "Doha",
+            "incorrect3": "Riyadh",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2016 SAGES",
+            "question": "This body of water contains the Cayman Islands. The Virgin Islands are located in this sea which borders the east coast of Guatemala and Nicaragua. Major islands in this sea are Jamaica and and Puerto Rico. Name this sea located between North America and South America.",
+            "answers": ["Caribbean Sea"],
+            "incorrect1": "Mediterranean Sea",
+            "incorrect2": "Gulf of Mexico",
+            "incorrect3": "Pacific Ocean",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "Tech giants Amazon, Google, and Microsoft have all invested in this form of energy as they expect increasing energy demand with the growth of artificial intelligence. Despite its potential for clean energy generation, it carries the risk of catastrophic accidents, such as the Chernobyl disaster in 1986 and the Fukushima Daiichi meltdown in 2011. It is also associated with the challenge of safely storing radioactive waste, which can remain hazardous for thousands of years. Name this energy source which is harnessed through the process of fission, and involves splitting the nucleus of an atom, typically uranium, to release immense amounts of energy.",
+            "answers": ["Nuclear Energy", "nuclear"],
+            "incorrect1": "Solar Energy",
+            "incorrect2": "Fossil Fuels",
+            "incorrect3": "Hydroelectric Energy",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2016 PLATO",
+            "question": "Under his father's command, this man was responsible for defeating the Sacred Band of Thebes in 338 BC. Legend has it that this man solved the Gordian Knot by slicing it with his sword. After this leader's death, his generals, the Diadochi, divided his empire, which stretched from Greece to India. As a youth, this leader was tutored by Aristotle. Name this Macedonian king who conquered the Persian Empire.",
+            "answers": ["Alexander the Great", "Alexander III of Macedon"],
+            "incorrect1": "Julius Caesar",
+            "incorrect2": "Genghis Khan",
+            "incorrect3": "Napoleon Bonaparte",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 ERIS",
+            "question": "This country is home to the world's oldest lighthouse still in use, the Tower of Hercules, in its city of A Coruna. This country's Basque-speaking minority lives in cities like Bilbao, while its eastern portion is known as Catalonia. The slogan \"more than a club\" is used by a world-famous soccer team from this country's city of Barcelona. What European country is led from Madrid?",
+            "answers": [
+                "Spain",
+                "Kingdom of Spain",
+                "Reino de Espana",
+                "Espainiako Erresuma",
+                "Regne d'Espanya"
+            ],
+            "incorrect1": "Portugal",
+            "incorrect2": "Italy",
+            "incorrect3": "Mexico",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2010 SCOP Novice",
+            "question": "When one of these objects' orbit is within Earth's orbit, they are classified in the Aten group, and the Trojan variety of these objects are found within the Lagrangian Points of a larger object. The Alvarez hypothesis states that one of these objects caused the K-T extinction event. The most massive of these objects is Vesta, and the largest was recently classified as a dwarf planet, Ceres. Mame these rocky objects that orbit the sun, most commonly found in the namesake belt between Mars and Jupiter.",
+            "answers": ["Asteroids"],
+            "incorrect1": "Comets",
+            "incorrect2": "Meteors",
+            "incorrect3": "Planets",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2021 CERES",
+            "question": "This organization filed for bankruptcy in 2020 over payouts to sexual abuse victims. Members of this organization gather for large meetings called Jamborees, and must complete a board of review to attain its highest rank. Members of this organization can earn merit badges for various accomplishments. A special project is required to attain the Eagle rank in what American youth scouting organization?",
+            "answers": ["Scouting America", "Boy scouts of america", "bsa"],
+            "incorrect1": "Girl Scouts of the USA",
+            "incorrect2": "Boys & Girls Clubs of America",
+            "incorrect3": "YMCA",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This critically acclaimed television series, known for its fast-paced dialogue and walk-and-talk scenes, follows the fictional administration of President Josiah Bartlet and his senior staff.  It won numerous awards, including four consecutive Primetime Emmy Awards for Outstanding Drama Series. It tackled complex political and social issues, including healthcare reform, terrorism, and the Israeli-Palestinian conflict. What is the name of this popular political drama written by Aaron Sorkin?",
+            "answers": ["The West Wing"],
+            "incorrect1": "The Newsroom",
+            "incorrect2": "House of Cards",
+            "incorrect3": "Veep",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's iconic purple and red dinosaur mascot has been a fan favorite since the franchise's inception in 1995.  Their thrilling victory in the 2019 NBA Finals, led by Kawhi Leonard's clutch performances, marked the first time a Canadian team won the championship. Their home arena, Scotiabank Arena, is located in the heart of downtown Toronto and is known for its passionate and energetic atmosphere.  Drake, a prominent Canadian rapper and global ambassador for the team, is often seen courtside cheering them on. What is the name of this team, the only Canadian-based franchise in the NBA? ",
+            "answers": ["Toronto Raptors", "raptors"],
+            "incorrect1": "Toronto Maple Leafs",
+            "incorrect2": "Vancouver Canucks",
+            "incorrect3": "Boston Celtics",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 SCOP Novice 8",
+            "question": "A character in this story earns $20 from Madame Sofronie, which she then combines with the $1.87 she had been saving. In this story, a woman assures her husband, Mr Young, that she will soon be able to use the tortoiseshell combs he purchased for her even though, in order to buy a platinum fob chain, she sold her hair. Name this short story in which Jim and Della exchange ironic Christmas presents, written by O. Henry.",
+            "answers": ["The Gift of the Magi"],
+            "incorrect1": "The Necklace",
+            "incorrect2": "A Christmas Carol",
+            "incorrect3": "The Little Match Girl",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This singer's holiday classic, \"All I Want for Christmas Is You,\" released in 1994, has become a perennial chart-topper, re-entering the Billboard Hot 100 every holiday season. Her five-octave vocal range and use of the whistle register are signature elements of her singing style. She holds the record for the most number-one singles on the Billboard Hot 100 by a solo artist, with 19 chart-topping hits.  Her 1995 album, Daydream, featuring the hit \"Fantasy,\" showcased her foray into R&B and hip-hop influences. Who is this iconic singer, often referred to as the \"Songbird Supreme\"? ",
+            "answers": ["Mariah Carey"],
+            "incorrect1": "Whitney Houston",
+            "incorrect2": "Celine Dion",
+            "incorrect3": "Beyoncé",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This artist notes that he let one girl \"lick the wrapper.\" In one song featuring Rick Ross, this artist claims he can turn security guards into track stars. This creator of songs like \"The Sky is the Limit\" and \"I'm Me\" has been sighted coming \"straight up out the water wit Marc Jacobs goggles.\" Name this hip-hop sensation of Cash Money Records who performs songs like \"Lollipop,\" \"Stuntin' Like My Daddy\" and \"Pop Bottles.\"",
+            "answers": ["Lil Wayne", "Dwayne Carter"],
+            "incorrect1": "Jay-Z",
+            "incorrect2": "Kanye West",
+            "incorrect3": "Drake",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 HIGS",
+            "question": "This country's flag features a llama and a chichona tree, and the Cordillera Blanca is part of this country's portion of the Andes. In the fifteenth century, the capital of Cuzco was established in this country by the Incan empire. It is bordered by Colombia and Ecuador to the north, Bolivia to the southeast, and Chile to the south. Name this country which contains the westernmost part of the Amazon river and whose capital is Lima.",
+            "answers": ["Peru"],
+            "incorrect1": "Chile",
+            "incorrect2": "Brazil",
+            "incorrect3": "Mexico",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "Before becoming president, this man had started a diplomatic crisis when he tried and executed the British subjects Robert Ambrister and Alexander Arbuthnot. As president, this man had employed Roger Taney to help him dismantle an institution run by Nicholas Biddle. In addition to facing off with the Second Bank of the United States, this man also passed the Indian Removal Act, which forced the Cherokee to undergo the Trail of Tears. Victim of the \"Corrupt Bargain\" of 1824 name this man nicknamed \"Old Hickory,\" the 7th President of the United States.",
+            "answers": ["Andrew Jackson"],
+            "incorrect1": "Thomas Jefferson",
+            "incorrect2": "Andrew Johnson",
+            "incorrect3": "Abraham Lincoln",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This coach, nicknamed the \"Zen Master\" for his unconventional coaching methods and interest in Eastern philosophy, holds the NBA record for the most championships won as a head coach, with 11 titles to his name. He led the Chicago Bulls to six NBA championships in the 1990s, with Michael Jordan as the centerpiece of his triangle offense strategy. He later guided the Los Angeles Lakers to five championships, utilizing the same offensive system with Shaquille O'Neal and Kobe Bryant. Who is this legendary coach, known for his unique approach to leadership and his ability to manage star-studded teams?",
+            "answers": ["Phil Jackson"],
+            "incorrect1": "Red Auerbach",
+            "incorrect2": "Gregg Popovich",
+            "incorrect3": "Michael Jordan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "Binet's formula is one method of finding numbers of this type. The ratio between consecutive numbers of this type in this sequence is close to those in the Golden Ratio, and it also occurs in the sums of \"shallow\" diagonals in Pascal's Triangle. A similarly named spiral can be formed when this sequence is tiled and the opposite corners of the squares are connected via circular arcs. Name this sequence where the first numbers are 0, 1, 1, 2, 3, 5, where each subsequent number is the sum of the previous two.",
+            "answers": ["Fibonacci sequence"],
+            "incorrect1": "geometric sequence",
+            "incorrect2": "arithmetic sequence",
+            "incorrect3": "prime numbers",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Israel announced the killing of this man in Gaza and released drone footage of the last moments of his life. This man was sentenced to four life sentences in Israel for orchestrating the abduction and killing of two Israeli soldiers and four Palestinians he considered to be collaborators. He spent 22 years in prison until his release among 1,026 others in a 2011 prisoner exchange for Israeli soldier Gilad Shalit. Name this former leader of Hamas, widely believed to have orchestrated the October 7 attacks.",
+            "answers": ["Yahya Sinwar", "sinwar"],
+            "incorrect1": "Mahmoud Abbas",
+            "incorrect2": "Benjamin Netanyahu",
+            "incorrect3": "Hassan Nasrallah",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2014 SCOP Novice 5",
+            "question": "This country's Petsamo province was ceded to its eastern neighbor in 1922, but it recaptured much of Karelia during the Continuation War. This country's Sami people live in its province of Lapland, which was the site of late fighting against the Nazis. Fighters from this country used \"Molotov cocktails\" against Soviet bombings during the Winter War. Name this Scandinavian country with capital at Helsinki.",
+            "answers": ["Finland", "Suomi"],
+            "incorrect1": "Sweden",
+            "incorrect2": "Norway",
+            "incorrect3": "Russia",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "Diploamats from this nation were expelled from Canada after prime minister Justin Trudeau claimed this nation tried to assassinate a Sikh separatist on Canadian soil. The United States also indicted an agent from this nation for an attempted murder plot on a American advocating for Sikh independent state. This South Asian nation home to the Taj Mahal, a breathtaking monument of love built in the 17th century, boasts a diverse landscape ranging from the Himalayan mountains to the tropical beaches of Goa. It is the birthplace of yoga and Ayurveda, ancient practices that promote physical and mental well-being. Name this nation that is the world's largest, with a population exceeding 1.4 billion people.",
+            "answers": ["India"],
+            "incorrect1": "China",
+            "incorrect2": "Pakistan",
+            "incorrect3": "Indonesia",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2017 HIGS",
+            "question": "The Laffer curve compares the relationship between these measures and revenue. At the 1988 RNC, George H.W. Bush promised no new ones of these, and Benjamin Franklin stated that nothing is certain except death and these. Ones of these on imported goods are known as tariffs, and versions of these include the \"sales\" and \"income\" varieties. Name these financial charges that fund the government.",
+            "answers": ["taxes"],
+            "incorrect1": "tariffs",
+            "incorrect2": "fines",
+            "incorrect3": "fees",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2022 SANDS",
+            "question": "The \"Peace Village\" is on the border between these two countries, which was created by a 1953 armistice signed in Panmunjom. The Sunshine Policy attempts to improve relations between these two countries. The 38th parallel was used to demarcate the Demilitarized Zone that separates what two Asian nations that share a peninsula that contains cities like Seoul and Pyongyang?",
+            "answers": ["North Korea and South Korea", "Koreas"],
+            "incorrect1": "China and Taiwan",
+            "incorrect2": "India and Pakistan",
+            "incorrect3": "Germany and France",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Fall Novice Tournament",
+            "question": "\"Fandango Asturiano\" is the final movement of one of this man's orchestral works which was inspired by Spanish folk music, and he composed a suite based on One Thousand and One Arabian Nights. In addition to Capriccio Espagnole and Scheherezade, he is known for an interlude in The Tale of Tsar Sultan in which the Tsar's son is turned into an insect. What Russian composer created \"The Flight of the Bumblebee\"?",
+            "answers": ["Nikolai Rimsky-Korsakov"],
+            "incorrect1": "Pyotr Ilyich Tchaikovsky",
+            "incorrect2": "Modest Mussorgsky",
+            "incorrect3": "Igor Stravinsky",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA team, known for its passionate fanbase and vibrant purple and black color scheme, recently broke a 16-year playoff drought, the longest in league history. Their home arena, the Golden 1 Center, is famous for lighting a purple beam after wins. The franchise originated in Rochester, New York, in 1923 as the Rochester Seagrams and has had several relocations and name changes throughout its history.  What is the name of this team, whose current roster features rising stars like De'Aaron Fox and Domantas Sabonis?",
+            "answers": ["Sacramento Kings", "kings"],
+            "incorrect1": "Sacramento Queens",
+            "incorrect2": "Los Angeles Lakers",
+            "incorrect3": "Golden State Warriors",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film's fast-paced dialogue and electronic soundtrack, composed by Trent Reznor and Atticus Ross, capture the energy and intensity of the tech world. The film, directed by David Fincher and written by Aaron Sorkin, features a memorable scene where Mark Zuckerberg, played by Jesse Eisenberg, writes a scathing blog post about his ex-girlfriend, fueling his desire to create a social networking site. It explores the rise of Facebook, from its humble beginnings in a Harvard dorm room to its global dominance, highlighting the legal battles and personal betrayals that shaped its trajectory. What is the title of this 2010 biographical drama?",
+            "answers": ["The Social Network"],
+            "incorrect1": "The Wolf of Wall Street",
+            "incorrect2": "Gone Girl",
+            "incorrect3": "Citizen Kane",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2020 TAILS",
+            "question": "Despite suffering from dysentery, this leader commanded a successful retreat during the Braddock Expedition. As a young officer in the British army, this leader surrendered Fort Necessity during the French and Indian War. This leader led an attack against sleeping Hessian troops in the Battle of Trenton after crossing the Delaware River. Name this leader of the Continental Army who became the first President of the United States.",
+            "answers": ["George Washington"],
+            "incorrect1": "Abraham Lincoln",
+            "incorrect2": "Thomas Jefferson",
+            "incorrect3": "John Adams",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2016 PLATO",
+            "question": "The last known communication from this person was with the ship Itasca. She traveled on her most famous journey with Fred Noonan in the Electra, a craft built by Lockheed. Years earlier than this journey, she was the first woman to cross the Atlantic Ocean as a pilot in an airplane. Name this famous American pilot who disappeared over the Pacific Ocean while attempting to fly around the world in 1937.",
+            "answers": ["Amelia Earhart"],
+            "incorrect1": "Bessie Coleman",
+            "incorrect2": "Charles Lindbergh",
+            "incorrect3": "Neil Armstrong",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This actress, known for her independent spirit and sharp wit, famously clashed with studio executives early in her career, refusing to conform to Hollywood's expectations of female stars.  She was renowned for her on-screen partnerships with Spencer Tracy, starring alongside him in nine films, including Adam's Rib and Guess Who's Coming to Dinner. She holds the record for the most Best Actress wins at the Academy Awards, with four Oscars to her name. Who is this legendary actress, whose career spanned six decades and left an indelible mark on Hollywood?",
+            "answers": ["Katharine Hepburn"],
+            "incorrect1": "Audrey Hepburn",
+            "incorrect2": "Meryl Streep",
+            "incorrect3": "Marilyn Monroe",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This legendary basketball coach, with a career spanning nearly four decades, has the fifth-most wins in NCAA Division I basketball history, with an astounding 1,098 victories. Her unwavering dedication to her players and her \"Definite Dozen\" principles, which emphasized discipline, respect, and responsibility, shaped a winning culture that extended beyond the court.  She led the University of Tennessee Lady Volunteers to eight NCAA championships, solidifying her legacy as one of the greatest coaches in the history of the sport. Who is this iconic figure in women's basketball, whose impact transcended sports and inspired generations of athletes?",
+            "answers": ["Pat Summitt"],
+            "incorrect1": "Geno Auriemma",
+            "incorrect2": "Serena Williams",
+            "incorrect3": "Venus Williams",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2013 SCOP Novice 4",
+            "question": "Theoretically, the price elasticity of this concept is always negative, though Veblen and Giffen goods experience an increase in this as price increases. This concept is theoretically determined by income alone. Its curve has a negative slope, giving a single equilibrium price at the intersection point with the supply curve. Name this economic concept that describes how much of a good consumers want to buy.",
+            "answers": ["demand", "demand curve"],
+            "incorrect1": "supply",
+            "incorrect2": "scarcity",
+            "incorrect3": "equilibrium",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 SCOP MS 10",
+            "question": "This literary character is found dead in his laboratory by his servant, Poole, and his friend, J.G. Utterson, to whom this man shows a letter of apology supposedly written by the murderer of Sir Danvers Carrew. Another of this man's friends, Dr Lanyon, dies of shock after seeing this man reveal the \"evil side\" of his nature by consuming a potion. Name this fictional doctor who transforms himself into Edward Hyde.",
+            "answers": [
+                "Dr. Jekyll",
+                "Mr. Hyde",
+                "Doctor Henry Jekyll",
+                "The Strange Case of Doctor Jekyll and Mr Hyde"
+            ],
+            "incorrect1": "Dr. Frankenstein",
+            "incorrect2": "Dr. Watson",
+            "incorrect3": "Dr. No",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2022 MAKEMAKE",
+            "question": "In this year, the Treaty of Mortefontaine was signed to end the Quasi War. A plan executed in this year's election involved giving John Jay just one electoral vote. The Twelfth Amendment was passed after John Adams lost in a contingent house election to Thomas Jefferson in this year's election. Name this year in which the fourth presidential election was held, which followed the election of 1796.",
+            "answers": ["1800", "Election of 1800", "Convention of 1800"],
+            "incorrect1": "1776",
+            "incorrect2": "1865",
+            "incorrect3": "1900",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This company achieved its first ever \"chopsticks\" landing on October 13, 2024 when a booster engine for its rocket was caught by giant mechanical arms. This private space exploration company, founded by Elon Musk in 2002, achieved a groundbreaking feat in 2012 when its Dragon spacecraft became the first commercial spacecraft to deliver cargo to and from the International Space Station. It has developed a series of reusable rockets, including the Falcon 9 and Falcon Heavy, significantly reducing the cost of space travel. Its ambitious Starship program aims to develop a fully reusable spacecraft capable of transporting humans to Mars and beyond. What is the name of this company, revolutionizing space exploration with its innovative technology and bold vision?",
+            "answers": ["SpaceX"],
+            "incorrect1": "NASA",
+            "incorrect2": "Blue Origin",
+            "incorrect3": "Boeing",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2021 SCOP B",
+            "question": "A congress named for this legislation created a Declaration of Rights and Grievances which was blocked from discussion in the House of Lords by the second Earl Dartmouth. After the repeal of this legislation, parliament passed the Declaratory Act to reassert their authority. This tax was intended to help pay for the French and Indian War by creating revenue from goods such as playing cards. Name this unpopular 1765 act that taxed most paper products in the American colonies.",
+            "answers": ["Stamp Act of 1765", "Stamp act"],
+            "incorrect1": "Townshend Acts",
+            "incorrect2": "Tea Act",
+            "incorrect3": "Intolerable Acts",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "During the colonial period, this country was known as the territory of the Afars and Issas. Units of the French Foreign Legion were once based in this country, which is adjacent to the Bab el Mandeb, a strait that connects the Red Sea with the Gulf of Aden. Eritrea, Somalia, and Ethiopia border what small nation on the Horn of Africa?",
+            "answers": ["Djibouti", "Republic of Djibouti"],
+            "incorrect1": "Ethiopia",
+            "incorrect2": "Eritrea",
+            "incorrect3": "Somalia",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This film, directed by Christopher Nolan, uses a non-linear narrative structure, jumping between different timelines and perspectives to unravel a complex mystery. It delves into the intense rivalry between two magicians, Robert Angier and Alfred Borden, played by Hugh Jackman and Christian Bale, as they compete for fame and recognition in Victorian London.  Their obsession with creating the ultimate illusion, \"The Transported Man,\" leads them down a dangerous path of deception, sabotage, and even murder.  The film's title refers to the final act of a magic trick, the reveal that leaves the audience astonished. What is the name of this 2006 thriller?",
+            "answers": ["The Prestige"],
+            "incorrect1": "The Illusionist",
+            "incorrect2": "The Dark Knight",
+            "incorrect3": "Inception",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2009 Fall Novice Tournament",
+            "question": "This entity's first case as a legal advocate was Guinn v. United States. Its first president was Moorfield Storey and the leadership of Roy Wilkins saw support for Asa Phillip Randolph's Brotherhood of Sleeping Car Porters. Formed in response to the 1908 Springfield riots, this organization helped publicize Langston Hughes in The Crisis. This organization, led by Benjamin Jealous, absorbed the Niagara Movement. Name this civil rights organization, founded in part by W.E.B. Dubois.",
+            "answers": [
+                "NAACP",
+                "National Association for the Advancement of Colored People"
+            ],
+            "incorrect1": "ACLU",
+            "incorrect2": "NRA",
+            "incorrect3": "PETA",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "A documentary about this man's life titled Piece by Piece was released in 2024 and tells the story using Lego animations. This multi-talented artist, known for his signature hat and infectious blend of hip-hop, funk, and pop, co-founded the production duo The Neptunes with Chad Hugo, crafting hits for artists like Jay-Z and Britney Spears. He has won 13 Grammy Awards, including Producer of the Year, and composed the Academy Award-nominated song \"Happy\" for the animated film \"Despicable Me 2.\"  Name this musician who also co-founded the rock band N.E.R.D, blending rock, funk, and hip-hop influences.",
+            "answers": ["Pharrell Williams", "Pharell"],
+            "incorrect1": "Kanye West",
+            "incorrect2": "Bruno Mars",
+            "incorrect3": "Justin Timberlake",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "This country's northwest is home to the Islamic Uighur people. The leader of another religion from this country described the \"Five Great Relationships\" and listed virtues like \"reciprocity\" and \"culture\" in one of the \"Four Books.\" Adherents of a third religion from this country follow the practice of \"no action,\" or wu wei. Identify this country home to Confucianism and Daoism.",
+            "answers": ["China", "People's Republic of China"],
+            "incorrect1": "Japan",
+            "incorrect2": "India",
+            "incorrect3": "Russia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2016 Pennsylvania Novice",
+            "question": "This Greek letter represents a quantity equal to negative one over volume times the derivative of volume with respect to pressure. Besides compressibility, a process named for this letter is mediated by the weak force and emits an antineutrino. That form of radioactive decay sees a neutron converted into a proton and an electron, changing the atomic number and not the mass. Identify this Greek letter that names a decay which emits an electron, often contrasted with alpha decay.",
+            "answers": ["beta", "beta decay", "beta particle"],
+            "incorrect1": "alpha",
+            "incorrect2": "gamma",
+            "incorrect3": "delta",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2019 SCOP Novice 10",
+            "question": "This work begins by describing \"all the powers of Old Europe\" entering into \"a holy alliance.\" All history is \"the history of class struggles\" according to this work, which discusses the opposing classes of bourgeoisie and proletariat. A new ideology based on workers owning the means of production is described in what revolutionary pamphlet by Friedrich Engels and Karl Marx that inspired the politics of Soviet Russia?",
+            "answers": [
+                "The Communist Manifesto",
+                "The Manifesto of the Communist Party"
+            ],
+            "incorrect1": "Das Kapital",
+            "incorrect2": "The Wealth of Nations",
+            "incorrect3": "The Prince",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This legendary basketball coach, nicknamed the \"Wizard of Westwood,\" emphasized the importance of preparation and attention to detail, famously starting each season by teaching his players how to properly put on their socks and shoes. He led UCLA to an unprecedented ten NCAA championships in a 12-year period, including a record seven consecutive titles.  His \"Pyramid of Success,\" a philosophy he developed based on his personal values and coaching experiences, outlines the building blocks for achieving success in any field.  Who is this iconic coach, considered one of the greatest in the history of sports?",
+            "answers": ["John Wooden"],
+            "incorrect1": "Mike Krzyzewski",
+            "incorrect2": "Dean Smith",
+            "incorrect3": "Pat Summitt",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2014 SCOP Novice 5",
+            "question": "The last words of one person to die exploring this location were \"I am just going outside and may be some time.\" This region was the subject of the failed Nimrod and Endurance Expeditions, led by Sir Ernest Shackleton, as well as the Terra Nova Expedition, which ended with the death of Robert Scott. Name this continent on which, in December 1911, Roald Amundsen's team first reached the South Pole.",
+            "answers": ["Antarctica"],
+            "incorrect1": "Arctic",
+            "incorrect2": "Greenland",
+            "incorrect3": "Australia",
+            "used": "TRUE"
+        }
     ]
 ]
