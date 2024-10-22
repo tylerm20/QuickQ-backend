@@ -13627,7 +13627,7 @@
             "category": "Geography",
             "source": "2011 Fall Kickoff Tournament (FKT)",
             "question": "The peak of Mt. Chimborazo in this mountain range is the farthest point on Earth's surface from the center of Earth, and Tupungato and Cotopaxi are volcanoes found in this mountain range. Ojos del Salado, the world's highest active volcano, is located here, and the Altiplano plateau is the world's second highest plateau. Cities such as Arequippa and Medellin can be found in other plateaus in this mountain range, and Mendoza is a frequent stop for climbers of Aconcagua. Identify longest continental mountain range on Earth, stretching from Colombia and Venezuela to Chile and Argentina.",
-            "answers": ["the Andes", "Andes mountains"],
+            "answers": ["The Andes", "Andes mountains"],
             "incorrect1": "The Himalayas",
             "incorrect2": "The Alps",
             "incorrect3": "The Rocky Mountains",
