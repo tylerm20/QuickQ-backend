@@ -13889,7 +13889,7 @@
     [
         {
             "category": "Current Events",
-            "question": "Diploamats from this nation were expelled from Canada after prime minister Justin Trudeau claimed this nation tried to assassinate a Sikh separatist on Canadian soil. The United States also indicted an agent from this nation for an attempted murder plot on a American advocating for Sikh independent state. This South Asian nation home to the Taj Mahal, a breathtaking monument of love built in the 17th century, boasts a diverse landscape ranging from the Himalayan mountains to the tropical beaches of Goa. It is the birthplace of yoga and Ayurveda, ancient practices that promote physical and mental well-being. Name this nation that is the world's largest, with a population exceeding 1.4 billion people.",
+            "question": "Diplomats from this nation were expelled from Canada after prime minister Justin Trudeau claimed this nation tried to assassinate a Sikh separatist on Canadian soil. The United States also indicted an agent from this nation for an attempted murder plot on a American advocating for Sikh independent state. This South Asian nation home to the Taj Mahal, a breathtaking monument of love built in the 17th century, boasts a diverse landscape ranging from the Himalayan mountains to the tropical beaches of Goa. It is the birthplace of yoga and Ayurveda, ancient practices that promote physical and mental well-being. Name this nation that is the world's largest, with a population exceeding 1.4 billion people.",
             "answers": ["India"],
             "incorrect1": "China",
             "incorrect2": "Pakistan",
@@ -13992,7 +13992,7 @@
         {
             "category": "Science",
             "source": "2013 SCOP Novice 4",
-            "question": "Theoretically, the price elasticity of this concept is always negative, though Veblen and Giffen goods experience an increase in this as price increases. This concept is theoretically determined by income alone. Its curve has a negative slope, giving a single equilibrium price at the intersection point with the supply curve. Name this economic concept that describes how much of a good consumers want to buy.",
+            "question": "This concept's elasticity is typically negative, meaning that as the price of a good increases, the quantity consumers want decreases. However, Veblen and Giffen goods are exceptions to this rule.  It is influenced by factors such as consumer preferences, income levels, and the availability of substitutes.  In economic models, this concept is often represented by a downward-sloping curve that intersects with the supply curve to determine the equilibrium price and quantity of a good. What is this economic concept that describes consumers' desire for a particular product or service?",
             "answers": ["demand", "demand curve"],
             "incorrect1": "supply",
             "incorrect2": "scarcity",
@@ -14026,7 +14026,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This company achieved its first ever \"chopsticks\" landing on October 13, 2024 when a booster engine for its rocket was caught by giant mechanical arms. This private space exploration company, founded by Elon Musk in 2002, achieved a groundbreaking feat in 2012 when its Dragon spacecraft became the first commercial spacecraft to deliver cargo to and from the International Space Station. It has developed a series of reusable rockets, including the Falcon 9 and Falcon Heavy, significantly reducing the cost of space travel. Its ambitious Starship program aims to develop a fully reusable spacecraft capable of transporting humans to Mars and beyond. What is the name of this company, revolutionizing space exploration with its innovative technology and bold vision?",
+            "question": "This company achieved its first ever \"chopsticks\" landing on October 13, 2024 when a booster engine for its rocket was caught by giant mechanical arms. This private space exploration company, founded by Elon Musk in 2002, achieved a groundbreaking feat in 2012 when its Dragon spacecraft became the first commercial spacecraft to deliver cargo to and from the International Space Station. It has developed a series of reusable rockets, including the Falcon 9 and Falcon Heavy, significantly reducing the cost of space travel. Its ambitious Starship program aims to develop a fully reusable spacecraft capable of transporting humans to Mars and beyond. What is the name of this space company?",
             "answers": ["SpaceX"],
             "incorrect1": "NASA",
             "incorrect2": "Blue Origin",
@@ -14141,6 +14141,586 @@
             "incorrect2": "Greenland",
             "incorrect3": "Australia",
             "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This coming-of-age film features a memorable scene where the protagonist, Benjamin Braddock, played by Dustin Hoffman, drifts aimlessly in his parents' swimming pool, capturing his sense of disillusionment and uncertainty about the future. The film's iconic soundtrack, composed by Simon & Garfunkel, includes the songs \"The Sound of Silence\" and \"Mrs. Robinson,\" which perfectly complement the film's themes of alienation and rebellion. The film's controversial ending, with Benjamin disrupting Elaine's wedding and escaping with her on a bus, leaves the audience with a sense of ambiguity about their future. What is the title of this 1967 film, directed by Mike Nichols?",
+            "answers": ["The Graduate"],
+            "incorrect1": "The Godfather",
+            "incorrect2": "Bonnie and Clyde",
+            "incorrect3": "Easy Rider",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2020 SCOP MS 10",
+            "question": "This city launched an anti-aircraft barrage against nothing in February 1942, the day after a Japanese sub attacked Ellwood to the west. In this city in 1947, Elizabeth Short was found murdered; her unsolved investigation became known as the \"Black Dahlia\" case. The 1965 Watts Riots took place in this city, which hosted a surprisingly profitable Summer Olympics in 1984. Eric Garcetti is the mayor of what largest city in California?",
+            "answers": ["Los Angeles", "LA"],
+            "incorrect1": "San Francisco",
+            "incorrect2": "New York City",
+            "incorrect3": "Chicago",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This country's highest point is the stratovolcano, Nevado Ojos del Salado. The Corcovado Gulf separates its mainland from an island possession, and its longest river is the Loa River which runs through the world's driest desert to its north. It controls Rapa Nui on which stand the mo'ai statues; that is also known as Easter Island. Dominated by the Andes mountains and home to the Atacama, this is what South American country with its national congress in Valparaiso and capital at Santiago?",
+            "answers": ["Chile", "Republic of Chile"],
+            "incorrect1": "Argentina",
+            "incorrect2": "Peru",
+            "incorrect3": "Spain",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "A huge deposit of this element was recently found beneath the US state or Arkansas. The element, the lightest alkali metal, is so soft it can be cut with a knife and so reactive it must be stored in mineral oil to prevent it from reacting with air and water. Despite its reactivity, it is a key component in rechargeable batteries that power everything from smartphones to electric vehicles. Its compounds have also been used for decades to treat bipolar disorder, though the exact mechanism of action remains unclear.  Discovered in 1817 by Johan August Arfwedson, its name comes from the Greek word for \"stone.\" What is this element, with atomic number 3?",
+            "answers": ["Lithium"],
+            "incorrect1": "Sodium",
+            "incorrect2": "Potassium",
+            "incorrect3": "Hydrogen",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's mascot, Rocky the Mountain Lion, is known for his acrobatic dunks and energetic performances during games, adding to the lively atmosphere at their home arena.  Their iconic rainbow skyline jerseys, a tribute to the city's vibrant culture and mountainous backdrop, have become a symbol of the franchise.  They achieved their first NBA championship in 2023, led by Nikola Joki\u0107, a Serbian center who earned the Finals MVP award. What is the name of this team, whose high-altitude home court is often referred to as the \"Mile High City\"?",
+            "answers": ["Denver Nuggets", "nuggets"],
+            "incorrect1": "Denver Broncos",
+            "incorrect2": "Los Angeles Lakers",
+            "incorrect3": "Golden State Warriors",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2016 Pennsylvania Novice",
+            "question": "Fubini's theorem details conditions under which two applications of this operation can be performed in either order. Trigonometric substitution can simplify this operation when square roots are involved. This operation may be performed \"by parts\" on products of two functions. Simpson's rule and the trapezoidal rule are both methods for approximating this operation. The fundamental theorem of calculus states this operation is the reverse of differentiation. Name this operation that, in the xy plane, calculates the area under a function.",
+            "answers": ["integration", "integral"],
+            "incorrect1": "differentiation",
+            "incorrect2": "segregation",
+            "incorrect3": "addition",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2021 CERES",
+            "question": "This empire's Qhapaq Nan road network was used to transmit information with strings called quipu. Hiram Bingham excavated the ruins of this empire, whose final ruler was Atahualpa. This empire's capital city, Cuzco, was captured by the conquistador Francisco Pizarro. Around 1450, this empire built a stone citadel in the Andes Mountains. Name this South American empire that built Machu Picchu in Peru.",
+            "answers": ["Inca Empire", "Tawantinsuyu"],
+            "incorrect1": "Aztec Empire",
+            "incorrect2": "Mayan civilization",
+            "incorrect3": "Roman Empire",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2021 SCOP B",
+            "question": "At the beginning of this poem, a group of warriors argue over Briseis and Chryseis. Forces led by Diomedes and Agamemnon are listed in this poem's \"Catalogue of Ships.\" In this poem, Priam begs for the return of his son's body after it is dragged around the walls of his city. Hector kills Patroclus in this poem, which opens by asking the goddess to \"sing the rage of Achilles.\" Name this epic poem attributed to Homer that describes the events of the Trojan War.",
+            "answers": ["Iliad", "Ilias", "Song of Ilion", "Song of Ilium"],
+            "incorrect1": "Odyssey",
+            "incorrect2": "Aeneid",
+            "incorrect3": "Beowulf",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2014 SCOP Novice 5",
+            "question": "Pius X [the tenth] justified this practice with the Gospel of John, in which Jesus breathes on his disciples and tells them to \"forgive.\" Since Vatican II [\"two\"], this ritual may be performed while facing a priest. The Act of Contrition may be read during this practice, which often ends with an order to pray for forgiveness by reciting a number of Hail Marys. Name this Catholic act of admitting one's sins to a priest.",
+            "answers": [
+                "confession",
+                "Sacrament of Penance and Reconciliation"
+            ],
+            "incorrect1": "admission",
+            "incorrect2": "denial",
+            "incorrect3": "testimony",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2019 SCOP Novice 10",
+            "question": "In the 1830s, the US and UK fought over this state's border in the bloodless Aroostook War. Bowdoin College was founded in this state in 1794 in Brunswick. This state's other cities include Lewiston and Bangor. Despite sharing no border, this state was part of Massachusetts until 1820. The Webster-Ashburton Treaty decided the border between Canada's New Brunswick and what northernmost state in New England whose capital is Augusta?",
+            "answers": ["Maine"],
+            "incorrect1": "Vermont",
+            "incorrect2": "New Hampshire",
+            "incorrect3": "Massachusetts",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "A prehistoric site in this river's watershed is the Marmes Rockshelter. The Celilo Canal and the city of Kettle Falls were built along it. This river's hydroelectric power is monitored by the Bonneville Power Administration. This river joins the Snake and Yakima at the Tri-Cities area. The Grand Coulee Dam lies on what river famous for its salmon runs that comprises part of the Oregon-Washington border?",
+            "answers": ["Columbia River"],
+            "incorrect1": "Mississippi River",
+            "incorrect2": "Colorado River",
+            "incorrect3": "Missouri River",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's name, inspired by a powerful weather phenomenon common in the region, reflects the energy and intensity they bring to the court. Their vibrant blue, orange, and yellow color scheme is a nod to the state's vibrant sunsets and Native American heritage.  They relocated from Seattle in 2008, bringing with them a passionate fanbase that has embraced the team's new identity. What is the name of this team, whose history includes a memorable NBA Finals appearance in 2012?",
+            "answers": ["Oklahoma City Thunder", "thunder"],
+            "incorrect1": "Oklahoma City Dodgers",
+            "incorrect2": "Houston Rockets",
+            "incorrect3": "Dallas Mavericks",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "Phil Lesh, the bassist for this band, passed away at age 84 in October 2024. Their iconic \"skull and roses\" logo, designed by artist Stanley Mouse, became a symbol of the band's countercultural appeal. Their unique blend of rock, folk, bluegrass, and psychedelia, often featuring extended improvisational jams, defied categorization and attracted a diverse following. Their 1967 anthem, \"Truckin',\" captures the spirit of their nomadic lifestyle and their connection to the open road. What is the name of this influential band, whose fans are known as \"Deadheads\"?",
+            "answers": ["Grateful Dead"],
+            "incorrect1": "The Beatles",
+            "incorrect2": "The Rolling Stones",
+            "incorrect3": "Pink Floyd",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2009 Fall Novice Tournament",
+            "question": "\"The History of Astronomy\" is one of his Essays on Philosophical Subjects, and another work by this man talks about \"different progress of opulence\" and \"the nature, accumulation, and employment of stock\" and includes a parable about a butcher, baker, and brewer, whose self-interests promote general welfare. This man also defined a metaphor for the self-regulating nature of free markets. Name this Scot who created the \"invisible hand,\" the author of The Wealth of Nations.",
+            "answers": ["Adam Smith"],
+            "incorrect1": "John Maynard Keynes",
+            "incorrect2": "Karl Marx",
+            "incorrect3": "Milton Friedman",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This online video game, known for its distinctive building mechanics and vibrant cartoonish graphics, features a \"Battle Royale\" mode where 100 players compete to be the last one standing. Its ever-evolving map includes named locations like Tilted Towers and Loot Lake, which have become familiar landmarks to players.  It has collaborated with numerous pop culture icons, including Marvel superheroes, Star Wars characters, and musicians like Ariana Grande and Travis Scott.  Its emotes, or dances, have become viral sensations, often imitated in real-life celebrations and social media trends.  What is the name of this popular free-to-play game?",
+            "answers": ["Fortnite"],
+            "incorrect1": "Minecraft",
+            "incorrect2": "Call of Duty",
+            "incorrect3": "Grand Theft Auto",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "In Larmor precession, this entity causes charged particles to rotate with a frequency proportional to its strength. The Zeeman effect describes the splitting of spectral lines in the presence of one of these. It can be computed with the Biot-Savart law, and Ampere's law states that the integral of it over a closed curve is proportional to the enclosed current. Symbolized B, the one generated by Earth has a strength of approximately 0.6 Gauss. Name this field that is conventionally denoted as travelling from a north pole to a south pole.",
+            "answers": ["magnetic field"],
+            "incorrect1": "electric field",
+            "incorrect2": "gravitational field",
+            "incorrect3": "force field",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "In one of this man's plays, a character presents Nina with the title object as a gift, but she is horrified and instead longs to be with Trigorin. In that play by this author, Nina tries to become an actress with little success after Trigorin leaves her, and Konstantine kills himself. In another play by this author, the title character loves Elena, the second wife of Serebryakov, a retired professor whom the title character blames all his problems on and tries to shoot. Known for his namesake gun name this Russian playwright, known for works such as The Seagull and Uncle Vanya.",
+            "answers": ["Anton Chekhov"],
+            "incorrect1": "Leo Tolstoy",
+            "incorrect2": "Fyodor Dostoevsky",
+            "incorrect3": "William Shakespeare",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "For an ideal gas, this property is proportional to the average kinetic energy of the particles. Relative humidity is computed by comparing the wet-bulb and dry-bulb measurements of this quantity. According to the third law of thermodynamics, a perfect crystal has zero entropy when this property is absolute zero. Name this quantity whose SI unit is the kelvin and that can also be measured on the Celsius and Fahrenheit scales.",
+            "answers": ["temperature"],
+            "incorrect1": "heat",
+            "incorrect2": "pressure",
+            "incorrect3": "volume",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 KICKOFF Novice",
+            "question": "This country's residents used the hashtag #thisismydam to support the construction of its Grand Renaissance Dam. This country contains Lake Tana, which is the source of the Blue Nile. This country lost its Red Sea coastline after neighboring Eritrea became independent from it, and it comprises the Horn of Africa, along with Djibouti and Somalia. Name this country, home to the capital Addis Ababa.",
+            "answers": ["Ethiopia"],
+            "incorrect1": "Nigeria",
+            "incorrect2": "South Africa",
+            "incorrect3": "Egypt",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2020 SCOP A",
+            "question": "A leader of this country, who had helped overthrow Farouk I [the first], moved several temples as part of the construction of the Aswan High Dam, and fought a war with the UK, France, and Israel after trying to nationalize the Suez Canal. Gamal Abdel Nasser and Ramses II [the second] have led this country, where Napoleon's troops legendarily damaged the Great Sphinx of Giza. Name this country where Anwar Sadat was assassinated in Cairo.",
+            "answers": ["Egypt"],
+            "incorrect1": "Libya",
+            "incorrect2": "Sudan",
+            "incorrect3": "Greece",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This sport, often described as the fastest field game in the world, features players using a wooden stick called a hurley to hit a small ball called a sliotar.  It is known for its fast-paced action, skillful stickwork, and passionate fans.  Its origins can be traced back to ancient Ireland, with legends claiming it was played as far back as 1200 BC.  The sport's governing body, the Gaelic Athletic Association, also oversees Gaelic football, another popular Irish sport.  What is this exciting sport, primarily played in Ireland?",
+            "answers": ["Hurling"],
+            "incorrect1": "Lacrosse",
+            "incorrect2": "Cricket",
+            "incorrect3": "Field Hockey",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2017 HIGS",
+            "question": "This man resigned as Secretary of State following the sinking of the Lusitania, and later led the prosecution in the Scopes Monkey Trial. This man supported bimetallism in an 1896 speech in which he exclaimed, \"You shall not press down upon the brow of labor this crown of thorns\". Name this populist orator of the \"Cross of Gold Speech\" who ran three times for president as a Democrat.",
+            "answers": ["William Jennings Bryan"],
+            "incorrect1": "William McKinley",
+            "incorrect2": "Theodore Roosevelt",
+            "incorrect3": "Abraham Lincoln",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This country recently sent thousands of troops to Russia to aid the country in its war against Ukraine. This country, known for its mountainous terrain and the Paektu Mountain, a sacred volcano considered the mythical birthplace of its people, shares a heavily fortified border with its southern neighbor, the Demilitarized Zone (DMZ). It is divided into nine provinces and two special cities, with Pyongyang serving as its capital. Name this nation that has history marked by a devastating war in the 1950s which led to its division and an ongoing political conflict with the international community.",
+            "answers": ["North Korea"],
+            "incorrect1": "South Korea",
+            "incorrect2": "China",
+            "incorrect3": "Japan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film's iconic opening montage, set to George Gershwin's \"Rhapsody in Blue,\" captures the romantic and melancholic beauty of New York City.  It features a controversial relationship between Isaac, a 42-year-old writer played by Woody Allen, and Tracy, a 17-year-old high school student played by Mariel Hemingway.  The film's witty dialogue and exploration of themes of love, relationships, and identity in the urban landscape have made it a classic of American cinema.  What is the title of this 1979 romantic comedy-drama?",
+            "answers": ["Manhattan"],
+            "incorrect1": "Brooklyn",
+            "incorrect2": "Los Angeles",
+            "incorrect3": "Chicago",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "The power grid of this nation went down twice in the span of 24 hours in October 2024. The island nation, known for its vibrant music scene and classic cars from the 1950s, is home to the Sierra Maestra, a mountain range that served as a base for Fidel Castro's revolutionary forces. Its capital city, Havana, boasts colorful colonial architecture and a lively Malec\u00f3n boardwalk along the coast.  It is the largest island in the Caribbean and played a pivotal role in the Cold War. What is this country, famous for its cigars, rum, and salsa dancing?",
+            "answers": ["Cuba"],
+            "incorrect1": "Puerto Rico",
+            "incorrect2": "Dominican Republic",
+            "incorrect3": "Costa Rica",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "It is hypothesized that one of them would decay into a pion and a positron, though this would take over ten to the thirty years. Stars fuse hydrogen into helium by the chain reaction named after these, and these baryons have two up quarks and one down quark. An alpha particle has two of them and their amount in a particle can be symbolized Z. Have a charge of one point six times ten to the negative nineteen coulombs, these are what positively charged particles found in an atom's nucleus.",
+            "answers": ["proton"],
+            "incorrect1": "neutron",
+            "incorrect2": "electron",
+            "incorrect3": "photon",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2021 CERES",
+            "question": "Harry Reid International Airport serves this state's biggest city and nearby cities like Henderson. The \"Extraterrestrial Highway\" is in this state, and Groom Lake is located near a military base in this state. This state's border with Arizona is partially formed by Lake Mead. This state and California share Lake Tahoe. Carson City and Reno are in what state home to Area 51 and many casinos in Las Vegas?",
+            "answers": ["Nevada"],
+            "incorrect1": "Arizona",
+            "incorrect2": "Utah",
+            "incorrect3": "Colorado",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "During his execution, this figure was pierced by the Lance of Longinus. In addition to yelling at a fig tree for not bearing fruit, this figure healed a pig-eating man from Gerasa possessed by a horde of devils named Legion. This man was put to death by Pontius Pilate, and drops of his blood fell into the Holy Grail. Name this Messiah and only son of God according to Christianity.",
+            "answers": ["Jesus Christ", "Jesus", "Christ"],
+            "incorrect1": "Moses",
+            "incorrect2": "Muhammad",
+            "incorrect3": "Buddha",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 SCOP Novice",
+            "question": "A Nobel Laureate from this country wrote of Madame Pace, whose brothel employs The Mother and The Stepdaughter; that play ends with a complaint by The Manager. A Henry James work set in this country sees Giovanelli court the title girl. In addition to Six Characters in Search of an Author and Daisy Miller, this country sees the frame story surrounding the one hundred tales in The Decameron. Name this European country, the homeland of Luigi Pirandello and Giovanni Boccaccio.",
+            "answers": ["Italy"],
+            "incorrect1": "Spain",
+            "incorrect2": "Greece",
+            "incorrect3": "France",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2012 SCOP Novice 3",
+            "question": "Happy Chandler inspired this movement by condemning the \"gentleman's agreement\" of his predecessor, Kenesaw Mountain Landis. Larry Doby of Cleveland was the second subject of this movement, which began when a member of the Kansas City Monarchs was signed by General Manager Branch Rickey in 1945. Name this event of the civil rights movement, in which the Brooklyn Dodgers signed eventual Hall of Famer Jackie Robinson.",
+            "answers": ["Integration", "Desegregation", "Jackie Robinson"],
+            "incorrect1": "Differentiation",
+            "incorrect2": "Derivation",
+            "incorrect3": "Addition",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This gritty 1971 thriller features a gripping car chase scene where the protagonist pursues an elevated train on the streets of New York City.  The film's raw and realistic depiction of police work and drug trafficking earned it five Academy Awards, including Best Picture and Best Actor for Gene Hackman's portrayal of Detective Jimmy \"Popeye\" Doyle.  Based on a true story, it follows two New York City detectives as they try to bust a drug smuggling ring.  What is the title of this neo-noir classic directed by William Friedkin?",
+            "answers": ["The French Connection"],
+            "incorrect1": "The Godfather",
+            "incorrect2": "Dirty Harry",
+            "incorrect3": "The Exorcist",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's name, a nod to the iconic \"Guardians of Traffic\" statues that adorn the Hope Memorial Bridge near their home stadium, was adopted in 2021 after years of controversy surrounding their previous moniker.  Their home ballpark, Progressive Field, boasts a distinctive left field bleacher section known as \"The Corner.\"  They have won two World Series titles, the most recent coming in 1948, ending a then-record 28-year championship drought.  Their mascot, Slider, is a furry, red-faced creature known for his energetic antics and fan interactions.  What is the name of this American League team, based in Cleveland, Ohio?",
+            "answers": ["Cleveland Guardians", "guardians", "indians"],
+            "incorrect1": "Cleveland Cavaliers",
+            "incorrect2": "New York Yankees",
+            "incorrect3": "Chicago Cubs",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2017 HIGS",
+            "question": "The Sieve of Eratosthenes can be used to find all of these numbers up to a limit, and Euclid proved that there is an infinite amount of these numbers. Goldbach's conjecture states that any even integer greater than two can be represented as the sum of two of them. Factorizing a number into them can be used to determine the GCF, and two is the only even example of them. Name these numbers that are only divisible by themselves and one.",
+            "answers": ["prime numbers"],
+            "incorrect1": "odd numbers",
+            "incorrect2": "even numbers",
+            "incorrect3": "composite numbers",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2016 SAGES",
+            "question": "This man said that the \"alternating domination\" of political parties is \"frightful.\" He commanded troops at the Battle of Trenton and trained his forces at Valley Forge during the American Revolution. Name this military leader who became the first President of the United States.",
+            "answers": ["George Washington"],
+            "incorrect1": "Abraham Lincoln",
+            "incorrect2": "Thomas Jefferson",
+            "incorrect3": "John Adams",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "The northeast part of this state contains the Goshute Valley just east of the Ruby Mountains. A Paiute Indian Reserve surrounds this state's Pyramid Lake, and its most populous city, which has suburbs like Sunrise Manor and Henderson, is served by McCarran International Airport and lies west of Lake Mead. Once the site of the Comstock Lode in Virginia City, this state now houses the \"biggest little city in the world.\" Identify this state that lies on the eastern shores of Lake Tahoe and contains cities like Reno, Carson City, and Las Vegas.",
+            "answers": ["Nevada"],
+            "incorrect1": "Arizona",
+            "incorrect2": "Utah",
+            "incorrect3": "California",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2016 Pennsylvania Novice",
+            "question": "In this country, 30 miners were killed at the Eureka stockade while protesting mining licences. Bands of criminals called Bushrangers terrorized this country in the late 1800s, the most famous of whom wore home\u00admade plate armor. That man was Ned Kelly. Former governors of this country as a colony include Arthur Phillip and William Bligh, and James Cook discovered its Botany Bay. Name this nation that began as a British penal colony, and is currently home to cities like Melbourne and Sydney.",
+            "answers": ["Australia"],
+            "incorrect1": "Austria",
+            "incorrect2": "New Zealand",
+            "incorrect3": "Brazil",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This coach, known for his dry wit and often-curt responses in press conferences, holds the NBA record for the most regular season wins with 1,366 victories. He has led his team to five NBA championships, all with the same small-market franchise. His coaching tree includes successful NBA coaches like Steve Kerr and Mike Budenholzer.  He served as head coach of the US national team, leading them to a gold medal at the 2020 Tokyo Olympics. Who is this legendary coach, known for his long tenure with the San Antonio Spurs?",
+            "answers": ["Gregg Popovich"],
+            "incorrect1": "Phil Jackson",
+            "incorrect2": "Red Auerbach",
+            "incorrect3": "Steve Kerr",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2022 MAKEMAKE",
+            "question": "John Cage added screws to make a \"prepared\" form of this instrument, which is silent for four minutes and 33 seconds in another Cage piece. Scott Joplin's Maple Leaf Rag is played on this instrument. Thelonious Monk and Duke Ellington were famous jazz players of this instrument. \"Tickling the ivories\" refers to playing what instrument with 88 black and white keys?",
+            "answers": ["pianoforte", "prepared piano"],
+            "incorrect1": "harpsichord",
+            "incorrect2": "organ",
+            "incorrect3": "violin",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This science fiction film features a unique method of communication with extraterrestrial visitors, using a five-tone musical phrase.  The iconic Devil's Tower National Monument in Wyoming serves as a key location in the film's climactic encounter.  The film's director, Steven Spielberg, drew inspiration from real-life UFO sightings and the work of ufologist J. Allen Hynek, who even makes a cameo appearance in the film.  The film's special effects, groundbreaking for its time, created awe-inspiring visuals of alien spacecraft and otherworldly beings.  What is the title of this 1977 film, which explores humanity's fascination with the unknown and the possibility of extraterrestrial contact?",
+            "answers": ["Close Encounters of the Third Kind"],
+            "incorrect1": "E.T. the Extra-Terrestrial",
+            "incorrect2": "Star Wars",
+            "incorrect3": "Alien",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This nation recently voted to amend its constitution to include the aim of becoming a European Union member state. This Eastern European country, nestled between Romania and Ukraine, is renowned for its wine production, boasting vast underground wine cellars that stretch for miles.  Its capital city, Chi\u0219in\u0103u, features a Triumphal Arch commemorating the victory of the Russian Empire over the Ottoman Empire. Name this country, home to the breakaway region of Transnistria, a self-declared state with its own currency and military.",
+            "answers": ["Moldova"],
+            "incorrect1": "Romania",
+            "incorrect2": "Ukraine",
+            "incorrect3": "Bulgaria",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This sport, known for its fast-paced action and blend of physicality and finesse, features players using a stick with a netted pocket to catch, carry, and throw a ball towards the opponent's goal.  It has its roots in Native American traditions, where it was often played with hundreds of participants and served as a form of conflict resolution and spiritual practice. What is this sport, often referred to as \"the fastest game on two feet\"?",
+            "answers": ["Lacrosse"],
+            "incorrect1": "Hockey",
+            "incorrect2": "Field Hockey",
+            "incorrect3": "Soccer",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "One of this city's most famous attractions features Tritons leading hippocampi and the shell chariot of the central figure, Oceanus. Ostia was the ancient port of this city, which was built in part on the Palatine and Quirinal Hills. Attractions in this city include the Spanish Steps, the Trevi Fountain, and the Colosseum. Name this city on the Tiber, the capital of Italy.",
+            "answers": ["Rome"],
+            "incorrect1": "Athens",
+            "incorrect2": "Venice",
+            "incorrect3": "Paris",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This sitcom's iconic theme song, composed by Jonathan Wolff, features a distinctive slap bass line and quirky synthesizer melodies. The show, renowned for its \"show about nothing\" premise, features a group of four friends living in New York City: Jerry, a stand-up comedian; Elaine, his ex-girlfriend and close friend; George, his neurotic and often unemployed friend; and Kramer, his eccentric neighbor.  The show's quirky characters and relatable situations, often revolving around mundane aspects of daily life, resonated with audiences, making it one of the most popular and influential sitcoms of the 1990s. What is the name of this sitcom, which has left a lasting legacy on television comedy?",
+            "answers": ["Seinfeld"],
+            "incorrect1": "Friends",
+            "incorrect2": "Curb Your Enthusiasm",
+            "incorrect3": "The Office",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "An attack by the Kurdistan Workers' Party on the an aerospace company's headquarters in this nation left seven people dead in October 2024. This transcontinental country, spanning both Europe and Asia, is home to the Hagia Sophia, a magnificent architectural marvel that has served as a church, a mosque, and now a museum. Its bustling Grand Bazaar in Istanbul, one of the oldest and largest covered markets in the world, offers a vibrant tapestry of sights, sounds, and aromas. Name this nation that is bordered by eight countries and three seas, showcasing its strategic location at the crossroads of civilizations.",
+            "answers": ["Turkey", "Republic of T\u00fcrkiye", "T\u00fcrkiye"],
+            "incorrect1": "Greece",
+            "incorrect2": "Syria",
+            "incorrect3": "Egypt",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2017 SCOP Novice 8",
+            "question": "The syrinx organ is part of this body system in birds. In insects, the openings to this system are called spiracles. A dysfunction of this system in humans is sleep apnea; another disease, emphysema, damages the alveoli that are crucial to this system. Tuberculosis and pneumonia are infections of this body system, that is primarily formed by the gills in fish. Name this body system that includes the trachea and lungs.",
+            "answers": ["respiratory system"],
+            "incorrect1": "circulatory system",
+            "incorrect2": "digestive system",
+            "incorrect3": "nervous system",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "The title character of this work is hired on as a burglar after unknowingly advertising for a job through a mark on his door. In this work, an attempt is made to reclaim family treasure and avenge the deaths of the villagers of Dale by a group of dwarves. The dwarves are aided by a wizard named Gandalf, and a less-obviously powerful character named Bilbo. Name this novel written by J.R.R. Tolkien.",
+            "answers": ["The Hobbit"],
+            "incorrect1": "The Lord of the Rings",
+            "incorrect2": "The Chronicles of Narnia",
+            "incorrect3": "Harry Potter",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "Anton Dexler founded this party as the DAP, sponsored by the Thule society. This party was opposed by the White Rose Movement, organized by students who distributed pamphlets against their ideals. Their official song was \"The Flag Up High,\" named in honor of Horst Wessel, a party member who died in a street fight against Communists. Leaders of this party led the purging of the SA and may have burned the Reichstag. The national symbol of this party was the swastika, and it had leaders including Hermann Goering and Heinrich Himmler. Name this German Workers' Party led by Adolf Hitler.",
+            "answers": [
+                "Nazi Party",
+                "National Socialist German Workers' Party"
+            ],
+            "incorrect1": "Communist Party",
+            "incorrect2": "Socialist Party",
+            "incorrect3": "Democratic Party",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "The philosophy of nullification was developed to oppose this form of government. The Ninth and Tenth Amendments specifically create this type of government, which is defined as a power-sharing arrangement between national and state governments. Name this type of government after which a political party including John Adams was named.",
+            "answers": ["federalism", "federalist"],
+            "incorrect1": "democracy",
+            "incorrect2": "republicanism",
+            "incorrect3": "monarchy",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This theory originated as an offshoot of Ernst Mayr's concept of genetic revolutions by speciation, but was greatly expanded by the author of a 1971 paper citing fossil records of trilobites, Niles Eldredge, as well as Stephen Jay Gould. It opposes the \"phylectic\" type of another idea and explains the lack of transitional forms in fossil records. Stating that most sexually reproducing species experience little change for most of their history and that their evolution occurs in short, rapid spurts is what evolutionary theory often contrasted with phylectic gradualism?",
+            "answers": ["punctuated equilibrium"],
+            "incorrect1": "gradualism",
+            "incorrect2": "evolution",
+            "incorrect3": "natural selection",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Tropical Storm Trami killed more than 120 people dead in this archipelago nation. The nation, comprised of over 7,000 islands, is renowned for its stunning beaches, including the world-famous Boracay and El Nido. It is home to the Chocolate Hills, a geological formation of over 1,000 cone-shaped hills that turn brown during the dry season. Its capital city, Manila, boasts a vibrant mix of Spanish colonial architecture and modern skyscrapers. It is also the world's second-largest archipelago and a major exporter of coconuts and mangoes. Name this Southeast Asian country.",
+            "answers": ["Philippines"],
+            "incorrect1": "Indonesia",
+            "incorrect2": "Malaysia",
+            "incorrect3": "Vietnam",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 SCOP Novice 8",
+            "question": "Rock climbers flock to this country's Grampians National Park at the southern terminus of the Great Dividing Range. Gulf Saint Vincent on the southern shores of this country is home to the port of Adelaide, and the Coral Sea on this country's northeast is home to the endangered Great Barrier Reef. A sacred sandstone formation called Uluru is in the \"outback\" of what country whose cities include Melbourne and Sydney?",
+            "answers": ["Australia"],
+            "incorrect1": "Austria",
+            "incorrect2": "New Zealand",
+            "incorrect3": "Brazil",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2014 SCOP Novice 5",
+            "question": "The Bipartisan Legal Advisory Group defended this law after President Obama announced, in 2011, that the Justice Department would no longer do so. It passed Congress with a veto-proof majority and was signed by President Clinton in 1996, but its third section was ruled unconstitutional by the 2013 case U.S. v. Windsor. Name this 1996 law which defined marriage as between one man and one woman, often referred to as \"DOMA.\"",
+            "answers": ["Defense of Marriage Act", "DOMA"],
+            "incorrect1": "Civil Rights Act",
+            "incorrect2": "Voting Rights Act",
+            "incorrect3": "Equal Rights Amendment",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2011 SCOP Novice 2",
+            "question": "This person, the subject of \"Decet Romanum Pontificem,\" wrote a pamphlet entitled \"Murderous, Thieving Hordes of Peasants\" and drafted the Schmalkald Articles. Threatened with excommunication by Exsurge domine, he discussed the Eucharist at the Marburg Colloquy but is most known for his displeasure with the Catholic practice of selling indulgences. Name this author of the 95 Theses.",
+            "answers": ["Martin Luther"],
+            "incorrect1": "John Calvin",
+            "incorrect2": "Henry VIII",
+            "incorrect3": "Pope Francis",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This swimmer's seven gold medals at the 2017 World Aquatics Championships set a record for the most golds won by a swimmer at a single World Championships.  He followed this with another record-breaking performance at the 2019 World Championships, where he became the first swimmer to win eight medals at a single World Championships.  His dominance in sprint freestyle and butterfly events is evident in his multiple world records, including the 100-meter butterfly and the 50-meter freestyle.  He has also achieved Olympic success, winning five gold medals at the 2020 Tokyo Olympics.  Who is this American swimmer?",
+            "answers": ["Caeleb Dressel"],
+            "incorrect1": "Michael Phelps",
+            "incorrect2": "Ryan Lochte",
+            "incorrect3": "Usain Bolt",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 ERIS",
+            "question": "The speaker of this poem notes that, \"knowing how way leads on to way\", he may never return to its setting. This poem's speaker \"shall be telling this with a sigh / somewhere ages and ages hence\", and notes that its central action \"has made all the difference\". \"Two roads diverged in a yellow wood\" in what Robert Frost poem whose narrator \"took the path less traveled by\"?",
+            "answers": ["The Road Not Taken"],
+            "incorrect1": "The Raven",
+            "incorrect2": "Stopping by Woods on a Snowy Evening",
+            "incorrect3": "O Captain! My Captain!",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This anthology series, known for its eerie opening narration and twist endings, explored themes of paranoia, morality, and the human condition through a science fiction lens.  Its iconic theme music, composed by Marius Constant, has become synonymous with suspense and the unknown.  The show's creator, Rod Serling, often appeared on screen to introduce and conclude each episode, offering thought-provoking commentary on the stories' themes.  Its memorable episodes, including \"Time Enough at Last\" and \"Nightmare at 20,000 Feet,\" have become classics of the genre.  What is the name of this influential television series that continues to inspire and unsettle viewers today?",
+            "answers": ["The Twilight Zone"],
+            "incorrect1": "The Outer Limits",
+            "incorrect2": "Black Mirror",
+            "incorrect3": "Stranger Things",
+            "used": "TRUE",
+            "source": "Marty Heavey"
         }
     ]
 ]
