@@ -14157,7 +14157,7 @@
         {
             "category": "US History",
             "source": "2020 SCOP MS 10",
-            "question": "This city launched an anti-aircraft barrage against nothing in February 1942, the day after a Japanese sub attacked Ellwood to the west. In this city in 1947, Elizabeth Short was found murdered; her unsolved investigation became known as the \"Black Dahlia\" case. The 1965 Watts Riots took place in this city, which hosted a surprisingly profitable Summer Olympics in 1984. Eric Garcetti is the mayor of what largest city in California?",
+            "question": "This city launched an anti-aircraft barrage against nothing in February 1942, the day after a Japanese sub attacked Ellwood to the west. In this city in 1947, Elizabeth Short was found murdered; her unsolved investigation became known as the \"Black Dahlia\" case. The 1965 Watts Riots took place in this city, which hosted a surprisingly profitable Summer Olympics in 1984. Karen Bass is the mayor of what largest city in California?",
             "answers": ["Los Angeles", "LA"],
             "incorrect1": "San Francisco",
             "incorrect2": "New York City",
@@ -14176,7 +14176,7 @@
         },
         {
             "category": "Current Events",
-            "question": "A huge deposit of this element was recently found beneath the US state or Arkansas. The element, the lightest alkali metal, is so soft it can be cut with a knife and so reactive it must be stored in mineral oil to prevent it from reacting with air and water. Despite its reactivity, it is a key component in rechargeable batteries that power everything from smartphones to electric vehicles. Its compounds have also been used for decades to treat bipolar disorder, though the exact mechanism of action remains unclear.  Discovered in 1817 by Johan August Arfwedson, its name comes from the Greek word for \"stone.\" What is this element, with atomic number 3?",
+            "question": "A huge deposit of this element was recently found beneath the US state of Arkansas. The element, the lightest alkali metal, is so soft it can be cut with a knife and so reactive it must be stored in mineral oil to prevent it from reacting with air and water. Despite its reactivity, it is a key component in rechargeable batteries that power everything from smartphones to electric vehicles. Its compounds have also been used for decades to treat bipolar disorder, though the exact mechanism of action remains unclear.  Discovered in 1817 by Johan August Arfwedson, its name comes from the Greek word for \"stone.\" What is this element, with atomic number 3?",
             "answers": ["Lithium"],
             "incorrect1": "Sodium",
             "incorrect2": "Potassium",
@@ -14186,7 +14186,7 @@
         },
         {
             "category": "Sports",
-            "question": "This team's mascot, Rocky the Mountain Lion, is known for his acrobatic dunks and energetic performances during games, adding to the lively atmosphere at their home arena.  Their iconic rainbow skyline jerseys, a tribute to the city's vibrant culture and mountainous backdrop, have become a symbol of the franchise.  They achieved their first NBA championship in 2023, led by Nikola Joki\u0107, a Serbian center who earned the Finals MVP award. What is the name of this team, whose high-altitude home court is often referred to as the \"Mile High City\"?",
+            "question": "This team's mascot, Rocky the Mountain Lion, is known for his acrobatic dunks and energetic performances during games, adding to the lively atmosphere at Ball Arena. Their iconic rainbow skyline jerseys, a tribute to the city's vibrant culture and mountainous backdrop, have become a symbol of the franchise.  They achieved their first NBA championship in 2023, led by Nikola Joki\u0107, a Serbian center who earned the Finals MVP award. What is the name of this team, whose high-altitude home court is often referred to as the \"Mile High City\"?",
             "answers": ["Denver Nuggets", "nuggets"],
             "incorrect1": "Denver Broncos",
             "incorrect2": "Los Angeles Lakers",
@@ -14229,7 +14229,7 @@
         {
             "category": "Arts & Literature",
             "source": "2014 SCOP Novice 5",
-            "question": "Pius X [the tenth] justified this practice with the Gospel of John, in which Jesus breathes on his disciples and tells them to \"forgive.\" Since Vatican II [\"two\"], this ritual may be performed while facing a priest. The Act of Contrition may be read during this practice, which often ends with an order to pray for forgiveness by reciting a number of Hail Marys. Name this Catholic act of admitting one's sins to a priest.",
+            "question": "Pius X justified this practice with the Gospel of John, in which Jesus breathes on his disciples and tells them to \"forgive.\" Since Vatican II, this ritual may be performed while facing a priest. The Act of Contrition may be read during this practice, which often ends with an order to pray for forgiveness by reciting a number of Hail Marys. Name this Catholic act of admitting one's sins to a priest.",
             "answers": [
                 "confession",
                 "Sacrament of Penance and Reconciliation"
@@ -14261,7 +14261,7 @@
         },
         {
             "category": "Sports",
-            "question": "This team's name, inspired by a powerful weather phenomenon common in the region, reflects the energy and intensity they bring to the court. Their vibrant blue, orange, and yellow color scheme is a nod to the state's vibrant sunsets and Native American heritage.  They relocated from Seattle in 2008, bringing with them a passionate fanbase that has embraced the team's new identity. What is the name of this team, whose history includes a memorable NBA Finals appearance in 2012?",
+            "question": "This NBA team's vibrant blue, orange, and yellow color scheme is a nod to the state's vibrant sunsets and Native American heritage.  They relocated from Seattle in 2008, bringing with them a passionate fanbase that has embraced the team's new identity. This team once rostered 3 future MVPs in Kevin Durant, Russell Westbrook, and James Harden. What is the name of this team, whose history includes a memorable NBA Finals appearance in 2012?",
             "answers": ["Oklahoma City Thunder", "thunder"],
             "incorrect1": "Oklahoma City Dodgers",
             "incorrect2": "Houston Rockets",
@@ -14344,7 +14344,7 @@
         {
             "category": "World History",
             "source": "2020 SCOP A",
-            "question": "A leader of this country, who had helped overthrow Farouk I [the first], moved several temples as part of the construction of the Aswan High Dam, and fought a war with the UK, France, and Israel after trying to nationalize the Suez Canal. Gamal Abdel Nasser and Ramses II [the second] have led this country, where Napoleon's troops legendarily damaged the Great Sphinx of Giza. Name this country where Anwar Sadat was assassinated in Cairo.",
+            "question": "A leader of this country, who had helped overthrow Farouk I, moved several temples as part of the construction of the Aswan High Dam, and fought a war with the UK, France, and Israel after trying to nationalize the Suez Canal. Gamal Abdel Nasser and Ramses II have led this country, where Napoleon's troops legendarily damaged the Great Sphinx of Giza. Name this country where Anwar Sadat was assassinated in Cairo.",
             "answers": ["Egypt"],
             "incorrect1": "Libya",
             "incorrect2": "Sudan",
