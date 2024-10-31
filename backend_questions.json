@@ -14236,7 +14236,7 @@
             ],
             "incorrect1": "admission",
             "incorrect2": "denial",
-            "incorrect3": "testimony",
+            "incorrect3": "communion",
             "used": "TRUE"
         },
         {
@@ -14263,7 +14263,7 @@
             "category": "Sports",
             "question": "This NBA team's vibrant blue, orange, and yellow color scheme is a nod to the state's vibrant sunsets and Native American heritage.  They relocated from Seattle in 2008, bringing with them a passionate fanbase that has embraced the team's new identity. This team once rostered 3 future MVPs in Kevin Durant, Russell Westbrook, and James Harden. What is the name of this team, whose history includes a memorable NBA Finals appearance in 2012?",
             "answers": ["Oklahoma City Thunder", "thunder"],
-            "incorrect1": "Oklahoma City Dodgers",
+            "incorrect1": "Los Angeles Dodgers",
             "incorrect2": "Houston Rockets",
             "incorrect3": "Dallas Mavericks",
             "used": "TRUE",
@@ -14314,7 +14314,7 @@
         {
             "category": "Arts & Literature",
             "source": "2012 Fall Kickoff Tournament (FKT)",
-            "question": "In one of this man's plays, a character presents Nina with the title object as a gift, but she is horrified and instead longs to be with Trigorin. In that play by this author, Nina tries to become an actress with little success after Trigorin leaves her, and Konstantine kills himself. In another play by this author, the title character loves Elena, the second wife of Serebryakov, a retired professor whom the title character blames all his problems on and tries to shoot. Known for his namesake gun name this Russian playwright, known for works such as The Seagull and Uncle Vanya.",
+            "question": "In one of this man's plays, a character presents Nina with the title object as a gift, but she is horrified and instead longs to be with Trigorin. In another play by this author, the title character loves Elena, the second wife of Serebryakov, a retired professor whom the title character blames all his problems on and tries to shoot. Known for his namesake gun name this Russian playwright, known for works such as The Seagull and Uncle Vanya.",
             "answers": ["Anton Chekhov"],
             "incorrect1": "Leo Tolstoy",
             "incorrect2": "Fyodor Dostoevsky",
