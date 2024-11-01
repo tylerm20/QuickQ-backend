@@ -14314,7 +14314,7 @@
         {
             "category": "Arts & Literature",
             "source": "2012 Fall Kickoff Tournament (FKT)",
-            "question": "In one of this man's plays, a character presents Nina with the title object as a gift, but she is horrified and instead longs to be with Trigorin. In another play by this author, the title character loves Elena, the second wife of Serebryakov, a retired professor whom the title character blames all his problems on and tries to shoot. Known for his namesake gun name this Russian playwright, known for works such as The Seagull and Uncle Vanya.",
+            "question": "In one of this man's plays, a character presents Nina with the title object as a gift, but she is horrified and instead longs to be with Trigorin. In another play by this author, the title character loves Elena, the second wife of Serebryakov, a retired professor whom the title character blames all his problems on and tries to shoot. Known for his namesake gun name this Russian playwright, writer of works such as The Seagull and Uncle Vanya.",
             "answers": ["Anton Chekhov"],
             "incorrect1": "Leo Tolstoy",
             "incorrect2": "Fyodor Dostoevsky",
@@ -14447,10 +14447,10 @@
             "category": "US History",
             "source": "2012 SCOP Novice 3",
             "question": "Happy Chandler inspired this movement by condemning the \"gentleman's agreement\" of his predecessor, Kenesaw Mountain Landis. Larry Doby of Cleveland was the second subject of this movement, which began when a member of the Kansas City Monarchs was signed by General Manager Branch Rickey in 1945. Name this event of the civil rights movement, in which the Brooklyn Dodgers signed eventual Hall of Famer Jackie Robinson.",
-            "answers": ["Integration", "Desegregation", "Jackie Robinson"],
-            "incorrect1": "Differentiation",
-            "incorrect2": "Derivation",
-            "incorrect3": "Addition",
+            "answers": ["Desegregation", "Integration", "Jackie Robinson"],
+            "incorrect1": "Prohibition",
+            "incorrect2": "Women's Suffrage",
+            "incorrect3": "Equal Rights",
             "used": "TRUE"
         },
         {
