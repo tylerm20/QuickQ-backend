@@ -14447,7 +14447,7 @@
             "category": "US History",
             "source": "2012 SCOP Novice 3",
             "question": "Happy Chandler inspired this movement by condemning the \"gentleman's agreement\" of his predecessor, Kenesaw Mountain Landis. Larry Doby of Cleveland was the second subject of this movement, which began when a member of the Kansas City Monarchs was signed by General Manager Branch Rickey in 1945. Name this event of the civil rights movement, in which the Brooklyn Dodgers signed eventual Hall of Famer Jackie Robinson.",
-            "answers": ["Desegregation", "Integration", "Jackie Robinson"],
+            "answers": ["Integration", "Desegregation", "Jackie Robinson"],
             "incorrect1": "Prohibition",
             "incorrect2": "Women's Suffrage",
             "incorrect3": "Equal Rights",
@@ -14465,7 +14465,7 @@
         },
         {
             "category": "Sports",
-            "question": "This team's name, a nod to the iconic \"Guardians of Traffic\" statues that adorn the Hope Memorial Bridge near their home stadium, was adopted in 2021 after years of controversy surrounding their previous moniker.  Their home ballpark, Progressive Field, boasts a distinctive left field bleacher section known as \"The Corner.\"  They have won two World Series titles, the most recent coming in 1948, ending a then-record 28-year championship drought.  Their mascot, Slider, is a furry, red-faced creature known for his energetic antics and fan interactions.  What is the name of this American League team, based in Cleveland, Ohio?",
+            "question": "This team's name, a nod to the iconic \"Guardians of Traffic\" statues that adorn the Hope Memorial Bridge near their home stadium, was adopted in 2021 after years of controversy surrounding their previous moniker.  Their home ballpark, Progressive Field, boasts a distinctive left field bleacher section known as \"The Corner.\"  They have won two World Series titles, the most recent coming in 1948, ending a then-record 28-year championship drought.What is the name of this American League team, based in Cleveland, Ohio?",
             "answers": ["Cleveland Guardians", "guardians", "indians"],
             "incorrect1": "Cleveland Cavaliers",
             "incorrect2": "New York Yankees",
@@ -14478,7 +14478,7 @@
         {
             "category": "Science",
             "source": "2017 HIGS",
-            "question": "The Sieve of Eratosthenes can be used to find all of these numbers up to a limit, and Euclid proved that there is an infinite amount of these numbers. Goldbach's conjecture states that any even integer greater than two can be represented as the sum of two of them. Factorizing a number into them can be used to determine the GCF, and two is the only even example of them. Name these numbers that are only divisible by themselves and one.",
+            "question": "The Sieve of Eratosthenes can be used to find all of these numbers up to a limit, and Euclid proved that there is an infinite amount of these numbers. Goldbach's conjecture states that any even integer greater than two can be represented as the sum of two of them. Factorizing a number into them can be used to determine the GCF, and two is the only even one of these. Name these numbers that are only divisible by themselves and one.",
             "answers": ["prime numbers"],
             "incorrect1": "odd numbers",
             "incorrect2": "even numbers",
@@ -14497,12 +14497,12 @@
         },
         {
             "category": "Geography",
-            "source": "2010 Fall Kickoff Tournament (FKT)",
-            "question": "The northeast part of this state contains the Goshute Valley just east of the Ruby Mountains. A Paiute Indian Reserve surrounds this state's Pyramid Lake, and its most populous city, which has suburbs like Sunrise Manor and Henderson, is served by McCarran International Airport and lies west of Lake Mead. Once the site of the Comstock Lode in Virginia City, this state now houses the \"biggest little city in the world.\" Identify this state that lies on the eastern shores of Lake Tahoe and contains cities like Reno, Carson City, and Las Vegas.",
-            "answers": ["Nevada"],
-            "incorrect1": "Arizona",
-            "incorrect2": "Utah",
-            "incorrect3": "California",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "One of this city's most famous attractions features Tritons leading hippocampi and the shell chariot of the central figure, Oceanus. Ostia was the ancient port of this city, which was built in part on the Palatine and Quirinal Hills. Attractions in this city include the Spanish Steps, the Trevi Fountain, and the Colosseum. Name this city on the Tiber, the capital of Italy.",
+            "answers": ["Rome"],
+            "incorrect1": "Athens",
+            "incorrect2": "Venice",
+            "incorrect3": "Paris",
             "used": "TRUE"
         },
         {
@@ -14529,7 +14529,7 @@
             "category": "Arts & Literature",
             "source": "2022 MAKEMAKE",
             "question": "John Cage added screws to make a \"prepared\" form of this instrument, which is silent for four minutes and 33 seconds in another Cage piece. Scott Joplin's Maple Leaf Rag is played on this instrument. Thelonious Monk and Duke Ellington were famous jazz players of this instrument. \"Tickling the ivories\" refers to playing what instrument with 88 black and white keys?",
-            "answers": ["pianoforte", "prepared piano"],
+            "answers": ["piano", "pianoforte", "prepared piano"],
             "incorrect1": "harpsichord",
             "incorrect2": "organ",
             "incorrect3": "violin",
@@ -14569,12 +14569,12 @@
         },
         {
             "category": "Geography",
-            "source": "2011 Collaborative Middle School Tournament #2",
-            "question": "One of this city's most famous attractions features Tritons leading hippocampi and the shell chariot of the central figure, Oceanus. Ostia was the ancient port of this city, which was built in part on the Palatine and Quirinal Hills. Attractions in this city include the Spanish Steps, the Trevi Fountain, and the Colosseum. Name this city on the Tiber, the capital of Italy.",
-            "answers": ["Rome"],
-            "incorrect1": "Athens",
-            "incorrect2": "Venice",
-            "incorrect3": "Paris",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "The northeast part of this state contains the Goshute Valley just east of the Ruby Mountains. A Paiute Indian Reserve surrounds this state's Pyramid Lake, and its most populous city, which has suburbs like Sunrise Manor and Henderson, is served by Harry Reid International Airport and lies west of Lake Mead. Once the site of the Comstock Lode in Virginia City, this state now houses the \"biggest little city in the world.\" Identify this state that lies on the eastern shores of Lake Tahoe and contains cities like Reno, Carson City, and Las Vegas.",
+            "answers": ["Nevada"],
+            "incorrect1": "Arizona",
+            "incorrect2": "Utah",
+            "incorrect3": "California",
             "used": "TRUE"
         },
         {
@@ -14589,7 +14589,7 @@
         },
         {
             "category": "Current Events",
-            "question": "An attack by the Kurdistan Workers' Party on the an aerospace company's headquarters in this nation left seven people dead in October 2024. This transcontinental country, spanning both Europe and Asia, is home to the Hagia Sophia, a magnificent architectural marvel that has served as a church, a mosque, and now a museum. Its bustling Grand Bazaar in Istanbul, one of the oldest and largest covered markets in the world, offers a vibrant tapestry of sights, sounds, and aromas. Name this nation that is bordered by eight countries and three seas, showcasing its strategic location at the crossroads of civilizations.",
+            "question": "An attack by the Kurdistan Workers' Party on the aerospace company's headquarters in this nation left seven people dead in October 2024. This transcontinental country, spanning both Europe and Asia, is home to the Hagia Sophia, a magnificent architectural marvel that has served as a church, a mosque, and now a museum. Its bustling Grand Bazaar in Istanbul, one of the oldest and largest covered markets in the world, offers a vibrant tapestry of sights, sounds, and aromas. Name this nation that is bordered by eight countries and three seas, showcasing its strategic location at the crossroads of civilizations.",
             "answers": ["Turkey", "Republic of T\u00fcrkiye", "T\u00fcrkiye"],
             "incorrect1": "Greece",
             "incorrect2": "Syria",
@@ -14643,6 +14643,16 @@
     ],
     [
         {
+            "category": "World History",
+            "source": "2011 SCOP Novice 2",
+            "question": "This person, the subject of \"Decet Romanum Pontificem,\" wrote a pamphlet entitled \"Murderous, Thieving Hordes of Peasants\" and drafted the Schmalkald Articles. Threatened with excommunication by Exsurge domine, he discussed the Eucharist at the Marburg Colloquy but is most known for his displeasure with the Catholic practice of selling indulgences. Name this author of the 95 Theses.",
+            "answers": ["Martin Luther"],
+            "incorrect1": "John Calvin",
+            "incorrect2": "Henry VIII",
+            "incorrect3": "Pope Francis",
+            "used": "TRUE"
+        },
+        {
             "category": "Science",
             "source": "2009 Fall Kickoff Tournament (FKT)",
             "question": "This theory originated as an offshoot of Ernst Mayr's concept of genetic revolutions by speciation, but was greatly expanded by the author of a 1971 paper citing fossil records of trilobites, Niles Eldredge, as well as Stephen Jay Gould. It opposes the \"phylectic\" type of another idea and explains the lack of transitional forms in fossil records. Stating that most sexually reproducing species experience little change for most of their history and that their evolution occurs in short, rapid spurts is what evolutionary theory often contrasted with phylectic gradualism?",
@@ -14680,16 +14690,6 @@
             "incorrect1": "Civil Rights Act",
             "incorrect2": "Voting Rights Act",
             "incorrect3": "Equal Rights Amendment",
-            "used": "TRUE"
-        },
-        {
-            "category": "World History",
-            "source": "2011 SCOP Novice 2",
-            "question": "This person, the subject of \"Decet Romanum Pontificem,\" wrote a pamphlet entitled \"Murderous, Thieving Hordes of Peasants\" and drafted the Schmalkald Articles. Threatened with excommunication by Exsurge domine, he discussed the Eucharist at the Marburg Colloquy but is most known for his displeasure with the Catholic practice of selling indulgences. Name this author of the 95 Theses.",
-            "answers": ["Martin Luther"],
-            "incorrect1": "John Calvin",
-            "incorrect2": "Henry VIII",
-            "incorrect3": "Pope Francis",
             "used": "TRUE"
         },
         {
