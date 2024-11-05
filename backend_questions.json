@@ -14722,5 +14722,584 @@
             "used": "TRUE",
             "source": "Marty Heavey"
         }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2010 SCOP Novice",
+            "question": "The southern terminus of this mountain range is Lassen, which was the site of a 1921 volcanic eruption. Its \"North\" part is a national park which contains Mount Baker. The Lewis and Clark expedition named one of its peaks after Thomas Jefferson. One peak in this range, Mt. Mazama, contains Crater Lake, and another, Mt. Hood, was the site of a climbing accident in 2009. Name this volcanic mountain range of the Pacific Northwest, whose peaks include Mt. Rainier and Mt. St. Helens.",
+            "answers": ["Cascade Range", "the Cascades"],
+            "incorrect1": "Rocky Mountains",
+            "incorrect2": "Appalachian Mountains",
+            "incorrect3": "Sierra Nevada",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This basketball legend's iconic rivalry with Magic Johnson, which began in college and extended throughout their NBA careers, fueled the popularity of the sport in the 1980s. He led the Boston Celtics to three NBA championships and won three consecutive MVP awards from 1984 to 1986. He was also a member of the \"Dream Team,\" the legendary 1992 US Olympic basketball team that dominated the Barcelona Olympics. Who is this Hall of Fame forward, known for his exceptional shooting and all-around skills?",
+            "answers": ["Larry Bird"],
+            "incorrect1": "Magic Johnson",
+            "incorrect2": "Michael Jordan",
+            "incorrect3": "Bill Russell",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "A triangular patch of clouds that circulates this planet quickly is known as The Scooter. Its atmosphere contains the fastest winds in the solar system. Its existence was predicted by Alexis Bouvard, and it was discovered by Johann Galle. It often contains the Great Dark Spot. Its largest moon, which has a retrograde orbit, is Triton. Name this gas giant, the farthest from the Sun in the solar system.",
+            "answers": ["Neptune"],
+            "incorrect1": "Uranus",
+            "incorrect2": "Pluto",
+            "incorrect3": "Saturn",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This action-adventure film features a memorable scene where the protagonist outruns a giant rolling boulder, narrowly escaping certain doom.  Its iconic score, composed by John Williams, includes the triumphant \"Raiders March,\" which has become synonymous with the film's adventurous spirit.  The film's protagonist, Indiana Jones, played by Harrison Ford, is a whip-wielding archaeologist who travels the world in search of ancient artifacts.  The film's plot revolves around the Ark of the Covenant, a sacred artifact sought by the Nazis for its rumored power.  What is the title of this 1981 film, directed by Steven Spielberg?",
+            "answers": ["Raiders of the Lost Ark"],
+            "incorrect1": "Indiana Jones and the Temple of Doom",
+            "incorrect2": "Romancing the Stone",
+            "incorrect3": "Star Wars",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 Darien DEFT",
+            "question": "The protagonist of a novel by this author encounters the Puma-Woman and kills the Hyena-Swine in self defense; that character, Edward Prendick, had been shipwrecked near the Island of Dr. Moreau. The protagonist of another novel by this author is given white flowers by the Eloi Weena, whom he attempts to save from the Morlocks. In one of this author's novels turned into a radio broadcast, an invasion of Martians is stopped after they are killed by disease. Name this author of The Time Machine and The War of the Worlds.",
+            "answers": ["H. G. Wells", "Herbert George Wells"],
+            "incorrect1": "Jules Verne",
+            "incorrect2": "Edgar Rice Burroughs",
+            "incorrect3": "Stephen King",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "A tiny species of this type of animal was recently discovered in Brazil. It is the second-smallest known vertebrate species in the world. These amphibians secrete a toxic substance from glands behind their eyes as a defense mechanism against predators. Often confused with frogs, they have drier, bumpier skin and shorter legs adapted for walking rather than hopping. Unlike frogs, they lay their eggs in long chains rather than clusters.  Their young undergo metamorphosis from aquatic tadpoles to terrestrial adults. What are these wart-covered creatures, often found in gardens and woodlands?",
+            "answers": ["Toadlet", "toad", "frog"],
+            "incorrect1": "Tadpole",
+            "incorrect2": "Chicken",
+            "incorrect3": "Salamander",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2014 SCOP Novice 5",
+            "question": "This war was triggered by the closing of the Straits of Tiran. The USS Liberty was hit by friendly fire during this war, which opened with Operation Focus, a surprise, pre-emptive airstrike against the Egyptian Air Force. The winner of this war claimed control of Gaza from Egypt, which had mobilized troops in the Sinai Peninsula. Name this war in which Israel attacked its neighbors over the course of a week in June, 1967.",
+            "answers": ["Six Day War", "Third Arab-Israeli War"],
+            "incorrect1": "Yom Kippur War",
+            "incorrect2": "Suez Crisis",
+            "incorrect3": "World War I",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "In this state in 2013, researchers announced that they had cured a two-year-old girl of HIV. Marco McMillan, one of its towns' mayoral candidates who was openly homosexual, was found murdered in February 2013. Also in 2013, this state finally ratified the 13th Amendment banning slavery. Name this state with military bases at Gulfport and Biloxi whose capital is Jackson.",
+            "answers": ["Mississippi"],
+            "incorrect1": "Alabama",
+            "incorrect2": "Louisiana",
+            "incorrect3": "Missouri",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "Ribosome subunits pass through pores in this structure's namesake envelope and are produced in one part of it. In one kind of cloning, this organelle is transferred into an egg that lacks one. The presence of this organelle distinguishes eukaryotes from prokaryotes. This organelle divides in two during mitosis because DNA is found here. Name this information processing area of the cell.",
+            "answers": ["nucleus"],
+            "incorrect1": "mitochondria",
+            "incorrect2": "ribosomes",
+            "incorrect3": "cytoplasm",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2009 Fall Novice Tournament",
+            "question": "The conspirators in the murder of this man were coordinated by Danilo Ilic. The assassination of this man was preceded by the throwing of a hand grenade by Cabrinovic that blew up the wrong car. This man's killing, which was meant to cause the secession of a certain nation's south-Slav provinces, killed Duchess Sophie. Following it, the Russian, French, German, and Austro-Hungarian armies mobilized. Organized by the Black Hand terrorist cell identify this man who was killed in Sarajevo by Gavrilo Princip that led to World War I.",
+            "answers": ["Archduke Franz Ferdinand"],
+            "incorrect1": "Gavrilo Princip",
+            "incorrect2": "Tsar Nicholas II",
+            "incorrect3": "Winston Churchill",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This quarterback, known for his exceptional longevity and success in the NFL, holds the record for the most Super Bowl wins with seven championships to his name. He famously led his team to an improbable comeback victory in Super Bowl LI, overcoming a 28-3 deficit against the Atlanta Falcons. He played for the New England Patriots for 20 seasons, forming a legendary partnership with coach Bill Belichick. He briefly retired in 2022 but returned for one more season with the Tampa Bay Buccaneers. Who is this quarterback, often considered the greatest of all time?",
+            "answers": ["Tom Brady"],
+            "incorrect1": "Joe Montana",
+            "incorrect2": "Peyton Manning",
+            "incorrect3": "LeBron James",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2016 Pennsylvania Novice",
+            "question": "One composer from this country depicted the demon Chernobog holding court during the titular Night on Bald Mountain . Another composer from this country depicted a trading caravan In the Steppes of Central Asia and the titular mythical royal in the opera Prince Igor . The \"Mighty Handful\" from this country included both Alexander Borodin and Modest Mussorgsky, but not the pianist Sergei Rachmaninov. Name the country where Dmitri Shostakovich premiered the Leningrad Symphony .",
+            "answers": ["Russia", "Soviet Union"],
+            "incorrect1": "China",
+            "incorrect2": "Ukraine",
+            "incorrect3": "Canada",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This dark fantasy franchise features a protagonist, Geralt of Rivia, known for his distinctive white hair and his profession as a monster hunter for hire.  The franchise encompasses a series of novels and short stories by Polish author Andrzej Sapkowski, which have been adapted into popular video games, a television series, and graphic novels.  The protagonist's mutations, resulting from rigorous training and alchemical experiments, grant him enhanced strength, speed, and reflexes, making him a formidable warrior against supernatural creatures.  What is the name of this franchise, set in a medieval-inspired world filled with magic, monsters, and political intrigue?",
+            "answers": ["The Witcher"],
+            "incorrect1": "Game of Thrones",
+            "incorrect2": "The Lord of the Rings",
+            "incorrect3": "Wheel of Time",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2022 SANDS",
+            "question": "Mark Twain recounted becoming a \"pilot\" of this technology in his memoir Life on the Mississippi. The first commercially successful example of this technology was Robert Fulton's Clermont. It's not trains, but this technology was made practical by improvements to James Watt's designs of an engine powered by water vapor. River transportation in the 19th century was revolutionized by what kind of boat?",
+            "answers": ["steamboat", "boat"],
+            "incorrect1": "sailboat",
+            "incorrect2": "submarine",
+            "incorrect3": "train",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2011 SCOP Novice 2",
+            "question": "One tributary of this river is the Tapajos, and it is formed by the confluence of the Maranon and Ucayali Rivers. Marajo Island lies at the mouth of this river, and the city of Belem lies near this river's delta. The pororoca, a famous tidal bore, travels up this river, and the city of Manaus lies near this river's confluence with the Rio Negro. Traveling through a namesake rainforest name this longest river of South America.",
+            "answers": ["Amazon River", "Rio Amazonas"],
+            "incorrect1": "Nile River",
+            "incorrect2": "Mississippi River",
+            "incorrect3": "Yangtze River",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "A seed storage facility in this nation, built to safeguard crop diversity, recently received more than 30,000 new samples for around the world. This country, known for its breathtaking fjords and the Northern Lights, houses a global seed vault on the island of Spitsbergen, safeguarding over a million seed samples from around the world. The vault, built deep inside a mountain, serves as a backup for global food security in the event of natural disasters or global crises. It is also home to the Nobel Peace Prize ceremony, held annually in Oslo. What is this Scandinavian country, known for its rich Viking history and stunning natural beauty?",
+            "answers": ["Norway"],
+            "incorrect1": "Sweden",
+            "incorrect2": "Finland",
+            "incorrect3": "Denmark",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This football manager, known for his possession-based \"tiki-taka\" style of play, achieved a historic treble with Barcelona in 2009, winning La Liga, the Copa del Rey, and the UEFA Champions League in the same season.  He managed Bayern Munich from 2013 to 2016, winning the Bundesliga title in each of his three seasons with the club.  He currently manages Manchester City, where he has won five Premier League titles and led the team to their first-ever Champions League title in 2023.  Who is this highly successful manager, considered one of the greatest tactical minds in football history?",
+            "answers": ["Pep Guardiola"],
+            "incorrect1": "Jürgen Klopp",
+            "incorrect2": "José Mourinho",
+            "incorrect3": "Sir Alex Ferguson",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2016 PLATO",
+            "question": "Important advances made during this war include the invention of the gatling gun. Guerillas in this war were prominent in rural areas and included Bloody Bill and William Quantrill. Fighting in this war broke out in Charleston Harbor at the Battle of Fort Sumter. This war ended at Appomattox Court House where Robert E. Lee surrendered to Ulysses S. Grant. Name this war fought between the northern United States and the southern Confederate States.",
+            "answers": [
+                "American Civil War",
+                "War Between the States",
+                "Civil War"
+            ],
+            "incorrect1": "American Revolutionary War",
+            "incorrect2": "War of 1812",
+            "incorrect3": "World War I",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "The mouth of this river is located between Ballard County, KY and Cairo, IL and has its deepest and widest point located at the city near the McAlpine Locks and Dam. Tributaries of this river include the Wabash, Kentucky, Saline, and Cumberland Rivers. Its source is formed by the confluence of the Allegheny and Monongahela Rivers near Pittsburgh, PA. Other cities located on this river include Louisville and Cincinnati. Name this tributary of the Mississippi River, which forms the southern boundary of the state that has its capital at Columbus.",
+            "answers": ["Ohio River"],
+            "incorrect1": "Mississippi River",
+            "incorrect2": "Missouri River",
+            "incorrect3": "Hudson River",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "This man's achievements include the signing of the Cyprus Convention with the Ottoman Empire, which handed control of the island to Great Britain. In 1876, this man's Royal Titles Act enabled Queen Victoria to be proclaimed as Empress of India, and his Reform Act of 1867 nearly doubled the British electorate, which later lead to his Conservative party's defeat in the 1868 election. Prior to this man becoming prime minister, he wrote the novels Vivien Grey and Venetia. Name this Prime Minister of Great Britain with Jewish roots who engaged in a notorious feud with William Gladstone.",
+            "answers": ["Benjamin Disraeli"],
+            "incorrect1": "William Gladstone",
+            "incorrect2": "Winston Churchill",
+            "incorrect3": "Queen Victoria",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2010 SCOP Novice",
+            "question": "A compound of this element and iodine has been used to seed clouds in order to generate rain, and salts of this element are still used to develop traditional photographs. When placed in an alkaline solution with sugar, this element will form a mirror surface on glass. Exposure of this metal to polluted air will cause a black sulfide layer known as tarnish to form, and it follows only platinum and gold as the precious metal of choice for coins and jewelry. Name this element with atomic number 47 and symbol Ag.",
+            "answers": ["Silver"],
+            "incorrect1": "Gold",
+            "incorrect2": "Platinum",
+            "incorrect3": "Iron",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 Darien DEFT",
+            "question": "This character says that \"life is scientific\" to reassure a group of children that \"there isn't no fear\" after they claim to see \"snakes\" and \"ghosts.\" After claiming that he is unable to swim, this character is told \"sucks to your ass-mar.\" This character, who complains that everything is \"jus' blurs\" after his \"specs\" are taken to start a fire, is described as a \"true, wise friend\" after a boulder released by Roger crushes both him and a conch shell. Name this pudgy character from William Golding's Lord of the Flies.",
+            "answers": ["Piggy"],
+            "incorrect1": "Ralph",
+            "incorrect2": "Jack",
+            "incorrect3": "Simon",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This HBO drama, known for its sharp dialogue and dysfunctional family dynamics, features a memorable scene where a family member throws a plate of cheese at their father in a fit of rage. The show revolves around the Roy family, owners of a global media and entertainment conglomerate, as they vie for control of the company amid health concerns and power struggles. Its theme song, composed by Nicholas Britell, has a haunting and ominous tone, reflecting the show's exploration of wealth, power, and corruption. What is the name of this Emmy Award-winning series?",
+            "answers": ["Succession"],
+            "incorrect1": "Billions",
+            "incorrect2": "The Crown",
+            "incorrect3": "Game of Thrones",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This nation experienced deadly flooding around the city of Valencia that led the over 200 deaths. The country, home to the Sagrada Familia, a masterpiece by Antoni Gaud\u00ed that has been under construction for over a century, boasts a vibrant tradition of flamenco dancing and music. Its annual Running of the Bulls in Pamplona attracts thrill-seekers and spectators from around the world. It is also the birthplace of paella, a flavorful rice dish that has become a culinary symbol of the nation. What is this European country, known for its rich history, diverse culture, and passion for football?",
+            "answers": ["Spain"],
+            "incorrect1": "Portugal",
+            "incorrect2": "Italy",
+            "incorrect3": "Mexico",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This city is home to the world's largest two urban forests, the Tijuca and the Pedra Branca, with the former being hand-planted. The 2014 World Cup final will be held at its Maracana Stadium, which is still the largest stadium in South America. Its Sugarloaf Mountain is on a peninsula that separates Guanabara Bay from the Atlantic Ocean. Corcovado Mountain in this city is home to one of the \"New Seven Wonders of the World,\" Christ the Redeemer. Also home to Ipanema and the Copacabana beaches name this city that passed its title of capital of Brazil to Brasilia in 1960.",
+            "answers": ["Rio de Janeiro"],
+            "incorrect1": "São Paulo",
+            "incorrect2": "Buenos Aires",
+            "incorrect3": "Mexico City",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This musician passed away on November 3, 2024 at the age of 91. The multi-talented artist, who arranged and conducted Michael Jackson's iconic album \"Thriller,\" holds the record for the most Grammy Award nominations, with a staggering 80 nods throughout his illustrious career. He began his career as a trumpeter, playing with jazz legends like Lionel Hampton and Dizzy Gillespie.  He has composed scores for over 30 films, including \"In the Heat of the Night\" and \"The Color Purple.\" He also produced the charity single \"We Are the World,\" which became a global anthem for famine relief efforts. Name this legendary father of Rashida Jones.",
+            "answers": ["Quincy Jones"],
+            "incorrect1": "Ray Charles",
+            "incorrect2": "Miles Davis",
+            "incorrect3": "Duke Ellington",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This hockey player, drafted first overall by the Edmonton Oilers in the 2015 NHL Entry Draft, became the youngest captain in NHL history at the age of 19. He has won the Art Ross Trophy as the NHL's leading scorer five times, showcasing his exceptional offensive skills and playmaking ability. He is known for his incredible speed and agility on the ice, often leaving opponents in his wake. He also won the Hart Memorial Trophy as the NHL's most valuable player in 2017 and 2023. Who is this Canadian hockey superstar?",
+            "answers": ["Connor McDavid"],
+            "incorrect1": "Sidney Crosby",
+            "incorrect2": "Wayne Gretzky",
+            "incorrect3": "Alexander Ovechkin",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This infamous duo's crime spree captivated the nation during the Great Depression, with their exploits romanticized in the media despite their violent robberies and murders. Their preferred getaway car, a 1934 Ford Model 730 Deluxe, became a symbol of their outlaw lifestyle.  They met in Texas in 1930, and their gang included members like Clyde's brother Buck and his wife Blanche.  Their dramatic demise came in a hail of gunfire in a police ambush in Louisiana in 1934. Who are this notorious couple, whose story has been immortalized in film and folklore?",
+            "answers": ["Bonnie and Clyde"],
+            "incorrect1": "Butch Cassidy and the Sundance Kid",
+            "incorrect2": "Thelma & Louise",
+            "incorrect3": "Romeo and Juliet",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2015 SCOP Novice 6",
+            "question": "This scientist erroneously proposed a triple helical structure for DNA. This man discovered the secondary protein structures of alpha helices and beta sheets, and identified defects in hemoglobin as the cause of sickle cell anemia. Fluorine has a value of 4.0 on this man's scale of electronegativity. Name this Caltech scientist who won Nobel prizes in both chemistry and peace.",
+            "answers": ["Linus Carl Pauling", "Linus Pauling"],
+            "incorrect1": "Albert Einstein",
+            "incorrect2": "Marie Curie",
+            "incorrect3": "Niels Bohr",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "Menestheus became king of Athens after slandering this figure, while for a time this figure was trapped in the underworld along with his friend Pirithous. This figure had originally traveled to the underworld to capture Persephone for his friend after they had kidnapped Helen, and on another famous journey, he defeated Cercyon in wrestling, stretched Sinis between his two trees, and placed Procrustes in his own torturous bed. This is what hero who slew the Minotaur and caused his father's death by raising a black sail?",
+            "answers": ["Theseus"],
+            "incorrect1": "Hercules",
+            "incorrect2": "Perseus",
+            "incorrect3": "Achilles",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2021 CERES",
+            "question": "This president's campaign coined the phrase \"It's the economy, stupid.\" This two-time governor of Arkansas signed Don't Ask, Don't Tell and NAFTA into law. This man's vice president, Al Gore, later lost the tightly contested presidential election of 2000. This president was impeached in 1998 after his affair with Monica Lewinsky. Name this president whose wife Hillary lost the 2016 presidential election.",
+            "answers": ["Bill Clinton", "William Jefferson Clinton"],
+            "incorrect1": "George H. W. Bush",
+            "incorrect2": "Barack Obama",
+            "incorrect3": "Jimmy Carter",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2022 SANDS",
+            "question": "After the disastrous Gallipoli campaign, this politician was forced to resign as First Lord of the Admiralty. This politician, who coined the term \"iron curtain,\" proclaimed that \"we shall fight on the beaches\" after an evacuation at Dunkirk. This politician achieved his highest post after the resignation of Neville Chamberlain in 1940. Name this Prime Minister of Great Britain during World War II.",
+            "answers": ["Winston Churchill"],
+            "incorrect1": "Franklin D. Roosevelt",
+            "incorrect2": "Joseph Stalin",
+            "incorrect3": "Charles de Gaulle",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This time-travel classic features a memorable scene where the protagonist plays \"Johnny B. Goode\" at a high school dance in 1955, inadvertently introducing rock and roll to a bewildered audience.  The film's iconic DeLorean time machine, modified by eccentric scientist Doc Brown, requires 1.21 gigawatts of electricity and a speed of 88 miles per hour to travel through time.  The film's sequels further explore the possibilities of time travel, with adventures in a futuristic 2015 and a Wild West setting in 1885.  What is the title of this beloved 1985 film starring Michael J. Fox as Marty McFly?",
+            "answers": ["Back to the Future"],
+            "incorrect1": "Bill & Ted's Excellent Adventure",
+            "incorrect2": "The Terminator",
+            "incorrect3": "E.T. the Extra-Terrestrial",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 Darien DEFT",
+            "question": "This composer evoked the image of a demonic entity ringing bells in a choral symphony based on an Edgar Allen Poe poem. The pianist plays a series of chords in C-minor before accompanying the main theme with arpeggios to open this composer's Piano Concerto #2. This composer's Morceaux de Fantaisie includes a piece which ends with a series of dramatic chords, his Prelude in C-sharp Minor. He also wrote a set of 24 variations on the 24th caprice of an Italian violin virtuoso. Name this Russian composer of Rhapsody on a Theme by Paganini.",
+            "answers": ["Sergei Vasilievich Rachmaninoff"],
+            "incorrect1": "Pyotr Ilyich Tchaikovsky",
+            "incorrect2": "Igor Stravinsky",
+            "incorrect3": "Frédéric Chopin",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2022 MAKEMAKE",
+            "question": "This state's capital is home to summer festivals called WaterFire which were established under its convicted felon mayor Buddy Cianci. A 2020 ballot measure removed the word \"Plantations\" from this state's official name. Mansions such as The Breakers are found in this state's town of Newport, which overlooks Narragansett Bay. Roger Williams founded what smallest US state by land area?",
+            "answers": ["Rhode Island"],
+            "incorrect1": "Long Island",
+            "incorrect2": "Connecticut",
+            "incorrect3": "Maine",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This practice, often attributed to Benjamin Franklin's satirical essay suggesting Parisians could save money on candles by waking up earlier, was first legally mandated in Germany during World War I as a way to conserve energy.  It was later adopted by many countries, including the United States, where it was standardized in 1966 with the Uniform Time Act.  The rationale behind it is to make better use of daylight hours by shifting the clock forward during the summer months.  However, its effectiveness and impact on health and productivity remain a subject of debate.  What is this practice of adjusting the clock forward and backward throughout the year?",
+            "answers": ["Daylight Saving Time", "daylight savings", "dst"],
+            "incorrect1": "Standard Time",
+            "incorrect2": "Coordinated Universal Time",
+            "incorrect3": "Greenwich Mean Time",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2021 CERES",
+            "question": "This country's capital is home to the world's oldest Chinatown, Binondo. This country is the home of a popular condiment called banana ketchup as well as the fast food chain Jollibee. A sauce called adobo, which originated in this country's cuisine, blends Southeast Asian staples with Spanish influences. Quezon City is found on this country's most populous island, Luzon. What country is led from Manila?",
+            "answers": [
+                "Phillipines",
+                "Republic of the Philippines",
+                "Filipinas"
+            ],
+            "incorrect1": "Indonesia",
+            "incorrect2": "Malaysia",
+            "incorrect3": "Vietnam",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2018 MVS RAMS",
+            "question": "This man compared \"murderous, thieving hordes of peasants\" to mad dogs in one work, despite those peasants being largely inspired by his ideology. This man debated Huldrych Zwingli at the Marburg Colloquy, where he argued for the \"real presence\" of Christ in the Eucharist. This man refused to recant his writings at the Diet of Worms. The most famous of those writings was inspired by Johann Tetzel and other sellers of indulgences, and it was nailed to a church door in Wittenberg. Name this father of the Protestant Reformation who wrote the 95 Theses.",
+            "answers": ["Martin Luther"],
+            "incorrect1": "John Calvin",
+            "incorrect2": "Ulrich Zwingli",
+            "incorrect3": "Pope Francis",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2022 SCOP MS 11",
+            "question": "Sediments in these regions form top-set and bottom-set layers, and the Gilbert type of them marks locations of ancient lakes. An alluvial fan with a bird's-foot pattern is characteristic of many of these regions, though strong tidal forces prevent the St Lawrence from creating one. One of these regions occurs where the Nile meets the Mediterranean. Identify this triangular plain at a river's mouth, shaped like the fourth letter of the Greek alphabet.",
+            "answers": ["river deltas", "mouth"],
+            "incorrect1": "river valleys",
+            "incorrect2": "estuaries",
+            "incorrect3": "floodplains",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This coach, the only one in NFL history to lead a team to a perfect season, achieved this feat with the 1972 Miami Dolphins, culminating in a Super Bowl VII victory. He holds the record for the most career wins by an NFL head coach, with 347 victories. He coached the Baltimore Colts and Miami Dolphins, leading both teams to Super Bowl appearances. He also coached in the famous \"Super Bowl III\" upset, where his Baltimore Colts lost to the New York Jets. Who is this legendary coach, known for his disciplined approach and winning mentality?",
+            "answers": ["Don Shula"],
+            "incorrect1": "Vince Lombardi",
+            "incorrect2": "Bill Belichick",
+            "incorrect3": "Tom Landry",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2020 MOQBA Novice",
+            "question": "Isamu Noguchi edited out Clara Boothe Luce from this artist's painting of Dorothy Hale. In a painting by a different artist, this artist holds a yin-yang symbol next to La Calavera Catarina in A Dream of a Sunday Afternoon in Alameda Park. This artist grips a bloody pair of scissors after severing a vein to a twin copy of herself in a painting titled \"Two\" of this artist. A snail and pelvis float around this artist in a painting created from Henry Ford Hospital after miscarrying a child conceived with Diego Rivera. Name this Mexican artist known for her self-portraits with monkeys.",
+            "answers": ["Frida Kahlo"],
+            "incorrect1": "Diego Rivera",
+            "incorrect2": "Salvador Dalí",
+            "incorrect3": "Pablo Picasso",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This action role-playing game, set in the Lands Between, features a challenging open world filled with formidable bosses, including Margit, the Fell Omen, and Malenia, Blade of Miquella.  Its lore, created in collaboration with George R. R. Martin, author of the Game of Thrones series, weaves a complex tapestry of myths and legends.  Players can choose from a variety of character classes, each with unique abilities and playstyles.  It was developed by FromSoftware, the studio behind the Dark Souls series, known for its challenging gameplay and intricate world-building.  What is the name of this critically acclaimed game, which won Game of the Year at The Game Awards 2022?",
+            "answers": ["Elden Ring"],
+            "incorrect1": "Dark Souls",
+            "incorrect2": "The Legend of Zelda",
+            "incorrect3": "Grand Theft Auto",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This technology company recently annouced they are working on a search engine powered by their artificial intelligence model Llama. The company faced scrutiny in 2023 for its controversial rebranding and investment in the metaverse, a virtual reality platform still under development. Its CEO, Mark Zuckerberg, co-founded the company in his Harvard dorm room in 2004. It owns popular social media platforms like Instagram and WhatsApp, boasting billions of users worldwide. What is the name of this tech giant, formerly known as Facebook, Inc.?",
+            "answers": ["Meta"],
+            "incorrect1": "Google",
+            "incorrect2": "Amazon",
+            "incorrect3": "Apple",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "This empire held together by the use of quipus  was expanded by Pachacuti but weakened by civil war between Huascar and Atahualpa. Cities built in it included the capital, Cuzco, and the city discovered by Hiram Bingham, Machu Picchu. What Native American empire of Peru was overthrown by Francisco Pizarro?",
+            "answers": ["Inca empire"],
+            "incorrect1": "Aztec empire",
+            "incorrect2": "Mayan civilization",
+            "incorrect3": "Roman Empire",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2009 Fall Novice Tournament",
+            "question": "The ANP hormone produced in this organ inhibits the production of sodium, while the Wolff-Parkinson-White syndrome is a malfunction of this organ. Impulses from the Bundle of His are carried by Purkinje fibers in this organ, and the aorta originates here. The mitral valve separates the left atrium and ventricle of which organ made of cardiac muscle that pumps blood through the body?",
+            "answers": ["heart"],
+            "incorrect1": "lungs",
+            "incorrect2": "brain",
+            "incorrect3": "stomach",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This sport, with its origins in ancient Shinto rituals, features massive wrestlers, known as rikishi, competing in a circular ring called a dohy\u014d. Before each bout, the rikishi perform a series of symbolic rituals, including throwing salt into the ring for purification.  The highest rank in this sport is yokozuna, a title held by only a select few throughout history. The objective is to force the opponent out of the ring or to make any part of their body other than the soles of their feet touch the ground.  What is this traditional Japanese sport, known for its combination of athleticism, ritual, and cultural significance?",
+            "answers": ["Sumo Wrestling"],
+            "incorrect1": "Judo",
+            "incorrect2": "Karate",
+            "incorrect3": "Professional wrestling",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2020 TAILS",
+            "question": "This man was the US Minister to Sweden and France simultaneously. This man used the pseudonym \"Silence Dogood\" in a series of letters to The New England Courant before becoming the first US Postmaster General. This author of Poor Richard's Almanac urged colonial cooperation with a cartoon captioned \"Join or Die.\" Name this Founding Father who appears on the $100 bill and experimented with a key and a kite.",
+            "answers": ["Benjamin Franklin"],
+            "incorrect1": "Thomas Jefferson",
+            "incorrect2": "George Washington",
+            "incorrect3": "Abraham Lincoln",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2016 Pennsylvania Novice",
+            "question": "In this region, concentric circles of eroded rock form the Richat Structure, which is sometimes called its \"eye.\" Specimens of an unusual type of green glass are found in this region's northeast. The Tuareg nomads inhabit the Air Massif in this region. The Qatarra Depression is the lowest point in this region, which also includes the Grand Ergs in Algeria. South of this region lies a belt of grasslands called the Sahel. Name this largest hot desert in the world that covers most of North Africa.",
+            "answers": ["Sahara Desert"],
+            "incorrect1": "Arabian Desert",
+            "incorrect2": "Gobi Desert",
+            "incorrect3": "Kalahari Desert",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This band's debut album, recorded in 1976 for a mere $6,400, featured short, fast-paced songs like \"Blitzkrieg Bop\" and \"Judy Is a Punk,\" establishing their signature punk rock sound.  Their iconic look, with their long hair, leather jackets, and ripped jeans, became synonymous with the punk aesthetic.  They were inducted into the Rock and Roll Hall of Fame in 2002, a year after the death of their lead singer, Joey Ramone. What is the name of this band, whose members all adopted the surname \"Ramone\" despite not being related?",
+            "answers": ["The Ramones"],
+            "incorrect1": "The Sex Pistols",
+            "incorrect2": "The Clash",
+            "incorrect3": "The Beatles",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This swimmer's iconic \"death stare\" before races became a symbol of his intense focus and determination. He holds the record for the most Olympic gold medals won by an individual, with a staggering 23 golds across five Olympic Games. His signature event, the 200-meter butterfly, showcased his versatility and dominance in the pool. He famously won eight gold medals at the 2008 Beijing Olympics, breaking Mark Spitz's record of seven golds in a single Olympic Games. Who is this legendary swimmer, often referred to as the \"Baltimore Bullet\"? ",
+            "answers": ["Michael Phelps"],
+            "incorrect1": "Usain Bolt",
+            "incorrect2": "Mark Spitz",
+            "incorrect3": "Simone Biles",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2016 PLATO",
+            "question": "At 1,407 feet below sea level, this body of water contains the lowest non\u00adocean point on Earth. The Jordan River is the main tributary of this deepest salt lake in the world. A hill mostly made of salt near this lake is called Mount Sodom. It is bordered by Israel and Jordan, and is sometimes known as \"The Sea of Lot.\" Name this Middle Eastern body of water where microorganisms cannot survive due to its salinity.",
+            "answers": ["The Dead Sea"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2018 SCOP Novice 9",
+            "question": "This leader of the 1874 Black Hills Expedition graduated last in his class at West Point with an amazing 726 demerits in four years. This man was the losing commander at a battle also known as the Battle of the Greasy Grass, where Crazy Horse and Sitting Bull led a rout of his 7th Cavalry. Name this US Army officer who died in 1876 at the Battle of the Little Bighorn, also known as this man's Last Stand.",
+            "answers": ["George Armstrong Custer"],
+            "incorrect1": "Sitting Bull",
+            "incorrect2": "Crazy Horse",
+            "incorrect3": "Robert E. Lee",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "This father of Kebechet had a cult centered at Cynopolis. This Egyptian god was associated with the Greek deity Hermes because of their similar roles. His mother is given as either Bast or Nephthys, and he predates one of his potential fathers, Osiris, as god of the underworld. This god weighs the heart of the dead against Ma'at's feather. Identify this jackal-headed Egyptian god of mummification.",
+            "answers": ["Anubis", "Inpu", "Anpu", "Anup", "Ienpw"],
+            "incorrect1": "Osiris",
+            "incorrect2": "Ra",
+            "incorrect3": "Horus",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This man achieved what Donald Trump is attempting: serving 2 non-consecutive presidential terms. This president faced a major economic crisis during his second term known as the Panic of 1893. He vetoed more bills than any other president up to that point, earning him the nickname \"Grover the Good.\" He signed the Interstate Commerce Act, which regulated railroad rates, and oversaw the dedication of the Statue of Liberty. Who was this 22nd and 24th president of the United States?",
+            "answers": ["Grover Cleveland"],
+            "incorrect1": "Benjamin Harrison",
+            "incorrect2": "William McKinley",
+            "incorrect3": "Theodore Roosevelt",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2020 MOQBA Novice",
+            "question": "The pigment ochre contains particles of a compound containing this metal. Compounds of this transition metal are characteristic of Precambrian banded rock formations. The disulfide of this element, referred to as its pyrite, is more commonly known as fool's gold. In one oxide of this element, cations of this element have an oxidation number of 8/3; that ore is sometimes called lodestone. Magnetite and hematite are ores of this transition metal with atomic number 26. Name this element with chemical symbol Fe, whose oxide is commonly known as rust.",
+            "answers": ["iron"],
+            "incorrect1": "gold",
+            "incorrect2": "steel",
+            "incorrect3": "aluminum",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2022 KICKOFF Novice",
+            "question": "This colony was aided by Manteo under the leadership of governor John White. The first English child born in the New World, Virginia Dare, was born in this colony. A tree in this colony was inscribed with the letters C-R-O, which may refer to an island home to the Croatoan people. This site was the first English colonial effort in the continental United States. Sir Walter Raleigh established what North Carolina \"lost colony?\"",
+            "answers": ["Roanoke"],
+            "incorrect1": "Jamestown",
+            "incorrect2": "Plymouth",
+            "incorrect3": "Salem",
+            "used": "TRUE"
+        }
     ]
 ]
