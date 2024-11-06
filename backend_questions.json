@@ -14777,7 +14777,7 @@
         {
             "category": "Current Events",
             "question": "A tiny species of this type of animal was recently discovered in Brazil. It is the second-smallest known vertebrate species in the world. These amphibians secrete a toxic substance from glands behind their eyes as a defense mechanism against predators. Often confused with frogs, they have drier, bumpier skin and shorter legs adapted for walking rather than hopping. Unlike frogs, they lay their eggs in long chains rather than clusters.  Their young undergo metamorphosis from aquatic tadpoles to terrestrial adults. What are these wart-covered creatures, often found in gardens and woodlands?",
-            "answers": ["Toadlet", "toad", "frog"],
+            "answers": ["Toad", "Toadlet", "frog"],
             "incorrect1": "Tadpole",
             "incorrect2": "Chicken",
             "incorrect3": "Salamander",
@@ -14787,7 +14787,7 @@
         {
             "category": "World History",
             "source": "2014 SCOP Novice 5",
-            "question": "This war was triggered by the closing of the Straits of Tiran. The USS Liberty was hit by friendly fire during this war, which opened with Operation Focus, a surprise, pre-emptive airstrike against the Egyptian Air Force. The winner of this war claimed control of Gaza from Egypt, which had mobilized troops in the Sinai Peninsula. Name this war in which Israel attacked its neighbors over the course of a week in June, 1967.",
+            "question": "This war was triggered by the closing of the Straits of Tiran. The USS Liberty was hit by friendly fire during this war, which opened with Operation Focus, a surprise, pre-emptive airstrike against the Egyptian Air Force. The winner of this war claimed control of Gaza from Egypt, which had mobilized troops in the Sinai Peninsula. Name this war in which Israel attacked its neighbors over the course of a week in June 1967.",
             "answers": ["Six Day War", "Third Arab-Israeli War"],
             "incorrect1": "Yom Kippur War",
             "incorrect2": "Suez Crisis",
@@ -14828,7 +14828,7 @@
         },
         {
             "category": "Sports",
-            "question": "This quarterback, known for his exceptional longevity and success in the NFL, holds the record for the most Super Bowl wins with seven championships to his name. He famously led his team to an improbable comeback victory in Super Bowl LI, overcoming a 28-3 deficit against the Atlanta Falcons. He played for the New England Patriots for 20 seasons, forming a legendary partnership with coach Bill Belichick. He briefly retired in 2022 but returned for one more season with the Tampa Bay Buccaneers. Who is this quarterback, often considered the greatest of all time?",
+            "question": "This quarterback, known for his exceptional longevity and success in the NFL, holds the record for the most Super Bowl wins with seven championships to his name. He famously led his team to an improbable comeback victory in Super Bowl LI, overcoming a 28-3 deficit against the Atlanta Falcons. He played for the New England Patriots for 20 seasons, forming a legendary partnership with coach Bill Belichick. He briefly retired in 2022 but returned for two more seasons with the Tampa Bay Buccaneers. Who is this quarterback, often considered the greatest of all time?",
             "answers": ["Tom Brady"],
             "incorrect1": "Joe Montana",
             "incorrect2": "Peyton Manning",
@@ -14839,7 +14839,7 @@
         {
             "category": "Arts & Literature",
             "source": "2016 Pennsylvania Novice",
-            "question": "One composer from this country depicted the demon Chernobog holding court during the titular Night on Bald Mountain . Another composer from this country depicted a trading caravan In the Steppes of Central Asia and the titular mythical royal in the opera Prince Igor . The \"Mighty Handful\" from this country included both Alexander Borodin and Modest Mussorgsky, but not the pianist Sergei Rachmaninov. Name the country where Dmitri Shostakovich premiered the Leningrad Symphony .",
+            "question": "One composer from this country depicted the demon Chernobog holding court during the titular \"Night on Bald Mountain\". Another composer from this country depicted a trading caravan In the Steppes of Central Asia and the titular mythical royal in the opera Prince Igor. The \"Mighty Handful\" from this country included both Alexander Borodin and Modest Mussorgsky, but not the pianist Sergei Rachmaninov. Name the country where Dmitri Shostakovich premiered the Leningrad Symphony.",
             "answers": ["Russia", "Soviet Union"],
             "incorrect1": "China",
             "incorrect2": "Ukraine",
@@ -14859,7 +14859,7 @@
         {
             "category": "US History",
             "source": "2022 SANDS",
-            "question": "Mark Twain recounted becoming a \"pilot\" of this technology in his memoir Life on the Mississippi. The first commercially successful example of this technology was Robert Fulton's Clermont. It's not trains, but this technology was made practical by improvements to James Watt's designs of an engine powered by water vapor. River transportation in the 19th century was revolutionized by what kind of boat?",
+            "question": "Mark Twain recounted becoming a \"pilot\" of this technology in his memoir Life on the Mississippi. The first commercially successful example of this technology was Robert Fulton's Clermont. It's not a train, but this technology was made practical by improvements to James Watt's designs of an engine powered by water vapor. River transportation in the 19th century was revolutionized by what kind of boat?",
             "answers": ["steamboat", "boat"],
             "incorrect1": "sailboat",
             "incorrect2": "submarine",
@@ -14878,7 +14878,7 @@
         },
         {
             "category": "Current Events",
-            "question": "A seed storage facility in this nation, built to safeguard crop diversity, recently received more than 30,000 new samples for around the world. This country, known for its breathtaking fjords and the Northern Lights, houses a global seed vault on the island of Spitsbergen, safeguarding over a million seed samples from around the world. The vault, built deep inside a mountain, serves as a backup for global food security in the event of natural disasters or global crises. It is also home to the Nobel Peace Prize ceremony, held annually in Oslo. What is this Scandinavian country, known for its rich Viking history and stunning natural beauty?",
+            "question": "A seed storage facility in this nation, built to safeguard crop diversity, recently received more than 30,000 new samples from around the world. This country, known for its breathtaking fjords and the Northern Lights, houses a global seed vault on the island of Spitsbergen, safeguarding over a million seed samples from around the world. The vault, built deep inside a mountain, serves as a backup for global food security in the event of natural disasters or global crises. It is also home to the Nobel Peace Prize ceremony, held annually in Oslo. What is this Scandinavian country, known for its rich Viking history and stunning natural beauty?",
             "answers": ["Norway"],
             "incorrect1": "Sweden",
             "incorrect2": "Finland",
