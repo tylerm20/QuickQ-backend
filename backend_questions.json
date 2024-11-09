@@ -1,7 +1,7 @@
 [
     [
         {
-            "category": "Visual Arts",
+            "category": "World History",
             "question": "Born in Crete, this influential painter moved to Spain, where he became highly sought-after for his religious works. His paintings are characterized by elongated figures, dramatic lighting, and an intense spirituality that reflects the religious fervor of his time. Name this artist that was nicknamed for his nationality and is considered a significant figure in the Spanish Renaissance.",
             "answers": ["El Greco", "Dominikos Theotokopoulos"],
             "incorrect1": "Michelangelo",
@@ -10,7 +10,7 @@
         },
         {
             "num": 21,
-            "category": "Literature",
+            "category": "Geography",
             "subcategory": "American",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
@@ -76,7 +76,7 @@
         {
             "question": "An American writer known for his macabre and mysterious stories, his haunting prose and explorations of themes like madness and guilt established him as a master of Gothic literature. Name this author who gained recognition with his poem 'The Raven'.",
             "answers": ["Edgar Allan Poe", "Poe"],
-            "category": "Literature",
+            "category": "American History",
             "incorrect1": "Nathaniel Hawthorne",
             "incorrect2": "H.P. Lovecraft",
             "incorrect3": "Stephen King",
@@ -84,7 +84,7 @@
         },
         {
             "num": 11,
-            "category": "Literature",
+            "category": "Arts & Literature",
             "subcategory": "American",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
@@ -99,7 +99,7 @@
         },
         {
             "num": 15,
-            "category": "Mythology",
+            "category": "World History",
             "subcategory": null,
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
@@ -4777,30 +4777,45 @@
             "category": "Arts & Literature",
             "question": "This poet wrote about a train in the poem \"I like to see it lap the Miles\". This poet concluded another poem by declaring that \"the Horses' Heads / were toward Eternity\". This poet wrote \"How dreary \u2013 to be \u2013 Somebody!\" in a short poem that exemplified her use of dashes. Name this \"Belle of Amherst\" who wrote \"I'm Nobody! Who are you?\" and \"Because I could not stop for Death\".",
             "answers": ["Emily Dickinson", "Dickinson"],
+            "incorrect1": "Walt Whitman",
+            "incorrect2": "Sylvia Plath",
+            "incorrect3": "Maya Angelou",
             "used": "TRUE"
         },
         {
             "category": "Geography",
             "question": "Protestors found the large shoe collection of this country's first lady Imelda during the People Power Revolution. The Muslim Moro people resisted this country's colonization by the US after the Spanish-American War. The son of this country's former dictator Ferdinand Marcos succeeded Rodrigo Duterte. This country was named after a Spanish king who colonized it. What country's capital is Manila?",
             "answers": ["The Phillipines", "Phillipines"],
+            "incorrect1": "Indonesia",
+            "incorrect2": "Malaysia",
+            "incorrect3": "Vietnam",
             "used": "TRUE"
         },
         {
             "category": "Current Events",
             "question": "Morgan Spurlock, the creator of this 2004 documentary film died on May 23, 2024. The film follows a filmmaker who embarks on a 30-day experiment, consuming only McDonald's food for every meal. The film documents the detrimental effects of this diet on his physical and psychological health, as well as the broader implications of the fast-food industry's marketing and influence on public health. Name this film which sparked widespread debate about the dangers of fast food and its contribution to the obesity epidemic. ",
             "answers": ["Super Size Me"],
+            "incorrect1": "Bowling for Columbine",
+            "incorrect2": "Fahrenheit 9/11",
+            "incorrect3": "An Inconvenient Truth",
             "used": "TRUE"
         },
         {
             "category": "Entertainment",
             "question": "This science fiction film, directed by Stanley Kubrick and co-written with Arthur C. Clarke, follows a voyage to Jupiter after the discovery of a mysterious black monolith. It explores themes of human evolution, artificial intelligence, and extraterrestrial life. The film is known for its groundbreaking special effects, ambiguous ending, and use of classical music, including Richard Strauss's \"Also Sprach Zarathustra.\" Name this 1968 film featuring the iconic sentient computer HAL 9000.",
             "answers": ["2001: A Space Odyssey", "2001", "space odyssey"],
+            "incorrect1": "Star Wars",
+            "incorrect2": "Blade Runner",
+            "incorrect3": "Alien",
             "used": "TRUE"
         },
         {
             "category": "Sports",
             "question": "This coach led the Boston Celtics to nine NBA championships and is known for his signature victory cigar. He drafted future Hall of Famers such as Bill Russell and Larry Bird, and is credited with breaking racial barriers by drafting Chuck Cooper, the first African American player in the NBA. Name this legendary coach and executive who is considered one of the most influential figures in NBA history.",
             "answers": ["Red Auerbach", "Red aurbach"],
+            "incorrect1": "Phil Jackson",
+            "incorrect2": "Gregg Popovich",
+            "incorrect3": "Bill Russell",
             "used": "TRUE"
         },
         {
@@ -4814,12 +4829,18 @@
                 "mean of Phidias",
                 "phi"
             ],
+            "incorrect1": "Fibonacci sequence",
+            "incorrect2": "Pythagorean theorem",
+            "incorrect3": "Euler's formula",
             "used": "TRUE"
         },
         {
             "category": "World History",
             "question": "This country's flag reflects the myth that a city in it was founded where an eagle was seen eating a snake atop a cactus. A civilization from this modern day country worshipped a god that took the form of a \"feathered serpent,\" named Quetzalcoatl. At Tenochtitlan, a civilization from this country performed human sacrifice for its gods.The myths of the Aztec civilization are from what country?",
             "answers": ["Mexico"],
+            "incorrect1": "Brazil",
+            "incorrect2": "Argentina",
+            "incorrect3": "Spain",
             "used": "TRUE"
         },
         {
@@ -4832,6 +4853,9 @@
                 "13th amendment",
                 "13 amendment"
             ],
+            "incorrect1": "Civil Rights Movement",
+            "incorrect2": "women's suffrage",
+            "incorrect3": "Prohibition",
             "used": "TRUE",
             "source": ""
         }
@@ -4841,30 +4865,45 @@
             "category": "Entertainment",
             "question": "This 1993 science fiction adventure film, directed by Steven Spielberg, follows a group of scientists and a lawyer who are invited to preview a theme park on a tropical island inhabited by genetically engineered dinosaurs. The park's security systems fail, leading to a chaotic series of events as the dinosaurs escape their enclosures. Name this film featuring iconic creatures like the Tyrannosaurus rex and Velociraptors, based on the novel by Michael Crichton.",
             "answers": ["Jurassic Park"],
+            "incorrect1": "Jaws",
+            "incorrect2": "E.T. the Extra-Terrestrial",
+            "incorrect3": "Indiana Jones",
             "used": "TRUE"
         },
         {
             "category": "Sports",
             "question": "This player was selected second overall in the 2007 NBA draft. He won the NBA Rookie of the Year Award and was named the Most Valuable Player in 2014 while playing for the Oklahoma City Thunder. He has won two NBA championships and two Finals MVP awards with the Golden State Warriors. Name this 13-time All-Star known for his scoring ability and signature shoe line with Nike. ",
             "answers": ["Kevin Durant"],
+            "incorrect1": "LeBron James",
+            "incorrect2": "Stephen Curry",
+            "incorrect3": "Giannis Antetokounmpo",
             "used": "TRUE"
         },
         {
             "category": "Current Events",
             "question": "Peremptory challenges may be used to remove members of these groups. Members of these groups may be \"sequestered\" away from media to prevent outside influence. The 6th Amendment granted the right to an \"impartial\" one of these groups, which must be unanimous to convict. Indictments are delivered by \"grand\" examples of what groups of 12 people who deliver verdicts in court cases?",
             "answers": ["jury", "juries"],
+            "incorrect1": "judge",
+            "incorrect2": "prosecutor",
+            "incorrect3": "defense attorney",
             "used": "TRUE"
         },
         {
             "category": "Arts & Literature",
             "question": "This language was used to write a short story collection whose name translates to \"Fictions,\" which includes the stories \"Library of Babel\" and \"The Garden of Forking Paths.\" The town of Macondo is built by members of the Buend\u00eda family in a novel in this language titled One Hundred Years of Solitude. Jorge Luis Borges and Gabriel Garc\u00eda M\u00e1rquez wrote in what language used by most Latin American writers?",
             "answers": ["spanish", "espanol"],
+            "incorrect1": "Portuguese",
+            "incorrect2": "Italian",
+            "incorrect3": "French",
             "used": "TRUE"
         },
         {
             "category": "US History",
             "question": "This political scandal involved the secret sale of arms to Iran in exchange for the release of American hostages held in Lebanon. The proceeds from the arms sales were then illegally used to fund anti-communist rebels in Nicaragua, known as the Contras. It occurred during the second term of the Reagan administration and involved several high-ranking officials, including Oliver North. Name this scandal that involved covert operations and raised serious questions about the executive branch's authority in foreign policy.",
             "answers": ["Iran Contra Affair", "Iran Contra"],
+            "incorrect1": "Watergate scandal",
+            "incorrect2": "Lewinsky scandal",
+            "incorrect3": "Teapot Dome scandal",
             "used": "TRUE",
             "source": ""
         },
@@ -4872,18 +4911,27 @@
             "category": "Geography",
             "question": "This city's \u201cOrloj\u201d, the world's oldest operating astronomical clock, is mounted to its Old Town Hall. During the \u201cVelvet Revolution\u201d, many demonstrations were held in this city's Wenceslas Square. Statues of various saints line this city's historic Charles Bridge, which spans the Vltava River. Many historic defenestrations occurred in what capital of Czechia?",
             "answers": ["Prague"],
+            "incorrect1": "Budapest",
+            "incorrect2": "Vienna",
+            "incorrect3": "Warsaw",
             "used": "TRUE"
         },
         {
             "category": "World History",
             "question": "This dynasty, founded by Liu Bang in 206 BCE, lasted for over four centuries and is considered a golden age in Chinese history. It saw significant advancements in art, technology, and governance, including the establishment of the Silk Road, the invention of paper, and the development of a sophisticated bureaucracy. Name this dynasty that is divided into Western and Eastern periods, with its capital initially at Chang'an and later at Luoyang.",
             "answers": ["Han Dynasty", "Han"],
+            "incorrect1": "Tang Dynasty",
+            "incorrect2": "Ming Dynasty",
+            "incorrect3": "Qin Dynasty",
             "used": "TRUE"
         },
         {
             "category": "Science",
             "question": "Levels of this molecule decrease during the \u201caustral spring\u201d when its concentration, measured in Dobson units, reaches its lowest values. The Montreal Protocol helped levels of this molecule over Antarctica rise to previous levels by banning CFCs, which caused its namesake atmospheric \"hole.\" UV radiation is absorbed by the stratosphere\u2019s \u201clayer\u201d of what molecule with chemical formula O3?",
             "answers": ["ozone", "o3", "ozone layer", "ozone hole"],
+            "incorrect1": "oxygen",
+            "incorrect2": "carbon dioxide",
+            "incorrect3": "nitrogen",
             "used": "TRUE"
         }
     ],
@@ -4892,6 +4940,9 @@
             "category": "World History",
             "question": "After a conflict, this city was the target of a rebellion known as the Mercenary War. This Phoenician colony was legendarily founded by the queen Dido. A general from this city encircled a much larger force to achieve a victory at Cannae. Scipio Africanus defeated this city, whose forces marched elephants across the Alps while led by Hannibal. What ancient city in North Africa lost the Punic Wars to Rome?",
             "answers": ["Carthage"],
+            "incorrect1": "Rome",
+            "incorrect2": "Athens",
+            "incorrect3": "Sparta",
             "used": "TRUE"
         },
         {
@@ -4903,24 +4954,36 @@
                 "Zhongguo",
                 "Zhonghua Renmin\nGongheguo"
             ],
+            "incorrect1": "India",
+            "incorrect2": "Japan",
+            "incorrect3": "Russia",
             "used": "TRUE"
         },
         {
             "category": "Current Events",
             "question": "Bruhat Soma won this competition in a lightning-round tiebreaker in May 2024. This annual event began in 1925 with nine contestants and has since grown to include millions of participants from across the United States and several other countries. It is open to students who have not passed the eighth grade and have not reached their 15th birthday. Name this prestigious competition hosted in Washington, D.C. that is known for its challenging words and impressive displays of spelling prowess.",
             "answers": ["Scripps Spelling Bee"],
+            "incorrect1": "National Geographic Bee",
+            "incorrect2": "Academic Decathlon",
+            "incorrect3": "Science Olympiad",
             "used": "TRUE"
         },
         {
             "category": "Entertainment",
             "question": "This Disney animated film, initially titled \"King of the Jungle,\" was considered a \"B-project\" while the studio focused on \"Pocahontas.\" It features a voice cast that includes Matthew Broderick, James Earl Jones, and Jeremy Irons, who temporarily lost his voice while recording \"Be Prepared.\" Its iconic soundtrack, composed by Elton John and Tim Rice, includes songs like \"Circle of Life,\" \"Hakuna Matata,\" and \"Can You Feel the Love Tonight,\" which was almost cut from the film. Name this 1994 highest-grossing hand-drawn animated feature of all time.",
             "answers": ["The Lion King", "Lion King"],
+            "incorrect1": "The Jungle Book",
+            "incorrect2": "Beauty and the Beast",
+            "incorrect3": "Aladdin",
             "used": "TRUE"
         },
         {
             "category": "US History",
             "question": "This Supreme Court case arose from a dispute over the appointment of a justice of the peace in the District of Columbia. The Court ruled that a provision of the Judiciary Act of 1789, which granted the Court the authority to issue certain writs, was unconstitutional. This decision established the principle of judicial review, the power of the Court to declare acts of Congress unconstitutional. Name this landmark 1803 case that solidified the Supreme Court's role in the system of checks and balances.",
             "answers": ["Marbury v. Madison", "Marbury", "Madison"],
+            "incorrect1": "McCulloch v. Maryland",
+            "incorrect2": "Dred Scott v. Sandford",
+            "incorrect3": "Plessy v. Ferguson",
             "used": "TRUE",
             "source": ""
         },
@@ -4928,18 +4991,27 @@
             "category": "Science",
             "question": "A nine-point one of these shapes can be drawn to pass through the midpoints of its given triangle's sides. Right triangles are usually drawn inside one of these shapes in the Cartesian plane to explain the calculation of trig functions. A line between two points on one of these shapes is called a chord. Name these shapes whose circumference is equal to pi times their diameter.",
             "answers": ["circle"],
+            "incorrect1": "square",
+            "incorrect2": "triangle",
+            "incorrect3": "oval",
             "used": "TRUE"
         },
         {
             "category": "Sports",
             "question": "This team relocated to Nashville in 1997 after playing in Houston as the Oilers since 1960. They reached Super Bowl XXXIV in 2000 but lost to the St. Louis Rams by one yard in the final seconds. Their star running back, Derrick Henry, has won two NFL rushing titles and was named the NFL Offensive Player of the Year in 2020. Name this team that plays its home games at Nissan Stadium.",
             "answers": ["Tennessee Titans", "Titans"],
+            "incorrect1": "Tennessee Volunteers",
+            "incorrect2": "Dallas Cowboys",
+            "incorrect3": "Green Bay Packers",
             "used": "TRUE"
         },
         {
             "category": "Geography",
             "question": "This city, located on the island of Honshu, is the most populous metropolitan area in the world. Situated at the head of a bay sharing its name, it is a major economic and cultural center, home to iconic landmarks such as the Imperial Palace. Name this city, formerly known as Edo, that was devastated by the Great Kant\u014d earthquake in 1923 but has since been rebuilt into a modern metropolis.",
             "answers": ["Tokyo"],
+            "incorrect1": "Kyoto",
+            "incorrect2": "Osaka",
+            "incorrect3": "Seoul",
             "used": "TRUE"
         }
     ],
@@ -4948,12 +5020,18 @@
             "category": "Entertainment",
             "question": "This 1991 psychological thriller follows a young FBI trainee who enlists the help of an incarcerated and manipulative cannibalistic serial killer to catch another serial killer, known as \"Buffalo Bill,\" who skins his victims. The film features iconic performances by Jodie Foster as Clarice Starling and Anthony Hopkins as Hannibal Lecter, and won five Academy Awards, including Best Picture, Best Director, Best Actor, Best Actress, and Best Adapted Screenplay. Name this film based on the novel by Thomas Harris.",
             "answers": ["Silence of the Lambs", "The Silence of the Lambs"],
+            "incorrect1": "Psycho",
+            "incorrect2": "The Shining",
+            "incorrect3": "Seven",
             "used": "TRUE"
         },
         {
             "category": "Arts & Literature",
             "question": "John Cage added screws to make a \"prepared\" form of this instrument, which is silent for four minutes and 33 seconds in another Cage piece. Scott Joplin's Maple Leaf Rag is played on this instrument. Thelonious Monk and Duke Ellington were famous jazz players of this instrument. \"Tickling the ivories\" refers to playing what instrument with 88 black and white keys?",
             "answers": ["piano", "pianoforte"],
+            "incorrect1": "violin",
+            "incorrect2": "guitar",
+            "incorrect3": "drums",
             "used": "TRUE"
         },
         {
@@ -4964,6 +5042,9 @@
                 "Brown vs board",
                 "Brown"
             ],
+            "incorrect1": "Plessy v. Ferguson",
+            "incorrect2": "Roe v. Wade",
+            "incorrect3": "Miranda v. Arizona",
             "used": "TRUE",
             "source": ""
         },
@@ -4971,30 +5052,45 @@
             "category": "Science",
             "question": "GUIs in this programming language can be developed using the Swing API. This language developed by Sun Microsystems has the slogan \"Write Once, Run Anywhere\", advertising its namesake \"virtual machine\". Much of the original codebase of Minecraft was written in this programming language. Name this popular object-oriented programming language whose symbol is a cup of coffee.",
             "answers": ["Java"],
+            "incorrect1": "Python",
+            "incorrect2": "C++",
+            "incorrect3": "JavaScript",
             "used": "TRUE"
         },
         {
             "category": "World History",
             "question": "This battle's name was applied to an 1819 massacre against government reform protestors in Manchester. Borders were resolved using terms set at the Congress of Vienna after this battle, at which Prussian forces under von Blucher fought alongside the Duke of Wellington. When this battle's loser was exiled to St. Helena, the French monarchy was restored. What 1815 battle was Napoleon's final defeat?",
             "answers": ["Battle of Waterloo", "Waterloo"],
+            "incorrect1": "Battle of Trafalgar",
+            "incorrect2": "Battle of Gettysburg",
+            "incorrect3": "Battle of Stalingrad",
             "used": "TRUE"
         },
         {
             "category": "Sports",
             "question": "This fighter defeated Trevor Berbick in 1986 to become the youngest heavyweight champion in history at the age of 20. Known for his ferocious punching power and intimidating presence, he won his first 19 professional fights by knockout. In 1992, he was convicted of rape and served three years in prison. After his release, he regained the heavyweight title but lost it to Evander Holyfield in 1996. In a rematch the following year, he was disqualified for biting Holyfield's ear. Name this boxer nicknamed \"Iron Mike.\"",
             "answers": ["Mike Tyson"],
+            "incorrect1": "Muhammad Ali",
+            "incorrect2": "Joe Frazier",
+            "incorrect3": "George Foreman",
             "used": "TRUE"
         },
         {
             "category": "Geography",
             "question": "A bend in this river created an exclave of Fulton County named for the town of New Madrid. The cities of Natchez and Vicksburg are located on the banks of this river. Part of this river's flow drains to the ocean through the Atchafalaya, and this river joins the Ohio River at Cairo, Illinois. St. Louis is located on the west bank of what river which flows through New Orleans into the Gulf of Mexico?",
             "answers": ["Mississippi River", "Mississippi"],
+            "incorrect1": "Amazon River",
+            "incorrect2": "Nile River",
+            "incorrect3": "Yangtze River",
             "used": "TRUE"
         },
         {
             "category": "Current Events",
             "question": "This mans interpreter, Ippei Mizuhara, plead guilty to bank fraud and tax evasion related to illegal gambling debts. This player made his MLB debut with the Los Angeles Angels in 2018, becoming the first player since Babe Ruth to both pitch and hit regularly in the major leagues. He won the American League Rookie of the Year Award in 2018 and was named the American League Most Valuable Player in 2021. In 2023, he became the first player in MLB history to win a home run title and record ten pitching wins in the same season. Name this two-way Japanese superstar known for his exceptional talent as both a pitcher and a designated hitter.",
             "answers": ["Shohei Ohtani"],
+            "incorrect1": "Babe Ruth",
+            "incorrect2": "Aaron Judge",
+            "incorrect3": "Mike Trout",
             "used": "TRUE"
         }
     ],
@@ -5003,48 +5099,72 @@
             "category": "World History",
             "question": "The Ten Days of Repentance are observed immediately following this holiday. Righteous people's names are recorded in the Book of Life on this holiday. During this holiday, people eat apples dipped in honey and may use the greeting \"shanah tovah\", which means \"good year\". The first day of Tishrei and the first of the Jewish High Holy Days is what holiday that celebrates the Jewish New Year?",
             "answers": ["Rosh Hashanah", "Yom Teruah"],
+            "incorrect1": "Yom Kippur",
+            "incorrect2": "Hanukkah",
+            "incorrect3": "Passover",
             "used": "TRUE"
         },
         {
             "category": "Geography",
             "question": "This country is home to the \"Catatumbo lightning\", an intense localized thunderstorm that occurs for hours a day almost half the days of the year. This country's \"tepui\", or flat-topped \"table mountains\", inspired the South American landscape in the Pixar movie Up. The world's highest uninterrupted waterfall, Angel Falls, is located in what South American country led from Caracas?",
             "answers": ["Venezuela"],
+            "incorrect1": "Colombia",
+            "incorrect2": "Ecuador",
+            "incorrect3": "Brazil",
             "used": "TRUE"
         },
         {
             "category": "Science",
             "question": "This region is described by the Three Cell Model, where it is divided into Hadley, Ferrel, and polar cells. The planetary boundary layer is the lowest part of this region of the atmosphere. The\ntop of this region contains jet streams. This region is where most of Earth's weather occurs. Name this layer of the atmosphere that lies below the stratosphere.",
             "answers": ["troposphere"],
+            "incorrect1": "stratosphere",
+            "incorrect2": "mesosphere",
+            "incorrect3": "thermosphere",
             "used": "TRUE"
         },
         {
             "category": "Sports",
             "question": "This team relocated to Los Angeles in 2016 after playing in St. Louis since 1995. They won Super Bowl LVI in 2022, defeating the Cincinnati Bengals at their home stadium, SoFi Stadium. Their star defensive tackle, Aaron Donald, is a three-time NFL Defensive Player of the Year and a Super Bowl champion. Sean McVay, their head coach, is the youngest head coach in NFL history to lead a team to the Super Bowl. Name this team that shares SoFi Stadium with the Los Angeles Chargers. ",
             "answers": ["L.A. Rams", "Rams", "LA Rams", "Los Angeles Rams"],
+            "incorrect1": "L.A. Chargers",
+            "incorrect2": "San Francisco 49ers",
+            "incorrect3": "Seattle Seahawks",
             "used": "TRUE"
         },
         {
             "category": "Arts & Literature",
             "question": "The blood from the right half of this figure was said to bring the dead back to life. Stheno and Euryale were siblings of this child of Ceto, who gave birth to Chrysaor upon her death. A body part of this figure was placed upon the Aegis shield by Athena. This figure was transformed into a monster after Poseidon assaulted her at a temple to Athena, and was slain by Perseus. Identify this gorgon whose gaze petrified men.",
             "answers": ["Medusa"],
+            "incorrect1": "Athena",
+            "incorrect2": "Aphrodite",
+            "incorrect3": "Hera",
             "used": "TRUE"
         },
         {
             "category": "Entertainment",
             "question": "Zero Moustafa inherits one of these places in a Wes Anderson film set in Zubrowka. The caretaker of one of these places writes \"All work and no play makes Jack a dull boy\" hundreds of times in the film The Shining. A group of British pensioners move to India in a film titled for \"The Best Exotic Marigold\" one of what kind of place where Kevin spends hundreds of dollars on room service in Home Alone 2?",
             "answers": ["hotel", "hotels"],
+            "incorrect1": "motel",
+            "incorrect2": "hostel",
+            "incorrect3": "apartment",
             "used": "TRUE"
         },
         {
             "category": "Current Events",
             "question": "This tennis player lost his first match before the fourth round of the French Open when he lost to Alexander Zverev in the first round in 2024. He won his first French Open title in 2005 at the age of 19, becoming the second-youngest man to win a Grand Slam singles title. He is known for his powerful left-handed forehand, exceptional athleticism, and relentless fighting spirit. He has won a record 14 French Open titles, earning him the nickname \"King of Clay.\" Name this Spanish tennis player who has also won four US Open titles, two Wimbledon titles, and one Australian Open title, for a total of 22 Grand Slam singles titles.",
             "answers": ["Rafael Nadal"],
+            "incorrect1": "Roger Federer",
+            "incorrect2": "Novak Djokovic",
+            "incorrect3": "Andy Murray",
             "used": "TRUE"
         },
         {
             "category": "US History",
             "question": "One event in this city occurred on King Street and resulted in Thomas Preston's trial and the death of Crispus Attucks. The Old North Church in this city was the site of the \"one if by land, two if by sea\" command to Paul Revere. The Sons of Liberty threw goods into this city\u2019s harbor in one event. The Battle of Bunker Hill took place in what city, where tea was destroyed in a namesake 1773 \u201cTea Party\u201d?",
             "answers": ["Boston", "Boston Massachussetts"],
+            "incorrect1": "New York City",
+            "incorrect2": "Philadelphia",
+            "incorrect3": "Chicago",
             "used": "TRUE",
             "source": ""
         }
@@ -5054,48 +5174,72 @@
             "category": "Sports",
             "question": "This figure skater became the first American woman and the second woman to land a triple axel in competition. She won the U.S. Figure Skating Championships in 1991 and 1994, but her career was overshadowed by her association with the attack on fellow skater Nancy Kerrigan in 1994. She pleaded guilty to hindering prosecution and was banned for life from the U.S. Figure Skating Association. Name this controversial figure skater portrayed by Margot Robbie in a 2017 film.",
             "answers": ["Tonya Harding"],
+            "incorrect1": "Nancy Kerrigan",
+            "incorrect2": "Kristi Yamaguchi",
+            "incorrect3": "Michelle Kwan",
             "used": "TRUE"
         },
         {
             "category": "Arts & Literature",
             "question": "Paul Robeson played the title character of this play in its longest-running New York theatre production. The main character of this play is convinced by a handkerchief that his wife is cheating on him. In this play, Emilia is killed for exposing the treachery of her husband Iago. Desdemona is smothered with a pillow in what Shakespeare play about a \"Moor of Venice\"?",
             "answers": ["Othello"],
+            "incorrect1": "Hamlet",
+            "incorrect2": "Macbeth",
+            "incorrect3": "King Lear",
             "used": "TRUE"
         },
         {
             "category": "US History",
             "question": "One of this leader's speeches discusses a \"frightful despotism\" and forbids \"entangling\nalliances.\" The Newburgh Conspiracy and the Conway Cabal were plots to replace this leader with\nHoratio Gates after this leader's losses at Germantown and Brandywine. After issuing his\nfarewell address warning against political parties, this leader retired to Mount Vernon. Name this President of the United States.",
             "answers": ["George Washington"],
+            "incorrect1": "Thomas Jefferson",
+            "incorrect2": "Abraham Lincoln",
+            "incorrect3": "John Adams",
             "used": "TRUE"
         },
         {
             "category": "Entertainment",
             "question": "This neo-noir mystery film follows an aspiring actress named Betty, who befriends an amnesiac woman named Rita after she survives a car crash. As they try to uncover Rita's identity, they become entangled in a web of dreams, illusions, and Hollywood conspiracies. This film is known for its surreal imagery, non-linear narrative, and ambiguous ending, leaving much open to interpretation. Name this 2001 film directed by David Lynch, named after a famous Los Angeles road that is often cited as one of the greatest films of the 21st century.",
             "answers": ["Mulholland Drive", "Mullholland Dr"],
+            "incorrect1": "Sunset Boulevard",
+            "incorrect2": "Hollywood Boulevard",
+            "incorrect3": "Rodeo Drive",
             "used": "TRUE"
         },
         {
             "category": "Current Events",
             "question": "This city was home to the Francis Scott Key Bridge which collapsed on March 26, 2024 after a cargo ship named Dali collided with the bridge. The city, located on the Patapsco River in Maryland, was a major shipbuilding center during World War II and is home to Fort McHenry, where \"The Star-Spangled Banner\" was written during the War of 1812. It is also known for its distinct neighborhoods, such as Fells Point and Federal Hill, and its unique culinary traditions, including a famous crab cake. Name this city, nicknamed \"Charm City,\" that is the largest city in Maryland.",
             "answers": ["Baltimore"],
+            "incorrect1": "Philadelphia",
+            "incorrect2": "Washington D.C.",
+            "incorrect3": "Annapolis",
             "used": "TRUE"
         },
         {
             "category": "World History",
             "question": "Juan Sebastian Elcano continued one of this explorer's expeditions after they were killed by forces under Lapu-Lapu at the Battle of Mactan. This explorer's voyage to the Spice Islands made them the first to discover a strait south of South America, which was later named for them. Name this Portuguese explorer who died while attempting the first circumnavigation of the earth.",
             "answers": ["Ferdinand Magellan", "Magellan"],
+            "incorrect1": "Christopher Columbus",
+            "incorrect2": "Vasco da Gama",
+            "incorrect3": "Amerigo Vespucci",
             "used": "TRUE"
         },
         {
             "category": "Geography",
             "question": "An airport in this city is nicknamed \"The Busiest Square Mile on Earth\". The South Shore Line is a commuter train connecting this city to South Bend. The codes MDW and ORD are used for airports in this city. This city's elevated trains, nicknamed the \"El\", converge in a downtown area named the Loop. Midway Airport and O'Hare Airport serve what most populous city in Illinois?",
             "answers": ["Chicago"],
+            "incorrect1": "New York City",
+            "incorrect2": "Los Angeles",
+            "incorrect3": "Houston",
             "used": "TRUE"
         },
         {
             "category": "Science",
             "question": "Orbital resonance with Jupiter causes certain points called Kirkwood gaps in one region to be devoid of these objects. Some of these objects that share sections of Jupiter's orbit are called trojans. Vesta and Ceres are the largest of these objects, one of which hit Earth and caused the K-T extinction. What rocky bodies are found most commonly between Mars and Jupiter in a namesake \"belt\"?",
             "answers": ["asteroids", "asteroid"],
+            "incorrect1": "comets",
+            "incorrect2": "meteors",
+            "incorrect3": "planets",
             "used": "TRUE"
         }
     ],
@@ -5104,36 +5248,54 @@
             "category": "US History",
             "question": "Al Smith's adherence to this faith may have caused his election loss to Herbert Hoover. Prejudice against Italian immigrants to America was partially driven by their adherence to this faith, along with Irish-American immigrants such as the Kennedys. In 2020, Joe Biden became the second president in American history to be a member of what \"Roman\" Christian denomination?",
             "answers": ["Roman Catholic", "Catholic", "Catholicism"],
+            "incorrect1": "Eastern Orthodox",
+            "incorrect2": "Protestant",
+            "incorrect3": "Jewish",
             "used": "TRUE"
         },
         {
             "category": "Current Events",
             "question": "In early June, this news organization's executive editor abruptly resigned after disagreements with the organization's CEO, Will Lewis. This newspaper, founded in 1877, gained national prominence for its investigative reporting during the Watergate scandal in the early 1970s. Reporters Bob Woodward and Carl Bernstein played a crucial role in uncovering the Nixon administration's involvement in the break-in at the Democratic National Committee headquarters. Name this newspaper, owned by Jeff Bezos which is headquartered in Washington D.C.",
             "answers": ["The Washington Post", "Washington Post"],
+            "incorrect1": "The New York Times",
+            "incorrect2": "The Wall Street Journal",
+            "incorrect3": "USA Today",
             "used": "TRUE"
         },
         {
             "category": "World History",
             "question": "The KGB may have killed a leader of this group, Dag Hammarskj\u00f6ld, in a plane crash over present-day Zambia. An \"educational, scientific, and cultural organization\" within this group recognizes world heritage sites. This group's Security Council gives unilateral vetoes to five permanent members, including Russia. What international organization headquartered in New York has 193 member states?",
             "answers": ["United Nations", "UN", "U.N."],
+            "incorrect1": "NATO",
+            "incorrect2": "European Union",
+            "incorrect3": "World Trade Organization",
             "used": "TRUE"
         },
         {
             "category": "Science",
             "question": "This scientist discovered that the plane of polarization for linearly polarized light can be rotated using an external magnetic field. This scientist's law of induction describes how a magnetic field can produce an electromotive force. This scientist used an ice pail to demonstrate electromagnetic shielding in his namesake cage. Name this English physicist who lends his name to the SI unit of capacitance.",
             "answers": ["Michael Faraday", "Faraday"],
+            "incorrect1": "James Clerk Maxwell",
+            "incorrect2": "Albert Einstein",
+            "incorrect3": "Nikola Tesla",
             "used": "TRUE"
         },
         {
             "category": "Sports",
             "question": "This quarterback, nicknamed \"Joe Cool\" for his calm demeanor under pressure, led the San Francisco 49ers to four Super Bowl victories in the 1980s. He is renowned for engineering numerous come-from-behind victories, including \"The Catch,\" a last-minute touchdown pass to Dwight Clark in the 1981 NFC Championship Game against the Dallas Cowboys. Name this three-time Super Bowl MVP who is considered one of the greatest quarterbacks in NFL history.",
             "answers": ["Joe Montana"],
+            "incorrect1": "Tom Brady",
+            "incorrect2": "Jerry Rice",
+            "incorrect3": "Steve Young",
             "used": "TRUE"
         },
         {
             "category": "Geography",
             "question": "Women in this country may wear a bathrobe-like summer dress known as a yukata. A silk dress from this country is held together by a belt called an obi and may feature designs of Sakura, or cherry blossoms. Ladies-in-waiting like Lady Murasaki during the Heian period were some of the first to wear kimonos in what country, where they're worn by women living in Tokyo?",
             "answers": ["Japan", "Nippon"],
+            "incorrect1": "China",
+            "incorrect2": "South Korea",
+            "incorrect3": "Vietnam",
             "used": "TRUE"
         },
         {
@@ -5147,12 +5309,18 @@
                 "Harlem",
                 "Harlem New York"
             ],
+            "incorrect1": "Los Angeles",
+            "incorrect2": "Chicago",
+            "incorrect3": "London",
             "used": "TRUE"
         },
         {
             "category": "Entertainment",
             "question": "This artist, born David Robert Jones, adopted his stage name to avoid confusion with Davy Jones of The Monkees. Known for his flamboyant alter egos, including the Thin White Duke, he constantly reinvented his image and sound throughout his career. His music spanned genres like glam rock, art rock, soul, and electronica, with iconic albums like \"The Rise and Fall of Ziggy Stardust and the Spiders from Mars,\" \"Heroes,\" and \"Let's Dance.\" Name this legendary British musician known for his distinctive voice and theatrical performances.",
             "answers": ["David Bowie"],
+            "incorrect1": "Freddie Mercury",
+            "incorrect2": "Elton John",
+            "incorrect3": "Mick Jagger",
             "used": "TRUE"
         }
     ],
@@ -5161,48 +5329,72 @@
             "category": "Current Events",
             "question": "At least 14 Jordanian citizens have died in 2024 during this event due to intense heat. A practice similar to this one, but which can take place at any time of year, is Umrah.\nParticipants in this practice throw stones at a wall in a ritual \"Stoning of the Devil\" and reenact\nHajar's search for water by running between two hills. Participants in this event walk seven times\naround the Kaaba at the center of the Masjid al-Haram. The Fifth Pillar of Islam is\nwhat pilgrimage to Mecca?",
             "answers": ["Hajj", "pilgrimage", "Mecca", "pilgrimage to Mecca"],
+            "incorrect1": "Umrah",
+            "incorrect2": "Ramadan",
+            "incorrect3": "Eid al-Adha",
             "used": "TRUE"
         },
         {
             "category": "World History",
             "question": "This leader won the Nobel Prize in Literature for A History of the English-Speaking Peoples. This politician was demoted after the Gallipolli campaign during World War I. The \"Blood, Sweat, and Tears\" speech was given by this man, who succeeded Neville Chamberlain and declared \"We shall never surrender\" during a war where London was bombed. Name this prime minister who led Britain through World War II.",
             "answers": ["Winson Churchill", "Churchill"],
+            "incorrect1": "Franklin D. Roosevelt",
+            "incorrect2": "Joseph Stalin",
+            "incorrect3": "Charles de Gaulle",
             "used": "TRUE"
         },
         {
             "category": "US History",
             "question": "A faction opposed to this ideology was led by Patrick Henry. This ideology names a series of texts published under the name \"Publius\" to promote the Constitution, as well as a party that supported the first national bank, a strong central government, and opposed the Democratic-Republicans. Alexander Hamilton wrote most of the \"Papers\" named for what ideology that names an early American political party?",
             "answers": ["Federalist", "Federalist Papers", "Federalism"],
+            "incorrect1": "Anti-Federalist",
+            "incorrect2": "Democrat",
+            "incorrect3": "Republican",
             "used": "TRUE"
         },
         {
             "category": "Science",
             "question": "This element is purified by reducing its oxide in molten cryolite in the Hall-H\u00e9roult process.\nThe Bayer process is used to obtain this element from its ore. It's not chromium, but a\ncharacteristic red color is formed when oxygen and this element form rubies. Bauxite is this\nelement's most common ore. Identify this thirteenth element often used to make foil,\nwith atomic symbol Al.",
             "answers": ["aluminum", "al"],
+            "incorrect1": "iron",
+            "incorrect2": "steel",
+            "incorrect3": "copper",
             "used": "TRUE"
         },
         {
             "category": "Sports",
             "question": "This coach, born in 1913 and known for his houndstooth hat, is considered one of the greatest college football coaches of all time. He led the University of Alabama to six national championships and 13 Southeastern Conference (SEC) titles during his 25-year tenure as head coach. Name this legendary coach whose statue stands outside Bryant-Denny Stadium in Tuscaloosa, Alabama.",
             "answers": ["Bear Bryant", "Bryant"],
+            "incorrect1": "Knute Rockne",
+            "incorrect2": "Nick Saban",
+            "incorrect3": "Vince Lombardi",
             "used": "TRUE"
         },
         {
             "category": "Geography",
             "question": "This country considered giving the mountain Halti to a neighbor to celebrate that neighbor's 100th birthday. This country's capital was named Christiania until merging with another village in 1925. A museum in this country is dedicated to painter Edvard Munch. This country's west coast, on the Atlantic ocean, is famous for its fjords. Name this Scandinavian country whose capital city is Oslo",
             "answers": ["Norway", "Kongeriket Norge"],
+            "incorrect1": "Sweden",
+            "incorrect2": "Finland",
+            "incorrect3": "Denmark",
             "used": "TRUE"
         },
         {
             "category": "Arts & Literature",
             "question": "This modern-day country was the center of an ancient culture which practiced the black-figure and red-figure styles of painting on pottery. The Elgin Marbles were taken from a building in this country. The sculpture Winged Victory from this country represents the goddess Nike. Praxiteles, a sculptor from this country, created a sculpture of the god Hermes. What country is home to the Parthenon?",
             "answers": ["Greece", "Hellas"],
+            "incorrect1": "Italy",
+            "incorrect2": "Spain",
+            "incorrect3": "Turkey",
             "used": "TRUE"
         },
         {
             "category": "Entertainment",
             "question": "This film, featuring memorable scenes of beach volleyball and shirtless pilots, became the highest-grossing film of 1986. Its soundtrack, including Kenny Loggins' \"Danger Zone,\" topped the Billboard charts. The film's iconic motorcycle scene, with Tom Cruise sporting aviator sunglasses and a leather jacket, has been referenced and parodied numerous times in popular culture. Name this film about fighter pilots starring Tom Cruise as Pete \"Maverick\" Mitchell.",
             "answers": ["Top Gun"],
+            "incorrect1": "Iron Eagle",
+            "incorrect2": "Days of Thunder",
+            "incorrect3": "The Right Stuff",
             "used": "TRUE"
         }
     ],
@@ -5211,12 +5403,18 @@
             "category": "US History",
             "question": "An event involving this activist occurred nine months after a similar one involving 15-year-old\nClaudette Colvin. After one action taken by this activist, carpools and taxis were organized to\nprotest the National City Lines company. A year-long public transit boycott in Montgomery,\nAlabama, was sparked by the arrest of what civil rights activist who refused to give up\nher bus seat to a white person?",
             "answers": ["Rosa Parks"],
+            "incorrect1": "Harriet Tubman",
+            "incorrect2": "Sojourner Truth",
+            "incorrect3": "Coretta Scott King",
             "used": "TRUE"
         },
         {
             "category": "Geography",
             "question": "The word \"algebra\" comes from a word in this language meaning \"computation\". Maltese is descended from a historic dialect of this language. This is the most-spoken language whose writing system conventionally omits vowels and is written from right to left. The most-spoken Semitic language is what language whose \u201cclassical\u201d form is used in the Qur\u2019an and is also spoken in cities like Cairo and Dubai?",
             "answers": ["Arabic", "al'arabbiyah"],
+            "incorrect1": "Hebrew",
+            "incorrect2": "Farsi",
+            "incorrect3": "Turkish",
             "used": "TRUE"
         },
         {
@@ -5227,36 +5425,54 @@
                 "USSR",
                 "U.S.S.R.The Soviet Union (miracle)"
             ],
+            "incorrect1": "Russia",
+            "incorrect2": "Warsaw Pact",
+            "incorrect3": "Yugoslavia",
             "used": "TRUE"
         },
         {
             "category": "Arts & Literature",
             "question": "In a novel from this country, a \"yellow bakkie\" is owned by a servant of Maureen and Bamford.\nArthur Jarvis is murdered by Absalom, the son of Stephen Kumalo, in a novel from this country.\nThe novel July's People was written by this country's author Nadine Gordimer. Alan Paton wrote\nCry, the Beloved Country in what country where many authors wrote about apartheid?",
             "answers": ["South Africa", "RSA", "Republic of South Africa"],
+            "incorrect1": "Nigeria",
+            "incorrect2": "Egypt",
+            "incorrect3": "Kenya",
             "used": "TRUE"
         },
         {
             "category": "Current Events",
             "question": "This holiday was celebrated on Monday, June 17, 2024. It is an Islamic holiday, also known as the \"Feast of Sacrifice\", and it commemorates Ibrahim's (Abraham's) willingness to sacrifice his son as an act of obedience to God. It is celebrated on the 10th day of Dhu al-Hijjah, the twelfth and final month of the Islamic lunar calendar, and typically lasts for four days. Name this important Islamic festival that follows the annual Hajj pilgrimage.",
             "answers": ["Eid al-Adha", "Eid-ul-Adha", "Bakrid", "Eid"],
+            "incorrect1": "Eid al-Fitr",
+            "incorrect2": "Ramadan",
+            "incorrect3": "Ashura",
             "used": "TRUE"
         },
         {
             "category": "World History",
             "question": "This revolutionary became a symbol of socialist revolution after his execution in Bolivia in 1967. He played a key role in the Cuban Revolution, serving as a guerrilla leader alongside Fidel Castro. He later held positions in the new Cuban government, including Minister of Industries. His iconic portrait, taken by Alberto Korda, has become one of the most reproduced images in the world. Name this Marxist revolutionary born in Argentina. ",
             "answers": ["Che Guevara"],
+            "incorrect1": "Fidel Castro",
+            "incorrect2": "Simon Bolivar",
+            "incorrect3": "Emiliano Zapata",
             "used": "TRUE"
         },
         {
             "category": "Science",
             "question": "The Late Heavy Bombardment was a period of intense meteorite impacts on this planet. Banded\niron formations provide evidence for a \"great oxygenation event\" on this planet. A mass extinction\ncalled the Great Dying occurred at the end of this planet's Permian period. The Cambrian\nexplosion saw a rapid emergence of life on what 4.5 billion year old planet?",
             "answers": ["Earth"],
+            "incorrect1": "Mars",
+            "incorrect2": "Venus",
+            "incorrect3": "Jupiter",
             "used": "TRUE"
         },
         {
             "category": "Entertainment",
             "question": "This band, originally named On a Friday, formed in Abingdon, Oxfordshire, England in 1985. They achieved critical acclaim and commercial success with their third album, OK Computer, which is often cited as one of the greatest albums of all time. Their musical style has evolved throughout their career, incorporating elements of alternative rock, electronica, and experimental music. Name this band known for songs like \"Creep,\" \"Karma Police,\" and \"Paranoid Android,\" fronted by Thom Yorke.",
             "answers": ["Radiohead", "radio head"],
+            "incorrect1": "Coldplay",
+            "incorrect2": "Muse",
+            "incorrect3": "Nirvana",
             "used": "TRUE"
         }
     ],
@@ -5265,48 +5481,72 @@
             "category": "Current Events",
             "question": "This competitor was recently banned from Nathan's Hot Dog Eating Contest on Coney Island due to a sponsorship conflict. Historically, he has dominated the contest, winning a record 16 titles. In 2021, he set a new world record by consuming 76 hot dogs and buns in 10 minutes. He also holds numerous other eating records in various disciplines, including chicken wings, pizza, and Twinkies. Name this competitive eating legend who has become synonymous with the Fourth of July hot dog eating tradition.",
             "answers": ["Joey Chestnut"],
+            "incorrect1": "Takeru Kobayashi",
+            "incorrect2": "Matt Stonie",
+            "incorrect3": "Geoff Esper",
             "used": "TRUE"
         },
         {
             "category": "US History",
             "question": "This politician served as a Continental Army officer during the American Revolution and later became a successful lawyer in New York. He served as a U.S. Senator from New York and narrowly lost the presidential election of 1800 to Thomas Jefferson, resulting in him becoming Vice President. He killed his political rival, Alexander Hamilton, in a duel in 1804, and was later tried for treason in 1807 for his alleged conspiracy to create an independent nation in the Western territories. Name this controversial figure in early American history.",
             "answers": ["Aaron Burr"],
+            "incorrect1": "Alexander Hamilton",
+            "incorrect2": "Thomas Jefferson",
+            "incorrect3": "John Adams",
             "used": "TRUE"
         },
         {
             "category": "Arts & Literature",
             "question": "The story of the Pied Piper originated in this country. In a story from this country, a wife convinces her husband to abandon his children in the forest, and later in that story a girl pushes an old woman into an oven. In another story from this country, the name of a man who spins straw into gold is revealed to be Rumpelstiltskin. Name this country of Brothers Grimm stories such as \u201cHansel and Gretel.\u201d",
             "answers": ["Germany"],
+            "incorrect1": "France",
+            "incorrect2": "Italy",
+            "incorrect3": "Spain",
             "used": "TRUE"
         },
         {
             "category": "Entertainment",
             "question": "This South Korean dark comedy thriller film follows a poor family, the Kims, who scheme their way into working for a wealthy family, the Parks. The film explores themes of social class, inequality, and the parasitic relationships that can develop between those of different socioeconomic statuses. Name this 2019 film directed by Bong Joon-ho, which won four Academy Awards, including Best Picture, Best Director, Best Original Screenplay, and Best International Feature Film, making history as the first non-English language film to win Best Picture.",
             "answers": ["Parasite"],
+            "incorrect1": "Train to Busan",
+            "incorrect2": "Burning",
+            "incorrect3": "The Handmaiden",
             "used": "TRUE"
         },
         {
             "category": "World History",
             "question": "Early on in this conflict, the defensive \"Maginot Line\" completely failed to deter an invasion. In\nthis conflict, the slogan \"Work, Family, Fatherland\" was adopted by a regime led by former war\nhero Philippe P\u00e9tain. In this conflict, a French regime based in the city of Vichy was\nresisted by the \"Free French\". Name this conflict during which France was led by a Nazi\npuppet government.",
             "answers": ["World War II", "WWII", "Second World War"],
+            "incorrect1": "World War I",
+            "incorrect2": "Korean War",
+            "incorrect3": "Vietnam War",
             "used": "TRUE"
         },
         {
             "category": "Sports",
             "question": "One sports team based in this city are nicknamed the \"Toffees\" and play at Goodison Park. A\nteam named for this city came back from a 3-0 deficit to win the Champions League in the\n\"Miracle of Istanbul\". The song \"You'll Never Walk Alone\" is associated with a team in this city,\nwhich plays against Everton in the Merseyside Derby. Name this city whose\nnamesake club is a longtime rival of Manchester United.",
             "answers": ["Liverpool"],
+            "incorrect1": "Manchester",
+            "incorrect2": "London",
+            "incorrect3": "Birmingham",
             "used": "TRUE"
         },
         {
             "category": "Geography",
             "question": "Buddy Holly died in a plane crash near this state's Mason City. This state's highest point is located on a farm near the town of Sibley and is called Hawkeye Point. This state's exclave of Carter Lake lies on the west bank of the Missouri River on its border with Nebraska. Illinois shares the \"Quad Cities\" with what Midwestern state, the southern neighbor of Minnesota, whose capital is Des Moines?",
             "answers": ["Iowa"],
+            "incorrect1": "Illinois",
+            "incorrect2": "Indiana",
+            "incorrect3": "Ohio",
             "used": "TRUE"
         },
         {
             "category": "Science",
             "question": "This anatomical system can be affected by Charcot-Marie-Tooth disease, and the Nodes of\nRanvier are found between Schwann cells, a type of glial cell, in this system. Multiple sclerosis\nattacks the myelin sheath of cells in this system, and synaptic clefts are crossed by molecules like\nacetylcholine and adrenaline to carry impulses throughout it. Neurons are found in\nwhat system which includes the brain?",
             "answers": ["nervous system", "nervous"],
+            "incorrect1": "circulatory system",
+            "incorrect2": "digestive system",
+            "incorrect3": "respiratory system",
             "used": "TRUE"
         }
     ],
@@ -5315,48 +5555,72 @@
             "category": "Entertainment",
             "question": "This neo-noir science fiction film, set in a dystopian Los Angeles in 2019, follows Rick Deckard who is tasked with hunting down and \"retiring\" four escaped replicants, bioengineered beings indistinguishable from humans. The film is known for its distinctive visuals, philosophical themes about artificial intelligence and what it means to be human, and iconic quotes like \"All those moments will be lost in time, like tears in rain.\" Name this 1982 film directed by Ridley Scott and based on the novel Do Androids Dream of Electric Sheep? by Philip K. Dick.",
             "answers": ["Blade Runner"],
+            "incorrect1": "The Terminator",
+            "incorrect2": "Alien",
+            "incorrect3": "Brazil",
             "used": "TRUE"
         },
         {
             "category": "Current Events",
             "question": "In the largest democratic election in history, this man was reelected to a third consecutive term as prime minister. This man will lead a coaltion government for the first time as his party, the Bharatiya Janata Party, did not win an absolute majority of seats. Although his BJP did not win a majority of seats, their alliance known as the National Democratic Alliance won 293 out of the 543 seats. Name this 14th prime minister of India who was born in 1950.",
             "answers": ["Narendra Modi", "Modi"],
+            "incorrect1": "Amit Shah",
+            "incorrect2": "Virat Kohli",
+            "incorrect3": "Mohandas Gandhi",
             "used": "TRUE"
         },
         {
             "category": "Sports",
             "question": "This player, known for his defensive prowess and intensity, was involved in one of the most infamous incidents in NBA history, the \"Malice at the Palace\" brawl in 2004. He won the NBA Defensive Player of the Year Award in 2004 and was a key member of the Los Angeles Lakers championship team in 2010. Name this player, who legally changed his name to Metta World Peace in 2011.",
             "answers": ["Ron Artest", "Metta World Peace", "Artest"],
+            "incorrect1": "Kendrick Perkins",
+            "incorrect2": "Kobe Bryant",
+            "incorrect3": "Paul Pierce",
             "used": "TRUE"
         },
         {
             "category": "Geography",
             "question": "This country's Queen Christina abdicated to live with the Pope. In the Thirty\nYears' War, this country's king was nicknamed \"Lion of the North.\" A chemist from this country\nwas nicknamed the \"merchant of death\" for inventing dynamite. Russia's Peter the Great won the\nGreat Northern War against this country, which was home to Alfred Nobel. Name\nthis country led from Stockholm.",
             "answers": ["Sweden", "Sverige"],
+            "incorrect1": "Switzerland",
+            "incorrect2": "Norway",
+            "incorrect3": "Finland",
             "used": "TRUE"
         },
         {
             "category": "Science",
             "question": "The first confirmed discovery of one type of these objects looked at variations in pulsar timing. The Kepler satellite uses transits to look for these objects outside the Solar System. Astronomers are looking for these objects in the \"habitable zone\" as possible sites of extraterrestrial life. Gas giants are one kind of what objects which orbit stars, such as Venus and the Earth?",
             "answers": ["planets", "exoplanet"],
+            "incorrect1": "stars",
+            "incorrect2": "moons",
+            "incorrect3": "asteroids",
             "used": "TRUE"
         },
         {
             "category": "US History",
             "question": "This conflict, ended by the Treaty of Ghent, resulted in no significant territorial changes for either side. One of its key battles, the Battle of New Orleans, was a decisive American victory led by Andrew Jackson, yet it occurred after the peace treaty had been signed. Other notable events include the burning of Washington D.C. and the British bombardment of Fort McHenry, which inspired Francis Scott Key to write \"The Star-Spangled Banner.\" Name this war fought between the United States and Great Britain from 1812 to 1815.",
             "answers": ["War of 1812"],
+            "incorrect1": "American Revolutionary War",
+            "incorrect2": "Mexican-American War",
+            "incorrect3": "Civil War",
             "used": "TRUE"
         },
         {
             "category": "Arts & Literature",
             "question": "A sports team was named for these animals to honor an author who died in that team's city. The narrator of one poem says that one of these animals \"will leave me, as my Hopes have flown before\". In that poem, this animal is told to \"get thee back\" to \"the Night's Plutonian shore!\". This animal sits on a bust of Pallas after \"rapping at my chamber door\". What bird repeats the word \"nevermore\"?",
             "answers": ["a raven", "ravens baltimore ravens"],
+            "incorrect1": "a crow",
+            "incorrect2": "an eagle",
+            "incorrect3": "a hawk",
             "used": "TRUE"
         },
         {
             "category": "World History",
             "question": "The U.S. Army blasted heavy metal to lure this country's leader Manuel Noriega out of hiding in Operation Just Cause. Walter Reed's research on yellow fever aided in the completion of a project that began after this country's independence from Colombia. That project, overseen by Theodore Roosevelt, improved Pacific-Atlantic ship travel. What Central American country's isthmus is home to a namesake canal?",
             "answers": ["Panama", "Panama Canal"],
+            "incorrect1": "Costa Rica",
+            "incorrect2": "Nicaragua",
+            "incorrect3": "Colombia",
             "used": "TRUE"
         }
     ],
@@ -5365,30 +5629,45 @@
             "category": "Current Events",
             "question": "This businessman had a pay package worth over $45 billion in stock options approved by shareholders after a Deleware judge initially struck the package down. He also recently dropped a lawsuit against OpenAI, where he was a cofounder, in which he claimed the company had breached its pledge to remain a nonprofit company. Name this entrepenuer who took Twitter private and acts of the CEO of Tesla and SpaceX.",
             "answers": ["Elon Musk"],
+            "incorrect1": "Jeff Bezos",
+            "incorrect2": "Bill Gates",
+            "incorrect3": "Mark Zuckerberg",
             "used": "TRUE"
         },
         {
             "category": "US History",
             "question": "In 1889, this state was devastated by a flood in Johnstown. Labor leaders staged the Homestead\nStrike in this state. The working-class \"Yinz\" in one of this state's cities were employed by Andrew\nCarnegie's company, making it the center of the steel industry. To this day, nobody knows how a\ncrack formed on the bell in this state's Independence Hall. Name this state home to\nPhiladelphia.",
             "answers": ["Pennsylvania"],
+            "incorrect1": "Philadelphia",
+            "incorrect2": "New Jersey",
+            "incorrect3": "Ohio",
             "used": "TRUE"
         },
         {
             "category": "Sports",
             "question": "A stickler for fundamentals and discipline, this coach is often quoted for saying, \"Winning isn't everything, it's the only thing.\" This coach led the Green Bay Packers to five NFL championships in seven years, including the first two Super Bowls. His name now graces the Super Bowl trophy. Name this legendary coach whose name is synonymous with excellence and leadership in the world of sports.",
             "answers": ["Vince Lombardi", "Lombardi"],
+            "incorrect1": "Bill Belichick",
+            "incorrect2": "Don Shula",
+            "incorrect3": "Chuck Noll",
             "used": "TRUE"
         },
         {
             "category": "World History",
             "question": "This city, which lost to the forces of Epaminondas at the Battle of Leuctra against Thebes, was home to slaves called helots. Lysander won the Battle of Aegospotami for this city to end a war against the Delian League. This city's King Leonidas led 300 men in a last stand at the battle of Thermopylae. Name this militaristic Greek city-state that won the Peloponnesian War against Athens.",
             "answers": ["Sparta", "Lacedaemon"],
+            "incorrect1": "Athens",
+            "incorrect2": "Corinth",
+            "incorrect3": "Thebes",
             "used": "TRUE"
         },
         {
             "category": "Entertainment",
             "question": "This British comedy-drama series follows a dry-witted and unnamed woman as she navigates life in London while dealing with grief, family dysfunction, and complicated relationships. The show is known for breaking the fourth wall, with the main character frequently addressing the audience directly. Created by and starring Phoebe Waller-Bridge, it is based on her 2013 one-woman show of the same name. Name this critically acclaimed series that won multiple Emmy Awards, including Outstanding Comedy Series and Outstanding Lead Actress in a Comedy Series.",
             "answers": ["Fleabag"],
+            "incorrect1": "Killing Eve",
+            "incorrect2": "The Crown",
+            "incorrect3": "Sex and the City",
             "used": "TRUE"
         },
         {
@@ -5399,18 +5678,27 @@
                 "Guggenheim Museums",
                 "Solomon R. Guggenheim Museum"
             ],
+            "incorrect1": "Louvre",
+            "incorrect2": "MoMA",
+            "incorrect3": "Tate Modern",
             "used": "TRUE"
         },
         {
             "category": "Science",
             "question": "Kupffer cells produce bilirubin in this organ from the breakdown of certain cells. This organ is primarily responsible for storing glucose as glycogen in humans. Deoxygenated blood is carried from the spleen to this organ by the portal vein. Bile is produced by this organ and then transported to the gallbladder for storage. Alcohol abuse harms what largest internal organ in humans?",
             "answers": ["liver"],
+            "incorrect1": "kidney",
+            "incorrect2": "pancreas",
+            "incorrect3": "spleen",
             "used": "TRUE"
         },
         {
             "category": "Geography",
             "question": "The governance of this country's indigenous Haida people is based on a traditional gift-giving\nceremony called the potlatch. James Evans developed a syllabic alphabet in this country which is\nnow used for languages such as Cree and Inuktitut, the most-spoken language among its Inuit\npeople. The \"First Nations\" are the indigenous people of what country where the\nSquamish people lived in British Columbia?",
             "answers": ["Canada"],
+            "incorrect1": "United States",
+            "incorrect2": "Mexico",
+            "incorrect3": "Greenland",
             "used": "TRUE"
         }
     ],
@@ -5419,48 +5707,72 @@
             "category": "Current Events",
             "question": "This company briefly surpassed Apple as the most valuable public company in the world. The company, founded in 1993, initially focused on developing graphics processing units (GPUs) for the gaming market. However, it has since expanded its reach to include artificial intelligence, data centers, and autonomous vehicles. Its GPUs are now widely used in various fields, including scientific research, machine learning, and cryptocurrency mining. Name this company, headquartered in Santa Clara, California, known for its GeForce series of GPUs.",
             "answers": ["NVIDIA"],
+            "incorrect1": "AMD",
+            "incorrect2": "Intel",
+            "incorrect3": "Qualcomm",
             "used": "FALSE"
         },
         {
             "category": "Arts & Literature",
             "question": "In one contest, this figure asks Vafthruthnir about what he whispered in the ear of his son. This deity hung himself from Yggdrasil for nine days in order to learn about runes, and he uses the ravens Huginn and Muninn as messengers. This owner of the horse Sleipnir drank from the Well of Mimir in exchange for his eye. Identify this Norse \"All Father,\" the ruler of the gods, and father of Thor.",
             "answers": ["Odin"],
+            "incorrect1": "Thor",
+            "incorrect2": "Loki",
+            "incorrect3": "Zeus",
             "used": "FALSE"
         },
         {
             "category": "US History",
             "question": "This infamous criminal gained notoriety during the Great Depression era for his daring bank robberies and multiple prison escapes. He was declared \"Public Enemy No. 1\" by the FBI and became a folk hero to some who admired his defiance of authority and his Robin Hood-like image. He was ultimately killed in a shootout with federal agents outside the Biograph Theater in Chicago in 1934. Name this notorious gangster whose exploits captivated the nation and solidified his place in American criminal lore.",
             "answers": ["John Dillinger", "Dilinger"],
+            "incorrect1": "Al Capone",
+            "incorrect2": "Bonnie and Clyde",
+            "incorrect3": "Jesse James",
             "used": "FALSE"
         },
         {
             "category": "Sports",
             "question": "This team, one of the original NBA franchises, has a long and storied history, including a remarkable run of eight consecutive championships from 1959 to 1966 under legendary coach Red Auerbach. Led by Hall of Famers such as Bill Russell, Bob Cousy, and John Havlicek, they established themselves as a dominant force in the league. More recently, they reached the NBA Finals in 2022 and ultimately secured their 18th championship in 2024, led by Jayson Tatum and Jaylen Brown. Name this team that holds the record for the most NBA championships.",
             "answers": ["Boston Celtics", "Celtics"],
+            "incorrect1": "Los Angeles Lakers",
+            "incorrect2": "Chicago Bulls",
+            "incorrect3": "Golden State Warriors",
             "used": "FALSE"
         },
         {
             "category": "Science",
             "question": "This object was described as a \"small cloud\" by Persian astronomer Abd al-Rahman al-Sufi in 964. It takes its name from the constellation in which it appears, which is named for the mythological wife of Perseus. This object is predicted to collide with the Milky Way in about five billion years. Name this member of the Local Group, the closest spiral galaxy to the Milky Way.",
             "answers": ["Andromeda", "andromena", " Andromeda galaxy"],
+            "incorrect1": "Milky Way",
+            "incorrect2": "Triangulum",
+            "incorrect3": "Whirlpool",
             "used": "FALSE"
         },
         {
             "category": "Entertainment",
             "question": "Gordon Sumner, known professionally by this stage name, rose to fame as the frontman, bassist, and principal songwriter of the new wave rock band The Police. After the band's breakup in 1986, he embarked on a successful solo career. He is known for his distinctive voice, socially conscious lyrics, and hits like \"Every Breath You Take,\" \"Englishman in New York,\" and \"Fields of Gold.\" Name this English musician who has sold over 100 million records worldwide.",
             "answers": ["Sting"],
+            "incorrect1": "Bono",
+            "incorrect2": "Freddie Mercury",
+            "incorrect3": "David Bowie",
             "used": "FALSE"
         },
         {
             "category": "World History",
             "question": "This heir presumptive to the Austro-Hungarian throne was assassinated in Sarajevo in June 1914. His death, at the hands of Gavrilo Princip, a Serbian nationalist, sparked a chain of events that led to the outbreak of World War I. Name this archduke whose assassination is considered a key catalyst for one of the deadliest conflicts in human history.",
             "answers": ["Franz Ferdinand"],
+            "incorrect1": "Franz Joseph I",
+            "incorrect2": "Wilhelm II",
+            "incorrect3": "Nicholas II",
             "used": "FALSE"
         },
         {
             "category": "Geography",
             "question": "This island nation, located in the Persian Gulf, is an archipelago consisting of 50 natural islands and an additional 33 artificial islands. It is connected to Saudi Arabia by the King Fahd Causeway, a 25-kilometer bridge, and is separated by a small section of a Persian Gulf from Qatar. This country is the third-smallest nation in Asia by area and is home an international circuit, which hosts an annual Formula One race. Name this country with its capital at Manama.",
             "answers": ["Bahrain"],
+            "incorrect1": "Qatar",
+            "incorrect2": "United Arab Emirates",
+            "incorrect3": "Saudi Arabia",
             "used": "FALSE"
         }
     ],
@@ -5469,12 +5781,18 @@
             "category": "Geography",
             "question": "This country's capital city was designed in the shape of an airplane around a \"Monumental Axis\" by architect Oscar Niemeyer. \"Cariocas\" are residents of this country's second most populous city, which was the origin of bossa nova music and hosts massive parades in the Sambodrome during Carnaval. Name this Portuguese-speaking country in South America which contains most of the Amazon rainforest.",
             "answers": ["Brazil"],
+            "incorrect1": "Argentina",
+            "incorrect2": "Mexico",
+            "incorrect3": "Colombia",
             "used": "FALSE"
         },
         {
             "category": "Sports",
             "question": "This NHL team won their first Stanley Cup in franchise history in 2024, defeating the Edmonton Oilers in seven games after initially being up 3-0 in the series. The team lost to the Vegas Golden Knights in the Stanley Cup Finals in 2023. This team, founded in 1993 as an expansion franchise, experienced a Cinderella run to the Stanley Cup Finals in 1996, ultimately losing to the Colorado Avalanche. Name this NHL team based in Sunrise, Florida. ",
             "answers": ["Florida Panthers", "Panthers"],
+            "incorrect1": "Florida Marlins",
+            "incorrect2": "Tampa Bay Lightning",
+            "incorrect3": "Carolina Hurricanes",
             "used": "FALSE"
         },
         {
@@ -5486,18 +5804,27 @@
                 "J Hoover",
                 "Edgar Hoover"
             ],
+            "incorrect1": "John F. Kennedy",
+            "incorrect2": "Robert F. Kennedy",
+            "incorrect3": "Martin Luther King Jr.",
             "used": "FALSE"
         },
         {
             "category": "Entertainment",
             "question": "This coming-of-age drama film, directed by Barry Jenkins, tells the story of a young African-American man named Chiron as he grapples with his identity and sexuality while growing up in a rough Miami neighborhood. It garnered critical acclaim for its poignant storytelling, powerful performances, and exploration of themes such as masculinity, family, and self-discovery. Name this film that won the Academy Award for Best Picture in 2017 after a dramatic mix-up during the live announcement, where \"La La Land\" was initially mistakenly declared the winner.",
             "answers": ["Moonlight"],
+            "incorrect1": "La La Land",
+            "incorrect2": "Manchester by the Sea",
+            "incorrect3": "12 Years a Slave",
             "used": "FALSE"
         },
         {
             "category": "Arts & Literature",
             "question": "A woman in this novel is fired from her factory job for having a child out of wedlock. The protagonist of this novel is given silver candlesticks by a bishop. Gavroche catches a police officer at a barricade in this novel, who kills himself after being mercifully freed. Eponine Thenardier saves the life of Marius in this novel. Name this novel about the ex-convict Jean Valjean by Victor Hugo.",
             "answers": ["Les Miserables", " Les miz"],
+            "incorrect1": "The Phantom of the Opera",
+            "incorrect2": "Cats",
+            "incorrect3": "Wicked",
             "used": "FALSE"
         },
         {
@@ -5511,18 +5838,27 @@
                 "King Tutankhamun",
                 "King Tutankhamen"
             ],
+            "incorrect1": "Akhenaten",
+            "incorrect2": "Ramses II",
+            "incorrect3": "Cleopatra",
             "used": "FALSE"
         },
         {
             "category": "Current Events",
             "question": "This prehistoric monument, constructed over multiple phases spanning centuries, features a circular ditch and bank, a ring of bluestones transported from Wales, and a horseshoe arrangement of massive sarsen stones. Its alignment with the sunrise on the summer solstice suggests a connection to solar events and possibly astronomical observations. Name this iconic megalithic structure located on Salisbury Plain in Wiltshire, England, a UNESCO World Heritage Site that continues to be a source of fascination and speculation.",
             "answers": ["Stonehenge"],
+            "incorrect1": "The Great Pyramid of Giza",
+            "incorrect2": "Machu Picchu",
+            "incorrect3": "The Colosseum",
             "used": "FALSE"
         },
         {
             "category": "Science",
             "question": "These objects have a clinamen, or a tendency to swerve, as stated by Lucretius in On the Nature of Things. These objects have electron clouds, which are not represented in the Bohr model of them. Democritus believed that these objects made up everything in the universe. The Greek word for \"indivisible\" provided the name of what fundamental units of matter that can be combined into molecules?",
             "answers": ["atoms", " atom"],
+            "incorrect1": "molecules",
+            "incorrect2": "protons",
+            "incorrect3": "electrons",
             "used": "FALSE"
         }
     ],
@@ -5531,48 +5867,72 @@
             "category": "Entertainment",
             "question": "This Netflix historical drama chronicles the life of Queen Elizabeth II, starting with her early years and ascension to the throne. Claire Foy and Olivia Colman have both portrayed the monarch in different stages of her life. The show delves into the personal and political challenges faced by the royal family, including the Suez Crisis, the Aberfan disaster, and Princess Margaret's relationship with Peter Townsend. Notably, the series has received numerous awards, including Golden Globes and Emmys. What is the name of this critically acclaimed show?",
             "answers": ["The Crown"],
+            "incorrect1": "Downton Abbey",
+            "incorrect2": "Bridgerton",
+            "incorrect3": "The Queen's Gambit",
             "used": "FALSE"
         },
         {
             "category": "Arts & Literature",
             "question": "This Spanish writer, once captured by Barbary pirates, is best known for a two-part novel published in 1605 and 1615. It follows a delusional nobleman who sets out to revive chivalry, accompanied by his pragmatic squire, Sancho Panza.  The novel's characters and themes, deeply ingrained in Western culture, have inspired countless adaptations. It is considered one of the most important works of literature ever written. Who was this author of Don Quixote?",
             "answers": ["Miguel de Cervantes", "Cervantes"],
+            "incorrect1": "William Shakespeare",
+            "incorrect2": "Victor Hugo",
+            "incorrect3": "Leo Tolstoy",
             "used": "FALSE"
         },
         {
             "category": "Sports",
             "question": "This American League baseball team plays in the oldest active ballpark in Major League Baseball, known for its iconic Green Monster wall. After selling Babe Ruth to the Yankees in 1920, they endured a long \"Curse of the Bambino,\" finally winning the World Series in 2004. They've won nine titles and boast legendary players like Ted Williams, Carl Yastrzemski, and David Ortiz.  What is the name of this Boston-based team?",
             "answers": ["Boston Red Sox", "Red Sox"],
+            "incorrect1": "New York Yankees",
+            "incorrect2": "Chicago Cubs",
+            "incorrect3": "Los Angeles Dodgers",
             "used": "FALSE"
         },
         {
             "category": "World History",
             "question": "This country was the primary battleground of a 17th-century conflict that pitted Roundheads, supporters of Parliament, against Cavaliers, those loyal to the monarchy. Religious and political tensions fueled the conflict, leading to the execution of King Charles I in 1649.  A period of republican rule under Oliver Cromwell followed, but the monarchy was eventually restored in 1660 with Charles II ascending to the throne. Which country was the main setting for this civil war?",
             "answers": ["England", "Britain", "Great Britain"],
+            "incorrect1": "Great Britain",
+            "incorrect2": "United Kingdom",
+            "incorrect3": "Scotland",
             "used": "FALSE"
         },
         {
             "category": "Geography",
             "question": "This dormant stratovolcano, located in the Caucasus Mountains, has two summits, both volcanic domes. It's the highest peak in Russia and the European continent, with the western summit reaching 5,642 meters above sea level. While sulfurous gases are still emitted on its eastern slopes, it is a popular destination for mountaineering and tourism. Notably, it's the 10th most prominent peak in the world, and its glaciers feed several rivers including the Kuban and Malka. What is this mountain called?",
             "answers": ["Mount Elbrus", "Mt Elbrus", "Elbrus"],
+            "incorrect1": "Mount Everest",
+            "incorrect2": "K2",
+            "incorrect3": "Kangchenjunga",
             "used": "FALSE"
         },
         {
             "category": "Science",
             "question": "The de Broglie wavelength of a particle equals Planck's constant divided by this quantity. This\nquantity and position can't be measured with high accuracy at the same time according to\nHeisenberg's uncertainty principle. The conservation of this quantity's angular form, whose rate\nof change is torque, explains why gyroscopes work. What quantity is equal to an\nobject's mass times its velocity?",
             "answers": ["momentum"],
+            "incorrect1": "velocity",
+            "incorrect2": "acceleration",
+            "incorrect3": "force",
             "used": "FALSE"
         },
         {
             "category": "US History",
             "question": "This state was initially claimed by the Dutch in the 17th century under the name New Netherland, with New Amsterdam as its capital.  It was one of the original Thirteen Colonies and played a crucial role in the American Revolution, hosting numerous significant battles. The state's constitution was adopted in 1777 and heavily influenced the United States Constitution. In the 19th century, it was a major center of immigration and commerce, with Ellis Island serving as a gateway for millions of newcomers to the country. Which state is this?",
             "answers": ["New York"],
+            "incorrect1": "New York City",
+            "incorrect2": "New Jersey",
+            "incorrect3": "Pennsylvania",
             "used": "FALSE"
         },
         {
             "category": "Current Events",
             "question": "This nation became the first to retrieve soil samples from the dark side of the moon in June 2024. The nation launched its first satellite, Dong Fang Hong I, in 1970 from the Jiuquan Satellite Launch Center using a Long March-1 rocket. It later successfully sent its first crewed mission, Shenzhou 5, into space in 2003, making it the third country to independently achieve human spaceflight. Name this Asian nation which is led by Xi Jinping.",
             "answers": ["China", "PRC", "People's Republic of China"],
+            "incorrect1": "India",
+            "incorrect2": "Japan",
+            "incorrect3": "Russia",
             "used": "FALSE"
         }
     ],
@@ -5581,48 +5941,72 @@
             "category": "US History",
             "question": "This Republican politician, known for his \"Front Porch Campaign,\" served as the 25th president of the United States from 1897 until his assassination in 1901. A Civil War veteran and former governor of Ohio, his presidency was marked by the Spanish-American War and the annexation of Hawaii. He was shot by an anarchist named Leon Czolgosz while attending the Pan-American Exposition in Buffalo, New York, and died eight days later. Who was this president?",
             "answers": ["William McKinley"],
+            "incorrect1": "Theodore Roosevelt",
+            "incorrect2": "William Howard Taft",
+            "incorrect3": "Woodrow Wilson",
             "used": "FALSE"
         },
         {
             "category": "Geography",
             "question": "This West African nation, the most populous on the continent, is known for its diverse landscape, ranging from tropical rainforests in the south to savannas in the north. Its largest city, Lagos, is a major economic and cultural hub, while its capital, Abuja, is a planned city built in the 1980s. It is a significant oil producer, with its petroleum industry playing a crucial role in its economy. It is also home to the Niger River delta, one of the world's largest wetlands. What is the name of this country?",
             "answers": ["Nigeria"],
+            "incorrect1": "Niger",
+            "incorrect2": "Ghana",
+            "incorrect3": "Sudan",
             "used": "FALSE"
         },
         {
             "category": "Entertainment",
             "question": "Based on a comic book series of the same name, this post-apocalyptic horror television series premiered in 2010 and ran for 11 seasons. The story follows a group of survivors, led by former sheriff's deputy Rick Grimes, as they navigate a world overrun by zombies, referred to as \"walkers.\" The show explores themes of survival, morality, and the breakdown of society. What is the name of this show that was filmed primarily in Georgia?",
             "answers": ["The Walking Dead"],
+            "incorrect1": "The Leftovers",
+            "incorrect2": "Z Nation",
+            "incorrect3": "Black Summer",
             "used": "FALSE"
         },
         {
             "category": "Science",
             "question": "The rate at which this process occurs is over 100 times normal rates due to human activity in\nthe Holocene epoch. The non-avian dinosaurs underwent this process following a meteor\nimpact 65 million years ago. Species at risk of this process are classified as endangered or critically\nendangered. Name this process in which all members of a species die out.",
             "answers": ["extinction", " extinct"],
+            "incorrect1": "endangered",
+            "incorrect2": "extirpation",
+            "incorrect3": "evolution",
             "used": "FALSE"
         },
         {
             "category": "Current Events",
             "question": "Donald Sutherland, one of the stars of this movie which was based on a novel by Richard Hooker, passed away in June 2024. The 1970 film inspired a TV series with the same name. The series, set during the Korean War, followed the lives of medical personnel stationed at the 4077th Mobile Army Surgical Hospital. It featured characters like the irreverent Hawkeye Pierce, the by-the-book Margaret Houlihan, and the wise-cracking Corporal Klinge Its final episode, \"Goodbye, Farewell and Amen,\" remains the most-watched television finale in U.S. history. What is the name of this critically acclaimed and beloved series?",
             "answers": ["M*A*S*H", "MASH", "M.A.S.H."],
+            "incorrect1": "ER",
+            "incorrect2": "Scrubs",
+            "incorrect3": "Grey's Anatomy",
             "used": "FALSE"
         },
         {
             "category": "Arts & Literature",
             "question": "This country is the setting for one of the most iconic works of art in the world, a woodblock print by Katsushika Hokusai created in the early 19th century. The artwork depicts a massive wave towering over boats with this nation's iconic mountain visible in the background. The artwork is often referred to as \"The Great Wave\" or \"The Great Wave off Kanagawa\" and is renowned for its striking composition and use of Prussian blue pigment. Which country is the setting for this iconic artwork?",
             "answers": ["Japan"],
+            "incorrect1": "China",
+            "incorrect2": "Korea",
+            "incorrect3": "Vietnam",
             "used": "FALSE"
         },
         {
             "category": "Sports",
             "question": "This Major League Baseball team, originally known as the Brown Stockings, adopted its current name in 1900 after a sportswriter remarked on their \"cardinal red\" stockings. They play their home games at Busch Stadium, which opened in 2006, and are one of the most successful franchises in baseball history, with 11 World Series championships.  Their mascot, Fredbird, is a beloved figure among fans.  Hall-of-Famers such as Stan Musial, Bob Gibson, and Ozzie Smith have donned this team's uniform.",
             "answers": ["St. Louis Cardinals", "Cardinals"],
+            "incorrect1": "St. Louis Blues",
+            "incorrect2": "Chicago Cubs",
+            "incorrect3": "Cincinnati Reds",
             "used": "FALSE"
         },
         {
             "category": "World History",
             "question": "Fought near a Central Pacific atoll sharing its name, this pivotal World War II naval battle saw the U.S. Navy, aided by codebreakers who deciphered a JN-25b message, decisively defeat the Imperial Japanese Navy. The Americans lost the Yorktown, but sank four Japanese aircraft carriers\u2014Akagi, Kaga, Soryu, and Hiryu\u2014crippling Japan's naval strength. Occurring six months after the attack on Pearl Harbor, this battle is considered a turning point in the Pacific Theater. What is the name of this battle?",
             "answers": ["Battle of Midway", "Midway"],
+            "incorrect1": "Battle of Coral Sea",
+            "incorrect2": "Battle of Guadalcanal",
+            "incorrect3": "Battle of Iwo Jima",
             "used": "FALSE"
         }
     ],
@@ -5631,6 +6015,9 @@
             "category": "US History",
             "question": "This state was initially part of North Carolina and was later known as the Southwest Territory. It was the 16th state admitted to the Union on June 1, 1796, with John Sevier as its first governor. Its nickname, \"The Volunteer State,\" stems from its significant contributions to the War of 1812 and the Mexican-American War. During the Civil War, it was the last state to secede and the first to be readmitted to the Union, with both Union and Confederate sympathizers within its borders. Which state is this?",
             "answers": ["Tennessee"],
+            "incorrect1": "Kentucky",
+            "incorrect2": "Arkansas",
+            "incorrect3": "Mississippi",
             "used": "FALSE"
         },
         {
@@ -5641,42 +6028,63 @@
                 "Fran\u00e7ois-Marie Arouet",
                 "M de Voltaire"
             ],
+            "incorrect1": "Jean-Jacques Rousseau",
+            "incorrect2": "John Locke",
+            "incorrect3": "Immanuel Kant",
             "used": "FALSE"
         },
         {
             "category": "Science",
             "question": "A molecule containing this element can be exfoliated by Scotch tape. This element and\nhydrogen are often not labeled on structural diagrams. The atomic mass unit is based on an\nisotope of this element. Graphene and graphite are allotropes of this element. Organic chemistry\nis centered around the properties of this element, which all life is based on. Name this\nsixth element with a symbol matching its first letter.",
             "answers": ["carbon"],
+            "incorrect1": "oxygen",
+            "incorrect2": "nitrogen",
+            "incorrect3": "hydrogen",
             "used": "FALSE"
         },
         {
             "category": "Geography",
             "question": "This river is immortalized in Richard Wagner's opera cycle, \"Der Ring des Nibelungen,\" as the dwelling place of water spirits who guard a treasure of gold. Flowing from the Swiss Alps, this river passes through major European cities like Basel, Strasbourg, Cologne, and Rotterdam before emptying into the North Sea. Its scenic middle section is known for its numerous castles. Historically, it has served as a vital trade route and a natural border between nations, playing a significant role in European conflicts. What is the name of this river?",
             "answers": ["Rhine River", "The Rhine"],
+            "incorrect1": "Danube River",
+            "incorrect2": "Seine River",
+            "incorrect3": "Thames River",
             "used": "FALSE"
         },
         {
             "category": "Entertainment",
             "question": "Formed in Los Angeles in 1971, this band's members originally included Glenn Frey, Don Henley, Bernie Leadon, and Randy Meisner. Their debut album, released in 1972, featured hits like \"Take It Easy\" and \"Witchy Woman.\"  Known for their harmonies and blend of rock, country, and folk influences, they achieved immense commercial success throughout the 1970s with albums like \"Desperado,\" \"One of These Nights,\" and \"Hotel California.\" The band broke up in 1980 but reunited in 1994 for the \"Hell Freezes Over\" tour and album. What is the name of this iconic American band?",
             "answers": ["The Eagles"],
+            "incorrect1": "Fleetwood Mac",
+            "incorrect2": "The Beatles",
+            "incorrect3": "The Rolling Stones",
             "used": "FALSE"
         },
         {
             "category": "Arts & Literature",
             "question": "This Indian-born British author, known for his magical realism and historical fiction, faced controversy and a fatwa for his 1988 novel \"The Satanic Verses.\" His works often explore themes of migration, identity, and the clash of cultures.  He won the Booker Prize in 1981 for \"Midnight's Children,\" a sprawling epic about India's transition from British colonialism to independence.  Other notable works include \"Shame,\" \"The Moor's Last Sigh,\" and \"Shalimar the Clown.\" Who is this acclaimed yet controversial author who was attacked on stage in 2022? ",
             "answers": ["Salman Rushdie", "Rushdie"],
+            "incorrect1": "V.S. Naipaul",
+            "incorrect2": "Kazuo Ishiguro",
+            "incorrect3": "Haruki Murakami",
             "used": "FALSE"
         },
         {
             "category": "Current Events",
             "question": "This baseball player, sometimes considered the greatest all-around player of all time passed away in June 2024. Nicknamed the \"Say Hey Kid,\" this baseball legend was a 24-time All-Star, 12-time Gold Glove Award winner, and two-time National League MVP. Known for his iconic over-the-shoulder catch in the 1954 World Series, he spent the majority of his career with the New York/San Francisco Giants before finishing with the New York Mets. Name this member of the 3,000 hit club with 660 career home runs which rank him among the all-time leaders.",
             "answers": ["Willie Mays"],
+            "incorrect1": "Hank Aaron",
+            "incorrect2": "Babe Ruth",
+            "incorrect3": "Mickey Mantle",
             "used": "FALSE"
         },
         {
             "category": "Sports",
             "question": "Nicknamed \"Mr. Hockey,\" this right winger played 26 seasons with the Detroit Red Wings, winning four Stanley Cups. He is known for the a special hat trick\u2014a goal, an assist, and a fight\u2014in a single game.  He was the first player to reach 800 goals and holds the record for most NHL games played with 1,767. His sons Mark and Marty also played professional hockey, even teaming up with him in the WHA. Who is this legendary hockey player?",
             "answers": ["Gordie Howe", "How"],
+            "incorrect1": "Wayne Gretzky",
+            "incorrect2": "Mario Lemieux",
+            "incorrect3": "Sidney Crosby",
             "used": "FALSE"
         }
     ],
@@ -5685,48 +6093,72 @@
             "category": "Sports",
             "question": "This baseball team, which plays its home games at T-Mobile Park, joined the American League as an expansion team in 1977. Their name reflects the city's strong maritime heritage, and their mascot, the Mariner Moose, is a beloved figure among fans. They have never won a World Series, but they hold the MLB record for most wins in a single season, achieving 116 wins in 2001. What is the name of this team, whose iconic logo features a compass rose and a stylized \"S\"?",
             "answers": ["Seattle Mariners", "Mariners"],
+            "incorrect1": "Seattle Seahawks",
+            "incorrect2": "New York Yankees",
+            "incorrect3": "Los Angeles Dodgers",
             "used": "FALSE"
         },
         {
             "category": "Arts & Literature",
             "question": "This Italian Renaissance master, born in 1483, was a child prodigy. He apprenticed to the renowned painter Pietro Perugino at a young age. He was commissioned by Pope Julius II to paint the papal apartments in the Vatican, including his masterpiece, The School of Athens. Despite his untimely death at the age of 37, he left behind a vast body of work, including Madonnas, portraits, and frescoes. Name this artist, considered one of the three great masters of the High Renaissance, alongside Leonardo da Vinci and Michelangelo. ",
             "answers": ["Raphael", "Raffaello Sanzio da Urbino"],
+            "incorrect1": "Michelangelo",
+            "incorrect2": "Leonardo da Vinci",
+            "incorrect3": "Donatello",
             "used": "FALSE"
         },
         {
             "category": "World History",
             "question": "This historic document was sealed at Runnymede in 1215, following a rebellion of English barons against King John; it limited the power of the monarchy, guaranteeing certain rights and liberties to all free men; it established the principle of habeas corpus, preventing unlawful detention; it served as an inspiration for future legal documents such as the United States Constitution. Name this charter, which was written in Latin and means \"Great Charter.\"",
             "answers": ["Magna Carta"],
+            "incorrect1": "Declaration of Independence",
+            "incorrect2": "U.S. Constitution",
+            "incorrect3": "Bill of Rights",
             "used": "FALSE"
         },
         {
             "category": "US History",
             "question": "Born in rural Mississippi in 1954, this influential figure overcame a challenging childhood to become a media mogul, actress, and philanthropist. She hosted a wildly popular daytime talk show for 25 seasons, which became known for its focus on self-improvement and empowerment. She also founded a successful magazine, launched a cable network, and even acted in films like \"The Color Purple\" and \"Beloved.\" Name this influential figure who is sometimes referred to as the first Black woman billionaire.",
             "answers": ["Oprah Winfrey", "Oprah"],
+            "incorrect1": "Ellen DeGeneres",
+            "incorrect2": "Barbara Walters",
+            "incorrect3": "Diane Sawyer",
             "used": "FALSE"
         },
         {
             "category": "Science",
             "question": "These mammals, belonging to the order Lagomorpha, are known for their distinctive long ears, short fluffy tails, and powerful hind legs. Unlike rodents, they possess two pairs of upper incisors, with a smaller pair located directly behind the larger front teeth. Their diet consists primarily of grasses and leafy greens, and they have a unique digestive system that includes hindgut fermentation. Due to their high reproductive rate, they are often used in scientific research, particularly in studies related to reproduction, genetics, and immunology. What are these animals called?",
             "answers": ["Rabbit", "bunny", "rabbits", "bunnies"],
+            "incorrect1": "Hare",
+            "incorrect2": "Squirrel",
+            "incorrect3": "Guinea pig",
             "used": "FALSE"
         },
         {
             "category": "Entertainment",
             "question": "This actress, whose trademark large eyes and distinctive voice made her a Hollywood icon, was born Ruth Elizabeth Davis in Lowell, Massachusetts, in 1908. She rose to fame in the 1930s and 1940s, known for her fierce independence and willingness to play unsympathetic characters. She had a legendary feud with fellow actress Joan Crawford, which culminated in their collaboration on the 1962 film \"What Ever Happened to Baby Jane?\".  Name this two-time Academy Award winner, whose career spanned six decades and included memorable roles in films like \"Jezebel,\" \"Dark Victory,\" and \"All About Eve.\"",
             "answers": ["Bette Davis", "Betty Davis", "Davis"],
+            "incorrect1": "Joan Crawford",
+            "incorrect2": "Katharine Hepburn",
+            "incorrect3": "Marilyn Monroe",
             "used": "FALSE"
         },
         {
             "category": "Geography",
             "question": "This country, whose name is derived from the Greek word \"Aigyptos,\" is home to the oldest and only remaining Seven Wonders of the Ancient World. Its capital, the largest city in Africa, is a major cultural and economic hub. It shares a border with Libya to the west and Sudan to the south. Name this nation on the Nile River, whose ancient civilization flourished for over 3,000 years. ",
             "answers": ["Egypt"],
+            "incorrect1": "Libya",
+            "incorrect2": "Sudan",
+            "incorrect3": "Ethiopia",
             "used": "FALSE"
         },
         {
             "category": "Current Events",
             "question": "This nation led by President William Ruto had mass protests in June 2024 relating to a finance bill which proposed a large increase in taxes. The bill was passed on June 20. Protesters stormed the Parliament building on June 25 which led to the military being deployed to support the police. President Ruto then reversed course stating he would not sign the bill. Name this African nation home to more than 50 million people with a capital of Nairobi.",
             "answers": ["Kenya"],
+            "incorrect1": "Tanzania",
+            "incorrect2": "Uganda",
+            "incorrect3": "South Africa",
             "used": "FALSE"
         }
     ],
@@ -5735,12 +6167,18 @@
             "category": "Geography",
             "question": "This river, whose name means \"Lion River\" in Sanskrit, is one of the longest in Asia, flowing over 3,000 kilometers from its source in the Tibetan Plateau to its delta in the Arabian Sea; it's home to a blind freshwater dolphin species found only in this river system; its basin was the cradle of the one of the world's earliest urban civilizations; it's a major source of irrigation and hydroelectric power for Pakistan and India. Name this river, which holds cultural and economic significance for millions of people.",
             "answers": ["Indus River", "Indis"],
+            "incorrect1": "Ganges River",
+            "incorrect2": "Nile River",
+            "incorrect3": "Amazon River",
             "used": "FALSE"
         },
         {
             "category": "World History",
             "question": "This barrier was nicknamed the \u201canti-fascist protection rampart\u201d by Soviet officials. Constructed in 1961, it stood as a physical and ideological division between East and West Germany during the Cold War; its initial purpose was to prevent East Germans from defecting to the West; it became a symbol of communist repression and the Iron Curtain; its fall in 1989 marked a pivotal moment in the collapse of the Soviet Union and the end of the Cold War. Name this infamous barrier, whose graffiti-covered remnants are now a popular tourist attraction.",
             "answers": ["Berlin Wall"],
+            "incorrect1": "Great Wall of China",
+            "incorrect2": "Iron Curtain",
+            "incorrect3": "Maginot Line",
             "used": "FALSE"
         },
         {
@@ -5751,30 +6189,45 @@
                 "The Creation of Man",
                 "Creazione di Adamo"
             ],
+            "incorrect1": "The Last Supper",
+            "incorrect2": "Mona Lisa",
+            "incorrect3": "Sistine Madonna",
             "used": "FALSE"
         },
         {
             "category": "Entertainment",
             "question": "This TV show, created by David Lynch and Mark Frost, gained a cult following for its surreal atmosphere and unconventional storytelling; its central mystery revolves around the murder of homecoming queen Laura Palmer in the fictional town in Washington; its haunting theme song, composed by Angelo Badalamenti, became instantly recognizable; the show's dream sequences and supernatural elements added to its unique allure. Name this series, revived in 2017 after a 26-year hiatus. ",
             "answers": ["Twin Peaks"],
+            "incorrect1": "The X-Files",
+            "incorrect2": "Lost",
+            "incorrect3": "Stranger Things",
             "used": "FALSE"
         },
         {
             "category": "Science",
             "question": "This element, first discovered during a solar eclipse in 1868, gets its name from the Greek word for sun. It's the second most abundant element in the universe, after hydrogen, yet it's relatively rare on Earth; it's lighter than air, which is why it's used to fill balloons and blimps; at extremely low temperatures, it becomes a superfluid, meaning it can flow without any friction. What is this noble gas, known for its ability to alter the pitch of human voices when inhaled?",
             "answers": ["Helium", "He"],
+            "incorrect1": "Hydrogen",
+            "incorrect2": "Oxygen",
+            "incorrect3": "Neon",
             "used": "FALSE"
         },
         {
             "category": "Sports",
             "question": "This athlete, nicknamed \u201cHammerin\u2019 Hank,\u201d faced racial prejudice and death threats throughout his career, especially as he approached Babe Ruth\u2019s home run record; he began his professional baseball career in the Negro leagues before joining the Milwaukee Braves; in 1974, he broke Babe Ruth\u2019s record of 714 career home runs, finishing his career with 755; he was inducted into the Baseball Hall of Fame in 1982. Name this baseball legend who played the majority of his career with the Atlanta Braves. ",
             "answers": ["Hank Aaron"],
+            "incorrect1": "Babe Ruth",
+            "incorrect2": "Willie Mays",
+            "incorrect3": "Barry Bonds",
             "used": "FALSE"
         },
         {
             "category": "Current Events",
             "question": "This man's podcast, where he hosts long form interviews, is commonly believed to be the most popular in the United States. His podcast has been both praised for its diverse conversations and criticized for spreading misinformation. He began his career as a standup comedian in the 1980s and gained recognition as a co-host on the reality show \"Fear Factor.\" Name this man who has worked as a commentator for UFC and is known to hold black belts in Brazilian Jiu-Jitsu and Taekwondo.",
             "answers": ["Joe Rogan"],
+            "incorrect1": "Elon Musk",
+            "incorrect2": "David Saks",
+            "incorrect3": "Jason Bateman",
             "used": "FALSE"
         },
         {
@@ -5785,6 +6238,9 @@
                 "Hillary Rodham",
                 "Hillary Rodham Clinton"
             ],
+            "incorrect1": "Donald Trump",
+            "incorrect2": "Bill Clinton",
+            "incorrect3": "Kamala Harris",
             "used": "FALSE"
         }
     ],
@@ -5793,6 +6249,9 @@
             "category": "Arts & Literature",
             "question": "This novel, first published in Lippincott's Monthly Magazine in 1890, sparked controversy for its themes of hedonism and immorality. Its title character, a young man of extraordinary beauty, wishes that his portrait would age instead of him, a wish that is mysteriously granted. As Dorian indulges in a life of pleasure and sin, his portrait reflects the corruption of his soul, while he himself remains untouched by time. Name this only novel by Oscar Wilde, a cautionary tale about the dangers of vanity and the pursuit of pleasure.",
             "answers": ["The Picture of Dorian Gray", "Dorian Gray"],
+            "incorrect1": "Dracula",
+            "incorrect2": "Frankenstein",
+            "incorrect3": "Dr. Jekyll and Mr. Hyde",
             "used": "FALSE"
         },
         {
@@ -5803,18 +6262,27 @@
                 "Thermopali",
                 "Battle of Thermopali"
             ],
+            "incorrect1": "Battle of Marathon",
+            "incorrect2": "Battle of Salamis",
+            "incorrect3": "Battle of Plataea",
             "used": "FALSE"
         },
         {
             "category": "US History",
             "question": "This Virginia-born politician served as governor of the Indiana Territory from 1801 to 1812, during which he fought against Tecumseh\u2019s Confederacy in the Battle of Tippecanoe; his victory earned him the nickname \u201cOld Tippecanoe\u201d and helped him win the presidency in 1840 with the slogan \u201cTippecanoe and Tyler Too\u201d; his inauguration speech was the longest on record, lasting nearly two hours in freezing temperatures; he died from pneumonia just 31 days into his term, making his the shortest presidency in US history. Name this president whose death led to the first transfer of presidential power to a vice president.",
             "answers": ["William Henry Harrison", "Harrison", "Henry Harrison"],
+            "incorrect1": "John Tyler",
+            "incorrect2": "James K. Polk",
+            "incorrect3": "Zachary Taylor",
             "used": "FALSE"
         },
         {
             "category": "Entertainment",
             "question": "This actor, born in Dorking, England, trained at the prestigious Central School of Speech and Drama; he gained recognition for his Shakespearean roles on stage, notably his performances as Hamlet, Richard III, and Othello; he was married three times, including a tumultuous relationship with actress Vivien Leigh. Name this influential figure in 20th-century theater and cinema, who directed and starred in several film adaptations of Shakespeare's plays, winning an Academy Award for Best Actor and Best Picture for his 1948 film \"Hamlet.\"",
             "answers": ["Laurence Olivier", "olivier", "lawrence olivie"],
+            "incorrect1": "Richard Burton",
+            "incorrect2": "Marlon Brando",
+            "incorrect3": "John Gielgud",
             "used": "FALSE"
         },
         {
@@ -5825,24 +6293,36 @@
                 "N.A.T.O.",
                 "North Atlantic Treaty Organization"
             ],
+            "incorrect1": "United Nations",
+            "incorrect2": "Warsaw Pact",
+            "incorrect3": "European Union",
             "used": "FALSE"
         },
         {
             "category": "Science",
             "question": "This animal\u2019s stomach is actually comprised of four compartments: the rumen, reticulum, omasum, and abomasum; they\u2019re known for their ability to digest cellulose, a complex carbohydrate found in plants, thanks to a symbiotic relationship with microbes in their rumen; their digestive process involves regurgitating and rechewing their food, a process called \u201cchewing the cud\u201d; their milk is a major source of nutrition for humans worldwide, providing protein, calcium, and other essential nutrients. Name this common farm animal, known for its gentle nature and black-and-white markings.",
             "answers": ["Cow", "cows", "bovine"],
+            "incorrect1": "Horse",
+            "incorrect2": "Pig",
+            "incorrect3": "Sheep",
             "used": "FALSE"
         },
         {
             "category": "Sports",
             "question": "This NBA team, founded in 1989, shares its name with their state animal, the grey wolf; their logo features a howling wolf silhouetted against a blue and green background, representing the state's forests and lakes; they play their home games at the Target Center in Minneapolis, Minnesota; despite reaching the Western Conference Finals in 2004, they have yet to win an NBA championship. Name this team, whose current roster includes Karl-Anthony Towns and Anthony Edwards.",
             "answers": ["Minnesota Timberwolves", "Timberwolves"],
+            "incorrect1": "Minnesota Vikings",
+            "incorrect2": "Milwaukee Bucks",
+            "incorrect3": "Memphis Grizzlies",
             "used": "FALSE"
         },
         {
             "category": "Geography",
             "question": "This historic city, named after the Greek goddess of wisdom and warfare, is built around a rocky outcrop called the Acropolis, which houses the iconic Parthenon temple. It hosted the first modern Olympic Games in 1896 and is home to the Panathenaic Stadium, the only stadium in the world built entirely of marble. It's considered the birthplace of democracy, with its ancient political system serving as a model for many modern governments. Name this bustling metropolis, the capital of Greece.",
             "answers": ["Athens"],
+            "incorrect1": "Sparta",
+            "incorrect2": "Rome",
+            "incorrect3": "Thebes",
             "used": "FALSE"
         }
     ],
@@ -5851,48 +6331,72 @@
             "category": "US History",
             "question": "This future president was born into a wealthy New York family and endured a sickly childhood with asthma; during the Spanish-American War, he led a volunteer cavalry regiment known as the Rough Riders; he briefly served as New York City\u2019s police commissioner and is famous for his trust-busting policies against monopolies. Name this conservationist who was awarded the Nobel Peace Prize for negotiating an end to the Russo-Japanese War.",
             "answers": ["Theodore Roosevelt", "Teddy Roosevelt"],
+            "incorrect1": "Franklin D. Roosevelt",
+            "incorrect2": "William Howard Taft",
+            "incorrect3": "Woodrow Wilson",
             "used": "FALSE"
         },
         {
             "category": "World History",
             "question": "This pivotal battle, fought in 1066, saw the Norman forces of William the Conqueror defeat the English army under King Harold Godwinson; it took place near the present-day town of Battle, East Sussex, England, and lasted a full day; the Normans' victory marked the end of Anglo-Saxon rule in England and the beginning of the Norman Conquest; it's depicted in the famous Bayeux Tapestry, a 70-meter-long embroidered cloth that tells the story of the battle in intricate detail. Name this battle, which changed the course of English history.",
             "answers": ["Battle of Hastings", "Hastings"],
+            "incorrect1": "Battle of Agincourt",
+            "incorrect2": "Battle of Crécy",
+            "incorrect3": "Battle of Bosworth Field",
             "used": "FALSE"
         },
         {
             "category": "Science",
             "question": "This is the only bone in the human body that\u2019s wider in the middle than at the ends; the strongest part of this bone is the shaft, which can withstand forces of up to 1,800 to 2,500 pounds in a healthy adult. This bone\u2019s name comes from the Latin meaning thigh. Name this longest and strongest bone in the human body, essential for walking, running, and jumping.",
             "answers": ["Femur", "thighbone"],
+            "incorrect1": "Tibia",
+            "incorrect2": "Fibula",
+            "incorrect3": "Humerus",
             "used": "FALSE"
         },
         {
             "category": "Geography",
             "question": "This landform, part of the Southern Alps, is composed of three summits: Low Peak, Middle Peak, and High Peak; it holds great cultural significance to the indigenous M\u0101ori people, who consider it the most sacred peak; its name, in the M\u0101ori language, translates to \"Cloud Piercer\"; it was renamed in 1851 after a British explorer, although the dual name is now officially recognized. Name this landform, the highest mountain in New Zealand.",
             "answers": ["Aoraki / Mount Cook", "Aoraki", "Mount Cook"],
+            "incorrect1": "Mount Everest",
+            "incorrect2": "Mount Kilimanjaro",
+            "incorrect3": "Mount Kosciuszko",
             "used": "FALSE"
         },
         {
             "category": "Sports",
             "question": "This left-handed athlete, born in Prague, Czechoslovakia, defected to the United States in 1975 at the age of 18; known for her aggressive serve-and-volley style, she won 18 Grand Slam singles titles, including a record nine Wimbledon championships; she was a dominant force in doubles, partnering with Pam Shriver to win 20 Grand Slam titles; she held the world No. 1 ranking in singles for a total of 332 weeks, a record at the time. Name this tennis legend who won a total of 59 Grand Slam titles in singles, doubles, and mixed doubles.",
             "answers": ["Martina Navratilova"],
+            "incorrect1": "Steffi Graf",
+            "incorrect2": "Serena Williams",
+            "incorrect3": "Chris Evert",
             "used": "FALSE"
         },
         {
             "category": "Current Events",
             "question": "Luis Arce, the president of this nation withstood an attempted coup d'\u00e9tat on June 26, 2024. Army commander General Juan Jos\u00e9 Z\u00fa\u00f1iga sent troops to seize Plaza Murillo, the central plaza in La Paz, and storm the Casa Grande del Pueblo, the presidential palace. This nation shares Lake Titicaca, South America's largest lake by volume, with its neighbor Peru. It's known for the Uyuni Salt Flats, the world's largest salt flat, and being a significant producer of tin and lithium. Name this country, formerly known as Upper Peru during Spanish colonial rule.",
             "answers": ["Bolivia"],
+            "incorrect1": "Brazil",
+            "incorrect2": "Paraguay",
+            "incorrect3": "Peru",
             "used": "FALSE"
         },
         {
             "category": "Arts & Literature",
             "question": "This author\u2019s real name was Eric Arthur Blair, and he was born in Motihari, British India, in 1903. He served in the Indian Imperial Police in Burma before returning to England to pursue a writing career. He adopted his pen name from a river in Suffolk, England. His most famous works, two dystopian novels published in 1945 and 1949, are still widely read and analyzed for their social and political commentary. Name this author, whose works include \"Animal Farm\" and \"Nineteen Eighty-Four.\" ",
             "answers": ["George Orwell"],
+            "incorrect1": "Aldous Huxley",
+            "incorrect2": "Ray Bradbury",
+            "incorrect3": "Margaret Atwood",
             "used": "FALSE"
         },
         {
             "category": "Entertainment",
             "question": "This reality TV show, created by Charlie Parsons in 1992, was first aired as Expedition Robinson in Sweden; it features a group of strangers marooned in a remote location, where they must compete in challenges to secure food, shelter, and immunity from elimination; the contestants, known as \u201ccastaways,\u201d are gradually voted off the island until only one remains; it has spawned numerous international adaptations, becoming a global phenomenon. Name this popular series, known for its tagline \"Outwit, Outplay, Outlast.\"",
             "answers": ["Survivor"],
+            "incorrect1": "Big Brother",
+            "incorrect2": "The Amazing Race",
+            "incorrect3": "Fear Factor",
             "used": "FALSE"
         }
     ],
@@ -5901,6 +6405,9 @@
             "category": "Geography",
             "question": "Though this river initially forms at the confluence of the Paranaiba and Grande rivers, it ultimately flows into the R\u00edo de la Plata estuary. Forming the border between Paraguay and Argentina, it is the second-longest river in South America. Home to the Itaipu Dam, the world's second-largest hydroelectric power plant, it is a major waterway for transportation and commerce. Which river's name translates to \"like the sea\" in the Tupi language? ",
             "answers": ["Paran\u00e1 River", "parana"],
+            "incorrect1": "Amazon River",
+            "incorrect2": "Orinoco River",
+            "incorrect3": "São Francisco River",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5908,6 +6415,9 @@
             "category": "Current Events",
             "question": "This man's memoir \"On Call\" debuted as a New York Times bestseller in June 2024. This physician and immunologist, born in Brooklyn, New York in 1940, joined the National Institutes of Health (NIH) in 1968 and became director of the National Institute of Allergy and Infectious Diseases (NIAID) in 1984; he has served as a key advisor to seven US presidents on various public health crises, including HIV/AIDS, Ebola, and Zika; Name this man who became a household name during the COVID-19 pandemic, providing regular updates and guidance to the public.",
             "answers": ["Anthony Fauci", "Fauci", "Tony Fauci"],
+            "incorrect1": "Elon Musk",
+            "incorrect2": "Linus Pauling",
+            "incorrect3": "Jonas Sulk",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5915,6 +6425,9 @@
             "category": "Sports",
             "question": "This MLB team won the World Series in 1984 with a team led by Kirk Gibson and Jack Morris, their most recent World Series appearance was in 2012. Their mascot is Paws and their home stadium is Comerica Park, known for its Ferris wheel and carousel. They have a rich history with legendary players like Ty Cobb, Al Kaline, and Miguel Cabrera. Which Major League Baseball team plays in the Motor City and wears the Old English \"D\" on their caps?",
             "answers": ["Detroit Tigers", "Tigers"],
+            "incorrect1": "Detroit Lions",
+            "incorrect2": "Chicago Cubs",
+            "incorrect3": "Cleveland Guardians",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5922,6 +6435,9 @@
             "category": "Science",
             "question": "Though they primarily feed on nectar, some species also consume pollen, tree sap, or even decaying animal matter. Their wings are covered in tiny scales, creating their vibrant colors and patterns. They undergo complete metamorphosis, transforming from egg to larva (caterpillar) to pupa (chrysalis) to adult. Known for their role in pollination and their symbolic representation of transformation, what are these insects belonging to the order Lepidoptera?",
             "answers": ["Butterfly"],
+            "incorrect1": "Moth",
+            "incorrect2": "Dragonfly",
+            "incorrect3": "Beetle",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5929,6 +6445,9 @@
             "category": "Arts & Literature",
             "question": "Though he initially trained as a lawyer, he later devoted his life to art, co-founding the Der Blaue Reiter (The Blue Rider) group with Franz Marc. Born in Moscow, he was a pioneer of abstract art, exploring the emotional and spiritual power of color and form. Known for his \"Compositions\" series and his book \"Concerning the Spiritual in Art,\" he taught at the Bauhaus school in Germany. Which artist's painting \"Composition VIII\" is considered a masterpiece of abstract expressionism?",
             "answers": ["Wassily Kandinsky", "Candinsky"],
+            "incorrect1": "Piet Mondrian",
+            "incorrect2": "Kazimir Malevich",
+            "incorrect3": "Pablo Picasso",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5936,6 +6455,9 @@
             "category": "Entertainment",
             "question": "Though it was initially adapted from a teleplay of the same name, it became a landmark film for its exploration of the American jury system. Set entirely in a jury room, it follows twelve jurors deliberating the guilt or innocence of a young man accused of murder. Known for its tense atmosphere and powerful performances, it features a cast including Henry Fonda, Lee J. Cobb, and E.G. Marshall. Which 1957 drama film examines themes of justice, doubt, and the importance of individual conscience?",
             "answers": ["12 Angry Men", "twelve angry men"],
+            "incorrect1": "To Kill a Mockingbird",
+            "incorrect2": "The Shawshank Redemption",
+            "incorrect3": "The Verdict",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5943,6 +6465,9 @@
             "category": "World History",
             "question": "Though it initially began as a conflict between Protestant and Catholic states within the Holy Roman Empire, it eventually involved most of the major European powers. Marked by devastating battles like White Mountain and L\u00fctzen, it saw the rise of military leaders like Albrecht von Wallenstein and Gustavus Adolphus. Ending with the Peace of Westphalia in 1648, it resulted in significant political and religious changes in Europe. Which war, lasting from 1618 to 1648, is considered one of the longest and most destructive conflicts in European history?",
             "answers": ["Thirty Years' War", "thirty year war"],
+            "incorrect1": "Hundred Years' War",
+            "incorrect2": "Seven Years' War",
+            "incorrect3": "Napoleonic Wars",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5950,6 +6475,9 @@
             "category": "US History",
             "question": "Initially established as a haven for debtors and those imprisoned for minor offenses, it was the last of the original Thirteen Colonies. This state's capital was originally called Terminus due to its location at the end of a railroad line. Named after King George II, it was founded by James Oglethorpe in 1733. Known for its peaches and peanuts, it was the fourth state to ratify the U.S. Constitution. Name this state that was home to Jimmy Carter.",
             "answers": ["Georgia"],
+            "incorrect1": "Alabama",
+            "incorrect2": "Florida",
+            "incorrect3": "South Carolina",
             "used": "FALSE",
             "source": "Marty Heavey"
         }
@@ -5959,6 +6487,9 @@
             "category": "Sports",
             "question": "This tennis player became the first African American woman to be ranked No. 1 in the world in the Open Era. Known for her powerful serve and aggressive baseline game, she initially rose to fame alongside her sister Serena. She has won seven Grand Slam singles titles, five at Wimbledon and two at the US Open. She has also won 14 Grand Slam doubles titles with her sister Serena. Which tennis star's signature fashion sense includes designing her own tennis apparel line, EleVen?",
             "answers": ["Venus Williams", "Venus"],
+            "incorrect1": "Serena Williams",
+            "incorrect2": "Coco Gauff",
+            "incorrect3": "Naomi Osaka",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5966,6 +6497,9 @@
             "category": "Geography",
             "question": "Though it initially declared independence in 1948, it traces its historical roots to ancient Judah. Bordered by Lebanon, Syria, Jordan, and Egypt, its topography ranges from the coastal plain to the Negev Desert. Home to the Dead Sea, the lowest point on Earth, it also boasts the port city of Haifa and the ancient city of Jerusalem. Which Middle Eastern country is the world's only Jewish-majority state?",
             "answers": ["Israel"],
+            "incorrect1": "Palestine",
+            "incorrect2": "Jordan",
+            "incorrect3": "Lebanon",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5973,6 +6507,9 @@
             "category": "US History",
             "question": "Serving as Secretary of State under James K. Polk, he was the only president from Pennsylvania. His nickname was \"Old Buck,\" and he was a lifelong bachelor. Believing the issue of slavery would be settled by the Supreme Court, his presidency was dominated by the escalating tensions leading to the Civil War. Who was the 15th President of the United States?",
             "answers": ["James Buchanan", "Buchanan"],
+            "incorrect1": "Franklin Pierce",
+            "incorrect2": "Abraham Lincoln",
+            "incorrect3": "Andrew Johnson",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5980,6 +6517,9 @@
             "category": "Science",
             "question": "Though it primarily functions as a digestive organ, it also plays a role in immune response and hormone production. Its lining contains gastric glands that secrete hydrochloric acid and enzymes like pepsin. It is connected to the esophagus by the cardiac sphincter and to the small intestine by the pyloric sphincter. Known for its J-shape and ability to expand to accommodate food, what is this organ located in the upper left abdomen?",
             "answers": ["Stomach", "the stomach"],
+            "incorrect1": "Intestines",
+            "incorrect2": "Liver",
+            "incorrect3": "Pancreas",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5987,6 +6527,9 @@
             "category": "Entertainment",
             "question": "Though it was initially a box office flop, it has become a beloved holiday classic. Set in the fictional town of Bedford Falls, it tells the story of George Bailey, a man who sacrifices his dreams for the sake of his family and community. Featuring iconic scenes like the angel Clarence earning his wings and George wishing he had never been born, it stars Jimmy Stewart and Donna Reed. Which 1946 film explores themes of redemption, kindness, and the value of every life?",
             "answers": ["It's a Wonderful Life"],
+            "incorrect1": "Miracle on 34th Street",
+            "incorrect2": "A Christmas Story",
+            "incorrect3": "The Polar Express",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -5994,6 +6537,9 @@
             "category": "World History",
             "question": "Though it initially aimed to restore imperial rule, it led to the modernization and Westernization of Japan. Triggered by the arrival of Commodore Matthew Perry and the signing of unequal treaties, it saw the overthrow of the Tokugawa Shogunate and the return of power to the emperor. It led to the abolition of the feudal system, the establishment of a constitutional monarchy, and the rapid industrialization and militarization of Japan. Which period marked a turning point in Japanese history, transforming the nation into a major world power?",
             "answers": ["Meiji Restoration"],
+            "incorrect1": "Tokugawa Shogunate",
+            "incorrect2": "French Revolution",
+            "incorrect3": "Russian Revolution",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6001,6 +6547,9 @@
             "category": "Arts & Literature",
             "question": "Though it was initially a commercial failure, it is now considered one of the greatest American novels.  Set in the mid-19th century, it features a diverse crew of characters like Starbuck, Queequeg, and Pip. Narrated by Ishmael, a young sailor who joins the crew of the Pequod, it explores themes of obsession, revenge, and the relationship between man and nature. Which novel features Captain Ahab's relentless pursuit of a white whale?",
             "answers": ["Moby Dick"],
+            "incorrect1": "The Scarlet Letter",
+            "incorrect2": "The Adventures of Huckleberry Finn",
+            "incorrect3": "The Great Gatsby",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6008,6 +6557,9 @@
             "category": "Current Events",
             "question": "Initially airing on Tuesdays before moving to Sundays, it became the first news program to win a primetime Emmy. Though it once featured a segment called \"Point/Counterpoint,\" it's best known for in-depth investigations and interviews. Originally co-hosted by Mike Wallace and Harry Reasoner, its ticking stopwatch has become an iconic symbol in broadcast journalism. What is this long-running news magazine program?",
             "answers": ["60 Minutes", "sixty minutes"],
+            "incorrect1": "20/20",
+            "incorrect2": "Dateline NBC",
+            "incorrect3": "The View",
             "used": "FALSE",
             "source": "Marty Heavey"
         }
@@ -6017,6 +6569,9 @@
             "category": "Science",
             "question": "Though he initially studied under Arnold Sommerfeld, he later became a colleague of Niels Bohr in Copenhagen. He won the Nobel Prize in Physics in 1932 for his work on quantum mechanics. His uncertainty principle states that it is impossible to simultaneously know both the position and momentum of a particle with perfect accuracy. Who led the German nuclear weapons program during World War II?",
             "answers": ["Werner Heisenberg", "heisenberg"],
+            "incorrect1": "Albert Einstein",
+            "incorrect2": "Niels Bohr",
+            "incorrect3": "Erwin Schrödinger",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6024,6 +6579,9 @@
             "category": "Geography",
             "question": "This geological wonder was initially discovered by the Spanish conquistador \u00c1lvar N\u00fa\u00f1ez Cabeza de Vaca in 1541, and it was named after a river which means \"big water\" in the Guaran\u00ed language. Straddling the border between Argentina and Brazil, it is actually a system of 275 waterfalls, with the Devil's Throat being the most impressive.  Surrounded by lush rainforest and home to diverse wildlife, these are one of the New Seven Wonders of Nature. What is this majestic waterfall system located in South America?",
             "answers": ["Iguazu Falls", "Iguacu falls"],
+            "incorrect1": "Niagara Falls",
+            "incorrect2": "Victoria Falls",
+            "incorrect3": "Angel Falls",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6031,6 +6589,9 @@
             "category": "Sports",
             "question": "Though this team holds the NFL record for most consecutive sold-out home games, their first winning season didn't occur until 1983. Their logo is inspired by a transformation mask from the Kwakwaka'wakw tribe, and their fight song is a parody of the ballad \"Louie, Louie.\" Coached by Pete Carroll from 2010-2023, their \"Legion of Boom\" defense led them to a Super Bowl victory in 2014. Which NFL team, known for its loud \"12th Man\" fan base, plays its home games at Lumen Field in Seattle, Washington? ",
             "answers": ["Seattle Seahawks", "Seahawks"],
+            "incorrect1": "Seattle Mariners",
+            "incorrect2": "Denver Broncos",
+            "incorrect3": "Green Bay Packers",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6038,6 +6599,9 @@
             "category": "Entertainment",
             "question": "This movie was initially based on a Stephen King novel, but the author famously disliked Stanley Kubrick's film adaptation. Set in the isolated Overlook Hotel, it features a family facing supernatural forces during a harsh winter. Known for its eerie atmosphere and iconic scenes like the twins in the hallway and the \"Here's Johnny!\" line, it stars Jack Nicholson as Jack Torrance, a struggling writer who descends into madness. What is this 1980 psychological horror film?",
             "answers": ["The Shining"],
+            "incorrect1": "Psycho",
+            "incorrect2": "The Exorcist",
+            "incorrect3": "Halloween",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6045,6 +6609,9 @@
             "category": "US History",
             "question": "Though he initially ran a haberdashery with a friend in Kansas City, he became the 33rd president after Franklin D. Roosevelt's death in 1945. He authorized the use of atomic bombs against Japan and led the U.S. during the early years of the Cold War. Known for his \"The buck stops here\" sign on his desk, he also implemented the a namesake doctrine and the Marshall Plan. Who unexpectedly won the 1948 presidential election against Thomas E. Dewey?",
             "answers": ["Harry S. Truman", "Harry Truman", "Truman"],
+            "incorrect1": "Franklin D. Roosevelt",
+            "incorrect2": "Dwight D. Eisenhower",
+            "incorrect3": "John F. Kennedy",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6052,6 +6619,9 @@
             "category": "Current Events",
             "question": "This TV news network hosted the first 2024 US Presidential Debate between Joe Biden and Donald Trump. The debate was moderated by two of this network's journalists, Dana Bash and Jake Tapper. This network's first broadcast was about the attempted assassination of Vernon Jordan, and anchored by a husband and wife team. Founded by Ted Turner, it was the first all-news television channel in the United States. Name this cable news channel that is headquartered in Atlanta, Georgia.",
             "answers": ["CNN", "Cable News Network"],
+            "incorrect1": "Fox News",
+            "incorrect2": "MSNBC",
+            "incorrect3": "BBC",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6059,6 +6629,9 @@
             "category": "World History",
             "question": "Though it initially aimed for political and societal reform, it ultimately led to the rise and fall of Napoleon Bonaparte. Sparked by economic inequality and Enlightenment ideals, it saw the storming of the Bastille and the establishment of the First French Republic. The Reign of Terror, led by Maximilien Robespierre, resulted in the execution of thousands by guillotine. Which period of radical social and political upheaval in France and its colonies began in 1789?",
             "answers": ["French Revolution"],
+            "incorrect1": "American Revolution",
+            "incorrect2": "Russian Revolution",
+            "incorrect3": "Industrial Revolution",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6066,6 +6639,9 @@
             "category": "Arts & Literature",
             "question": "Though he initially studied medicine, he switched to English literature and became a pioneer of African literature written in English. Born in Ogidi, Nigeria, he is best known for his debut novel, \"Things Fall Apart,\" which explores the impact of colonialism on Igbo society. His other works include \"No Longer at Ease,\" \"Arrow of God,\" and \"A Man of the People.\" Which author's writings often address the clash between traditional African values and Western influences?",
             "answers": ["Chinua Achebe", "Achebe"],
+            "incorrect1": "Wole Soyinka",
+            "incorrect2": "Ngugi wa Thiong'o",
+            "incorrect3": "Chimamanda Ngozi Adichie",
             "used": "FALSE",
             "source": "Marty Heavey"
         }
@@ -6075,6 +6651,9 @@
             "category": "Science",
             "question": "Though he initially worked as a patent clerk in Switzerland, he became a Nobel laureate in Physics in 1921. His theories of special and general relativity revolutionized our understanding of space, time, and gravity. Known for his famous equation E=mc\u00b2, he also made significant contributions to the development of quantum mechanics. Which scientist, born in Ulm, Germany, is considered one of the most influential figures in the history of science?",
             "answers": ["Albert Einstein", "Einstein"],
+            "incorrect1": "Isaac Newton",
+            "incorrect2": "Stephen Hawking",
+            "incorrect3": "Marie Curie",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6087,6 +6666,9 @@
                 "Cyrus II of Persia",
                 "Cyrus"
             ],
+            "incorrect1": "Darius the Great",
+            "incorrect2": "Xerxes I",
+            "incorrect3": "Alexander the Great",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6094,6 +6676,9 @@
             "category": "Geography",
             "question": "This rock formation was initially named after Sir Henry Ayers, the eighth Premier of South Australia. It is composed of arkose, a type of sandstone rich in feldspar. It is a sacred site for the Anangu people, who believe it was created during the Dreamtime. Its surface appears to change color throughout the day, especially at dawn and dusk, due to the sunlight's angle and the rock's mineral composition. What is this large sandstone monolith in central Australia, a UNESCO World Heritage Site often referred to by its Aboriginal name?",
             "answers": ["Uluru", "Ayers Rock"],
+            "incorrect1": "Mount Vesuvius",
+            "incorrect2": "Mount Augustus",
+            "incorrect3": "Kata Tjuta",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6101,6 +6686,9 @@
             "category": "Arts & Literature",
             "question": "Though it was initially conceived as a representation of Dante Alighieri, the poet of the \"Divine Comedy,\" it later became a symbol of universal contemplation and human intellect. Originally part of Rodin's monumental sculptural group \"The Gates of Hell,\" it depicts a nude male figure seated on a rock, deep in thought. Numerous casts of this sculpture exist worldwide, with the most famous one located at the Mus\u00e9e Rodin in Paris. What is this iconic bronze sculpture by Auguste Rodin?",
             "answers": ["The Thinker"],
+            "incorrect1": "David",
+            "incorrect2": "The Kiss",
+            "incorrect3": "Venus de Milo",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6115,6 +6703,9 @@
                 "Independence Day",
                 "American Independence Day"
             ],
+            "incorrect1": "Memorial Day",
+            "incorrect2": "Labor Day",
+            "incorrect3": "Thanksgiving",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6122,6 +6713,9 @@
             "category": "Entertainment",
             "question": "Though this TV show was initially canceled after three seasons, it was revived by Netflix for two additional seasons. Set in Newport Beach, California, it follows the dysfunctional Bluth family after their real estate business goes bankrupt. Known for its satirical humor, meta-references, and recurring jokes like \"chicken dance\" and \"never nude,\" it features an ensemble cast including Jason Bateman, Portia de Rossi, and Will Arnett. What is this critically acclaimed comedy series narrated by Ron Howard?",
             "answers": ["Arrested Development"],
+            "incorrect1": "The Office",
+            "incorrect2": "Parks and Recreation",
+            "incorrect3": "Modern Family",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6129,6 +6723,9 @@
             "category": "Sports",
             "question": "This US soccer player was the youngest player to score 20 goals in a calendar year for the U.S. She became a two-time World Cup champion and Olympic gold medalist. Known for her signature \"teapot\" goal celebration and her advocacy for gender equality in sports, she co-captained the USWNT with Carli Lloyd and Megan Rapinoe from 2018 to 2020. Scoring her first World Cup goal in 2011, she gained early recognition as a member of the U.S. under-20 women's national soccer team. Which striker played for the San Diego Wave FC in 2023?",
             "answers": ["Alex Morgan", "Morgan"],
+            "incorrect1": "Megan Rapinoe",
+            "incorrect2": "Marta Vieira da Silva",
+            "incorrect3": "Christine Sinclair",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6136,6 +6733,9 @@
             "category": "US History",
             "question": "Though initially founded as a safe haven for English Catholics, it was the seventh state to ratify the U.S. Constitution. Home to Fort McHenry, it was the site of the Battle of Antietam, the bloodiest single-day battle in American history. Known for its blue crabs and Old Bay seasoning, its flag features the coats of arms of the Calvert and Crossland families. Which state is home to the U.S. Naval Academy?",
             "answers": ["Maryland"],
+            "incorrect1": "Virginia",
+            "incorrect2": "Delaware",
+            "incorrect3": "Pennsylvania",
             "used": "FALSE",
             "source": "Marty Heavey"
         }
@@ -6151,6 +6751,9 @@
                 "the quoran",
                 "quaran"
             ],
+            "incorrect1": "The Bible",
+            "incorrect2": "The Torah",
+            "incorrect3": "The Bhagavad Gita",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6158,6 +6761,9 @@
             "category": "US History",
             "question": "This US state with 99 counties became the 29th state in 1846. Home to the National Mississippi River Museum & Aquarium, it is the only state bordered by two navigable rivers. Known for its rolling plains and cornfields, it is also home to the Bridges of Madison County. Name this state of 3 million people whose capital and most populous is Des Moines.",
             "answers": ["Iowa"],
+            "incorrect1": "Idaho",
+            "incorrect2": "Ohio",
+            "incorrect3": "Illinois",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6165,6 +6771,9 @@
             "category": "Current Events",
             "question": "This politician called for a snap election to be held for the French Parliament on June 30 and July 7, 2024. This man served as Minister of Economics, Industry and Digital Affairs under President Fran\u00e7ois Hollande from 2014 to 2016 and Deputy Secretary-General to the President from 2012 to 2014. He is a part of the Renaissance Party which he helped to found in 2016. Name this French politician who in 2017, was elected the 25th President of France becoming the youngest person to hold the position at age 39.",
             "answers": ["Emmanuel Macron"],
+            "incorrect1": "François Hollande",
+            "incorrect2": "Nicolas Sarkozy",
+            "incorrect3": "Marine Le Pen",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6172,6 +6781,9 @@
             "category": "Sports",
             "question": "Founded in 1898 as the Morgan Athletic Club in Chicago, this team is the oldest continuously operating professional American football club. They relocated to St. Louis in 1960 and then to Arizona in 1988. Their mascot is Big Red, and their home stadium is State Farm Stadium, known for its retractable roof and field. They lost to the Pittsburgh Steelers in Super Bowl XLIII. Which NFL team is quarterbacked by Kyler Murray?",
             "answers": ["Arizona Cardinals", "Cardinals"],
+            "incorrect1": "Arizona Diamondbacks",
+            "incorrect2": "St. Louis Cardinals",
+            "incorrect3": "San Francisco 49ers",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6185,6 +6797,9 @@
                 "Nikolai II",
                 "Czar Nicholas II"
             ],
+            "incorrect1": "Peter the Great",
+            "incorrect2": "Ivan the Terrible",
+            "incorrect3": "Alexander II",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6192,6 +6807,9 @@
             "category": "Entertainment",
             "question": "Though she initially gained recognition with hits like \"Holiday\" and \"Borderline,\" her career skyrocketed with the release of her second album.  Known for her provocative image, elaborate stage shows, and numerous reinventions, she has sold over 300 million records worldwide. Appearing in films like \"Desperately Seeking Susan\" and \"Evita,\" she has also been a successful businesswoman and fashion icon. Which singer's 1984 performance of \"Like a Virgin\" at the MTV Video Music Awards became a cultural phenomenon?",
             "answers": ["Madonna"],
+            "incorrect1": "Lady Gaga",
+            "incorrect2": "Beyoncé",
+            "incorrect3": "Taylor Swift",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6199,6 +6817,9 @@
             "category": "Science",
             "question": "Though they primarily walk sideways, some species can also swim. Their exoskeleton is made of chitin, and they must molt to grow. They belong to the order Decapoda, meaning \"ten-footed,\" and their claws are modified legs. Known for their pincers and ability to regenerate lost limbs, what are these crustaceans found in oceans, freshwater, and on land?",
             "answers": ["crab", "crabs"],
+            "incorrect1": "lobster",
+            "incorrect2": "shrimp",
+            "incorrect3": "crayfish",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6206,6 +6827,9 @@
             "category": "Geography",
             "question": "Though it is the smallest and shallowest of the world's oceans, it is home to a diverse range of marine life, including polar bears, walruses, and narwhals. Covered in sea ice for most of the year, its central surface is covered by a perennial drifting polar ice pack. It is surrounded by landmasses such as Greenland, Canada, Alaska, Russia, and Norway. Which ocean is home to the North Pole?",
             "answers": ["Arctic Ocean"],
+            "incorrect1": "Atlantic Ocean",
+            "incorrect2": "Indian Ocean",
+            "incorrect3": "Southern Ocean",
             "used": "FALSE",
             "source": "Marty Heavey"
         }
@@ -6215,6 +6839,9 @@
             "category": "Geography",
             "question": "This Great Lake is home to over 30,000 islands, including Manitoulin Island, the world's largest freshwater island. It experiences a unique weather phenomenon known as \"lake effect snow,\" which can produce heavy snowfall in the surrounding areas. Its name comes from a Native American tribe that inhabited the region. Name this lake, a crucial route for fur traders and explorers during the early European settlement of North America, which is the second-largest Great Lake by surface area.",
             "answers": ["Lake Huron", "Huron"],
+            "incorrect1": "Lake Michigan",
+            "incorrect2": "Lake Superior",
+            "incorrect3": "Lake Erie",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6222,6 +6849,9 @@
             "category": "US History",
             "question": "This state, not Illinois, was the birthplace of Abraham Lincoln in 1809, and it was also home to Fort Knox, established in 1918, which houses a significant portion of the United States' gold reserves. The state's Mammoth Cave National Park, established in 1941, is the world's longest known cave system.  Daniel Boone, a famous frontiersman, blazed a trail through the Cumberland Gap into this state in 1775, opening it up to westward expansion. Name this state with a capital of Frankfort.",
             "answers": ["Kentucky"],
+            "incorrect1": "Kansas",
+            "incorrect2": "Tennessee",
+            "incorrect3": "Virginia",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6229,6 +6859,9 @@
             "category": "Entertainment",
             "question": "This musician, nicknamed \"the quiet Beatle,\" developed a keen interest in Indian music and spirituality, incorporating sitar and other Indian instruments into his band's music. He wrote several popular songs for The Beatles, including \"Here Comes the Sun\" and \"Something.\" After the band's breakup, he launched a successful solo career, releasing albums like \"All Things Must Pass.\" Who was this influential musician, known for his distinctive slide guitar style and exploration of diverse musical genres?",
             "answers": ["George Harrison"],
+            "incorrect1": "John Lennon",
+            "incorrect2": "Paul McCartney",
+            "incorrect3": "Ringo Starr",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6236,6 +6869,9 @@
             "category": "Sports",
             "question": "This athlete transitioned from judo to mixed martial arts (MMA) after winning a bronze medal at the 2008 Beijing Olympics. In MMA, she became the first UFC Women's Bantamweight Champion, known for her signature armbar submission. She was also the first woman inducted into the UFC Hall of Fame. Who is this athlete, who also acted in the film Furious 7?",
             "answers": ["Ronda Rousey", "Rowsy"],
+            "incorrect1": "Holly Holm",
+            "incorrect2": "Amanda Nunes",
+            "incorrect3": "Cris Cyborg",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6243,6 +6879,9 @@
             "category": "Arts & Literature",
             "question": "This Shakespearean play, believed to be his last solo work, features a sorcerer named Prospero who conjures a storm to shipwreck his enemies on a remote island. It explores themes of revenge, forgiveness, and colonialism through characters like Ariel, a spirit, and Caliban, a native islander. It includes a famous quote about the world being a stage and life being but a fleeting dream. What is the title of this play, notable for its magical elements and complex characters?",
             "answers": ["The Tempest"],
+            "incorrect1": "Hamlet",
+            "incorrect2": "Macbeth",
+            "incorrect3": "King Lear",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6250,6 +6889,9 @@
             "category": "World History",
             "question": "This 1683 battle marked the furthest westward advance of the Ottoman Empire in Europe. Polish King John III Sobieski led the defending forces, utilizing a massive cavalry charge involving over 20,000 horsemen. The siege lasted for two months and resulted in the defeat of the Ottomans, halting their expansion into Europe. What is the name of this battle, named for the capital of Austria, considered a turning point in European history?",
             "answers": ["Battle of Vienna"],
+            "incorrect1": "Battle of Lepanto",
+            "incorrect2": "Battle of Tours",
+            "incorrect3": "Battle of Hastings",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6257,6 +6899,9 @@
             "category": "Current Events",
             "question": "This company has come under scrutiny for quality and manufacturing problems related to their largest commercial product. Initially establishing its headquarters in Seattle, Washington, it was founded in 1916. Known for iconic aircraft like the 747 \"Jumbo Jet\" and the 787 Dreamliner, it merged with McDonnell Douglas in 1997. Currently headquartered in Arlington, Virginia, it is a major player in both commercial and defense aviation. What is this American multinational corporation that designs, manufactures, and sells airplanes, rotorcraft, rockets, satellites, and missiles worldwide?",
             "answers": ["Boeing"],
+            "incorrect1": "Airbus",
+            "incorrect2": "Lockheed Martin",
+            "incorrect3": "Northrop Grumman",
             "used": "FALSE",
             "source": "Marty Heavey"
         },
@@ -6264,6 +6909,9 @@
             "category": "Science",
             "question": "This bird of prey, which can live up to 30 years in the wild, plays a crucial role in maintaining the balance of aquatic ecosystems. It can dive at speeds of up to 100 miles per hour and its nests, called aeries, are often reused and added to each year. Its scientific name, Haliaeetus leucocephalus, comes from Greek words meaning \"sea eagle\" and \"white head.\" It is not closely related to other eagles found in Europe and Asia. What is the name of this bird, a national symbol of the United States, known for its white head and tail feathers?",
             "answers": ["Bald Eagle"],
+            "incorrect1": "Golden Eagle",
+            "incorrect2": "American Kestrel",
+            "incorrect3": "Peregrine Falcon",
             "used": "FALSE",
             "source": "Marty Heavey"
         }
