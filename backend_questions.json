@@ -17261,9 +17261,9 @@
             "source": "2022 SCOP MS 11",
             "question": "Sediments in these regions form top-set and bottom-set layers, and the Gilbert type of them marks locations of ancient lakes. An alluvial fan with a bird's-foot pattern is characteristic of many of these regions, though strong tidal forces prevent the St Lawrence from creating one. One of these regions occurs where the Nile meets the Mediterranean. Identify this triangular plain at a river's mouth, shaped like the fourth letter of the Greek alphabet.",
             "answers": ["river deltas", "mouth"],
-            "incorrect1": "river valleys",
+            "incorrect1": "desert",
             "incorrect2": "estuaries",
-            "incorrect3": "floodplains",
+            "incorrect3": "isthmus",
             "used": "TRUE"
         },
         {
