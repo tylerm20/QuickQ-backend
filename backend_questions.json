@@ -17385,6 +17385,9 @@
             "source": "2016 PLATO",
             "question": "At 1,407 feet below sea level, this body of water contains the lowest non\u00adocean point on Earth. The Jordan River is the main tributary of this deepest salt lake in the world. A hill mostly made of salt near this lake is called Mount Sodom. It is bordered by Israel and Jordan, and is sometimes known as \"The Sea of Lot.\" Name this Middle Eastern body of water where microorganisms cannot survive due to its salinity.",
             "answers": ["The Dead Sea"],
+            "incorrect1": "Red Sea",
+            "incorrect2": "Caspian Sea",
+            "incorrect3": "Aral Sea",
             "used": "TRUE"
         },
         {
@@ -17409,7 +17412,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This man achieved what Donald Trump is attempting: serving 2 non-consecutive presidential terms. This president faced a major economic crisis during his second term known as the Panic of 1893. He vetoed more bills than any other president up to that point, earning him the nickname \"Grover the Good.\" He signed the Interstate Commerce Act, which regulated railroad rates, and oversaw the dedication of the Statue of Liberty. Who was this 22nd and 24th president of the United States?",
+            "question": "This man was the first to achieve what Donald Trump will now do: serving 2 non-consecutive presidential terms. This president faced a major economic crisis during his second term known as the Panic of 1893. He vetoed more bills than any other president up to that point, earning him the nickname \"Grover the Good.\" He signed the Interstate Commerce Act, which regulated railroad rates, and oversaw the dedication of the Statue of Liberty. Who was this 22nd and 24th president of the United States?",
             "answers": ["Grover Cleveland"],
             "incorrect1": "Benjamin Harrison",
             "incorrect2": "William McKinley",
