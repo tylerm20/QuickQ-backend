@@ -17440,5 +17440,603 @@
             "incorrect3": "Salem",
             "used": "TRUE"
         }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "Bernard Marcus the co-founder of this retail company died on November 4, 2024 at the age of 95. This home improvement retail giant, co-founded with Arthur Blank in 1978, boasts the largest market capitalization in its industry, surpassing its main competitor, Lowe's. Its first two stores, opened in Atlanta, Georgia, were massive warehouses, pioneering the concept of a home improvement superstore. It is known for its distinctive orange logo and its knowledgeable staff, many of whom have professional experience in various trades. What is the name of this company, a Fortune 500 company and a major player in the DIY and home renovation market?",
+            "answers": ["Home depot"],
+            "incorrect1": "Lowe's",
+            "incorrect2": "Menards",
+            "incorrect3": "Ace Hardware",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "This ruler established the code of Yassa throughout his empire, which penalized many offenses with death. This brutality was also common in his conquests, as one historian recounted each of this man's fifty thousand troops executing twenty-four Urgench citizens. He also sacked and slaughtered the Khwarezmi city of Samarkand. Born as Temujin, he appointed his son Ogedei as his successor, and his grandson established the Yuan Dynasty. Name this grandfather of Kublai Khan, the leader who united the tribes and founded the vast Mongol empire.",
+            "answers": ["Genghis Khan", "Temujin"],
+            "incorrect1": "Kublai Khan",
+            "incorrect2": "Attila the Hun",
+            "incorrect3": "Alexander the Great",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2022 KICKOFF Novice",
+            "question": "The arrest of John Lawrence Jr. for being one of these people led to a Texas law being ruled unconstitutional in Lawrence v. Texas. Omar Manteen shot 49 of these people at the Pulse nightclub. These people could not openly serve in the military under the \"Don't Ask, Don't Tell\" policy. Obergefell v Hodges granted these people a right that was previously restricted under the Defense of Marriage Act. Name these people, who are represented by the rainbow pride flag.",
+            "answers": ["LGBTQ+", "gays", "homosexuals"],
+            "incorrect1": "disabled",
+            "incorrect2": "African American",
+            "incorrect3": "Muslim",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's home arena, the Footprint Center, features a distinctive \"sandstone\" fa\u00e7ade that blends with the desert landscape of its home city. Their logo, a stylized basketball with fiery streaks, embodies the energy and intensity they bring to the court. They have reached the NBA Finals three times, most recently in 2021, where they fell to the Milwaukee Bucks. Their iconic \"Ring of Honor\" celebrates legendary players like Charles Barkley and Steve Nash. What is the name of this team, whose history includes a memorable rivalry with the San Antonio Spurs?",
+            "answers": ["Phoenix Suns"],
+            "incorrect1": "Phoenix Mercury",
+            "incorrect2": "Los Angeles Lakers",
+            "incorrect3": "Golden State Warriors",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This British tragicomedy series, known for its fourth-wall-breaking monologues and darkly comedic tone, features a protagonist who runs a guinea pig-themed cafe and navigates complex relationships with her family and love interests. The show's creator and star, Phoebe Waller-Bridge, also wrote and produced the acclaimed spy thriller series \"Killing Eve.\" It won numerous awards, including six Primetime Emmy Awards for its second season. What is the title of this critically acclaimed series?",
+            "answers": ["Fleabag"],
+            "incorrect1": "Seinfeld",
+            "incorrect2": "The Crown",
+            "incorrect3": "Sex and the City",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 Darien DEFT",
+            "question": "One of this director's films ends with a nun ringing a bell after Judy falls to her death. That film uses the dolly zoom to depict Scottie's fear of heights in an effect named for the film. Another film by this director sees a crop duster attempt to kill Roger Thornhill and ends with a climactic scene atop Mt. Rushmore. A character in another of his films pretends to be his dead mother and murders Marion Crane in the shower. Name this director of Vertigo, North by Northwest, and Psycho.",
+            "answers": ["Alfred Hitchcock"],
+            "incorrect1": "Steven Spielberg",
+            "incorrect2": "Stanley Kubrick",
+            "incorrect3": "Martin Scorsese",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 MAKEMAKE",
+            "question": "A tiny Prada store is located on the side of US Route 90 near this state's town of Valentine. In 2022, the judge of this state's Loving County, population 64, was arrested for cattle rustling. A national park in this state is named for the \"Big Bend\" made along its southern border by the Rio Grande River. The Pecos River flows south from New Mexico into what state whose westernmost major city is El Paso?",
+            "answers": ["Texas"],
+            "incorrect1": "California",
+            "incorrect2": "Florida",
+            "incorrect3": "Alaska",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2015 SCOP Novice 6",
+            "question": "These entities occupy a belt extending nine degrees on either side of the ecliptic and, because of precession, Ophiuchus should count as one of them. Bright stars within these objects include Aldebaran, Spica, and Pollux, while fifteen stars make up the largest example, Virgo. Name this collection of twelve constellations, including Taurus, Scorpio, and Pisces, that mark divisions along the Sun's path across the sky and are used for horoscopes.",
+            "answers": ["zodiacal constellations", "zodiac signs"],
+            "incorrect1": "circumpolar constellations",
+            "incorrect2": "equatorial constellations",
+            "incorrect3": "asterisms",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "A PhD student recently discovered a huge lost city, now being called Valeriana, that was part of this civilization using aerial lidar under forest canopy in Mexico. This civilization developed a sophisticated calendar system that accurately predicted astronomical events like eclipses. Their hieroglyphic writing system, one of the most complex in the ancient world, recorded their history, mythology, and astronomical observations. They constructed impressive cities, such as Tikal and Chich\u00e9n Itz\u00e1, featuring towering pyramids, temples, and palaces. Their civilization flourished in Mesoamerica from around 2000 BCE to the 17th century. Who were these people, known for their advancements in art, architecture, and science?",
+            "answers": ["Mayan Civilization"],
+            "incorrect1": "Aztec Civilization",
+            "incorrect2": "Inca Civilization",
+            "incorrect3": "Olmec Civilization",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2019 SCOP Novice 10",
+            "question": "Evidence for this property in giant marine reptiles is seen in the rapid bone growth of fossil plesiosaurs. Tuna achieve sudden bursts of speed because their muscular system has this property. A high percentage of brown fat helps infants maintain this property, which is upset during a fever. This property is observed in birds and mammals, but not in amphibians. Name this property with which animals can maintain a constant internal temperature.",
+            "answers": [
+                "warm-bloodedness",
+                "homeothermy",
+                "homeothermic",
+                "endothermy"
+            ],
+            "incorrect1": "cold-bloodedness",
+            "incorrect2": "nocturnal",
+            "incorrect3": "poikilothermy",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "With former president George W. Bush, this man established two tsunami funds after the 2005 Asian tsunami. He became the youngest governor at age 32 and raised his state's education system from the worst in the nation to one of the best. During his presidency, he launched Operation Allied Force in the Balkans, signed the NAFTA and Brady Bill into law, appointed Ruth Bader Ginsburg to the Supreme Court, and became the second impeached president. Identify this US president who was preceded by George H. W. Bush.",
+            "answers": ["Bill Clinton"],
+            "incorrect1": "George W. Bush",
+            "incorrect2": "Al Gore",
+            "incorrect3": "Barack Obama",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's iconic \"rainbow\" uniforms, worn during their Astrodome era in the 1970s and 80s, have become a nostalgic symbol of the franchise's past.  They were originally known as the Houston Colt .45s before adopting their current name in 1965, coinciding with their move to the Astrodome, the world's first domed multi-purpose stadium.  They have won two World Series titles, the first in 2017 and the second in 2022, both amidst controversial circumstances. What is the name of this Major League Baseball team, based in Houston, Texas?",
+            "answers": ["Houston Astros"],
+            "incorrect1": "Houston Texans",
+            "incorrect2": "Texas Rangers",
+            "incorrect3": "New York Yankees",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "The Tibesti Mountains are a prominent feature of this desert that also contains sand seas called ergs. The Tuareg people are nomadic inhabitants of this desert, which was crossed in medieval times by a caravan route to Timbuktu. The Sahel is the southern border of this desert that covers much of Mauritania, Niger, and Libya. Name this desert that covers most of North Africa.",
+            "answers": ["Sahara Desert"],
+            "incorrect1": "Arabian Desert",
+            "incorrect2": "Gobi Desert",
+            "incorrect3": "Kalahari Desert",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2016 Pennsylvania Novice",
+            "question": "This word refers to the clerical interests of Julien Sorel in the title of a work by Stendhal. There are 12 million of these voices in a folk history by Richard Wright, who also paired this adjective with \"boy\" to title an autobiography describing Wright's experience growing up in the South and Chicago. A horse called \"this word\" Beauty narrates a novel by Anna Sewell in first person. Name this color which is also the surname of Harry Potter's godfather Sirius.",
+            "answers": [
+                "black",
+                "12 Million Black Voices",
+                "Black Boy",
+                "Black Beauty",
+                "Sirius Black"
+            ],
+            "incorrect1": "white",
+            "incorrect2": "gray",
+            "incorrect3": "brown",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2021 CERES",
+            "question": "One peak in this mountain range is surrounded by Baxter State Park. One subrange of this mountain range, the White Mountains, contains a mountain famed for its excessive wind speeds; that mountain is Mount Washington. Mount Mitchell is the highest mountain in this range, and this range's namesake trail runs from Georgia to Mount Katahdin in Maine. What large mountain range runs through the eastern US?",
+            "answers": ["Appalachian Mountains", "Appalachians"],
+            "incorrect1": "Rocky Mountains",
+            "incorrect2": "Andes Mountains",
+            "incorrect3": "Himalayan Mountains",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film, shot in stark black and white to evoke a documentary feel, features a brutal boxing match scene where the protagonist, Jake La Motta, savagely beats his opponent, showcasing the character's self-destructive rage.  The film's use of slow-motion and close-ups during fight sequences heightens the impact and visceral nature of the violence.  Robert De Niro, who gained 60 pounds to portray the boxer in his later years, delivers a transformative performance that earned him an Academy Award for Best Actor.  What is the title of this 1980 biographical sports drama directed by Martin Scorsese?",
+            "answers": ["Raging Bull"],
+            "incorrect1": "Rocky",
+            "incorrect2": "The Godfather",
+            "incorrect3": "Taxi Driver",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2020 MOQBA Novice",
+            "question": "A complex in this organelle is made up of a Rieske protein and cytochromes b and c1, while another complex involved in the same process is called succinate dehydrogenase. Ubiquinone is found in this organelle. A protein found here rotates as hydrogen ions move down their concentration gradient. Oxidative phosphorylation takes place here, and ATP synthase is embedded in the cristae of this organelle, which surrounds its matrix. Name this organelle where the Krebs Cycle occurs, the \"powerhouse of the cell.\"",
+            "answers": ["mitochondria", "mitochondrion"],
+            "incorrect1": "nucleus",
+            "incorrect2": "ribosomes",
+            "incorrect3": "Golgi apparatus",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Olaf Shultz, the prime minister of this nation, recently fired his finance minister effectively dissolving his governing coalition. This country, once divided, underwent a reunification process in 1990, marking a pivotal moment in its history. It is the birthplace of influential figures like Johann Sebastian Bach, Albert Einstein, and Karl Marx. Its capital, Berlin, houses the Brandenburg Gate, a historic landmark that has witnessed significant events, from Napoleon's triumphal entry to celebrations of reunification. It also holds the distinction of being the fourth-largest economy in the world and a leading exporter of automobiles and machinery. What is this European nation, known for its rich cultural heritage and contributions to science, philosophy, and the arts?",
+            "answers": ["Germany"],
+            "incorrect1": "France",
+            "incorrect2": "Italy",
+            "incorrect3": "Spain",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2022 SCOP MS 11",
+            "question": "This event attracted immigrants to a region nicknamed \"Jinshan;\" the increased population prompted an attack on an outpost on the Fresno River, inciting the Mariposa War. This event began when Charles Bennett and newspaperman Samuel Brannan publicized a discovery made by James Marshall at Sutter's Mill, and instigated a mass migration. Name this 1849 event in which prospectors swarmed west to cities like San Francisco in search of a precious metal.",
+            "answers": ["California gold rush", "1849 gold rush"],
+            "incorrect1": "Oregon Trail",
+            "incorrect2": "Klondike Gold Rush",
+            "incorrect3": "Louisiana Purchase",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's teal, black, and silver color scheme, adopted in 1993, was a bold departure from traditional baseball uniforms and reflected the vibrant culture of their home city.  They made history in 1997 by becoming the first wild card team to win the World Series, defeating the Cleveland Indians in a thrilling seven-game series. They have won two World Series titles, both as a wild card team, defying expectations and showcasing their resilience.  What is the name of this team, based in Miami, Florida?",
+            "answers": ["Miami Marlins"],
+            "incorrect1": "Miami Heat",
+            "incorrect2": "Boston Red Sox",
+            "incorrect3": "Tampa Bay Rays",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 ERIS",
+            "question": "The rock-carved Abu Simbel temples had to be relocated to higher ground thanks to a dam on this river creating Lake Nasser. This river's \"Blue\" and \"White\" branches merge at Khartoum. The Aswan High Dam lies along this river, whose delta contains most of Egypt's population and agriculture. Identify this African river, the longest in the world.",
+            "answers": ["Nile River"],
+            "incorrect1": "Amazon River",
+            "incorrect2": "Mississippi River",
+            "incorrect3": "Yangtze River",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2015 SCOP Novice 6",
+            "question": "In this novel, Constance is poisoned by the former wife of the Comte de la Fere, a woman who has a fleur-de-lis brand on her shoulder. An affair between Queen Anne and the Duke of Buckingham is almost revealed in this novel by Milady de Winter, but she is foiled by Aramis, Athos, Porthos, and D'Artagnan. Name this book by Alexandre Dumas about a small group of soldiers who use the motto \"one for all and all for one.\"",
+            "answers": ["The Three Musketeers", "Les Trois Mousquetaires"],
+            "incorrect1": "The Count of Monte Cristo",
+            "incorrect2": "Les Misérables",
+            "incorrect3": "The Man in the Iron Mask",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2019 SCOP Novice 10",
+            "question": "Missionaries agreed to aid children during this event if they agreed to receive Protestant teachings, an act known as \"souperism.\" Sir Robert Peel repealed the Corn Laws in response to this event, in which thousands died while fleeing to North America in \"coffin ships.\" This event was caused by a strain of the water mold Phytophthora infestans. Name this 1845-1849 disaster, a blight of the staple crop of Ireland.",
+            "answers": [
+                "Irish Potato Famine",
+                "the Great Famine",
+                "the Great Hunger",
+                "an Gorta Mor"
+            ],
+            "incorrect1": "Great Depression",
+            "incorrect2": "Bengal Famine",
+            "incorrect3": "Spanish Inquisition",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This romantic comedy-drama, known for its unconventional narrative structure and witty dialogue, features a scene where the main characters, Alvy and Annie, hilariously try to cook lobsters in their New York City apartment.  The film breaks the fourth wall, with Alvy Singer, played by Woody Allen, directly addressing the audience with neurotic and self-deprecating humor.  It won four Academy Awards, including Best Picture and Best Director for Woody Allen.  What is the title of this 1977 film, often considered one of the greatest romantic comedies of all time?",
+            "answers": ["Annie Hall"],
+            "incorrect1": "Manhattan",
+            "incorrect2": "Hannah and Her Sisters",
+            "incorrect3": "The Purple Rose of Cairo",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This footballer's iconic \"Siuuu!\" celebration, accompanied by a mid-air pirouette and a powerful shout, has become a global phenomenon, imitated by fans and fellow athletes alike. He holds the record for the most goals scored in UEFA Champions League history, a testament to his prolific scoring ability and dominance in European club football. He has won the Ballon d'Or award, given to the world's best player, five times, tied with his rival Lionel Messi. Who is this Portuguese forward, known for his exceptional athleticism and goal-scoring prowess?",
+            "answers": ["Cristiano Ronaldo"],
+            "incorrect1": "Lionel Messi",
+            "incorrect2": "Kylian Mbappé",
+            "incorrect3": "Neymar Jr.",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "In one work by this man, he asked \"why 1963?\" when discussing a revolution and another work by this man included the line \"Injustice anywhere is a threat to justice everywhere.\" This author of Why We Can't Wait argued for illegal acts such as the nonviolent direct action used by his Southern Christian Leadership Conference during their Birmingham Campaign, as well as during his leadership of the Montgomery Bus Boycott. Assassinated by James Earl Ray in Memphis name this Civil Rights leader who gave the \"I Have a Dream\" speech.",
+            "answers": ["Martin Luther King Jr.", "MLK", "MLK Jr."],
+            "incorrect1": "Malcolm X",
+            "incorrect2": "Rosa Parks",
+            "incorrect3": "Frederick Douglass",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "Manacapuru and Obidos are cities along this river that is formed by the confluence of the Ucayli and Maranon rivers. The confluence of the largest blackwater river in the world and this river is located at the Meeting of Waters in the city of Manaus, and it is connected by the Casiquiare canal to the Orinoco River. This river is home to a namesake river dolphin, and the Rio Negro is one of its biggest tributaries. Containing one-fifth of the world's total river flow, making it the world's most voluminous river, is what longest river of South America?",
+            "answers": ["Amazon River"],
+            "incorrect1": "Nile River",
+            "incorrect2": "Mississippi River",
+            "incorrect3": "Yangtze River",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2017 Darien DEFT",
+            "question": "This organ's parenchyma cells produce glucokinase, a catalyst for aerobic respiration. This organ's Ito cells store Vitamin A beneath its endothelial lining, and it also contains large amounts of peroxisomes. This organ is the site of gluconeogenesis, while jaundice results from this organ being unable to metabolize bilirubin. This organ is also responsible for the production of urea from protein catabolism. Bile is produced by what organ that develops cirrhosis from alcohol abuse?",
+            "answers": ["liver"],
+            "incorrect1": "heart",
+            "incorrect2": "lungs",
+            "incorrect3": "kidneys",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2011 SCOP Novice 2",
+            "question": "Galton used this man\"s ideas on human civilization to organize the study of eugenics. His work The Descent of Man discusses human sexual behavior. Captain FitzRoy supported this person during their trip on the HMS Beagle, where he discovered that the beaks of finches on the Galapagos were adapted to different food sources. The author of On the Origin of Species name this English naturalist who pioneered evolution theory and natural selection.",
+            "answers": ["Charles Darwin"],
+            "incorrect1": "Albert Einstein",
+            "incorrect2": "Stephen Hawking",
+            "incorrect3": "Marie Curie",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This neo-noir psychological thriller features a memorable scene where the protagonist, Travis Bickle, stands in front of a mirror, practicing his gun draw and delivering the iconic line, \"You talkin' to me?\"  The film's gritty depiction of urban alienation and violence in 1970s New York City earned it the Palme d'Or at the Cannes Film Festival.  It stars Robert De Niro as a Vietnam veteran turned taxi driver who descends into madness and vigilantism.  What is the title of this 1976 film directed by Martin Scorsese?",
+            "answers": ["Taxi Driver"],
+            "incorrect1": "Raging Bull",
+            "incorrect2": "Goodfellas",
+            "incorrect3": "The Godfather",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2016 Pennsylvania Novice",
+            "question": "In one work by this playwright, a son traps his father inside a house due to that father's addiction to serving as a juror. In addition to The Wasps , another play by this man describes a trek into Hades by Dionysus to retrieve Euripides that is interrupted by some amphibians who serve as the chorus for that play. This playwright also wrote about a group of females who lock themselves in the Acropolis until the Greek men stop fighting. Name this comedic Greek playwright of The Frogs and Lysistrata.",
+            "answers": ["Aristophanes"],
+            "incorrect1": "Sophocles",
+            "incorrect2": "Euripides",
+            "incorrect3": "Aeschylus",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "On October 31, 2024, this rapper was released from jail after he accepted a plea deal for gang-related charges in Georgia. His real name is Jeffery Lamar Williams Jr., but his is known by his stage name. He gained mainstream recognition with his 2014 mixtape \"1017 Thug 3.\"  He popularized the use of high-pitched ad-libs and unconventional vocal inflections, influencing a generation of rappers.  He collaborated with Camila Cabello on the hit song \"Havana,\" showcasing his versatility and crossover appeal.  He is a co-founder of the YSL record label, which has launched the careers of artists like Gunna and Lil Keed.  Who is this Atlanta-based rapper, known for his unique sound and artistic vision?",
+            "answers": ["Young Thug"],
+            "incorrect1": "Gunna",
+            "incorrect2": "Lil Baby",
+            "incorrect3": "Drake",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "A suicide bombing by the Balochistan Liberation Army at the at a railway station in this country killed 27 people. This country, home to the Khyber Pass, a strategic mountain pass that has witnessed the passage of armies and traders for centuries, is the world's fifth-most populous nation. Its bustling port city of Karachi serves as a major economic hub and gateway to the Arabian Sea. It is also home to the ancient Indus Valley Civilization, one of the world's earliest urban civilizations. What is this South Asian nation, known for its rich cultural heritage, diverse landscapes, and passion for cricket?",
+            "answers": ["Pakistan"],
+            "incorrect1": "India",
+            "incorrect2": "Bangladesh",
+            "incorrect3": "Afghanistan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "This man's first senatorial reelection bid was challenged by by Manvel Davis. A product of the Pendergast political machine, this man chaired a namesake committee that investigated waste in arms manufacturing during WWII. He called the legislature at the time of his presidency the \"Do Nothing Congress\", despite Congress passing the Taft-Hartley Act over his veto. As president, he established the containment policy through his namesake doctrine, recognized Israel and desegregated the military. Name this president who was, along with Thomas Dewey, the subject of an erroneous Chicago Tribune headline.",
+            "answers": ["Harry S. Truman"],
+            "incorrect1": "Franklin D. Roosevelt",
+            "incorrect2": "Dwight D. Eisenhower",
+            "incorrect3": "John F. Kennedy",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "The radix and bucket variety of this algorithm can have better run time than other types, and the bogo variety is of the order of n factorial. The selection and insertion varieties are worse in general than one that is named after a data structure that always allows access to the smallest element, a heap. One type involves the splitting of an array into two and then performing the titular operation recursively. Merge and quick name what class of algorithms that output an ordered list or array.",
+            "answers": ["sorting algorithms"],
+            "incorrect1": "search algorithms",
+            "incorrect2": "machine learning algorithms",
+            "incorrect3": "encryption algorithms",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This iconic thriller's suspenseful score, composed by John Williams, features two alternating notes that evoke a sense of impending danger. The film's tagline, \"You'll never go in the water again,\" became a chilling warning that resonated with audiences, impacting beach attendance worldwide.  The film's mechanical shark, nicknamed \"Bruce\" by the crew, was notoriously unreliable, leading director Steven Spielberg to rely on suspense and suggestion to create terror.  What is the title of this 1975 film, which became a summer blockbuster and spawned a series of sequels?",
+            "answers": ["Jaws"],
+            "incorrect1": "Jurassic Park",
+            "incorrect2": "The Exorcist",
+            "incorrect3": "Psycho",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2013 SCOP Novice 4",
+            "question": "This man's \"I am prepared to die\" speech outlined the aims of the armed group Spear of the Nation. He was \"Accused #1\" in the Rivonia Trial, after which he was imprisoned at Robben Island. After his release, this member of the ANC was elected President; he established the Truth and Reconciliation Commission to help heal the wounds of Apartheid. Name this first black President of South Africa, who died in December of 2013.",
+            "answers": ["Nelson Mandela"],
+            "incorrect1": "Mahatma Gandhi",
+            "incorrect2": "Martin Luther King Jr.",
+            "incorrect3": "Desmond Tutu",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2018 SCOP Novice 9",
+            "question": "This state's Sawatch Mountains are home to the Collegiate Peaks, including Mount Harvard, Mount Yale, and Mount Oxford. This state's 58 \"fourteeners,\" or mountains with a peak over 14,000 feet, include Mount Elbert, the tallest point in this state, and a mountain named for a man who failed to climb it, Pikes Peak. Greeley, Fort Collins, and Boulder are cities in what state in the Rocky Mountains that is home to a US Mint in Denver?",
+            "answers": ["Colorado"],
+            "incorrect1": "California",
+            "incorrect2": "Arizona",
+            "incorrect3": "Utah",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This paddle sport, invented in 1965 on Bainbridge Island, Washington, combines elements of tennis, badminton, and ping-pong. It is played on a badminton-sized court with a lowered net, using solid paddles and a perforated plastic ball.  Its unique scoring system, where only the serving team can score points, adds a strategic layer to the game.  It has experienced a surge in popularity in recent years, attracting players of all ages and skill levels.  What is this sport, known for its social and recreational appeal?",
+            "answers": ["Pickleball"],
+            "incorrect1": "Tennis",
+            "incorrect2": "Badminton",
+            "incorrect3": "Ping Pong",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Fall Novice Tournament",
+            "question": "Two of this composer's preludes bear the nicknames \"Devil's Trill\" and \"Raindrop.\" This composer wrote a piece in C minor after a rebellion in his country; that work is the \"Revolutionary\" Etude. This composer of Fantasie-Impromptu also composed a waltz in D flat major more well-known as the Minute Waltz. Name this Polish composer of polonaises, mazurkas, and ballades.",
+            "answers": ["Frederic Chopin"],
+            "incorrect1": "Franz Liszt",
+            "incorrect2": "Claude Debussy",
+            "incorrect3": "Johannes Brahms",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2012 SCOP Novice 3",
+            "question": "German soldiers and a dog named Princess capture the protagonist of this novel as he flees the Battle of the Bulge. Edgar Derby is executed for stealing a teapot in this novel, and Paul Lazzaro commits murder to avenge the death of Roland Weary. The protagonist travels to Tralfamadore and becomes unstuck in time. For 10 point, \"The Children's Crusade\" subtitles this Kurt Vonnegut novel about Billy Pilgrim and the firebombing of Dresden.",
+            "answers": [
+                "Slaughterhouse-Five",
+                "The Children's Crusade: A Duty-Dance with Death"
+            ],
+            "incorrect1": "Catch-22",
+            "incorrect2": "The Things They Carried",
+            "incorrect3": "One Flew Over the Cuckoo's Nest",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Sherrod Brown, a senator from this US state was defeated in the 2024 general election by Bernie Moreno. Mike Dewine currently serves as the governor of this state which is the birthplace of seven U.S. presidents, including Ulysses S. Grant and William McKinley. Its city of Dayton was the home of the Wright brothers, pioneers of aviation who made their first successful flight in 1903. It is also home to the Rock and Roll Hall of Fame in Cleveland, celebrating the history and impact of rock music. What is this Midwestern state, once a key part of the Western Reserve and a major player in the Underground Railroad?",
+            "answers": ["Ohio"],
+            "incorrect1": "Iowa",
+            "incorrect2": "Indiana",
+            "incorrect3": "Illinois",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2020 SCOP A",
+            "question": "Two members of this family partially mortgaged their plantation, Montpelier, to free their son from debtors' prison. During the Burning of Washington, DC, a woman who married into this family instructed Paul Jennings to save a portrait of George Washington. After winning the election of 1808, a member of this family was president during the War of 1812. Name this American political family that included Dolley and the fourth President of the US, James.",
+            "answers": ["Madisons", "Madison family", "James Madison"],
+            "incorrect1": "Monroes",
+            "incorrect2": "Jacksons",
+            "incorrect3": "Adamses",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2020 TAILS",
+            "question": "This leader remarked that \"political power grows out of the barrel of a gun\". This leader also wrote On Guerrilla Warfare after being forced to retreat to the Jinggang Mountains due to the failed Autumn Harvest Uprising. This leader evaded Chiang Kai-shek's pursuits with the Red Army on the Long March. The Cultural Revolution and the Great Leap Forward were launched by what first leader of Communist China?",
+            "answers": ["Mao Zedong", "Mao Tse-Tung", "Chairman Mao"],
+            "incorrect1": "Deng Xiaoping",
+            "incorrect2": "Sun Yat-sen",
+            "incorrect3": "Chiang Kai-shek",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 Darien DEFT",
+            "question": "The ruins of the saltwater Sutro Baths are in the Lands End park in this city. Irving Morrow designed a bridge that connects this city to Marin County. During the 1967 \"Summer of Love,\" one hundred thousand hippies converged on this city's Haight-Ashbury neighborhood. Nob Hill and Telegraph Hill are other neighborhoods in this city that was significantly damaged by a 1906 earthquake and fire. The \"most crooked street in the world,\" Lombard street, is in what city home to Fisherman's Wharf and the Golden Gate Bridge?",
+            "answers": ["San Francisco"],
+            "incorrect1": "Los Angeles",
+            "incorrect2": "San Jose",
+            "incorrect3": "Seattle",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's defense, often referred to as one of the most dominant in NFL history, led them to a Super Bowl XXXV victory in 2001.  Their home stadium, M&T Bank Stadium, is known for its passionate and boisterous crowds, creating a challenging environment for opposing teams.  They have a historic rivalry with the Pittsburgh Steelers, a matchup that often features hard-hitting action and intense competition.  What is the name of this team, whose history includes legendary players like Ray Lewis and Ed Reed?",
+            "answers": ["Baltimore Ravens"],
+            "incorrect1": "Baltimore Orioles",
+            "incorrect2": "Pittsburgh Steelers",
+            "incorrect3": "Washington Commanders",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2014 SCOP Novice 5",
+            "question": "The T2 type of these were labeled with radioactive sulfur and phosphorus in the Hershey-Chase experiment. Latency results when these entities enter a lysogenic cycle. The first discovered one of these causes tobacco mosaic disease, and AZT is a treatment for a widespread retro- one. A protein capsid surrounds these entities, which are unable to reproduce outside a host cell. Name these non-living pathogens, such as influenza and HIV.",
+            "answers": ["viruses", "bacteriophage", "phage"],
+            "incorrect1": "bacteria",
+            "incorrect2": "fungi",
+            "incorrect3": "parasites",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This neo-noir mystery, set in 1930s Los Angeles, features a memorable scene where the protagonist, Jake Gittes, gets his nose sliced open with a switchblade, a symbolic wound that reflects the unraveling of the case and the city's corruption.  The film's complex plot, involving water rights, incest, and murder, is a modern take on classic film noir themes.  It stars Jack Nicholson as a private investigator who gets entangled in a web of deceit and betrayal.  What is the title of this 1974 film directed by Roman Polanski?",
+            "answers": ["Chinatown"],
+            "incorrect1": "Little Italy",
+            "incorrect2": "Koreatown",
+            "incorrect3": "Japantown",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "This structure is divided into Brodmann areas, and develops from the telencephalon. The corpus callosum connects the two hemispheres of this structure, which is divided into temporal, parietal, occipital, and frontal lobes. Name this largest area of the brain, which controls voluntary thoughts and actions.",
+            "answers": [
+                "cerebrum",
+                "cerebral cortex",
+                "neocortex",
+                "forebrain"
+            ],
+            "incorrect1": "cerebellum",
+            "incorrect2": "brainstem",
+            "incorrect3": "hippocampus",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Dave McCormick defeated incumbent senator, Bob Casey from this state in the 2024 election. The state, nicknamed the \"Keystone State\" for its central role in the founding of the United States, is home to the Liberty Bell, a symbol of American independence. Its city of Philadelphia was the nation's first capital and the site of the signing of the Declaration of Independence. It is also where Hershey's chocolate was founded, making it a sweet spot for confectionery enthusiasts. What is this state, known for its Amish communities, rolling farmland, and the historic Gettysburg battlefield?",
+            "answers": ["Pennsylvania"],
+            "incorrect1": "Philadelphia",
+            "incorrect2": "New Jersey",
+            "incorrect3": "Ohio",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2020 SCOP MS 10",
+            "question": "A 1956 revolution in this country targeted Fulgencio Batista and was supported by Che Guevara. A leader of this country finally transferred power to his brother, Ra\u00b4ul, in 2006. The U.S. strengthened an embargo against this country following a 1962 crisis over missiles placed here by the Soviets. Name this country that was led by Fidel Castro from Havana.",
+            "answers": ["Republic of Cuba"],
+            "incorrect1": "Dominican Republic",
+            "incorrect2": "Puerto Rico",
+            "incorrect3": "Haiti",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This comedy film features a protagonist who relives the same day, February 2nd, over and over again, stuck in a time loop in Punxsutawney, Pennsylvania.  The film's protagonist, Phil Connors, played by Bill Murray, is a cynical weatherman who gradually transforms from a self-centered cynic to a compassionate and selfless person.  The film's repetitive nature allows for humorous and creative scenarios, as Phil explores the possibilities and consequences of his time loop.  What is the title of this 1993 film directed by Harold Ramis?",
+            "answers": ["Groundhog Day"],
+            "incorrect1": "Punxsutawney Phil",
+            "incorrect2": "Groundhog",
+            "incorrect3": "February 2nd",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2022 SANDS",
+            "question": "A ritual during this practice sees participants walk around a fire seven times. After this practice has been completed, women apply red sindoor powder to their foreheads along with bindi, a colored red dot. The father gives away his daughter in this practice, during which promises are made to keep a home and raise a family. Vows of love are exchanged during what practice that involves a bride and groom?",
+            "answers": ["Hindu marriage", "Hindu weddings"],
+            "incorrect1": "Jewish marriage",
+            "incorrect2": "Bar mitzvah",
+            "incorrect3": "Catholic marriage",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2017 SCOP MS 7",
+            "question": "Martha Wright and 99 other participants in this event signed the Declaration of Sentiments, which notes that \"all men and women are created equal.\" Lucretia Mott was the featured speaker at this 1848 event in upstate New York, which benefited from Quaker ideals of equality. Name this convention organized by Elizabeth Cady Stanton, a landmark moment in the women's rights movement.",
+            "answers": ["Seneca Falls Convention"],
+            "incorrect1": "Constitutional Convention",
+            "incorrect2": "American Civil Liberties Union",
+            "incorrect3": "First National Women's Rights Convention",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This manage guided the New York Yankees to four World Series titles in five years, solidifying his place in baseball history. Before his success in the Bronx, he managed the Mets, Braves, and Cardinals, experiencing varying levels of success. He famously clashed with George Steinbrenner, the Yankees' fiery owner, but their partnership ultimately yielded remarkable results. He also managed the Los Angeles Dodgers, leading them to two National League Championship Series appearances. Who is this Hall of Fame manager, known for his ability to handle high-pressure situations and manage talented teams?",
+            "answers": ["Joe Torre"],
+            "incorrect1": "Joe Girardi",
+            "incorrect2": "Casey Stengel",
+            "incorrect3": "Tommy Lasorda",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 SCOP MS 10",
+            "question": "Satellites in geostationary orbit are placed directly above this feature and, as a result, don't appear to move in the sky when viewed from the ground. An African country with capital Malabo and a South American country with capital Quito are named for their location on or near this geographical feature. Zero degrees latitude is defined at what imaginary line that separates the Earth into northern and southern hemispheres?",
+            "answers": ["equator"],
+            "incorrect1": "prime meridian",
+            "incorrect2": "Tropic of Cancer",
+            "incorrect3": "Tropic of Capricorn",
+            "used": "TRUE"
+        }
     ]
 ]
