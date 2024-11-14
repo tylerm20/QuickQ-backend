@@ -17526,7 +17526,7 @@
     [
         {
             "category": "Current Events",
-            "question": "A PhD student recently discovered a huge lost city, now being called Valeriana, that was part of this civilization using aerial lidar under forest canopy in Mexico. This civilization developed a sophisticated calendar system that accurately predicted astronomical events like eclipses. Their hieroglyphic writing system, one of the most complex in the ancient world, recorded their history, mythology, and astronomical observations. They constructed impressive cities, such as Tikal and Chich\u00e9n Itz\u00e1, featuring towering pyramids, temples, and palaces. Their civilization flourished in Mesoamerica from around 2000 BCE to the 17th century. Who were these people, known for their advancements in art, architecture, and science?",
+            "question": "A lost city from this civilization was recently discoverd by a PhD student using aerial lidar under forest canopy in Mexico. This civilization developed a sophisticated calendar system that accurately predicted astronomical events like eclipses. Their hieroglyphic writing system, one of the most complex in the ancient world, recorded their history, mythology, and astronomical observations. They constructed impressive cities, such as Tikal and Chich\u00e9n Itz\u00e1, featuring towering pyramids, temples, and palaces. Their civilization flourished in Mesoamerica from around 2000 BCE to the 17th century. Who were these people, known for their advancements in art, architecture, and science?",
             "answers": ["Mayan Civilization"],
             "incorrect1": "Aztec Civilization",
             "incorrect2": "Inca Civilization",
@@ -17545,7 +17545,7 @@
                 "endothermy"
             ],
             "incorrect1": "cold-bloodedness",
-            "incorrect2": "nocturnal",
+            "incorrect2": "nocturnalism",
             "incorrect3": "poikilothermy",
             "used": "TRUE"
         },
