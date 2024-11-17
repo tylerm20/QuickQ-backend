@@ -17810,7 +17810,7 @@
             "category": "Science",
             "source": "2010 Fall Kickoff Tournament (FKT)",
             "question": "The radix and bucket variety of this algorithm can have better run time than other types, and the bogo variety is of the order of n factorial. The selection and insertion varieties are worse in general than one that is named after a data structure that always allows access to the smallest element, a heap. One type involves the splitting of an array into two and then performing the titular operation recursively. Merge and quick name what class of algorithms that output an ordered list or array.",
-            "answers": ["sorting algorithms"],
+            "answers": ["sorting algorithms", "sort", "sorting"],
             "incorrect1": "search algorithms",
             "incorrect2": "machine learning algorithms",
             "incorrect3": "encryption algorithms",
@@ -17934,7 +17934,7 @@
         {
             "category": "Science",
             "source": "2014 SCOP Novice 5",
-            "question": "The T2 type of these were labeled with radioactive sulfur and phosphorus in the Hershey-Chase experiment. Latency results when these entities enter a lysogenic cycle. The first discovered one of these causes tobacco mosaic disease, and AZT is a treatment for a widespread retro- one. A protein capsid surrounds these entities, which are unable to reproduce outside a host cell. Name these non-living pathogens, such as influenza and HIV.",
+            "question": "The T2 type of these were labeled with radioactive sulfur and phosphorus in the Hershey-Chase experiment. Latency results when these entities enter a lysogenic cycle. The first discovered one of these causes tobacco mosaic disease, and AZT is a treatment for a widespread \"retro\" one. A protein capsid surrounds these entities, which are unable to reproduce outside a host cell. Name these non-living pathogens, such as influenza and HIV.",
             "answers": ["viruses", "bacteriophage", "phage"],
             "incorrect1": "bacteria",
             "incorrect2": "fungi",
@@ -17970,7 +17970,7 @@
         },
         {
             "category": "Current Events",
-            "question": "Dave McCormick defeated incumbent senator, Bob Casey from this state in the 2024 election. The state, nicknamed the \"Keystone State\" for its central role in the founding of the United States, is home to the Liberty Bell, a symbol of American independence. Its city of Philadelphia was the nation's first capital and the site of the signing of the Declaration of Independence. It is also where Hershey's chocolate was founded, making it a sweet spot for confectionery enthusiasts. What is this state, known for its Amish communities, rolling farmland, and the historic Gettysburg battlefield?",
+            "question": "The 2024 senate race in this state between Dave McCormick and Bob Casey underwent a mandatory recount. The state, nicknamed the \"Keystone State\" for its central role in the founding of the United States, is home to the Liberty Bell, a symbol of American independence. Its city of Philadelphia was the nation's first capital and the site of the signing of the Declaration of Independence. It is also where Hershey's chocolate was founded, making it a sweet spot for confectionery enthusiasts. What is this state, known for its Amish communities, rolling farmland, and the historic Gettysburg battlefield?",
             "answers": ["Pennsylvania"],
             "incorrect1": "Philadelphia",
             "incorrect2": "New Jersey",
