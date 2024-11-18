@@ -17871,7 +17871,7 @@
         {
             "category": "Arts & Literature",
             "source": "2012 SCOP Novice 3",
-            "question": "German soldiers and a dog named Princess capture the protagonist of this novel as he flees the Battle of the Bulge. Edgar Derby is executed for stealing a teapot in this novel, and Paul Lazzaro commits murder to avenge the death of Roland Weary. The protagonist travels to Tralfamadore and becomes unstuck in time. For 10 point, \"The Children's Crusade\" subtitles this Kurt Vonnegut novel about Billy Pilgrim and the firebombing of Dresden.",
+            "question": "German soldiers and a dog named Princess capture the protagonist of this novel as he flees the Battle of the Bulge. Edgar Derby is executed for stealing a teapot in this novel, and Paul Lazzaro commits murder to avenge the death of Roland Weary. The protagonist travels to Tralfamadore and becomes unstuck in time. \"The Children's Crusade\" subtitles this Kurt Vonnegut novel about Billy Pilgrim and the firebombing of Dresden.",
             "answers": [
                 "Slaughterhouse-Five",
                 "The Children's Crusade: A Duty-Dance with Death"
@@ -17946,8 +17946,8 @@
             "question": "This neo-noir mystery, set in 1930s Los Angeles, features a memorable scene where the protagonist, Jake Gittes, gets his nose sliced open with a switchblade, a symbolic wound that reflects the unraveling of the case and the city's corruption.  The film's complex plot, involving water rights, incest, and murder, is a modern take on classic film noir themes.  It stars Jack Nicholson as a private investigator who gets entangled in a web of deceit and betrayal.  What is the title of this 1974 film directed by Roman Polanski?",
             "answers": ["Chinatown"],
             "incorrect1": "Little Italy",
-            "incorrect2": "Koreatown",
-            "incorrect3": "Japantown",
+            "incorrect2": "Se7en",
+            "incorrect3": "L.A. Confidential",
             "used": "TRUE",
             "source": "Marty Heavey"
         }
@@ -17970,7 +17970,7 @@
         },
         {
             "category": "Current Events",
-            "question": "The 2024 senate race in this state between Dave McCormick and Bob Casey underwent a mandatory recount. The state, nicknamed the \"Keystone State\" for its central role in the founding of the United States, is home to the Liberty Bell, a symbol of American independence. Its city of Philadelphia was the nation's first capital and the site of the signing of the Declaration of Independence. It is also where Hershey's chocolate was founded, making it a sweet spot for confectionery enthusiasts. What is this state, known for its Amish communities, rolling farmland, and the historic Gettysburg battlefield?",
+            "question": "The 2024 senate race in this state between Dave McCormick and Bob Casey is undergoing a mandatory recount. The state, nicknamed the \"Keystone State\" for its central role in the founding of the United States, is home to the Liberty Bell, a symbol of American independence. Its city of Philadelphia was the nation's first capital and the site of the signing of the Declaration of Independence. It is also where Hershey's chocolate was founded, making it a sweet spot for confectionery enthusiasts. What is this state, known for its Amish communities, rolling farmland, and the historic Gettysburg battlefield?",
             "answers": ["Pennsylvania"],
             "incorrect1": "Philadelphia",
             "incorrect2": "New Jersey",
@@ -17981,7 +17981,7 @@
         {
             "category": "World History",
             "source": "2020 SCOP MS 10",
-            "question": "A 1956 revolution in this country targeted Fulgencio Batista and was supported by Che Guevara. A leader of this country finally transferred power to his brother, Ra\u00b4ul, in 2006. The U.S. strengthened an embargo against this country following a 1962 crisis over missiles placed here by the Soviets. Name this country that was led by Fidel Castro from Havana.",
+            "question": "A 1956 revolution in this country targeted Fulgencio Batista and was supported by Che Guevara. A leader of this country finally transferred power to his brother, Raul, in 2006. The U.S. strengthened an embargo against this country following a 1962 crisis over missiles placed here by the Soviets. Name this country that was led by Fidel Castro from Havana.",
             "answers": ["Republic of Cuba"],
             "incorrect1": "Dominican Republic",
             "incorrect2": "Puerto Rico",
@@ -17993,8 +17993,8 @@
             "question": "This comedy film features a protagonist who relives the same day, February 2nd, over and over again, stuck in a time loop in Punxsutawney, Pennsylvania.  The film's protagonist, Phil Connors, played by Bill Murray, is a cynical weatherman who gradually transforms from a self-centered cynic to a compassionate and selfless person.  The film's repetitive nature allows for humorous and creative scenarios, as Phil explores the possibilities and consequences of his time loop.  What is the title of this 1993 film directed by Harold Ramis?",
             "answers": ["Groundhog Day"],
             "incorrect1": "Punxsutawney Phil",
-            "incorrect2": "Groundhog",
-            "incorrect3": "February 2nd",
+            "incorrect2": "Caddyshack",
+            "incorrect3": "Animal House",
             "used": "TRUE",
             "source": "Marty Heavey"
         },
@@ -18020,7 +18020,7 @@
         },
         {
             "category": "Sports",
-            "question": "This manage guided the New York Yankees to four World Series titles in five years, solidifying his place in baseball history. Before his success in the Bronx, he managed the Mets, Braves, and Cardinals, experiencing varying levels of success. He famously clashed with George Steinbrenner, the Yankees' fiery owner, but their partnership ultimately yielded remarkable results. He also managed the Los Angeles Dodgers, leading them to two National League Championship Series appearances. Who is this Hall of Fame manager, known for his ability to handle high-pressure situations and manage talented teams?",
+            "question": "This manager guided the New York Yankees to four World Series titles in five years, solidifying his place in baseball history. Before his success in the Bronx, he managed the Mets, Braves, and Cardinals, experiencing varying levels of success. He famously clashed with George Steinbrenner, the Yankees' fiery owner, but their partnership ultimately yielded remarkable results. He also managed the Los Angeles Dodgers, leading them to two National League Championship Series appearances. Who is this Hall of Fame manager, known for his ability to handle high-pressure situations and manage talented teams?",
             "answers": ["Joe Torre"],
             "incorrect1": "Joe Girardi",
             "incorrect2": "Casey Stengel",
@@ -18036,6 +18036,585 @@
             "incorrect1": "prime meridian",
             "incorrect2": "Tropic of Cancer",
             "incorrect3": "Tropic of Capricorn",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "This technology company was removed from the Dow Jones after 25 years and replaced with a rival, Nvidia. The company, whose iconic \"Inside\" jingle and logo became synonymous with personal computing in the 1990s, was co-founded by Gordon Moore, whose prediction that the number of transistors on a microchip would double approximately every two years became known as Moore's Law. Its first commercially available microprocessor released in 1971, revolutionized the computer industry by packing the power of a room-sized computer onto a single chip. What is the name of this tech giant, headquartered in Santa Clara, California?",
+            "answers": ["Intel"],
+            "incorrect1": "AMD",
+            "incorrect2": "Nvidia",
+            "incorrect3": "Qualcomm",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This HBO drama series, created by Damon Lindelof, explores the aftermath of a global event known as the \"Sudden Departure,\" where 2% of the world's population inexplicably vanishes. The series follows the Garvey family and other residents of Mapleton, New York, as they grapple with grief, uncertainty, and the search for meaning in a world forever changed.  What is the name of this critically acclaimed series, known for its exploration of faith, loss, and the human condition?",
+            "answers": ["The Leftovers"],
+            "incorrect1": "Lost",
+            "incorrect2": "The Walking Dead",
+            "incorrect3": "Breaking Bad",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "Jake Paul, the popular YouTuber turned boxer, fought this former boxing champion on November 15. This boxer's infamous bite of Evander Holyfield's ear during their 1997 rematch resulted in his disqualification and a temporary suspension from boxing. He became the youngest heavyweight champion in history at the age of 20, knocking out Trevor Berbick in the second round.  His ferocious fighting style and intimidating persona earned him the nickname \"Iron Mike.\" He has also appeared in films like \"The Hangover\" and \"Ip Man 3,\" showcasing his personality and acting skills. Who is this legendary boxer, known for his powerful punches and controversial career?",
+            "answers": ["Mike Tyson"],
+            "incorrect1": "Muhammad Ali",
+            "incorrect2": "Evander Holyfield",
+            "incorrect3": "George Foreman",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2013 SCOP Novice 4",
+            "question": "The town of Moshi lies on the south slopes of this mountain, which Douglas Adams climbed in a rhino suit for charity. The highest of this mountain's three cones, Kibo Peak, is a dormant volcano that has lost a significant portion of its ice cap in recent years. It is located roughly 300 miles southeast of Lake Victoria on the border between Kenya and Tanzania. Name this tallest mountain in Africa.",
+            "answers": ["Mount Kilimanjaro"],
+            "incorrect1": "Mount Kenya",
+            "incorrect2": "Mount Everest",
+            "incorrect3": "Mount Denali",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 SCOP MS 7",
+            "question": "In the Arabian Nights, Sinbad collects diamonds from an island inhabited by enormous ones of these animals called rocs, and later steals one of their eggs. Chanticleer is one of these creatures in French folklore, and a mythical animal of this type is a phoenix. Name this family of animals, exemplified by Chicken Little.",
+            "answers": ["birds", "aves", "avians"],
+            "incorrect1": "bats",
+            "incorrect2": "reptiles",
+            "incorrect3": "mammals",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2017 SCOP Novice 8",
+            "question": "John Crerar founded a library in this city, whose urban planning was done by Daniel Burnham. August Spies was executed in this city for his supposed role in the Haymarket Square bombing. In this city, H.H. Holmes operated a \"murder castle\" at a hotel built for the 1893 Columbian Exposition; that event also featured the first Ferris Wheel. In 1871, Mrs O'Leary's cow legendarily started a \"Great\" fire in what largest city of Illinois?",
+            "answers": ["Chicago"],
+            "incorrect1": "New York City",
+            "incorrect2": "Los Angeles",
+            "incorrect3": "Houston",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2010 Fall Novice Tournament",
+            "question": "In Euler's formula, this function is multiplied by i. This function's namesake wave is integral to Fourier analysis and represents constant, periodic oscillations. On the unit circle, this function is positive in the first and second quadrants. Additionally, this function is used to represent the y-value of a unit circle arc. Identify this trigonometric function that is the inverse of cosecant and, for a right triangle, gives the ratio of the opposite side over the hypotenuse.",
+            "answers": ["sine", "sin"],
+            "incorrect1": "cosine",
+            "incorrect2": "tangent",
+            "incorrect3": "cotangent",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2015 SAGES",
+            "question": "Many people in this country speak Tagalog. Major natural disasters that occurred here include Typhoon Haiyan and the eruption of Mt. Pinatubo. This country was named after a Spanish king even though it is in Asia. Name this country with capital at Manila.",
+            "answers": ["The Philippines"],
+            "incorrect1": "Indonesia",
+            "incorrect2": "Malaysia",
+            "incorrect3": "Vietnam",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2020 SCOP A",
+            "question": "In 1928, this man founded a namesake rubber plantation in the Amazon rainforest that was abandoned within six years. This man published anti-Semitic articles in The Dearborn Independent. Adolf Hitler kept a picture of this man, who improved his public standing by offering a revolutionary five-dollars-per-day wage at his factories in Detroit. Name this businessman whose assembly lines churned out millions of Model T cars.",
+            "answers": ["Henry Ford"],
+            "incorrect1": "Thomas Edison",
+            "incorrect2": "Nikola Tesla",
+            "incorrect3": "Alexander Graham Bell",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL team's teal and black color scheme, a bold choice in the 1990s, reflects the vibrant energy of their coastal home city.  Their mascot, Jaxson de Ville, is a jaguar known for his daring stunts, including bungee jumping off the stadium lights.  They made a surprising run to the AFC Championship game in 1996, their second season in the league, led by quarterback Mark Brunell.  Their home stadium, TIAA Bank Field, features a unique pool area where fans can watch the game while taking a dip.  What is the name of this team, based in Jacksonville, Florida?",
+            "answers": ["Jacksonville Jaguars", "Jaguars", "Jags"],
+            "incorrect1": "Jacksonville Sharks",
+            "incorrect2": "Tampa Bay Buccaneers",
+            "incorrect3": "Miami Dolphins",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This band's album cover art, often featuring iconic figures from film and literature, included images of James Dean, Truman Capote, and Viv Nicholson. Their melancholic lyrics, coupled with Johnny Marr's jangly guitar melodies, captured the angst and alienation of youth in 1980s Britain. Their song \"This Charming Man\" became an anthem for the disaffected, with its witty lyrics and catchy chorus.  Despite their relatively short lifespan, disbanding in 1987, their influence on indie and alternative rock is undeniable. What is the name of this influential Manchester band, fronted by Morrissey?",
+            "answers": ["The Smiths"],
+            "incorrect1": "The Cure",
+            "incorrect2": "Joy Division",
+            "incorrect3": "New Order",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "Justin Welby announced his resignation from this position as a result of the John Smyth abuse scandal in the Church of England. This religious figure, the most senior bishop in the Church of England, resides in Lambeth Palace in London and holds the title of Primate of All England.  They are responsible for the spiritual leadership of the Church of England and play a prominent role in national ceremonies and events.  They are appointed by the British monarch on the advice of the Prime Minister, following a selection process by a Crown Nominations Commission. Who is this high-ranking figure in the Anglican Communion?",
+            "answers": ["Archbishop of Canterbury"],
+            "incorrect1": "Pope",
+            "incorrect2": "Cardinal",
+            "incorrect3": "Bishop of London",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 ERIS",
+            "question": "The highest peak of this peninsula is Mount Baekdu, and this peninsula's northern boundary is demarcated by the Yalu River. At the 2018 Winter Olympics, the two countries on this peninsula fielded a unified women's hockey team. The DMZ separates the Northern and Southern halves of what peninsula in Asia that contains the cities of Pyongyang and Seoul?",
+            "answers": ["Korean peninsula", "Hanbando", "Hanguk", "Choson"],
+            "incorrect1": "Indochina peninsula",
+            "incorrect2": "Malay peninsula",
+            "incorrect3": "Iberian peninsula",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2018 SCOP Novice 9",
+            "question": "Particles emitted by the eruption of Krakatoa inspired this painting's warm, monochromatic background. In the background of this painting, shadowy boat masts float on the swirling blue and yellow water of Oslo Harbor. Two dark figures walk together on the far left side of this painting, next to a railing and behind a tortured central figure. Name this painting by Norwegian artist Edvard Munch, in which a bald figure raises its hands to its head and opens its mouth wide.",
+            "answers": ["The Scream", "Skrik", "Der Schrei der Natur"],
+            "incorrect1": "The Starry Night",
+            "incorrect2": "Guernica",
+            "incorrect3": "The Kiss",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2020 TAILS",
+            "question": "The rotational analog of mass is the \"moment of\" this property. This word describes reference frames in which objects do not accelerate without force acting on them. Newton's first law of motion, also known as the law of this property, states that objects remain in their current state of motion unless acted on by an external force. Name this property of matter which causes objects to resist changes in velocity.",
+            "answers": ["inertia"],
+            "incorrect1": "momentum",
+            "incorrect2": "velocity",
+            "incorrect3": "acceleration",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2016 PLATO",
+            "question": "The Greek philosopher Democritus suggested these existed, and provided them a name that meant \"uncuttable\" in Greek. The plum\u00adpudding model tried to explain these, but a later discovery of the positively\u00adcharged nucleus of these things disproved that model. There are three of these things in a molecule of water; two of hydrogen and one of oxygen. Name this basic unit of every chemical element.",
+            "answers": ["atoms"],
+            "incorrect1": "molecules",
+            "incorrect2": "protons",
+            "incorrect3": "electrons",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2020 MOQBA Novice",
+            "question": "A trio of exotic dances in this ballet's second act representing chocolate, tea, and coffee has received scrutiny for its cultural insensitivity. This ballet's notable use of the celesta required its composer to smuggle one in from Germany. In this ballet, a little girl is able to use her slipper to ward off the nefarious Mouse King. In this ballet based on an E.T.A. Hoffman short story, Clara receives the title object from the mysterious Herr Drosselmeyer. Name this Tchaikovsky ballet which features the Dance of the Sugar Plum Fairy, commonly performed during Christmas.",
+            "answers": ["The Nutcracker", "Shchelkunchik"],
+            "incorrect1": "Swan Lake",
+            "incorrect2": "The Sleeping Beauty",
+            "incorrect3": "Cinderella",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 SCOP Novice 8",
+            "question": "Off the southwest coast of this island, the Great Skelling island is home to an abandoned monastery. Port cities on this island include Kinsale and Galway, while Drogheda lies on the River Boyne five miles inland from a sea named for this island. Hibernia was the Latin name for this island, where a political division created a Northern country with capital Belfast. Name this \"Emerald Isle\" that is home to Dublin, east of Great Britain.",
+            "answers": ["Ireland", "Northern Ireland"],
+            "incorrect1": "Iceland",
+            "incorrect2": "Greenland",
+            "incorrect3": "Scotland",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2012 SCOP Novice 3",
+            "question": "The Biot-Savart law calculates a magnetic field induced by this quantity, of which sums in and out of nodes are equal according to Kirchhoff's junction rule. Inductance measures a material's opposition to changes in this quantity, and power equals voltage times it. This equals voltage divided by resistance, and conventionally is measured in the direction of positive charge. Name this quantity measured in amperes.",
+            "answers": ["electric current"],
+            "incorrect1": "voltage",
+            "incorrect2": "resistance",
+            "incorrect3": "power",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2022 KICKOFF Novice",
+            "question": "In this city, sailors fought groups of Mexican-Americans in the Zoot Suit Riots. In this city, Marquette Frye was hit with a baton in the Watts neighborhood. Korean-owned businesses were targeted during riots in this city, despite a man pleading \"can't we all just get along?\" In this city, four police officers were filmed beating Rodney King. Name this city in Southern California, the second-largest in the United States.",
+            "answers": ["Los Angeles", "LA"],
+            "incorrect1": "San Francisco",
+            "incorrect2": "New York City",
+            "incorrect3": "Chicago",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This Senator, currently serving as the senate majority leader, will cede his position to John Thune in January 2025. He is the longest-service senator from the state of Kentucky, first elected in 1985. He is the longest-serving Senate party leader in U.S. history, serving as both minority leader and majority leader for the Republican Party. Name this former attorney, the senior senator from Kentucky, who will retire at the end of his term.",
+            "answers": ["Mitch McConnell"],
+            "incorrect1": "Matt Gaetz",
+            "incorrect2": "Chuck Schumer",
+            "incorrect3": "Elizabeth Warren",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This football manager, nicknamed \"Le Professeur\" for his intellectual approach to the game, holds the record for the most FA Cup titles, with seven victories to his name. He managed Arsenal for 22 years, from 1996 to 2018, transforming the club into a Premier League powerhouse. He introduced innovative training methods and a focus on attacking football, leading to an undefeated Premier League season in 2003-04, a feat that earned the team the nickname \"The Invincibles.\" Who is this influential manager, known for his long tenure with Arsenal and his impact on English football?",
+            "answers": ["Ars\u00e8ne Wenger", "arsene wenger"],
+            "incorrect1": "Sir Alex Ferguson",
+            "incorrect2": "Jose Mourinho",
+            "incorrect3": "Pep Guardiola",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "In the 2012 Olympics, this country's team walked out of a soccer match against Colombia when the wrong flag was displayed on screen. In April 2012, this country failed to launch a satellite when their rocket's second stage did not ignite. Two journalists were detained here in 2009, but were released after a visit by Bill Clinton. An international incident in 2010 was caused by an artillery exchange between this country and its southern neighbor over the island of Yeonpyeong, the most serious military skirmish since a 1953 peace treaty. Name this country whose Supreme Leader is Kim Jong Un, who took over in 2011 after Kim Jong Il died of a heart attack.",
+            "answers": ["North Korea", "Democratic People's Republic of Korea"],
+            "incorrect1": "South Korea",
+            "incorrect2": "China",
+            "incorrect3": "Japan",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This groundbreaking nature documentary series, narrated by David Attenborough, captivated audiences with its stunning footage of diverse ecosystems and wildlife from around the world. Its innovative filming techniques, including high-definition cameras and aerial shots, captured breathtaking scenes of animals in their natural habitats. The series' first episode, \"From Pole to Pole,\" showcased the planet's diverse environments, from the frozen Arctic to the lush Amazon rainforest. What is the name of this BBC series, which has become a benchmark for nature documentaries and raised awareness about the wonders and fragility of the natural world?",
+            "answers": ["Planet Earth"],
+            "incorrect1": "Man vs. Wild",
+            "incorrect2": "The Great Outdoors",
+            "incorrect3": "Man on the Moon",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This open-world role-playing game allows players to choose their own path, whether it's joining the Imperial Legion, siding with the Stormcloak rebellion, or becoming a master thief in the Thieves Guild. Players can master a variety of skills, including archery, smithing, and enchanting, to enhance their character's abilities.  The game's iconic dragon shouts, powerful vocal attacks learned from ancient dragons, add a unique element to combat.  What is the name of this critically acclaimed game, the fifth installment in The Elder Scrolls series?",
+            "answers": ["Skyrim"],
+            "incorrect1": "Oblivion",
+            "incorrect2": "Morrowind",
+            "incorrect3": "Fallout",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA team's iconic teal and purple color scheme, a hallmark of the 1990s, was revived in 2014, bringing back a nostalgic feel for fans who remember the franchise's early days. They were originally established as an expansion team in 1988, led by young stars Larry Johnson and Alonzo Mourning.  Their home arena, the Spectrum Center, is located in the heart of downtown Charlotte and has hosted NBA All-Star games.  What is the name of this team, whose history includes a brief relocation to New Orleans before returning to Charlotte in 2004?",
+            "answers": ["Charlotte Hornets", "Hornets"],
+            "incorrect1": "New Orleans Bobcats",
+            "incorrect2": "New Orleans Pelicans",
+            "incorrect3": "Memphis Grizzlies",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2016 Pennsylvania Novice",
+            "question": "Vitamin B12 deficiency causes these cells to become megaloblasts, which are unusually large immature versions of them. Pulse oximeters measure the absorbance of an important protein in these cells, which can bind extremely tightly to carbon monoxide. Erythropoietin controls the production of these cells in the bone marrow. These cells, which lack nuclei, are shaped incorrectly in sickle\u00adcell anemia. Name these cells that contain hemoglobin, which make up almost half of the cells in blood.",
+            "answers": ["red blood cells", "RBCs", "rythrocytes"],
+            "incorrect1": "white blood cells",
+            "incorrect2": "platelets",
+            "incorrect3": "plasma",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 MOQBA Novice",
+            "question": "This city is home to a Norman Foster-designed commercial skyscraper formerly known as the Swiss Re Building, nicknamed \"The Gherkin.\" Another skyscraper in this city designed by Renzo Piano is 95 stories tall and nicknamed \"The Shard.\" Inigo Jones was among the architects involved in the design of this city's St. Paul's Cathedral, which sits on Ludgate Hill. A building sometimes referred to as the \"Inside-Out Building\" in this city is home to an insurance company known as Lloyd's of this city. Westminster Abbey is located in what capital of England?",
+            "answers": ["London"],
+            "incorrect1": "Paris",
+            "incorrect2": "Rome",
+            "incorrect3": "Berlin",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "One leader of this polity gave the \"Tryst with Destiny\" speech and later, alongside Tito and Nasser, co-founded the Non-Aligned Movement. Another leader from this country led Operation Bluestar, which led to hundreds of deaths in the Golden Temple of Amritsar. One notable resident of this nation taught satyagraha and led a salt march in opposition to the British government, which granted this nation independence in 1947 along with Pakistan. Identify this Asian nation once led by Jawaharlal Nehru and Indira Ghandi.",
+            "answers": ["Republic of India", "India"],
+            "incorrect1": "People's Republic of China",
+            "incorrect2": "Islamic Republic of Pakistan",
+            "incorrect3": "Federal Democratic Republic of Nepal",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This historic landmark is reopening to the public for the first time after a fire in 2019. This iconic cathedral, ravaged by a devastating fire in 2019 that destroyed its spire and roof, is renowned for its stunning stained-glass rose windows, intricate stonework, and imposing gargoyles. Located on the \u00cele de la Cit\u00e9 in Paris, it has served as a symbol of French culture and history for over 850 years.  Its construction began in the 12th century, showcasing Gothic architectural styles.  It is home to numerous religious relics, including the Crown of Thorns believed to have been worn by Jesus Christ. Name this cathedral which is the setting of a famous novel with a \"Hunchback.\"",
+            "answers": ["Notre Dame", "notre dame cathedral"],
+            "incorrect1": "The Louvre",
+            "incorrect2": "The Eiffel Tower",
+            "incorrect3": "The Colosseum",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 SCOP Novice 8",
+            "question": "This creature is told \"Still, thou art blest, compared wi' me!\" because it cannot lament the past or fear the future. The speaker of a 1785 poem calls this \"fellow-mortal\" creature a \"wee, sleeket, cowran, tim'rous beastie,\" and uses the phrase \"gang aft agley,\" which is often translated from Scottish as \"often goes awry.\"Name this rodent subject of a Robert Burns poem that remarks on \"the best laid plans o'\" these creatures \"an' men.\"",
+            "answers": ["mouse", "mice", "To a Mouse"],
+            "incorrect1": "rat",
+            "incorrect2": "hamster",
+            "incorrect3": "squirrel",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2016 PLATO",
+            "question": "This two\u00adminute speech followed a much longer one by Edward Everett. It claims that \"we are engaged in a great civil war... (to test) whether that nation or any nation so conceived and so dedicated can long endure.\" This speech stated its speaker's goal that \"government for the people, by the people, shall not perish from this earth.\" Name this famous speech on a battlefield by Abraham Lincoln which begins \"Four score and seven years ago.\"",
+            "answers": ["Gettysburg Address"],
+            "incorrect1": "Emancipation Proclamation",
+            "incorrect2": "Declaration of Independence",
+            "incorrect3": "U.S. Constitution",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This classic coming-of-age comedy features a memorable scene where the protagonist, feigning illness to skip school, lip-syncs \"Twist and Shout\" on a parade float in downtown Chicago. The film's witty narration and breaking of the fourth wall, with the protagonist directly addressing the audience, add to its charm and humor. The film's antagonist, Principal Ed Rooney, played by Jeffrey Jones, becomes increasingly determined to catch the protagonist in his deception, leading to hilarious situations. What is the title of this 1986 film directed by John Hughes?",
+            "answers": ["Ferris Bueller's Day Off"],
+            "incorrect1": "The Breakfast Club",
+            "incorrect2": "Sixteen Candles",
+            "incorrect3": "Weird Science",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL team, whose iconic \"Monsters of the Midway\" defense led them to a dominant Super Bowl XX victory in 1985, holds the record for the most enshrinees in the Pro Football Hall of Fame. Their classic navy blue and orange uniforms, with the distinctive \"C\" logo on their helmets, are instantly recognizable symbols of the franchise. Their home stadium, Soldier Field, is the oldest stadium in the NFL and sits on the shores of Lake Michigan. What is the name of this team, whose history includes legendary players like Walter Payton and Dick Butkus?",
+            "answers": ["Chicago Bears", "Bears"],
+            "incorrect1": "Chicago Bulls",
+            "incorrect2": "Green Bay Packers",
+            "incorrect3": "Detroit Lions",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2016 PLATO",
+            "question": "Made up of what is left over of Lake Bonneville, the lake is now fed by the Weber River, the Bear River, and the Jordan River. This lake has both brine shrimp and brine flies, but does not have any fish species living in it. The winter winds blowing over this lake create significant snowfall to its east, including in a capital named for this lake. Name this landmark lake found near the capital of the state of Utah.",
+            "answers": ["Great Salt Lake"],
+            "incorrect1": "Lake Superior",
+            "incorrect2": "Lake Michigan",
+            "incorrect3": "Salton Sea",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "A vehicle-ramming attach in this nation killed 35 people. The country is birthplace of inventions like paper, gunpowder, and the compass, which have had a profound impact on human civilization. This country, home to the Great Wall, a vast fortification spanning over 13,000 miles, boasts the world's largest population, with over 1.4 billion people.  Its capital city, Beijing, has hosted the Summer Olympics twice, in 2008 and 2022.  What is this East Asian nation, known for its rich history, diverse culture, and rapidly growing economy?",
+            "answers": ["China", "PRC", "People's Republic of China"],
+            "incorrect1": "Japan",
+            "incorrect2": "India",
+            "incorrect3": "Russia",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2012 SCOP Novice 3",
+            "question": "After this man loses a case to a group including Anytus and Lycon, this man ironically suggests he be given free meals in the Prytaneum. He notes that the unexamined life is not worth living and is accused of atheism by Meletus. This man's trial and conviction for corrupting the youth of Athens are described in the Apology by Plato. Name this Ancient Greek philosopher who was sentenced to death by drinking hemlock.",
+            "answers": ["Socrates"],
+            "incorrect1": "Plato",
+            "incorrect2": "Aristotle",
+            "incorrect3": "Confucius",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "Grignard reagents can react with carbonyl groups to form these compounds. Their primary type can be oxidized to aldehydes and then to carboxylic acids, but their secondary type normally terminates the process at the ketone stage. In Fischer esterification, they are reacted with carboxylic acid to form the namesake compounds. Having a general formula of C-n-H-2n-plus-1-O-H identify these organic compounds in which a hydroxyl group is bound to a carbon atom that include methanol and ethanol.",
+            "answers": ["alcohols"],
+            "incorrect1": "aldehydes",
+            "incorrect2": "ketones",
+            "incorrect3": "carboxylic acids",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "One book by this author sees Max Ophuls, a United States ambassador to India murdered by the title character, who is skilled at the tightrope, Shalimar the Clown. Another book by this author features Saleem, who is telepathic and was born at the exact time of India's independence. In addition to writing Midnight's Children, a fatwa was issued against this man for writing a book concerning Gibreel and Saladin, who find themselves on a hijacked airplane. Name this British-Indian author of The Satanic Verses.",
+            "answers": ["Salman Rushdie", "Sir Ahmed Salman Rushdie"],
+            "incorrect1": "V.S. Naipaul",
+            "incorrect2": "Arundhati Roy",
+            "incorrect3": "Zadie Smith",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2010 SCOP Novice",
+            "question": "This President served during the Arbuthnot-Ambrister affair and appointed Roger Taney to the Supreme Court. The Peggy Eaton affair rocked his cabinet, nicknamed the \"kitchen cabinet.\" He killed the Nicholas Biddle-led Second Bank of the U.S. with the Specie Circular and signed the Indian Removal Act. Nicknamed \"Old Hickory,\" name this man, who left Martin Van Buren the Panic of 1837, the seventh U.S. President.",
+            "answers": ["Andrew Jackson"],
+            "incorrect1": "Thomas Jefferson",
+            "incorrect2": "James K. Polk",
+            "incorrect3": "Martin Van Buren",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2021 SCOP B",
+            "question": "Nancy Sch\u00a8on designed a set of sculptures for this city's Public Garden to commemorate the Robert McClosky children's book Make Way for Ducklings. Frederick Law Olmstead designed this city's Emerald Necklace, which includes a Common near this city's Financial District. This city's Back Bay contains the poorly-designed John Hancock Tower. Kenmore Square is near the oldest American baseball park in what Massachusetts city whose Fenway Park is home to the Red Sox?",
+            "answers": ["Boston"],
+            "incorrect1": "New York City",
+            "incorrect2": "Philadelphia",
+            "incorrect3": "Chicago",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2021 CERES",
+            "question": "This man's roommate, who fought in the Second Anglo-Afghan War, is disdainful of his strong addictions to opiates. This man met Irene Adler, the only woman to beat him in a battle of wits, in the story \"A Scandal in Bohemia\". This man dies in combat with his rival Professor Moriarty at the Reichenbach Falls. Name this detective created by Arthur Conan Doyle and accompanied by John Watson.",
+            "answers": ["Sherlock Holmes", "Sherlock", "Holmes"],
+            "incorrect1": "Hercule Poirot",
+            "incorrect2": "Miss Marple",
+            "incorrect3": "James Bond",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This band's iconic tongue and lips logo, designed by artist John Pasche in 1971, has become a symbol of rock and roll rebellion and enduring popularity. Their 1969 album, Let It Bleed, featuring tracks like \"Gimme Shelter\" and \"You Can't Always Get What You Want,\" captured the tumultuous spirit of the era.  Their legendary guitarist, Keith Richards, known for his distinctive riffs and swaggering stage presence, has become a rock icon in his own right.  They have released 30 studio albums and countless hit singles. What is the name of this British rock band, whose career has spanned over six decades?",
+            "answers": ["The Rolling Stones"],
+            "incorrect1": "The Beatles",
+            "incorrect2": "Led Zeppelin",
+            "incorrect3": "The Who",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "President Elect Donald Trump announced the formation of this agency to be led by Vivek Ramaswamy and Elon Musk. It's acronym shares its name with a notorious cryptocurrency with a Shiba Inu mascot. Despite its name, it is not expected to be a federal executive department and its formation is not expected to require approval from the U.S. Congress. Name this proposed presidential advisory commission that Trump claims could save the government $2 trillion.",
+            "answers": ["Department of Government Efficiency", "DOGE"],
+            "incorrect1": "Department of Education",
+            "incorrect2": "Department of Advisement",
+            "incorrect3": "Council of Elders",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2020 SCOP MS 10",
+            "question": "After a 1895 Supreme Court case briefly struck down this policy, a 1913 Constitutional amendment made it legal. Florida and Nevada are two of seven states that don't use this policy, whose introduction reduced the importance of tariffs for federal government revenue. The Sixteenth Amendment authorized what type of tax that is reported on IRS Form 1040 and which taxes money made by the taxpayer?",
+            "answers": ["income tax"],
+            "incorrect1": "sales tax",
+            "incorrect2": "property tax",
+            "incorrect3": "payroll tax",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2012 SCOP Novice 3",
+            "question": "This phylum's class Anthozoa is mostly sessile. Its class Cubozoa includes the deadly sea wasp. Members of this phylum have a jelly-like layer called the mesoglea. This phylum's polyp body plan is exhibited by hydras. This phylum's name is derived from the name of its harpoon-like stinging cells. Name this radially-symmetric invertebrate phylum that includes corals and jellyfish.",
+            "answers": ["Cnidaria", "Cnidarians", "Coelenterata"],
+            "incorrect1": "Arthropoda",
+            "incorrect2": "Mollusca",
+            "incorrect3": "Echinodermata",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2017 Darien DEFT",
+            "question": "The dog Pompey allegedly stopped the attempted assassination of a leader of this country, whose Sea Beggars seized the port of Brielle. The iconoclast Beeldenstorm took place in this country where the Bourse stock exchange was established for the United East India Company. A tulip bubble occurred in this country led by the stadtholder William of Orange in the Eighty Years' War. Dikes allowed polders to be reclaimed from the sea in this Low Country. Name this country with capital Amsterdam.",
+            "answers": ["Netherlands", "Holland"],
+            "incorrect1": "Denmark",
+            "incorrect2": "Germany",
+            "incorrect3": "Belgium",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This manager, known for his fiery temper and record-setting 159 ejections throughout his career, led the Atlanta Braves to an unprecedented 14 consecutive division titles from 1991 to 2005.  He managed the Toronto Blue Jays and Atlanta Braves, winning a World Series title with the Braves in 1995.  He was inducted into the Baseball Hall of Fame in 2011, alongside fellow Braves legends Greg Maddux and Tom Glavine.  Who is this manager, known for his calm demeanor and strategic brilliance?",
+            "answers": ["Bobby Cox"],
+            "incorrect1": "Joe Torre",
+            "incorrect2": "Tony La Russa",
+            "incorrect3": "Sparky Anderson",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2016 Pennsylvania Novice",
+            "question": "Emergency Manager Ed Kurtz urged this city to join the KWA, which led to breaking off an agreement with the DWSD. Mona Hanna\u00adAttisha led a 2015 study at the Hurley Medical Center in this city that was initially dismissed by the Department of Environmental Quality. This Genesee County city also experienced an outbreak of Legionnaires' Disease after switching to drawing water from its namesake river instead of from Detroit. Name this Michigan city whose water supply was found in 2015 to have dangerous levels of lead.",
+            "answers": ["Flint"],
+            "incorrect1": "Detroit",
+            "incorrect2": "Grand Rapids",
+            "incorrect3": "Lansing",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2018 MVS RAMS",
+            "question": "This artist depicted seven men in white collars observing the title physician in one work; that work also depicts a cadaver with exposed arm muscles and is titled The Anatomy Lesson of Dr. Nicolaes Tulp. This artist is also known for his series of self-portraits, including one \"with two circles\" and one with \"beret and turned-up collar.\" In this artist's best-known work, a dog barks at a drummer on the far right of the canvas, and a red sash is worn by Captain Frans Banning Cocq, the leader of the title militia. Name this Dutch artist of The Night Watch.",
+            "answers": ["Rembrandt Harmenszoon van Rijn", "Rembrandt"],
+            "incorrect1": "Vincent van Gogh",
+            "incorrect2": "Johannes Vermeer",
+            "incorrect3": "Peter Paul Rubens",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This comedic news organization announced this week that it had won a bid to buy Infowars, the website founded by the conspiracy theorist Alex Jones, out of bankruptcy. The satirical news website, known for its outlandish headlines and deadpan humor, once published a story claiming that \"Diamondbacks\" was the most badass name a baseball team could have. It was founded in 1988 by two University of Wisconsin-Madison students, Tim Keck and Christopher Johnson. Its name is a nod to the humble vegetable that was reportedly the only food the founders could afford when they started the publication. What is the name of this website, whose tagline is \"Tu Stultus Es,\" Latin for \"You Are Dumb\"?",
+            "answers": ["The Onion"],
+            "incorrect1": "The New York Times",
+            "incorrect2": "The Wall Street Journal",
+            "incorrect3": "Click Hole",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This classic Western film, based on the true story of two legendary outlaws, features a memorable scene where the protagonists jump off a cliff into a raging river to escape a posse.  The film's iconic theme song, \"Raindrops Keep Fallin' on My Head,\" sung by B.J. Thomas, won an Academy Award for Best Original Song.  The film stars Paul Newman and Robert Redford as the charismatic leaders of the Hole-in-the-Wall Gang.  The film's ending, with the protagonists facing a Bolivian army regiment in a final shootout, leaves their fate ambiguous.  What is the title of this 1969 film directed by George Roy Hill?",
+            "answers": ["Butch Cassidy and the Sundance Kid"],
+            "incorrect1": "Bonnie and Clyde",
+            "incorrect2": "Thelma & Louise",
+            "incorrect3": "Wild Bunch",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2017 SCOP Novice 8",
+            "question": "The goal of this policy was supported in Horace Greeley's \"The Prayer of Twenty Million.\" New Orleans and recently-occupied Tennessee were excluded from this policy, as it only applied to territory in rebellion. This war measure was announced after the Union victory at Antietam, and it was bolstered by the Thirteenth Amendment after the Civil War. Abraham Lincoln issued what executive order that freed slaves in the South?",
+            "answers": ["Emancipation Proclamation", "Emancipation"],
+            "incorrect1": "Declaration of Independence",
+            "incorrect2": "Gettysburg Address",
+            "incorrect3": "13th Amendment",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2021 CERES",
+            "question": "This ruler invited scholars like Einhard and Alcuin of York to his court as part of a period of cultural revival called his dynasty's \"Renaissance.\" This son of Pepin the Short was the grandson of Charles Martel, the founder of the Carolingian dynasty. On Christmas Day in 800, Pope Leo III crowned this ruler as Holy Roman Emperor. Name this medieval-era Frankish ruler who united most of Western Europe.",
+            "answers": [
+                "Charlemagne",
+                "Charles the Great",
+                "Carolus Magnus",
+                "Charles I"
+            ],
+            "incorrect1": "Charles Martel",
+            "incorrect2": "Pepin the Short",
+            "incorrect3": "Louis XIV",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This sport's scoring system, with its unique terminology of \"love,\" \"15,\" \"30,\" and \"40,\" has puzzled newcomers for centuries.  Its four major tournaments, held in Melbourne, Paris, London, and New York, are known as the Grand Slams and represent the pinnacle of achievement in the sport.  The sport's origins can be traced back to 12th-century France, where it was played as a hand-ball game called jeu de paume.  What is this racquet sport, known for its fast-paced rallies, strategic shot-making, and iconic players like Serena Williams and Roger Federer?",
+            "answers": ["Tennis"],
+            "incorrect1": "Badminton",
+            "incorrect2": "Squash",
+            "incorrect3": "Pickleball",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2015 SAGES",
+            "question": "A special form of the endoplasmic reticulum stores this element, which is used for muscle contraction. Limestone is this element's carbonate. This element is needed for strengthening bones and can be obtained by drinking milk. Name this element symbolized Ca.",
+            "answers": ["calcium"],
+            "incorrect1": "potassium",
+            "incorrect2": "magnesium",
+            "incorrect3": "sodium",
             "used": "TRUE"
         }
     ]
