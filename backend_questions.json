@@ -18125,7 +18125,7 @@
         {
             "category": "US History",
             "source": "2020 SCOP A",
-            "question": "In 1928, this man founded a namesake rubber plantation in the Amazon rainforest that was abandoned within six years. This man published anti-Semitic articles in The Dearborn Independent. Adolf Hitler kept a picture of this man, who improved his public standing by offering a revolutionary five-dollars-per-day wage at his factories in Detroit. Name this businessman whose assembly lines churned out millions of Model T cars.",
+            "question": "In 1928, this man founded a namesake rubber plantation in the Amazon rainforest that was abandoned within six years. This man published anti-Semitic articles in The Dearborn Independent. He offered a revolutionary five-dollars-per-day wage at his factories in Detroit. Name this businessman who invented assembly lines to churn out millions of Model T cars.",
             "answers": ["Henry Ford"],
             "incorrect1": "Thomas Edison",
             "incorrect2": "Nikola Tesla",
@@ -18195,7 +18195,7 @@
         {
             "category": "World History",
             "source": "2016 PLATO",
-            "question": "The Greek philosopher Democritus suggested these existed, and provided them a name that meant \"uncuttable\" in Greek. The plum\u00adpudding model tried to explain these, but a later discovery of the positively\u00adcharged nucleus of these things disproved that model. There are three of these things in a molecule of water; two of hydrogen and one of oxygen. Name this basic unit of every chemical element.",
+            "question": "The Greek philosopher Democritus suggested these existed, and provided them a name that meant \"uncuttable\" in Greek. The plum\u00adpudding model tried to explain these, but a later discovery of the positively-charged nucleus of these things disproved that model. There are three of these things in a molecule of water; two of hydrogen and one of oxygen. Name this basic unit of every chemical element.",
             "answers": ["atoms"],
             "incorrect1": "molecules",
             "incorrect2": "protons",
