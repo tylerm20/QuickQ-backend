@@ -18535,8 +18535,8 @@
         {
             "category": "Geography",
             "source": "2016 Pennsylvania Novice",
-            "question": "Emergency Manager Ed Kurtz urged this city to join the KWA, which led to breaking off an agreement with the DWSD. Mona Hanna-Attisha led a 2015 study at the Hurley Medical Center in this city that was initially dismissed by the Department of Environmental Quality. This Genesee County city also experienced an outbreak of Legionnaires' Disease after switching to drawing water from its namesake river instead of from Detroit. Name this Michigan city whose water supply was found in 2015 to have dangerous levels of lead.",
-            "answers": ["Flint"],
+            "question": "This US city, located in Mid Michigan is the fifth largest in the state. Mona Hanna-Attisha led a 2015 study at the Hurley Medical Center in this city that was initially dismissed by the Department of Environmental Quality. This Genesee County city also experienced an outbreak of Legionnaires' Disease after switching to drawing water from its namesake river instead of from Detroit. Name this Michigan city whose water supply was found in 2015 to have dangerous levels of lead.",
+            "answers": ["Flint", "Flint, Michigan"],
             "incorrect1": "Detroit",
             "incorrect2": "Grand Rapids",
             "incorrect3": "Lansing",
@@ -18615,6 +18615,604 @@
             "incorrect1": "potassium",
             "incorrect2": "magnesium",
             "incorrect3": "sodium",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This satirical black comedy, featuring a memorable scene where a general rides a nuclear bomb like a rodeo bull, explores the dangers of Cold War paranoia and the potential for accidental nuclear war.  The film's title character played by Peter Sellers, is a wheelchair-bound former Nazi scientist with a disconcerting tendency for his right hand to involuntarily salute.  The film's iconic line, \"Gentlemen, you can't fight in here! This is the War Room!\", highlights the absurdity of the situation.  What is the full title of this 1964 film directed by Stanley Kubrick?",
+            "answers": ["Dr. Strangelove"],
+            "incorrect1": "Fail Safe",
+            "incorrect2": "The Manchurian Candidate",
+            "incorrect3": "Seven Days in May",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2011 SCOP Novice 2",
+            "question": "This work notes that \"Pope and Czar\" have allied to exorcise the title group. It lists ten demands, including free public education and a progressive income tax, that would lead to the end of class struggles between the ruling bourgeoisie and the working proletariat, who have \"nothing to lose but their chains.\" Ending \"Working men of all countries, unite!\" name this 1848 anti-capitalist work written by Marx and Engels.",
+            "answers": ["The Communist Manifesto"],
+            "incorrect1": "Das Kapital",
+            "incorrect2": "The Wealth of Nations",
+            "incorrect3": "The Social Contract",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2016 PLATO",
+            "question": "This country is currently fighting for control of the Essequibo region with its neighbor Guyana. This country's largest lake is Lake Maracaibo, which is connected to the Caribbean Sea by low\u00adlying sandbars. It contains some of the largest oil reserves in the Western Hemisphere. This country is home to the highest waterfall in the world, Angel Falls. Name this South American country with capital at Caracas.",
+            "answers": ["Venezuela"],
+            "incorrect1": "Colombia",
+            "incorrect2": "Ecuador",
+            "incorrect3": "Chile",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2009 Fall Novice Tournament",
+            "question": "This nation, where a recent coup d'état ousted the transitional government led by Abdalla Hamdok, faces ongoing political instability and a humanitarian crisis. The conflict in its Darfur region, though less intense than in the past, continues to displace populations and cause suffering.  The country is bordered by Egypt to the north and Ethiopia to the east, and its capital, Khartoum, lies at the confluence of the White Nile and Blue Nile rivers. What is this African nation, which gained independence from British and Egyptian rule in 1956?",
+            "answers": [
+                "Sudan",
+                "Republic of the Sudan",
+                "Jumhuriyat as Sudan"
+            ],
+            "incorrect1": "South Sudan",
+            "incorrect2": "Ethiopia",
+            "incorrect3": "Somalia",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This man signed the Elkins Act, fining railroads for offering rebates. One of his policies, including the \"three Cs\" of Control of Corporations, Consumer Protection, and Conservation, was called the Square Deal. He resigned as Assistant Secretary of the Navy to organize the Rough Riders, and 45 trusts were \"busted\" in his tenure. Known for running for the Bull Moose party in 1912 and losing name this Republican, the president before William Howard Taft.",
+            "answers": ["Theodore Roosevelt", "Teddy Roosevelt", "TR"],
+            "incorrect1": "Franklin D. Roosevelt",
+            "incorrect2": "William Howard Taft",
+            "incorrect3": "Woodrow Wilson",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This football manager, known for his energetic sideline presence and his trademark \"heavy metal\" football style, led Borussia Dortmund to two consecutive Bundesliga titles and a Champions League final appearance. He took over as manager of Liverpool in 2015, guiding them to their first Premier League title in 30 years and a Champions League victory in 2019. His passionate and charismatic personality has made him a fan favorite, and his tactical innovations have revitalized Liverpool's attacking prowess. Who is this German manager, known for his \"gegenpressing\" strategy and his infectious enthusiasm?",
+            "answers": ["J\u00fcrgen Klopp", "Jurgen Klopp"],
+            "incorrect1": "Pep Guardiola",
+            "incorrect2": "José Mourinho",
+            "incorrect3": "Sir Alex Ferguson",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2015 SAGES",
+            "question": "This painter grew up and lived in La Casa Azul in Mexico City. She painted many self-portraits because she often felt alone, even in the company of her artist husband Diego Rivera. Name this Mexican artist, famous for her prominent unibrow.",
+            "answers": ["Frida Kahlo"],
+            "incorrect1": "Diego Rivera",
+            "incorrect2": "Salvador Dalí",
+            "incorrect3": "Pablo Picasso",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This holiday, originally known as Armistice Day, was first celebrated in 1919 to commemorate the end of World War I.  It was later expanded to honor all veterans of the U.S. armed forces.  It is observed on November 11th, the anniversary of the signing of the armistice that ended hostilities in World War I.  In 1938, it became a national holiday, a day dedicated to thanking those who have served in the military.  What is the name of this holiday, a day of remembrance and recognition for veterans' sacrifices?",
+            "answers": ["Veterans Day", "Veteran's Day"],
+            "incorrect1": "Memorial Day",
+            "incorrect2": "Independence Day",
+            "incorrect3": "Labor Day",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "The 29th annual edition of this conference recently ocurred in Baku, Azerbaijan. This annual gathering, the largest of its kind, brings together world leaders, scientists, and activists from nearly 200 countries to discuss and negotiate solutions to the global climate crisis. The first such gathering was held in Berlin in 1995, and subsequent meetings have led to significant agreements like the Kyoto Protocol and the Paris Agreement. What is the name of this conference, which plays a crucial role in shaping international climate action?",
+            "answers": [
+                "United Nations Climate Change Conference (COP)",
+                "United Nations Climate Change Conference",
+                "COP",
+                "UNCCC",
+                "COP 29",
+                "Conference of the Parties"
+            ],
+            "incorrect1": "G20 Summit",
+            "incorrect2": "World Economic Forum",
+            "incorrect3": "United Nations General Assembly",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 SCOP MS 10",
+            "question": "The Paseo de la Reforma runs through this city, which sinks about a meter every year due to the drainage of the basin of Lake Texcoco. The ancient ruins of Tenochtitlan were replaced by the construction of what largest North American city, the capital of the southern neighbor of the USA?",
+            "answers": ["Mexico City", "Ciudad de Mexico", "Mexico DF"],
+            "incorrect1": "Buenos Aires",
+            "incorrect2": "São Paulo",
+            "incorrect3": "Rio de Janeiro",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2011 SCOP Novice 2",
+            "question": "This man, who made the \"Appeal of the 18th of June,\" was criticized for shouting \"Long live free Quebec!\" in 1967. A wildcat strike begun by student protesters caused this man to flee to Germany in May 1968. This leader, who granted independence to Algeria, founded the Fifth Republic in 1958 and opposed the Vichy government. Name this President of France and leader of the Free French Forces during World War II.",
+            "answers": ["Charles de Gaulle"],
+            "incorrect1": "Napoleon Bonaparte",
+            "incorrect2": "François Mitterrand",
+            "incorrect3": "Jacques Chirac",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This football manager, known for his tactical acumen and often controversial personality, earned the nickname \"The Special One\" during his first stint at Chelsea, where he proclaimed himself a top manager. He has managed top clubs across Europe, including Porto, Inter Milan, Real Madrid, and Manchester United, achieving success in multiple leagues. He led Porto to an unexpected UEFA Champions League title in 2004 and Inter Milan to a historic treble in 2010. Who is this Portuguese manager, known for his mind games and his ability to win trophies?",
+            "answers": ["Jos\u00e9 Mourinho", "Jose Mourinho"],
+            "incorrect1": "Pep Guardiola",
+            "incorrect2": "Jürgen Klopp",
+            "incorrect3": "Carlo Ancelotti",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film, set in medieval Sweden during the Black Death, features a memorable scene where a knight plays a game of chess with Death, a personification of mortality.  The film's allegorical imagery and exploration of existential themes, including faith, death, and the meaning of life, have made it a classic of world cinema.  Its director, Ingmar Bergman, is known for his introspective and often bleak portrayals of the human condition.  What is the title of this 1957 Swedish historical drama?",
+            "answers": ["The Seventh Seal"],
+            "incorrect1": "Wild Strawberries",
+            "incorrect2": "The Virgin Spring",
+            "incorrect3": "Persona",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 MOQBA Novice",
+            "question": "While drunk on rum, this character hallucinates an angel aflame floating down from a black cloud. After seeing a single footprint in the beach, this character hides in his \"castle\" for two years before the chapter \"I See the Shore Spread with Bones.\" This character settles in Brazil after freeing a group of Spaniards from cannibals, who spot mutineers which allowed this character and Friday to return to England. Name this Daniel Defoe character who spends years trapped on an island.",
+            "answers": ["Robinson Crusoe"],
+            "incorrect1": "Gulliver's Travels",
+            "incorrect2": "Treasure Island",
+            "incorrect3": "Moby-Dick",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2012 SCOP Novice 3",
+            "question": "A leader of one of these groups went missing outside the Machus Red Fox in 1975. Terence Powderly founded one that declined after Chicago police shot at protesters in Haymarket Square, and Jimmy Hoffa once led one called the Teamsters. Wal-Mart switched to selling prepackaged meats after its meatcutters created one of these organizations. Name these organizations that collectively bargain to achieve workplace goals.",
+            "answers": ["Labor Unions"],
+            "incorrect1": "Trade associations",
+            "incorrect2": "Political Parties",
+            "incorrect3": "Corporations",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "One of his equations shows that there is no electric field in any neutrally grounded area, which is why it's safer to be in your car than outside during a lightning strike. His equations also state that no monopoles exist in nature, and that most magnetic charges are dipoles. He lends his name to the surface used in finding electric fields, and he also found the formula for summing a long list of numbers at the age of 8. Name this German scientist who contributed two of the Maxwell Equations.",
+            "answers": ["Johann Gauss", "Johann Carl Friedrich Gauss"],
+            "incorrect1": "Isaac Newton",
+            "incorrect2": "Leonhard Euler",
+            "incorrect3": "Pierre-Simon Laplace",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2020 SCOP MS 10",
+            "question": "This agreement was negotiated by ambassadors James Monroe and Robert Livingston, who included a fifteen million collar payment that was to be used to invade England. After this agreement, Thomas Jefferson launched the Lewis and Clark Expedition. Name this agreement that nearly doubled the size of the United States by buying, among other territory, New Orleans.",
+            "answers": ["Louisiana Purchase"],
+            "incorrect1": "Alaska Purchase",
+            "incorrect2": "Gadsden Purchase",
+            "incorrect3": "Mexican Cession",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2012 SCOP Novice 3",
+            "question": "One concerto for this instrument pairs a handbell with each playing of the rondo theme. L'estro armonico and The Contest Between Harmony and Invention are sets of concerti for this instrument. One virtuoso player of this instrument wrote 24 caprices for it; that composer of \"La Campanella\" is Niccolo Paganini. La primavera, or Spring, from Vivaldi's Four Seasons is a concerto for what string instrument pitched higher than a viola?",
+            "answers": ["violin"],
+            "incorrect1": "viola",
+            "incorrect2": "cello",
+            "incorrect3": "double bass",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This celebrity doctor was recently selected by Donald Trump to be his nominee to lead the Centers of Medicare and Medicaid. This television personality gained fame as a frequent guest on \"The Oprah Winfrey Show,\" where he offered health advice and promoted his books. He hosted his own syndicated talk show for 13 seasons, dispensing medical advice and showcasing personal stories. He made a surprising career shift in 2022, running for a U.S. Senate seat in Pennsylvania, ultimately losing to Democrat John Fetterman. Who is this celebrity doctor turned politician?",
+            "answers": ["Mehmet Oz", "Dr. Oz", "Doctor Oz"],
+            "incorrect1": "Dr. Phil",
+            "incorrect2": "Sanjay Gupta",
+            "incorrect3": "Anthony Fauci",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2016 PLATO",
+            "question": "The Kreutz group of these objects are called sungrazers. Short\u00adperiod examples of these come from the Kuiper [kye\u00adper] belt, while long\u00adperiod ones are thought to originate in the Oort cloud. Due to the effects of solar radiation, these objects form a dusty atmosphere called a coma. Famous examples are Hale\u00adBopp and one named after Edmond Halley. Name these small, icy bodies that often have tails.",
+            "answers": ["comets"],
+            "incorrect1": "asteroids",
+            "incorrect2": "meteors",
+            "incorrect3": "meteoroids",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2022 SANDS",
+            "question": "A leader of this county committed suicide with an AK-47 in the La Moneda palace. In 1973, a CIA-backed coup overthrew that socialist leader, Salvador Allende, after he nationalized this country's copper mines in the Atacama Desert. Dissidents were brutally suppressed during the dictatorship of Austugo Pinochet in what South American country led from Santiago?",
+            "answers": ["Republic of Chile", "Chile"],
+            "incorrect1": "Argentina",
+            "incorrect2": "Peru",
+            "incorrect3": "Bolivia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This racquet sport, often described as a mix of tennis and squash, is played on an enclosed court about one-third the size of a tennis court. It features underhand serves and the use of the court walls in play, adding a dynamic element to the game.  The sport originated in Acapulco, Mexico, in 1969 and has gained popularity in Spain and Latin America.  It is typically played in doubles, with teams of two players competing against each other.  What is this fast-paced sport, known for its social and recreational appeal?",
+            "answers": ["Padel"],
+            "incorrect1": "Tennis",
+            "incorrect2": "Squash",
+            "incorrect3": "Badminton",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film, a landmark in Japanese cinema, features a climactic battle scene where a village of farmers defends itself against a band of 40 bandits with the help of seven skilled samurai.  The film's influence on Western cinema is evident in its remake, \"The Magnificent Seven,\" and its inspiration for the \"Star Wars\" franchise.  Its director, Akira Kurosawa, is renowned for his masterful use of cinematography and storytelling, blending action, drama, and social commentary.  What is the title of this 1954 epic adventure film?",
+            "answers": ["Seven Samurai"],
+            "incorrect1": "Yojimbo",
+            "incorrect2": "Rashomon",
+            "incorrect3": "Ran",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "Declared functionally extinct in 2006, the baiji species of freshwater dolphin was found only in this river. This river has its source at Geladaindong Mountain on the Tibetan Plateau in Qinghai Province and converges with the Jialing River at Chongquing. Hangzhou and Nanjing are major cities in this river's delta, sometimes referred to as the \"golden triangle.\" The world's largest hydroelectric power station was created as a result of the Three Gorges Dam on this river and it empties into the East China Sea at Shanghai. Name this Chinese river, the longest in Asia.",
+            "answers": ["Yangtze River", "Chang Jiang"],
+            "incorrect1": "Yellow River",
+            "incorrect2": "Mekong River",
+            "incorrect3": "Ganges River",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2017 Darien DEFT",
+            "question": "Margarita Island is a popular tourist destination in this country where the Catatumbo River is home to a lightning storm for over 260 days of the year. Table-top mountains called tepuis can be found in this country's Canaima National Park, which is also home to the world's tallest waterfall. The Llanos plain is drained by the Orinoco River in this country home to Angel Falls. Lake Maracaibo is the center of the oil industry in what country once led by Hugo Chavez from Caracas?",
+            "answers": [
+                "Venezuela",
+                "Bolivarian Republic of Venezuela",
+                "Republica Bolivariana de Venezuela"
+            ],
+            "incorrect1": "Colombia",
+            "incorrect2": "Ecuador",
+            "incorrect3": "Peru",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2016 Pennsylvania Novice",
+            "question": "The protagonist of this novel steals a coin from Petit Gervais, but changes his outlook on stealing after Bishop Myriel gives him silver. That reformed thief changes his name to Monsieur Madeleine and adopts the child of a disgraced factory worker, who grows up to wed Marius. Gavroche and Eponine are killed during the June Rebellion of 1832 in this work. Name this novel where Cosette is raised by Jean Valjean while being chased by Inspector Javert, written by Victor Hugo.",
+            "answers": ["Les Miserables", "Les Mis"],
+            "incorrect1": "The Phantom of the Opera",
+            "incorrect2": "Notre-Dame de Paris",
+            "incorrect3": "Cats",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA team's home arena, the Wells Fargo Center, has witnessed memorable moments like Allen Iverson's iconic \"step-over\" of Tyronn Lue in the 2001 NBA Finals.  They have won three NBA championships, with their most recent victory coming in 1983, led by Julius Erving and Moses Malone.  Their passionate fanbase, known for their unwavering support and \"Trust the Process\" mantra, has endured years of rebuilding and anticipation for a return to championship contention.  What is the name of this team, whose history includes legendary players like Wilt Chamberlain and Charles Barkley?",
+            "answers": [
+                "Philadelphia 76ers",
+                "sixers",
+                "seventy sixers",
+                "76ers"
+            ],
+            "incorrect1": "Philadelphia Eagles",
+            "incorrect2": "Boston Celtics",
+            "incorrect3": "Los Angeles Lakers",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2019 SCOP Novice 10",
+            "question": "This man wrote \"The spirit and the gifts are ours through Him who with us sideth\" in the hymn \"A Mighty Fortress is Our God.\" This man was the subject of the Exsurge Domine bull when his refusal to recant at the Diet of Worms led to his excommunication from the Catholic church. Criticisms of the sale of indulgences in the Ninety-Five Theses were written by what German monk-turned-reformer who started the Protestant Reformation?",
+            "answers": ["Martin Luther"],
+            "incorrect1": "John Calvin",
+            "incorrect2": "Huldrych Zwingli",
+            "incorrect3": "Desiderius Erasmus",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2018 SCOP Novice 9",
+            "question": "In 1993, the British newspaper The Independent published a positive personal relations story about this man's efforts to build a rural highway in Sudan using mujahideen labor. A controversial polio vaccination program was used by the CIA to gain intelligence on this man. Operation Neptune Spear targeted this man, who was killed in Abbottabad, Pakistan in 2011 by Navy SEALs. Name this leader of Al Qaeda and mastermind of the 9/11 attacks.",
+            "answers": ["Osama bin Laden"],
+            "incorrect1": "Ayman al-Zawahiri",
+            "incorrect2": "Abu Bakr al-Baghdadi",
+            "incorrect3": "Saddam Hussein",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This web browser, the most popular globally with over 60% market share, is at the center of a recent antitrust lawsuit filed by the U.S. Department of Justice. The lawsuit alleges that the browser's parent company is using its dominance to stifle competition and maintain a monopoly in the digital advertising market. The DOJ is seeking a court order that would require Google to sell off its browser business, a move that could significantly reshape the landscape of the internet. Which web browser, known for its speed and simplicity, is facing this legal challenge?",
+            "answers": ["Google Chrome", "Chrome"],
+            "incorrect1": "Mozilla Firefox",
+            "incorrect2": "Microsoft Edge",
+            "incorrect3": "Safari",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This war epic, loosely based on Joseph Conrad's novel Heart of Darkness, features a memorable scene where a helicopter attack is set to the music of Wagner's \"Ride of the Valkyries.\"  The film's production was notoriously troubled, with filming in the Philippines plagued by typhoons, drug use, and Martin Sheen suffering a heart attack.  The film's ending, with Captain Willard's assassination of Colonel Kurtz, leaves the audience with a sense of ambiguity and moral complexity.  What is the title of this 1979 Vietnam War film directed by Francis Ford Coppola?",
+            "answers": ["Apocalypse Now"],
+            "incorrect1": "Platoon",
+            "incorrect2": "Full Metal Jacket",
+            "incorrect3": "The Deer Hunter",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "The AM-GM inequality compares two types of this measure for a set of n non-negative numbers. One type of this is the nth root of the product of n numbers; that is the geometric type of this measure. The usual type of this measure is called the arithmetic type, which equals the sum of n numbers divided by n and is often contrasted with the median and mode. Name this measure, the average value of a set of numbers.",
+            "answers": ["mean", "average"],
+            "incorrect1": "median",
+            "incorrect2": "mode",
+            "incorrect3": "range",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This iconic horror film features a shocking shower scene where the protagonist, Marion Crane, is brutally murdered, a moment that redefined cinematic violence and audience expectations.  The film's score, composed by Bernard Herrmann, with its screeching violins and jarring strings, heightens the suspense and terror.  The film's antagonist, Norman Bates, played by Anthony Perkins, is a seemingly mild-mannered motel owner with a dark secret and a disturbingly close relationship with his mother.  What is the title of this 1960 Alfred Hitchcock masterpiece?",
+            "answers": ["Psycho"],
+            "incorrect1": "The Birds",
+            "incorrect2": "Vertigo",
+            "incorrect3": "Rear Window",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2021 CERES",
+            "question": "A group of empires named for this substance due to their military technology includes the Safavid, Ottoman, and Mughal Empires. A plot to kill English king James I that was planned by Guy Fawkes was named for this substance. Like paper, this substance was one of the Four Great Inventions of China, where it was used to make fire arrows. Name this explosive powder used in firearms.",
+            "answers": ["gunpowder"],
+            "incorrect1": "dynamite",
+            "incorrect2": "cordite",
+            "incorrect3": "TNT",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This golfer, known for his long drives and aggressive style of play, achieved the rare feat of winning each of the four World Golf Championships events, securing victories in the Mexico Championship, Dell Technologies Match Play, FedEx St. Jude Championship, and HSBC Champions. He captured his first major title at the 2016 U.S. Open, overcoming a controversial penalty to win by three strokes. He also holds the record for the largest margin of victory in the FedEx Cup Playoffs, winning the 2020 Tour Championship by three strokes. Who is this American golfer, who has spent over 130 weeks ranked as the world's number one golfer?",
+            "answers": ["Dustin Johnson"],
+            "incorrect1": "Zach Johnson",
+            "incorrect2": "Tiger Woods",
+            "incorrect3": "Rory McIlroy",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2021 CERES",
+            "question": "Betty Friedan wrote a book about these people's \"mystique\". Title IX advanced these people's participation in sports, and Gloria Steinem founded a magazine for these people. The failed Equal Rights Amendment would have guaranteed equal protection for these people. Simone de Beauvoir's The Second Sex examined the oppression of what people whose rights are the primary focus of feminism?",
+            "answers": ["women", "girls", "femails"],
+            "incorrect1": "men",
+            "incorrect2": "African Americans",
+            "incorrect3": "Latinos",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2017 HIGS",
+            "question": "Layers of this substance are called its horizons, which make up its profile, while types of it include peaty, saline, and loamy. A yellowish-gray type of it is deposited by wind and glaciers is called loess. Two to ten percent of this substance is humus, while the rest is water, air, and rock. Its texture is classified by the amount of sand, silt, and clay it contains. Name this organic substance in which plants grow.",
+            "answers": ["soil"],
+            "incorrect1": "crust",
+            "incorrect2": "the Moon",
+            "incorrect3": "glaciers",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2009 Fall Novice Tournament",
+            "question": "One playwright in this language wrote a work in which a judge is impersonated by The Maniac, Accidental Death of an Anarchist. In addition to Dario Fo, another writer in this language wrote Six Characters in Search of an Author. Older writers in this language include the author of numerous sonnets for Laura and the author of a collection of stories told by nobles fleeing the black death. Name this language of Pirandello, Petrarch, and Bocaccio.",
+            "answers": ["Italian", "Italy"],
+            "incorrect1": "Spanish",
+            "incorrect2": "French",
+            "incorrect3": "Latin",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "The last wild herd of bison in the United States was located in this park, where today they are hunted by grizzly bears and wolves reintroduced in the 1990s. This site that became America's first national park in 1872 is located north of the Grand Teton Range. Geothermal features like the Old Faithful geyser are found in what national park of northwestern Wyoming?",
+            "answers": ["Yellowstone National Park"],
+            "incorrect1": "Yosemite National Park",
+            "incorrect2": "Grand Canyon National Park",
+            "incorrect3": "Glacier National Park",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This former Florida congressman was recently chosen as Donald Trump's nominee for attorney general. He promptly resigned from the House of Representatives and eventually withdrew from the attorney general nomination process. The House ethics committee was set to release a report into his behavior, but voted not to release the report of this man's resignation from office. He was investigated for charges relating to sex trafficking and having sex with a minor. Name this avid supporter of President Elect Donald Trump.",
+            "answers": ["Matt Gaetz", "Matt Gates"],
+            "incorrect1": "Jim Jordan",
+            "incorrect2": "Marjorie Taylor Greene",
+            "incorrect3": "Lauren Boebert",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2020 TAILS",
+            "question": "Some of the earliest settlers of this modern day country landed at Port Jackson. Bushrangers were outlaws in this country who thrived during its gold rushes. The 1808 Rum Rebellion occurred in this country against William Bligh in New South Wales. Subjugation and persecution of Aborigines stemmed from this country's use as a penal colony by the British Empire. What country is home to Melbourne and Sydney?",
+            "answers": ["Australia", "Commonwealth of Australia"],
+            "incorrect1": "Austria",
+            "incorrect2": "New Zealand",
+            "incorrect3": "South Africa",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2021 CERES",
+            "question": "A theorem named for Lagrange says that all integers can be written as the sum of this many perfect squares. All maps can be colored with this many colors without having any adjacent regions of the same color. An integer is divisible by this number if its last two digits are divisible by this number. This number is the number of faces of a tetrahedron. How many sides does a square have?",
+            "answers": ["four"],
+            "incorrect1": "three",
+            "incorrect2": "five",
+            "incorrect3": "ten",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2013 SCOP Novice 4",
+            "question": "Title 2 of this law expanded the use of pen registers to Internet communication. Wisconsin's Russ Feingold was the only Senator who voted Nay on this bill, whose Title 4 permits indefinite detention of immigrants. It was passed in October 2001, shortly after the anthrax letters and 9/11 attacks. Name this controversial act whose name is an acronym for \"Providing Appropriate Tools Required to Intercept and Obstruct Terrorism.\"",
+            "answers": [
+                "USA PATRIOT Act of 2001",
+                "PATRIOT Act",
+                "USA PATRIOT Act"
+            ],
+            "incorrect1": "The Civil Rights Act of 1964",
+            "incorrect2": "The Voting Rights Act of 1965",
+            "incorrect3": "The Affordable Care Act",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This band's gothic and melancholic sound, characterized by Robert Smith's distinctive vocals and jangly guitar riffs, earned them a devoted following in the 1980s alternative rock scene. Their 1989 album, Disintegration, featuring the hit song \"Lovesong,\" is considered a masterpiece of gothic rock and cemented their status as a leading alternative band. Their early music, with its punk and post-punk influences, helped define the sound of the early 1980s. What is the name of this British band, known for their dark and introspective lyrics and their frontman's signature look of smeared lipstick and backcombed hair?",
+            "answers": ["The Cure"],
+            "incorrect1": "The Smiths",
+            "incorrect2": "Joy Division",
+            "incorrect3": "New Order",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2022 SCOP MS 11",
+            "question": "A palace in this country contains the Court of the Myrtles, and was built during the Nasrid Dynasty. In this country, an eighteen-spired cathedral combining Gothic and Art Nouveau styles has been under construction since 1882, and was designed by Antoni Gaud\u00b4\u0131. The Alhambra in Granada is within what European country, where the Sagrada Familia cathedral is being built in Barcelona?",
+            "answers": ["Spain", "Kingdom of Spain", "Reino de Espa\u02dcna"],
+            "incorrect1": "Portugal",
+            "incorrect2": "Italy",
+            "incorrect3": "France",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This holiday's traditional feast often includes stuffing, a savory dish made with bread and herbs, which was not present at the first celebration in 1621. President George Washington designated November 26th as a day of public holiday in 1789. The holiday's modern date, the fourth Thursday in November, was established by President Franklin D. Roosevelt in 1939.  It is often associated with a historical narrative of Pilgrims and Native Americans sharing a harvest feast, though the accuracy of this depiction is debated.  What is this holiday, celebrated primarily in the United States and Canada?",
+            "answers": ["Thanksgiving"],
+            "incorrect1": "Christmas",
+            "incorrect2": "Easter",
+            "incorrect3": "Halloween",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This province is home to the city of Red Deer and Lesser Slave Lake. While the Great Slave Lake is not in this province, many of its southern tributaries are, such as the Slave River and the Hay River. Along its western boundary are the Jasper and Banff National Parks, which are along the Continental Divide. The 1988 Olympics, which were most famous for the debut of the Jamaican bobsled team, were held in its largest city of Calgary. Home to the largest oil sand deposit in Canada name this province whose capital is Edmonton.",
+            "answers": ["Alberta"],
+            "incorrect1": "British Columbia",
+            "incorrect2": "Saskatchewan",
+            "incorrect3": "Ontario",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's iconic \"pinwheel\" logo, introduced in 1970, symbolizes the dynamic movement and flow of the game of basketball. Their passionate fanbase, known as \"Rip City,\" creates an electrifying atmosphere at their home arena, the Moda Center. They achieved their only NBA championship in 1977, led by Bill Walton, a dominant center and counterculture icon. Their legendary players, including Clyde Drexler and Damian Lillard, have solidified their place in franchise history. What is the name of this team, based in Portland, Oregon?",
+            "answers": ["Portland Trail Blazers", "Trail Blazers", "Blazers"],
+            "incorrect1": "Portland Timbers",
+            "incorrect2": "Seattle SuperSonics",
+            "incorrect3": "Utah Jazz",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2017 HIGS",
+            "question": "Along this river is the New Madrid Seismic Zone, which lies southwest of its namesake city in Missouri. Lake Itasca is the source of this river, whose delta is located in southeast Louisiana. This river, which runs through Memphis and St. Louis, has tributaries like the Arkansas and Ohio rivers, and the final city it passes through is New Orleans. Name this US river that flows from Minnesota down to the Gulf of Mexico.",
+            "answers": ["Mississippi River"],
+            "incorrect1": "Missouri River",
+            "incorrect2": "Ohio River",
+            "incorrect3": "Arkansas River",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This annual shopping extravaganza, often associated with chaotic crowds and deep discounts, has a disputed origin story, with some attributing the term to retailers using black ink to signify profits and red ink for losses.  It traditionally falls on the day after Thanksgiving in the United States, marking the unofficial start of the holiday shopping season.  In recent years, it has expanded into a multi-day event, with deals starting earlier and extending throughout the weekend.  What is this shopping frenzy, known for its doorbuster deals and competitive shoppers?",
+            "answers": ["Black Friday"],
+            "incorrect1": "Cyber Monday",
+            "incorrect2": "Thanksgiving",
+            "incorrect3": "Christmas Eve",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This science fiction series, known for its iconic tagline \"The truth is out there,\" followed two FBI agents, Fox Mulder and Dana Scully, as they investigated paranormal phenomena and unexplained cases.  The show's eerie theme music, composed by Mark Snow, with its distinctive whistle and echo effects, became synonymous with the series and its mysterious atmosphere.  The series' mythology revolved around government conspiracies, alien encounters, and the search for extraterrestrial life.  What is the name of this popular 1990s series that spawned two feature films and a revival series?",
+            "answers": ["The X-Files"],
+            "incorrect1": "Twin Peaks",
+            "incorrect2": "The Twilight Zone",
+            "incorrect3": "Lost",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2020 SCOP MS 10",
+            "question": "After this man made his brother Joseph an unpopular King of Spain, he had to fight the Peninsular War. This man forced the Treaty of Pressburg, which gave this man large amounts of land from the Austrian Empire. This man beat the Third Coalition at the Battle of Austerlitz in 1805, two months after his navy lost at Trafalgar. Name this emperor whose French army was defeated at Waterloo.",
+            "answers": ["Napoleon Bonaparte", "Napoleon I", "Bonaparte"],
+            "incorrect1": "Julius Caesar",
+            "incorrect2": "Alexander the Great",
+            "incorrect3": "Genghis Khan",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2010 SCOP Novice",
+            "question": "In this battle, an attack by Ewell's troops forced Union soldiers onto a hill, but Longstreet attacked late, allowing them to entrench. Several days before this battle, Hooker resigned the command of the Army of the Potomac. During this battle, Culp's Hill was bombarded by the Union, Little Round Top was defended by a Union bayonet charge, and Meade's position on Cemetery Ridge could not be reached by Pickett's Charge. Name this battle, upon whose battlefield Abraham Lincoln would later give a namesake address.",
+            "answers": ["Battle of Gettysburg"],
+            "incorrect1": "Battle of Antietam",
+            "incorrect2": "Battle of Vicksburg",
+            "incorrect3": "Battle of Shiloh",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2021 SCOP B",
+            "question": "This religious event killed the Nephilim, although Shem, Ham, and Japheth survived and were commanded to \"be fruitful and multiply.\" Another survivor of this event received a covenant represented by a rainbow after he spent almost a year with fourteen of each clean animal and two of each unclean animal on an enormous ark. Name this biblical event in which God drowned everyone except a group of believers led by Noah.",
+            "answers": ["great flood", "deluge"],
+            "incorrect1": "hurricane",
+            "incorrect2": "tsunami",
+            "incorrect3": "earthquake",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's iconic mascot, Brownie the Elf, a mischievous elf with a penchant for pranks, was retired in the 1960s due to its perceived childishness.  Their classic brown and orange color scheme, a nod to the team's namesake and original owner, Paul Brown, has remained a symbol of the franchise throughout its history.  They have won eight NFL championships, four in the pre-Super Bowl era and four AAFC championships, but have yet to win a Super Bowl title. The team is known for its passionate and dedicated fanbase, often referred to as the \"Dawg Pound.\"  What is the name of this team, whose history includes legendary running back Jim Brown and controversial quarterback Johnny Manziel?",
+            "answers": ["Cleveland Browns", "browns"],
+            "incorrect1": "Cleveland Cavaliers",
+            "incorrect2": "Cincinnati Bengals",
+            "incorrect3": "Pittsburgh Steelers",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This psychologist wrote of Aboriginal incest in Totem and Taboo, and described the \"oceanic feeling\" that inspires religion in Civilization and Its Discontents. He wrote about the \"death instinct\" in Beyond the Pleasure Principle, treated patients known as Rat Man and Little Hans for neurosis, and outlined the Oedipus complex in The Interpretation of Dreams. Name this Jewish Austrian who defined the id, ego, and superego and founded psychoanalysis.",
+            "answers": ["Sigmund Freud"],
+            "incorrect1": "Carl Jung",
+            "incorrect2": "Alfred Adler",
+            "incorrect3": "Erik Erikson",
             "used": "TRUE"
         }
     ]
