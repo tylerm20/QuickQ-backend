@@ -18453,7 +18453,7 @@
         {
             "category": "Geography",
             "source": "2021 SCOP B",
-            "question": "Nancy Sch\u00a8on designed a set of sculptures for this city's Public Garden to commemorate the Robert McClosky children's book Make Way for Ducklings. Frederick Law Olmstead designed this city's Emerald Necklace, which includes a Common near this city's Financial District. This city's Back Bay contains the poorly-designed John Hancock Tower. Kenmore Square is near the oldest American baseball park in what Massachusetts city whose Fenway Park is home to the Red Sox?",
+            "question": "Nancy Schon designed a set of sculptures for this city's Public Garden to commemorate the Robert McClosky children's book Make Way for Ducklings. Frederick Law Olmstead designed this city's Emerald Necklace, which includes a Common near this city's Financial District. This city's Back Bay contains the poorly-designed John Hancock Tower. Kenmore Square is near the oldest American baseball park in what Massachusetts city whose Fenway Park is home to the Red Sox?",
             "answers": ["Boston"],
             "incorrect1": "New York City",
             "incorrect2": "Philadelphia",
@@ -18554,7 +18554,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This comedic news organization announced this week that it had won a bid to buy Infowars, the website founded by the conspiracy theorist Alex Jones, out of bankruptcy. The satirical news website, known for its outlandish headlines and deadpan humor, once published a story claiming that \"Diamondbacks\" was the most badass name a baseball team could have. It was founded in 1988 by two University of Wisconsin-Madison students, Tim Keck and Christopher Johnson. Its name is a nod to the humble vegetable that was reportedly the only food the founders could afford when they started the publication. What is the name of this website, whose tagline is \"Tu Stultus Es,\" Latin for \"You Are Dumb\"?",
+            "question": "This comedic news organization announced this week that it had won a bid to buy Infowars, the website founded by the conspiracy theorist Alex Jones, out of bankruptcy. The satirical website, known for its outlandish headlines and deadpan humor, was founded in 1988 by two University of Wisconsin-Madison students, Tim Keck and Christopher Johnson. Its name is a nod to the humble vegetable that was reportedly the only food the founders could afford when they started the publication. What is the name of this website, whose tagline is \"Tu Stultus Es,\" Latin for \"You Are Dumb\"?",
             "answers": ["The Onion"],
             "incorrect1": "The New York Times",
             "incorrect2": "The Wall Street Journal",
