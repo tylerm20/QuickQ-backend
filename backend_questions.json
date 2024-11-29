@@ -18937,7 +18937,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This web browser, the most popular globally with over 60% market share, is at the center of a recent antitrust lawsuit filed by the U.S. Department of Justice. The lawsuit alleges that the browser's parent company is using its dominance to stifle competition and maintain a monopoly in the digital advertising market. The DOJ is seeking a court order that would require Google to sell off its browser business, a move that could significantly reshape the landscape of the internet. Which web browser, known for its speed and simplicity, is facing this legal challenge?",
+            "question": "This web browser, the most popular globally with over 60% market share, is at the center of a recent antitrust lawsuit filed by the U.S. Department of Justice. The lawsuit alleges that the browser's parent company is using its dominance to stifle competition and maintain a monopoly in the digital advertising market. The DOJ is seeking a court order that would require Google to sell off this browser business, a move that could significantly reshape the landscape of the internet. Which web browser, known for its speed and simplicity, is facing this legal challenge?",
             "answers": ["Google Chrome", "Chrome"],
             "incorrect1": "Mozilla Firefox",
             "incorrect2": "Microsoft Edge",
@@ -18989,7 +18989,7 @@
         },
         {
             "category": "Sports",
-            "question": "This golfer, known for his long drives and aggressive style of play, achieved the rare feat of winning each of the four World Golf Championships events, securing victories in the Mexico Championship, Dell Technologies Match Play, FedEx St. Jude Championship, and HSBC Champions. He captured his first major title at the 2016 U.S. Open, overcoming a controversial penalty to win by three strokes. He also holds the record for the largest margin of victory in the FedEx Cup Playoffs, winning the 2020 Tour Championship by three strokes. Who is this American golfer, who has spent over 130 weeks ranked as the world's number one golfer?",
+            "question": "This golfer, known for his long drives and aggressive style of play, achieved the rare feat of winning each of the four World Golf Championships events. He captured his first major title at the 2016 U.S. Open, overcoming a controversial penalty to win by three strokes. He also won the 2020 Tour Championship by three strokes. Who is this American golfer, who has spent over 130 weeks ranked as the world's number one golfer?",
             "answers": ["Dustin Johnson"],
             "incorrect1": "Zach Johnson",
             "incorrect2": "Tiger Woods",
@@ -19052,7 +19052,7 @@
         {
             "category": "World History",
             "source": "2020 TAILS",
-            "question": "Some of the earliest settlers of this modern day country landed at Port Jackson. Bushrangers were outlaws in this country who thrived during its gold rushes. The 1808 Rum Rebellion occurred in this country against William Bligh in New South Wales. Subjugation and persecution of Aborigines stemmed from this country's use as a penal colony by the British Empire. What country is home to Melbourne and Sydney?",
+            "question": "Some of the earliest settlers of this modern day country landed at Port Jackson. Bushrangers were outlaws in this country who thrived during its gold rushes. The 1808 Rum Rebellion occurred in this country against William Bligh in New South Wales. Subjugation and persecution of Aboriginal people stemmed from this country's use as a penal colony by the British Empire. What country is home to Melbourne and Sydney?",
             "answers": ["Australia", "Commonwealth of Australia"],
             "incorrect1": "Austria",
             "incorrect2": "New Zealand",
@@ -19096,7 +19096,7 @@
         {
             "category": "Arts & Literature",
             "source": "2022 SCOP MS 11",
-            "question": "A palace in this country contains the Court of the Myrtles, and was built during the Nasrid Dynasty. In this country, an eighteen-spired cathedral combining Gothic and Art Nouveau styles has been under construction since 1882, and was designed by Antoni Gaud\u00b4\u0131. The Alhambra in Granada is within what European country, where the Sagrada Familia cathedral is being built in Barcelona?",
+            "question": "A palace in this country contains the Court of the Myrtles, and was built during the Nasrid Dynasty. In this country, an eighteen-spired cathedral combining Gothic and Art Nouveau styles has been under construction since 1882, and was designed by Antoni Gaudi. The Alhambra in Granada is within what European country, where the Sagrada Familia cathedral is being built in Barcelona?",
             "answers": ["Spain", "Kingdom of Spain", "Reino de Espa\u02dcna"],
             "incorrect1": "Portugal",
             "incorrect2": "Italy",
