@@ -18642,7 +18642,7 @@
         {
             "category": "Geography",
             "source": "2016 PLATO",
-            "question": "This country is currently fighting for control of the Essequibo region with its neighbor Guyana. This country's largest lake is Lake Maracaibo, which is connected to the Caribbean Sea by low\u00adlying sandbars. It contains some of the largest oil reserves in the Western Hemisphere. This country is home to the highest waterfall in the world, Angel Falls. Name this South American country with capital at Caracas.",
+            "question": "This country is currently fighting for control of the Essequibo region with its neighbor Guyana. This country's largest lake is Lake Maracaibo, which is connected to the Caribbean Sea by low-lying sandbars. It contains some of the largest oil reserves in the Western Hemisphere. This country is home to the highest waterfall in the world, Angel Falls. Name this South American country with capital at Caracas.",
             "answers": ["Venezuela"],
             "incorrect1": "Colombia",
             "incorrect2": "Ecuador",
@@ -18827,7 +18827,7 @@
         {
             "category": "Science",
             "source": "2016 PLATO",
-            "question": "The Kreutz group of these objects are called sungrazers. Short\u00adperiod examples of these come from the Kuiper [kye\u00adper] belt, while long\u00adperiod ones are thought to originate in the Oort cloud. Due to the effects of solar radiation, these objects form a dusty atmosphere called a coma. Famous examples are Hale\u00adBopp and one named after Edmond Halley. Name these small, icy bodies that often have tails.",
+            "question": "The Kreutz group of these objects are called sungrazers. Short-period examples of these come from the Kuiper belt, while long-period ones are thought to originate in the Oort cloud. Due to the effects of solar radiation, these objects form a dusty atmosphere called a coma. Famous examples are Hale-Bopp and one named after Edmond Halley. Name these small, icy bodies that often have tails.",
             "answers": ["comets"],
             "incorrect1": "asteroids",
             "incorrect2": "meteors",
@@ -18838,7 +18838,7 @@
             "category": "World History",
             "source": "2022 SANDS",
             "question": "A leader of this county committed suicide with an AK-47 in the La Moneda palace. In 1973, a CIA-backed coup overthrew that socialist leader, Salvador Allende, after he nationalized this country's copper mines in the Atacama Desert. Dissidents were brutally suppressed during the dictatorship of Austugo Pinochet in what South American country led from Santiago?",
-            "answers": ["Republic of Chile", "Chile"],
+            "answers": ["Chile", "Republic of Chile"],
             "incorrect1": "Argentina",
             "incorrect2": "Peru",
             "incorrect3": "Bolivia",
