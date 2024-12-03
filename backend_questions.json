@@ -19215,5 +19215,602 @@
             "incorrect3": "Erik Erikson",
             "used": "TRUE"
         }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2020 MOQBA Novice",
+            "question": "A six-parameter \"standard model\" for the universe is named for lambda and the \"cold\" type of this substance. This substance may be composed of axions, WIMPs, or MACHOs. Mass discrepancies in the Coma Cluster prompted Fritz Zwicky to theorize the existence of this substance. This substance, which does not interact with electromagnetic radiation, is predicted to make up around 27% of the universe, less than dark energy but more than ordinary matter. Name this theorized form of matter named for its elusive nature.",
+            "answers": ["dark matter"],
+            "incorrect1": "plasma",
+            "incorrect2": "gas",
+            "incorrect3": "black holes",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This structure's finial was originally made of gold and is topped by a crescent. Its four arch-shaped doorways are flanked by several vaulted archways, which can also be found on its chamfered edges, and four kiosks surround its main dome. In front of this structure sits a garden, which contains a reflecting pool, and the four corners of this structure each contain a minaret. Its main chamber contains false sarcophagi of its only two permanent residents, Mumtaz and Jahan. Identify this UNESCO world heritage site, a notable white marbled mausoleum in Agra, India.",
+            "answers": ["Taj Mahal"],
+            "incorrect1": "Great Wall of China",
+            "incorrect2": "Angkor Wat",
+            "incorrect3": "Hagia Sophia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This dystopian film, notorious for its graphic violence and disturbing scenes, features a protagonist who undergoes a controversial aversion therapy treatment, forcing him to watch violent images while strapped to a chair. The film's distinctive visual style, with its bold colors and use of wide-angle lenses, creates a surreal and unsettling atmosphere. The protagonist, Alex DeLarge, played by Malcolm McDowell, leads a gang of \"droogs\" who engage in acts of \"ultra-violence\" and speak in a stylized slang called Nadsat. What is the title of this 1971 film directed by Stanley Kubrick, based on the novel by Anthony Burgess?",
+            "answers": ["A Clockwork Orange"],
+            "incorrect1": "1984",
+            "incorrect2": "Brave New World",
+            "incorrect3": "Fahrenheit 451",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2018 SCOP Novice 9",
+            "question": "This body of water is plagued with Karenia brevis, which caused a massive red algae bloom in August 2018. Ixtoc I, an underwater rig in this body of water's Bay of Campeche, blew out in 1979. Thirty-one years later, that disaster was surpassed at this gulf's Macondo Prospect, where the Deepwater Horizon rig exploded. The Yucatan Peninsula, Cuba, and Florida lie along the edge of what large gulf south of the United States?",
+            "answers": ["Gulf of Mexico", "Mexico"],
+            "incorrect1": "Caribbean Sea",
+            "incorrect2": "Atlantic Ocean",
+            "incorrect3": "Mediterranean Sea",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2018 MVS RAMS",
+            "question": "These people were kicked out of England in 1290 due to Edward I's \"Edict of Expulsion,\" and these people's readmission to Britain was debated at the Whitehall Conference convened by Oliver Cromwell, who supported this people's return. This people's return was also championed by Manasseh ben Israel, and Benjamin Disraeli later became the first of these people to become Prime Minister, although he had converted to Anglicanism. Name these people who worship in synagogues.",
+            "answers": ["Jewish", "Jews", "archaic Hebrews"],
+            "incorrect1": "Christian",
+            "incorrect2": "Muslim",
+            "incorrect3": "Hindu",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Israel and this organization recently agreed to a 60 day cease fire. This organization, whose name translates to \"Party of God,\" has a militia force that rivals the Lebanese Army in strength and was a key player in the 2006 Lebanon War against Israel. It operates a television station, Al-Manar, which broadcasts its messages and propaganda. It was founded in 1982, during the Lebanese Civil War, with support from Iran. It has been designated a terrorist organization by several countries, including the United States and Canada. What is this Shia Islamist political party and militant group based in Lebanon?",
+            "answers": ["Hezbollah"],
+            "incorrect1": "Hamas",
+            "incorrect2": "al-Qaeda",
+            "incorrect3": "ISIS",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2016 Pennsylvania Novice",
+            "question": "This man served as Secretary of State during Thomas Jefferson's presidency. Along with John Jay and Alexander Hamilton, he penned the Federalist Papers . During the siege of Washington, the Lansdowne Portrait of Washington was saved by this man's wife, Dolley. His copious notes taken during the constitutional convention have given him the nickname \"the father of the Constitution,\" and he was president during the War of 1812. Name this fourth U.S. President who preceded James Monroe and followed Thomas Jefferson.",
+            "answers": ["James Madison", "James Madison, Jr."],
+            "incorrect1": "Thomas Jefferson",
+            "incorrect2": "Alexander Hamilton",
+            "incorrect3": "John Adams",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This driver recently secured his fourth Formula One driver's champhionship. Known for his aggressive driving style and overtaking prowess, this driver the record for the most wins in a single Formula One season, achieving 15 victories in 2022. He became the youngest driver to compete in Formula One at the age of 17, making his debut with Toro Rosso in 2015. He is the son of former Formula One driver Jos Verstappen, who competed in the sport in the 1990s. He won his first Formula One World Championship in 2021 in a dramatic final race, overtaking Lewis Hamilton on the last lap. Who is this Belgian-Dutch driver, currently racing for Red Bull Racing?",
+            "answers": ["Max Verstappen"],
+            "incorrect1": "Lewis Hamilton",
+            "incorrect2": "Charles LeClerc",
+            "incorrect3": "Fernando Alonso",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2013 SCOP Novice 4",
+            "question": "The Patawomeck tribe helped Samuel Argall kidnap this woman; during her captivity, she was baptized and a possible husband, the chief Kocoum, was killed. After taking the name Rebecca, she was introduced to King James. She prevented her father, Powhatan, from killing an English settler by throwing herself over his body. Name this Native American, the wife of John Rolfe, who assisted John Smith's Jamestown colony.",
+            "answers": ["Pocahontas", "Matoaka", "Rebecca Rolfe"],
+            "incorrect1": "Sacajawea",
+            "incorrect2": "La Malinche",
+            "incorrect3": "Moana",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2009 Fall Novice Tournament",
+            "question": "Possessions of this nation include Franz Joseph Land and the disputed Kuril Islands, and this country's major cities include Kazan, Yekaterinburg, and Nizhny Novgorod. This country contains the tallest mountain in Europe, Mount Elbrus, and the deepest lake in the world, Baikal. The Ural Mountains divide Asia and Europe in this country. Name this country with capital at Moscow that is, by area, the largest in the world.",
+            "answers": [
+                "Russia",
+                "Russian Federation",
+                "Rossiyskaya Federatsiya"
+            ],
+            "incorrect1": "China",
+            "incorrect2": "United States",
+            "incorrect3": "Canada",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "This author wrote of a language which lacks nouns, with sentences such as \"The moon rose above the water\" being translated as \"Upward behind the onstreaming it mooned,\" in Tlon, Uqbar, Orbis Tertius. In another story, he wrote of a wizard who creates a young man with his dreams. This author of The Circular Ruins wrote of an almost infinite series of hexagonal rooms containing books of all possible information. Name this author who wrote of a point that contains the universe in El Aleph, in addition to including stories such as The Garden of Forking Paths and The Library of Babel in his collection Ficciones.",
+            "answers": ["Jorge Luis Borges"],
+            "incorrect1": "Gabriel García Márquez",
+            "incorrect2": "Pablo Neruda",
+            "incorrect3": "Isabel Allende",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This animated sci-fi sitcom features a recurring character, Mr. Poopybutthole, a seemingly friendly yellow creature who often appears in post-credit scenes with nonsensical messages. The show's main characters, Rick Sanchez, a cynical and alcoholic scientist, and Morty Smith, his anxious and impressionable grandson, embark on bizarre and often dangerous adventures across the multiverse. What is the name of this Adult Swim series, known for its dark humor, philosophical themes, and pop culture references?",
+            "answers": ["Rick and Morty"],
+            "incorrect1": "The Simpsons",
+            "incorrect2": "Family Guy",
+            "incorrect3": "South Park",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2009 Fall Novice Tournament",
+            "question": "Whether these objects are one of two types is dependent on a ratio known as the Ginzburg-Landau parameter. One theory explaining these objects claims that they create condensed boson-like electron pairs known as Cooper pairs. Described in BCS theory, they exhibit the Meissner effect, as they lack an interior magnetic field. Identify these objects, which when cooled down to extremely low temperatures, have zero electrical resistance.",
+            "answers": ["superconductors", "super conductors"],
+            "incorrect1": "semiconductors",
+            "incorrect2": "fusion",
+            "incorrect3": "insulators",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This nation recently passed a law which bans the use of social media for children under the age of 16. This country's parliament consists of two houses - the Senate and the House of Representatives - which meet in its capital, Canberra. Its legal system is based on common law, inherited from its British colonial past. The leader of its government is the Prime Minister, currently Anthony Albanese, of the Labor Party. What is this country, known for its unique wildlife, stunning beaches, and landmarks like the Sydney Opera House?",
+            "answers": ["Australia"],
+            "incorrect1": "Austria",
+            "incorrect2": "New Zealand",
+            "incorrect3": "South Africa",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "2. One hero of this nation converted to Christianity shortly after taking Kruje and waging a lifelong war against the Ottomans and was known as the \"Dragon of\" this country, while another leader of this nation fled after this nation was invaded by Italy in 1939. Yet another leader of this home of King Zog broke off relations with Communist China and built thousands of pillboxes on its border with Yugoslavia. Skanderberg is the national hero of what country that was ruled by communist dictator Enver Hoxha from the city of Tirane?",
+            "answers": ["Albania"],
+            "incorrect1": "Andorra",
+            "incorrect2": "Armenia",
+            "incorrect3": "Austria",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This hockey player has won three Stanley Cups with the Penguins, solidifying his status as one of the greatest players of his generation. Nicknamed \"Sid the Kid,\" he led his team to a gold medal victory at the 2010 Vancouver Olympics, scoring the game-winning goal in overtime against the United States. He was drafted first overall by the Pittsburgh Penguins in the 2005 NHL Entry Draft, and has become the face of the franchise. Who is this Canadian hockey superstar, often considered one of the best to ever play the game? ",
+            "answers": ["Sidney Crosby"],
+            "incorrect1": "Alexander Ovechkin",
+            "incorrect2": "Connor McDavid",
+            "incorrect3": "Patrick Kane",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This manager, knighted in 1999 for his services to football, holds the record for the most Premier League titles, with 13 wins to his name, all with the same club. He famously used a \"hairdryer treatment\" to motivate his players, delivering a passionate and intense scolding when necessary. He managed Aberdeen to a European Cup Winners' Cup victory in 1983, a rare feat for a Scottish team. He retired from management in 2013, after leading Manchester United to a 20th league title. Who is this legendary Scottish manager, known for his fiery personality and his unparalleled success with Manchester United?",
+            "answers": ["Alex Ferguson", "Sir Alex Ferguson"],
+            "incorrect1": "Arsène Wenger",
+            "incorrect2": "Jose Mourinho",
+            "incorrect3": "Matt Busby",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2012 SCOP Novice 3",
+            "question": "This quantity is subtracted from a related quantity to find the Lagrangian; those quantities are added to find the Hamiltonian. One form of this quantity is proportional to the square of the displacement of a spring; that \"elastic\" type is given by one half k x squared, while the gravitational type is given by mgh. Denoted U name this energy a physical system has because of its configuration, contrasted with kinetic energy.",
+            "answers": ["potential energy"],
+            "incorrect1": "kinetic energy",
+            "incorrect2": "chemical energy",
+            "incorrect3": "thermal energy",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2018 SCOP Novice 9",
+            "question": "The Supreme Court ruled that this amendment applied to state governments in Mapp v. Ohio. This amendment specifically names \"houses, papers, and effects\" as under its protections, but a 1924 case ruled it did not apply to open fields. This amendment requires probable cause for a specifically-designated warrant to be issued. Name this Bill of Rights amendment that protects against unreasonable searches and seizures.",
+            "answers": [
+                "4th Amendment",
+                "fourth Amendment to the US Constitution",
+                "4th Amendment to the US Constitution",
+                "fourth amendment",
+                "4",
+                "four"
+            ],
+            "incorrect1": "1st Amendment",
+            "incorrect2": "5th Amendment",
+            "incorrect3": "14th Amendment",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This nation recently chose Gintautas Paluckas as the prime minister. This country, the southernmost of the Baltic states, boasts the Hill of Crosses, a pilgrimage site adorned with thousands of crosses of various sizes and styles. It is the birthplace of former NBA player Arvydas Sabonis. Its capital, Vilnius, is known for its charming Old Town, a UNESCO World Heritage Site, and its vibrant street art scene. It was the first Soviet republic to declare independence in 1990, paving the way for the dissolution of the Soviet Union. What is this country, bordered by Latvia, Belarus, and Poland?",
+            "answers": ["Lithuania"],
+            "incorrect1": "Latvia",
+            "incorrect2": "Estonia",
+            "incorrect3": "Belarus",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This historical drama series, which boasts a meticulously crafted wardrobe with costumes inspired by actual royal attire, features a different cast every two seasons to portray the aging of the characters. It chronicles the life of Queen Elizabeth II, from her early days as a young monarch to her later years as a seasoned head of state. It has garnered critical acclaim for its performances, historical accuracy, and lavish production values. What is the name of this Netflix series, which offers a fictionalized yet insightful look into the personal and political life of the British monarch?",
+            "answers": ["The Crown"],
+            "incorrect1": "Downton Abbey",
+            "incorrect2": "Bridgerton",
+            "incorrect3": "The Queen's Gambit",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 SANDS",
+            "question": "The Passaic River flows over a 77-foot waterfall in this state's city of Paterson. Coastal cities in this state include Cape May and the popular gambling destination of Atlantic City. Residents of this state's cities of Hoboken and Newark often commute to New York City across the Hudson River. Name this Eastern seaboard state sandwiched between New York and Pennsylvania.",
+            "answers": ["New Jersey"],
+            "incorrect1": "New York",
+            "incorrect2": "Pennsylvania",
+            "incorrect3": "Delaware",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 Darien DEFT",
+            "question": "Frank Gehry designed Beekman tower at 8 Spruce Street in this city. One building in this city has two lion statues named Patience and Fortitude and is in Bryant Park. An art-deco style building in this city has ornamentation resembling radiator caps and is the tallest brick building in the world. The Metropolitan Opera is at Lincoln Center is in this city where the Fearless Girl statue faces Charging Bull. The Chrysler Building and Wall Street are in what city?",
+            "answers": [
+                "New York City",
+                "New York, New York",
+                "NYC",
+                "new york"
+            ],
+            "incorrect1": "Los Angeles",
+            "incorrect2": "Chicago",
+            "incorrect3": "London",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2016 SAGES",
+            "question": "This city is located on the Thames River. West End theatres are located in this city. The prime meridian runs through Greenwich in this city. This city is home to famous landmarks such as Westminster Abbey. Name this British city which is the capital of the United Kingdom.",
+            "answers": ["London"],
+            "incorrect1": "Paris",
+            "incorrect2": "Berlin",
+            "incorrect3": "Rome",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This team's iconic mascot, Mr. Redlegs, a mustachioed gentleman with a handlebar mustache and a pillbox hat, has been entertaining fans since 1955. Their home stadium, Great American Ball Park, features a unique smokestack that shoots fireworks after every home run. They were the first professional baseball team, founded in 1869. They have won five World Series titles, including back-to-back championships in 1975 and 1976 as part of the \"Big Red Machine\" dynasty. What is the name of this National League team, based in Cincinnati, Ohio?",
+            "answers": ["Cincinnati Reds", "Reds"],
+            "incorrect1": "Cincinnati Bengals",
+            "incorrect2": "St. Louis Cardinals",
+            "incorrect3": "Chicago Cubs",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "President-elect Donald Trump recently selected Scott Bessent to serve in this Senate-confirmed role in his upcoming administration. This role is fifth in line to the presidency. The person in this role leads a a department established in 1789. The first person to hold this role was Alexander Hamilton. The role serves as the principal advisor to the president of the United States on all matters pertaining to economic and fiscal policy. Name this presidential cabinet role currenly held by Janet Yellen which is the head of the U.S. Department of the Treasury.",
+            "answers": ["Treasury Secretary", "Secretary of the Treasury"],
+            "incorrect1": "Federal Reserve Chair",
+            "incorrect2": "Secretary of Defense",
+            "incorrect3": "Secretary of Commerce",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "These entities can be found by using the Sieve of Eratosthenes. According to Goldbach's conjecture, every integer greater than two can be expressed as a sum of two of them. Every positive integer can be expressed as a factorization of these numbers. Identify these natural numbers whose only divisors are themselves and one.",
+            "answers": ["prime numbers", "primes"],
+            "incorrect1": "odd numbers",
+            "incorrect2": "even numbers",
+            "incorrect3": "composite numbers",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "This island was home to the settlement of Brattahlid beginning in the 10th century. In 2005, an island now called \"Warming Island\" was found off the coast of this island. Off the west coast of this island are Davis Strait and Baffin Bay. Its largest cities are Sisimiut and Nuuk, and it is an autonomous country within Denmark. Name this huge island that lies between Iceland and Canada.",
+            "answers": ["Greenland", "Kalaallit Nunaat"],
+            "incorrect1": "Iceland",
+            "incorrect2": "Ireland",
+            "incorrect3": "Newfoundland",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "On character is this work recalls a parable that his mother told him about Mosquito and Ear. That character's wife had nine children die in infancy, which is attributed to an ogbanje by a medicine man. Later in this work, James Smith replaces the more tolerant Mr. Brown. The protagonist of this work is expelled from his village after his gun explodes, accidentally killing a boy. That character's adopted son is Ikemefuna. Okonkwo kills himself in the end of what novel, a work of Nigerian author Chinua Achebe?",
+            "answers": ["Things Fall Apart"],
+            "incorrect1": "Heart of Darkness",
+            "incorrect2": "A Passage to India",
+            "incorrect3": "Cry, the Beloved Country",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This band's iconic 1991 debut album, Ten, featuring songs like \"Alive\" and \"Jeremy,\" propelled them to stardom as leaders of the grunge movement. They famously boycotted Ticketmaster in the mid-1990s, protesting the company's service fees and perceived monopoly on concert ticket sales.  They have released eleven studio albums and continue to tour extensively, maintaining a dedicated fanbase known for their fervent energy and sing-alongs.  What is the name of this Seattle-based rock band, whose music has become synonymous with the grunge era and alternative rock?",
+            "answers": ["Pearl Jam"],
+            "incorrect1": "Nirvana",
+            "incorrect2": "Soundgarden",
+            "incorrect3": "Alice in Chains",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2017 SCOP Novice 8",
+            "question": "In a book from this country, three men in a Peach Garden swear an oath they will die on the same day. A character in this country is forced to help Tripitaka reach India after launching an attack on the Heavenly Kingdom, the domain of the Jade Emperor. The Romance of the Three Kingdoms and Journey to the West are two of the Four Great Classics of what country whose poets commonly wrote about the Great Wall?",
+            "answers": ["China", "Zhongguo"],
+            "incorrect1": "India",
+            "incorrect2": "Japan",
+            "incorrect3": "Russia",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "This man unsuccessfully led a fleet at the Battle of Valcour Island and was briefly relieved of command after suffering leg wounds at Bemis Heights. This man was en route to Philadelphia when the Battle of Ridgefield broke out, which led to his promotion to major general. His most famous action was triggered when he was passed over for a promotion by the Continental Congress and was accused of malfeasance by other officers. This man showed great heroism at Fort Ticonderoga with Ethan Allen and at the Battle of Saratoga. Name this traitor who attempted to sell West Point to the British during the Revolutionary War.",
+            "answers": ["Benedict Arnold"],
+            "incorrect1": "George Washington",
+            "incorrect2": "Ethan Allen",
+            "incorrect3": "John Paul Jones",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2013 SCOP Novice 4",
+            "question": "This prefix to applies maps between groups that preserve the group operation, and to parts of living things that evolved from a common ancestor. It begins the name of a process that prevents fat from rising to the top of milk; that word is related to mixtures with uniform composition. It is the Greek prefix meaning \"same\", and the opposite of \"hetero\". Give this word that is also the genus in which humans are found, in which context it is followed by \"sapiens\".",
+            "answers": [
+                "homo",
+                "homomorphisms",
+                "homologous structures",
+                "homogenization",
+                "homogeneous mixtures",
+                "homo sapiens sapiens"
+            ],
+            "incorrect1": "hetero",
+            "incorrect2": "bi",
+            "incorrect3": "pan",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "President-elect Donald Trump has proposed a 25% tariff on goods coming from Mexico and this nation. In response, this country's Prime Minister flew south to Mar a Lago to meet with Trump. This country boasts the world's longest coastline, stretching for 151,019 miles and bordering three oceans.  It is a constitutional monarchy, with King Charles III as its head of state, represented by the Governor-General.  What is this North American country, known for its vast wilderness, maple syrup, and friendly people?",
+            "answers": ["Canada"],
+            "incorrect1": "United States",
+            "incorrect2": "Mexico",
+            "incorrect3": "Greenland",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2015 SCOP Novice 6",
+            "question": "This nation controls Mawson Peak, an active volcano on Heard Island near Antarctica. One feature off its coast stretches from Lady Elliot Island to the Torres Strait. This continent's Snowy Mountains contain its highest point, Mount Kosciuszko [koh-SHOO-skoh], and its east is split by the Great Dividing Range. This continent contains Ayers Rock, a massive rock formation called Uluru by the Aborigines. The Great Barrier Reef surrounds what island continent?",
+            "answers": ["Australia"],
+            "incorrect1": "Austria",
+            "incorrect2": "New Zealand",
+            "incorrect3": "Madagascar",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2017 Darien DEFT",
+            "question": "This man said \"Aggression unopposed becomes a contagious disease\" in a speech addressing concerns of Soviet interference in the Middle East. Jerry Brown led an \"anyone but\" this man campaign in a presidential primary. This president addressed a \"crisis of confidence\" in the \"malaise\" speech and mediated an agreement between Menachem Begin of Israel and Anwar al-Sadat of Egypt in the Camp David Accords. Name this Democratic president who lost to Ronald Reagan in 1980.",
+            "answers": ["Jimmy Carter", "James Earl Carter Jr."],
+            "incorrect1": "Bill Clinton",
+            "incorrect2": "Richard Nixon",
+            "incorrect3": "Ronald Reagan",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This iconic video game character, created by Shigeru Miyamoto, made his debut in the 1981 arcade game Donkey Kong under the name \"Jumpman.\"  His signature red and blue outfit and his ability to grow larger by consuming a Super Mushroom have become instantly recognizable symbols of the gaming world.  He has appeared in over 200 video games including various sports and party games. Who is this beloved character, known for his adventures in the Mushroom Kingdom and his battles against Bowser to rescue Princess Peach?",
+            "answers": ["Super Mario", "Mario"],
+            "incorrect1": "Sonic the Hedgehog",
+            "incorrect2": "Pac-Man",
+            "incorrect3": "Donkey Kong",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This athlete's historic four gold medals at the 1936 Berlin Olympics defied Hitler's propaganda of Aryan supremacy and made him a global symbol of athletic excellence and human resilience.  He achieved the remarkable feat of setting three world records and tying another in a single hour at the 1935 Big Ten track meet. His victories in the 100-meter and 200-meter dashes, along with the long jump and 4x100-meter relay, showcased his exceptional speed and athleticism.  Who was this legendary track and field star, whose accomplishments transcended sports and became a powerful statement against racial discrimination?",
+            "answers": ["Jesse Owens"],
+            "incorrect1": "Jackie Robinson",
+            "incorrect2": "Jim Thorpe",
+            "incorrect3": "Carl Lewis",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2019 SCOP Novice 10",
+            "question": "In 1942, this country raised war funds by carrying out \"If Day,\" a simulated Nazi occupation. This country's four divisions of troops were supported by the British at the Battle of Vimy Ridge in World War I, and its Queen's Own Rifles landed on Juno Beach during the D-Day invasion. An eastern city in this country was obliterated by the 1917 explosion of the SS Mont Blanc. The Halifax explosion killed roughly two thousand people in what country's province of Nova Scotia?",
+            "answers": ["Canada"],
+            "incorrect1": "United States",
+            "incorrect2": "Mexico",
+            "incorrect3": "Greenland",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2016 Pennsylvania Novice",
+            "question": "One of this man's poems claims \"The armies of those I love engirth me and I engirth them.\"One of his elegies remarks \"The ship has weather'd every crack, the prize we sought is won.\" This author wrote in one of his poems \" I loafe and invite my soul, I lean and loafe at my ease observing a spear of summer grass.\" This man asked \"what is the soul?\" in \"I Sing the Body Electric.\" Name this American poet of \"O Captain my Captain\" and \"Song of Myself,\" which appeared in his collection Leaves of Grass .",
+            "answers": ["Walt Whitman", "Walter \"Walt\" Whitman"],
+            "incorrect1": "Henry David Thoreau",
+            "incorrect2": "Ralph Waldo Emerson",
+            "incorrect3": "Edgar Allan Poe",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "This empire arose when the Seljuk sultanate collapsed. It captured the capital of Hungary in 1526 during the Battle of Mohacs. This nation's expansion to Greece and the Balkan Peninsula was followed by the capture of Constantinople in 1453. Identify this empire which dissolved in the early 20th century because of the Young Turk revolution and its ill-fated alignment with Germany and Austria-Hungary.",
+            "answers": ["Ottoman Empire", "Osmanic Empire", "Osmanion Empire"],
+            "incorrect1": "Byzantine Empire",
+            "incorrect2": "Mughal Empire",
+            "incorrect3": "Holy Roman Empire",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2022 SANDS",
+            "question": "The use of \"spectral evidence\" during this event was discussed in Cotton Mather's The Wonders of the Invisible World. For his refusal to plead during this event, Giles Corey was pressed to death with stones. The slave Tituba was the first to be targeted by this event following accusations made by Betty Parris and Abigail Williams. Magic practitioners were hunted in what series of trials in 17th century Massachusetts?",
+            "answers": ["Salem Witch Trials"],
+            "incorrect1": "Spanish Inquisition",
+            "incorrect2": "McCarthyism",
+            "incorrect3": "French Revolution",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "U.S. border agents recently seized 3,000 of these items that arrived into Southern California from Asia. The items, which were counterfeit, included signature models played by Dave Grohl and ones that appeared to be signed by Slash. The seizure is the largest collection of counterfeit musical instruments. The instruments' modern form, with six strings and a fretted neck, evolved from earlier instruments like the lute and the vihuela. The iconic \"Flying V\" shape of these instruments, pioneered by Gibson in the 1950s, became a symbol of rock and roll rebellion. Name this popular stringed instrument.",
+            "answers": ["Guitars"],
+            "incorrect1": "Violins",
+            "incorrect2": "Drums",
+            "incorrect3": "Pianos",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This classic fantasy film features a memorable duel of wits between the protagonist, Westley, and the villainous Vizzini, who engage in a battle of intellect while sipping from poisoned goblets.  The film's iconic line, \"Hello. My name is Inigo Montoya. You killed my father. Prepare to die,\" spoken by Mandy Patinkin's character, has become a beloved quote among fans.  The film's story is framed as a grandfather reading a book to his grandson, adding a heartwarming layer to the adventure.  What is the title of this 1987 film directed by Rob Reiner, known for its blend of humor, romance, and swashbuckling action?",
+            "answers": ["The Princess Bride"],
+            "incorrect1": "The Lord of the Rings",
+            "incorrect2": "Game of Thrones",
+            "incorrect3": "Harry Potter",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This basketball legend's Oscar-winning short film, \"Dear Basketball,\"  was a heartfelt ode to the sport he loved. He famously scored 81 points against the Toronto Raptors in 2006, the second-highest single-game point total in NBA history. His \"Black Mamba\" nickname reflected his killer instinct and relentless pursuit of victory on the court. He spent his entire 20-season career with the Los Angeles Lakers, winning five NBA championships and becoming a global icon. Who is this basketball superstar, tragically killed in a helicopter crash in 2020?",
+            "answers": ["Kobe Bryant"],
+            "incorrect1": "Michael Jordan",
+            "incorrect2": "LeBron James",
+            "incorrect3": "Shaquille O'Neal",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2011 SCOP Novice 2",
+            "question": "One type of this geologic feature separates horsts and grabens from each other. Low dip angles can lead to stratigraphic position changes in the thrust variety of these. The strike-slip variety can move laterally, as in the New Madrid set of these in the US Midwest. Name these geologic features related to plate boundaries, including California's San Andreas, where energy buildup is released in the form of earthquakes.",
+            "answers": ["faults"],
+            "incorrect1": "folds",
+            "incorrect2": "fractures",
+            "incorrect3": "earthquakes",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 SCOP Novice",
+            "question": "One work by this author predicted the birth of a \"miraculous child,\" and is sometimes called the Bucolics; another includes the passage \"Praises of Italy\" and concerns rural agriculture. Those works are the Eclogues and Georgics, and his most famous work is about a man who escapes with Anchises and Ascanius, opens, \"of arms and the man I sing,\" and sees a man leave Troy to found Rome. Name this Roman poet of the Aeneid.",
+            "answers": ["Virgil", "Publius Vergilius Maro"],
+            "incorrect1": "Homer",
+            "incorrect2": "Ovid",
+            "incorrect3": "Dante",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2009 Fall Novice Tournament",
+            "question": "This city's downtown features the Angel's Flight incline and the Mexican neighborhood of Olvera Street. Notable neighborhoods in this city include Echo Park, Westwood, and Venice Beach, while the San Fernando Valley attempted to secede from this city. The Watts Riots happened in this city, which is also the home of Hollywood. Name this largest city in California.",
+            "answers": ["Los Angeles", "LA"],
+            "incorrect1": "New York City",
+            "incorrect2": "San Francisco",
+            "incorrect3": "Chicago",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2009 Fall Novice Tournament",
+            "question": "The absence of these features can cause isostatic rebound. These features create paternoster lakes and parallel ones are responsible for aretes. These features also create kames, which often form with kettle lakes. These features often form from firn in cirques and their retreat creates eskers and drumlins and leaves moraine. Name these features that can be tidewater, alpine, or continental, slow-moving rivers of ice.",
+            "answers": ["glaciers", "ice caps", "ice sheets"],
+            "incorrect1": "icebergs",
+            "incorrect2": "ice caps",
+            "incorrect3": "permafrost",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This animated sitcom's long-running gag, featuring a drawn-out fight scene between Peter Griffin and Ernie the Giant Chicken, often interrupts the show's narrative with absurd and over-the-top violence.  The show's creators, Seth MacFarlane, also voices several of the main characters, including Peter Griffin, Brian Griffin, and Stewie Griffin. The show's cutaway gags, often featuring non-sequitur jokes and pop culture references, have become a signature element of its humor. What is the name of this animated sitcom, known for its irreverent and often controversial humor?",
+            "answers": ["Family Guy"],
+            "incorrect1": "The Simpsons",
+            "incorrect2": "American Dad!",
+            "incorrect3": "South Park",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This team has a historic rivalry with the Houston Astros, a matchup that often ignites passionate fan bases in the Lone Star State.  They made their first World Series appearance in 2010, falling to the San Francisco Giants, and then again in 2011, where they lost to the St. Louis Cardinals. They won their only World Series in 2023, defeating the Arizona Diamondbacks.  What is the name of this Major League Baseball team, based in Arlington, Texas?",
+            "answers": ["Texas Rangers", "Rangers"],
+            "incorrect1": "Texas Longhorns",
+            "incorrect2": "Houston Astros",
+            "incorrect3": "Dallas Cowboys",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 HIGS",
+            "question": "The Cascada de Basaseachi is located in this country's Copper Canyon. The highest point in this country is the Pico de Orizaba, and the Chihuahuan desert is located on this country's northern border. Tourist locations in this country include Cabo San Lucas and Cancun, and the Yucatan peninsula borders this country's namesake gulf. Name this Latin American country that shares a border with Guatemala as well as the United States.",
+            "answers": ["Mexico"],
+            "incorrect1": "Brazil",
+            "incorrect2": "Argentina",
+            "incorrect3": "Spain",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "On November 27, 2024 rebel groups from this nation launched an offensive against government forces in the city of Aleppo. This was the first offensive in the nation's civil war since 2020. Its capital, Damascus, is considered one of the oldest continuously inhabited cities in the world. It is also where the Umayyad Mosque, one of the largest and oldest mosques in the world, stands as a testament to the country's rich Islamic heritage. What is this nation, currently led by Bashar al-Assad?",
+            "answers": ["Syria"],
+            "incorrect1": "Lebanon",
+            "incorrect2": "Jordan",
+            "incorrect3": "Iraq",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2020 SCOP A",
+            "question": "In the aftermath of this event, troops were forced to withdraw to Castle Island despite promises made by Thomas Hutchinson. John Adams claimed that \"facts are stubborn things\" while defending this event's perpetrators. Henry Pelham created a depiction of this event which was then copied and attributed to Paul Revere. Crispus Attucks was killed during the opening volley of this event. Name this 1770 event in which British soldiers opened fire on a crowd in Massachusetts.",
+            "answers": ["Boston Massacre", "The Incident on the King Street"],
+            "incorrect1": "Boston Tea Party",
+            "incorrect2": "Battle of Bunker Hill",
+            "incorrect3": "Paul Revere's Ride",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2018 MVS RAMS",
+            "question": "One leader of this modern-day country stressed educating women alongside men in his \"Kastamonu Speech.\" That leader of this country also passed the Hat Law of 1925, which banned the fez in favor of Western-style headgear. This country claims parts of Northern Cyprus as its territory, and the Dardanelles divide this country's \"European\" and \"Asian\" regions. This country arose after the dissolution of the Ottoman Empire. Name this country whose capital is Ankara and whose largest city is Istanbul.",
+            "answers": ["Republic of Turkey", "Turkiye Cumhuriyeti"],
+            "incorrect1": "Greece",
+            "incorrect2": "Syria",
+            "incorrect3": "Egypt",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 SCOP Novice 8",
+            "question": "A tambourine in this work accompanies woodwinds in the folk song \"U Vurot,\" or \"At the Gate.\"Cellos play the hymn \"God Save Thy People\" at this work's beginning. Near the end of this piece, the French national anthem \"La Marseillase\" [mar-sigh-ezz] fades out as \"God Save the Tsar\" begins, punctuated by cannon fire and church bells. Name this piece that celebrates the defeat of Napoleon by Russian troops, a Pyotr Tchaikovsky overture.",
+            "answers": ["the 1812 Overture", "1812"],
+            "incorrect1": "William Tell Overture",
+            "incorrect2": "Romeo and Juliet Fantasy Overture",
+            "incorrect3": "The Nutcracker",
+            "used": "TRUE"
+        }
     ]
 ]
