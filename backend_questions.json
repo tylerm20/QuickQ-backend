@@ -19063,7 +19063,7 @@
             "category": "Science",
             "source": "2021 CERES",
             "question": "A theorem named for Lagrange says that all integers can be written as the sum of this many perfect squares. All maps can be colored with this many colors without having any adjacent regions of the same color. An integer is divisible by this number if its last two digits are divisible by this number. This number is the number of faces of a tetrahedron. How many sides does a square have?",
-            "answers": ["four"],
+            "answers": ["four", "4"],
             "incorrect1": "three",
             "incorrect2": "five",
             "incorrect3": "ten",
