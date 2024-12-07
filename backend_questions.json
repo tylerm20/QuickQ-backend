@@ -19491,7 +19491,7 @@
         },
         {
             "category": "Current Events",
-            "question": "President-elect Donald Trump recently selected Scott Bessent to serve in this Senate-confirmed role in his upcoming administration. This role is fifth in line to the presidency. The person in this role leads a a department established in 1789. The first person to hold this role was Alexander Hamilton. The role serves as the principal advisor to the president of the United States on all matters pertaining to economic and fiscal policy. Name this presidential cabinet role currenly held by Janet Yellen which is the head of the U.S. Department of the Treasury.",
+            "question": "President-elect Donald Trump recently selected Scott Bessent to serve in this Senate-confirmed role in his upcoming administration. This role is fifth in line to the presidency. The person in this role leads a department established in 1789. The first person to hold this role was Alexander Hamilton. The role serves as the principal advisor to the president of the United States on all matters pertaining to economic and fiscal policy. Name this presidential cabinet role currenly held by Janet Yellen which is the head of the U.S. Department of the Treasury.",
             "answers": ["Treasury Secretary", "Secretary of the Treasury"],
             "incorrect1": "Federal Reserve Chair",
             "incorrect2": "Secretary of Defense",
@@ -19574,8 +19574,8 @@
                 "homo sapiens sapiens"
             ],
             "incorrect1": "hetero",
-            "incorrect2": "bi",
-            "incorrect3": "pan",
+            "incorrect2": "super",
+            "incorrect3": "oxy",
             "used": "TRUE"
         },
         {
@@ -19591,7 +19591,7 @@
         {
             "category": "Geography",
             "source": "2015 SCOP Novice 6",
-            "question": "This nation controls Mawson Peak, an active volcano on Heard Island near Antarctica. One feature off its coast stretches from Lady Elliot Island to the Torres Strait. This continent's Snowy Mountains contain its highest point, Mount Kosciuszko [koh-SHOO-skoh], and its east is split by the Great Dividing Range. This continent contains Ayers Rock, a massive rock formation called Uluru by the Aborigines. The Great Barrier Reef surrounds what island continent?",
+            "question": "This nation controls Mawson Peak, an active volcano on Heard Island near Antarctica. One feature off its coast stretches from Lady Elliot Island to the Torres Strait. This continent's Snowy Mountains contain its highest point, Mount Kosciuszko, and its east is split by the Great Dividing Range. This continent contains Ayers Rock, a massive rock formation called Uluru by the Aboriginal people. The Great Barrier Reef surrounds what island continent?",
             "answers": ["Australia"],
             "incorrect1": "Austria",
             "incorrect2": "New Zealand",
