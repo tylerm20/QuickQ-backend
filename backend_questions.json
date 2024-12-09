@@ -19737,8 +19737,8 @@
             "source": "2009 Fall Novice Tournament",
             "question": "The absence of these features can cause isostatic rebound. These features create paternoster lakes and parallel ones are responsible for aretes. These features also create kames, which often form with kettle lakes. These features often form from firn in cirques and their retreat creates eskers and drumlins and leaves moraine. Name these features that can be tidewater, alpine, or continental, slow-moving rivers of ice.",
             "answers": ["glaciers", "ice caps", "ice sheets"],
-            "incorrect1": "icebergs",
-            "incorrect2": "ice caps",
+            "incorrect1": "oceans",
+            "incorrect2": "currents",
             "incorrect3": "permafrost",
             "used": "TRUE"
         },
@@ -19774,7 +19774,7 @@
         },
         {
             "category": "Current Events",
-            "question": "On November 27, 2024 rebel groups from this nation launched an offensive against government forces in the city of Aleppo. This was the first offensive in the nation's civil war since 2020. Its capital, Damascus, is considered one of the oldest continuously inhabited cities in the world. It is also where the Umayyad Mosque, one of the largest and oldest mosques in the world, stands as a testament to the country's rich Islamic heritage. What is this nation, currently led by Bashar al-Assad?",
+            "question": "On November 27, 2024 rebel groups from this nation launched an offensive against government forces in the city of Aleppo. This was the first offensive in the nation's civil war since 2020. Its capital, Damascus, is considered one of the oldest continuously inhabited cities in the world. It is also where the Umayyad Mosque, one of the largest and oldest mosques in the world, stands as a testament to the country's rich Islamic heritage. What is this nation, where rebels recently forced Bashar al-Assad to flee?",
             "answers": ["Syria"],
             "incorrect1": "Lebanon",
             "incorrect2": "Jordan",
@@ -19796,7 +19796,7 @@
             "category": "World History",
             "source": "2018 MVS RAMS",
             "question": "One leader of this modern-day country stressed educating women alongside men in his \"Kastamonu Speech.\" That leader of this country also passed the Hat Law of 1925, which banned the fez in favor of Western-style headgear. This country claims parts of Northern Cyprus as its territory, and the Dardanelles divide this country's \"European\" and \"Asian\" regions. This country arose after the dissolution of the Ottoman Empire. Name this country whose capital is Ankara and whose largest city is Istanbul.",
-            "answers": ["Republic of Turkey", "Turkiye Cumhuriyeti"],
+            "answers": ["Turkey", "Republic of Turkey", "Turkiye Cumhuriyeti"],
             "incorrect1": "Greece",
             "incorrect2": "Syria",
             "incorrect3": "Egypt",
@@ -19805,11 +19805,609 @@
         {
             "category": "Arts & Literature",
             "source": "2017 SCOP Novice 8",
-            "question": "A tambourine in this work accompanies woodwinds in the folk song \"U Vurot,\" or \"At the Gate.\"Cellos play the hymn \"God Save Thy People\" at this work's beginning. Near the end of this piece, the French national anthem \"La Marseillase\" [mar-sigh-ezz] fades out as \"God Save the Tsar\" begins, punctuated by cannon fire and church bells. Name this piece that celebrates the defeat of Napoleon by Russian troops, a Pyotr Tchaikovsky overture.",
+            "question": "A tambourine in this work accompanies woodwinds in the folk song \"U Vurot,\" or \"At the Gate.\"Cellos play the hymn \"God Save Thy People\" at this work's beginning. Near the end of this piece, the French national anthem \"La Marseillase\" fades out as \"God Save the Tsar\" begins, punctuated by cannon fire and church bells. Name this piece that celebrates the defeat of Napoleon by Russian troops, a Pyotr Tchaikovsky overture.",
             "answers": ["the 1812 Overture", "1812"],
             "incorrect1": "William Tell Overture",
             "incorrect2": "Romeo and Juliet Fantasy Overture",
             "incorrect3": "The Nutcracker",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2015 SCOP Novice 6",
+            "question": "Lisa Murkowski's 2015 proposal regarding this object was blocked in Congress by the Ohio delegation; Sally Jewell, the Secretary of the Interior, enacted that Athabascan-championed proposal just prior to a presidential visit focusing on climate concerns in the Arctic. After nearly one century of commemorating the twenty-fifth US president, it was renamed in 2015. Name this tallest mountain in North America, formerly known as Mount McKinley.",
+            "answers": ["Denali", "Mount McKinley"],
+            "incorrect1": "Mount Rainier",
+            "incorrect2": "Mount Whitney",
+            "incorrect3": "Mount Elbert",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2018 SCOP Novice 9",
+            "question": "Scholars who worked during this dynasty include Sima Qian, who wrote the Records of the Grand Historian. This dynasty's embassies into Central Asia helped build the Silk Road, which brought it into contact with the Romans. The Yellow Turban Rebellion opposed this dynasty, whose collapse in 220 AD led to the Three Kingdoms period. Name this ancient Chinese dynasty whose name is shared by the majority ethnic group of China.",
+            "answers": ["Han Dynasty"],
+            "incorrect1": "Tang Dynasty",
+            "incorrect2": "Ming Dynasty",
+            "incorrect3": "Mao Dynasty",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This soccer team won its first MLS Cup in 10 years with a victory over the New York Red Bulls. This Major League Soccer team, boasting a record six MLS Cup titles, plays its home games at Dignity Health Sports Park in Carson, California.  Their iconic crest features a quasar, a celestial object that emits immense energy, symbolizing the team's ambition and star power.  They were one of the league's ten charter clubs, beginning play in 1996.  Their roster has featured international superstars like David Beckham and Zlatan Ibrahimovi\u0107, drawing global attention to the league.  What is the name of this team, known for their success and their passionate fanbase in Southern California?",
+            "answers": ["LA Galaxy", "Los Angeles Galaxy", "Galaxy"],
+            "incorrect1": "LAFC",
+            "incorrect2": "Los Angeles Lakers",
+            "incorrect3": "San Jose Earthquakes",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2015 SAGES",
+            "question": "The highest mountain in this range is Mount Mitchell. The Adirondacks of New York are unusually not part of this range. The trail named for this range runs near the Blue Ridge Parkway in Virginia and North Carolina. Name this mountain range in the eastern United States.",
+            "answers": ["Appalachian Mountains", "Appalachians"],
+            "incorrect1": "Rocky Mountains",
+            "incorrect2": "Andes Mountains",
+            "incorrect3": "Himalayan Mountains",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 MOQBA Novice",
+            "question": "The founder of this novel's central town left Riohacha after killing Prudencio Aguilar and settled near a riverbank after a dream. A rainstorm lasting five years begins after the massacre of 3000 banana plantation workers in this novel. Amaranta Ursula dies after her baby is born with a pig's tail in this novel, in which Remedios the Beauty vanishes by floating up to heaven. Most men in this novel's central family are named after Aracadio or Aureliano. Name this magical realist novel about the Buendia family's life in Macondo, written by Gabriel Garcia Marquez.",
+            "answers": [
+                "One Hundred Years of Solitude",
+                "Cien Anos de Soledad"
+            ],
+            "incorrect1": "Love in the Time of Cholera",
+            "incorrect2": "The House of the Spirits",
+            "incorrect3": "Like Water for Chocolate",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2020 TAILS",
+            "question": "H. pylori is a bacterium commonly found in this organ. This organ, which is the site of chief cells, also contains parietal cells that secrete intrinsic factor. Foveolar cells produce the mucus that lines the inner walls of this organ, which protect the tissue of this organ from hydrochloric acid. Located between the esophagus and the small intestine is what organ that digests food after it is chewed?",
+            "answers": ["stomach"],
+            "incorrect1": "small intestine",
+            "incorrect2": "large intestine",
+            "incorrect3": "liver",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Following a controversial declaration of martial law on December 3rd, 2024, this nation has been plunged into turmoil. The president of this democracy, facing mounting public pressure and impeachment proceedings, invoked emergency powers in a late-night address. This unprecedented move sparked widespread protests, with tens of thousands taking to the streets across the country to denounce the government's actions. The declaration has since been overturned and the president survived an impeachment vote. What is the name of this country, which shares a border with North Korea and is known for its technological advancements?",
+            "answers": ["South Korea"],
+            "incorrect1": "North Korea",
+            "incorrect2": "Japan",
+            "incorrect3": "China",
+            "used": "TRUE",
+            "source": "Una Corbett"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This neo-noir science fiction film, set in a dystopian Los Angeles in 2019, features a visually stunning cityscape with towering skyscrapers and neon-lit advertisements, creating a futuristic yet decaying atmosphere. The film's protagonist, Rick Deckard, played by Harrison Ford, is tasked with hunting down and \"retiring\" rogue replicants, bioengineered beings virtually indistinguishable from humans. The film's philosophical exploration of what it means to be human and the ethical implications of artificial intelligence has sparked countless discussions and debates. What is the title of this 1982 film directed by Ridley Scott?",
+            "answers": ["Blade Runner"],
+            "incorrect1": "The Terminator",
+            "incorrect2": "Alien",
+            "incorrect3": "Brazil",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2016 Pennsylvania Novice",
+            "question": "This national park includes the brilliant blue\u00adgreen Havasu Falls on the Supai Reservation. The Precambrian Vishnu Complex outcrops at the lowest point of this national park. Phantom Ranch provides accommodations for hikers on this park's Bright Angel Trail, which descends from its South Rim Visitor Center. Its main feature is over a mile deep and up to eighteen miles wide. Name this national park in Arizona where the Colorado River eroded the namesake steep\u00adwalled feature.",
+            "answers": ["Grand Canyon National Park"],
+            "incorrect1": "Yellowstone National Park",
+            "incorrect2": "Yosemite National Park",
+            "incorrect3": "Zion National Park",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "The CEO of this company,  Brian Thompson, was murdered in midtown Manhattan on the morning of a shareholder meeting. This company, the largest health insurance provider in the United States by revenue, serves over 130 million members through its diverse range of plans and services. It was founded in 1977 as Charter Med Incorporated, a health maintenance organization in Minnesota. It is a Fortune 500 company and a major player in the healthcare industry, offering employer-sponsored health plans, Medicare and Medicaid plans, and individual health insurance. What is the name of this company, headquartered in Minnetonka, Minnesota?",
+            "answers": ["UnitedHealthcare", " United Healthcare"],
+            "incorrect1": "Blue Cross Blue Shield",
+            "incorrect2": "Anthem",
+            "incorrect3": "Aetna",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2016 SAGES",
+            "question": "This Greek goddess is commonly associated with owls and olive trees. This goddess was said to have been born from the brain of Zeus. After winning a competition with Poseidon, a major Greek city-state was named after her. Name this Greek goddess of wisdom and justice.",
+            "answers": ["Athena"],
+            "incorrect1": "Aphrodite",
+            "incorrect2": "Artemis",
+            "incorrect3": "Hera",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This theory originated as an offshoot of Ernst Mayr's concept of genetic revolutions by speciation, but was greatly expanded by the author of a 1971 paper citing fossil records of trilobites, Niles Eldredge, as well as Stephen Jay Gould. It opposes the \"phylectic\" type of another idea and explains the lack of transitional forms in fossil records. Stating that most sexually reproducing species experience little change for most of their history and that their evolution occurs in short, rapid spurts is what evolutionary theory often contrasted with phylectic gradualism?",
+            "answers": ["punctuated equilibrium"],
+            "incorrect1": "gradualism",
+            "incorrect2": "uniformitarianism",
+            "incorrect3": "catastrophism",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2010 Fall Novice Tournament",
+            "question": "The Silla dynasty ruled in this country where Sejon the Great was an early ruler of the Choson Dynasty. A foreign invasion of it by Toyotomi Hideyoshi lost at the battle of Noryang with the help of this country's turtle ships. One war in this country featured a landing by Douglas Macarthur at Inchon, which led to its 38th-parallel demilitarized zone. Name this peninsula split into a northern half ruled by Kim Jong-Il and a southern half with capital Seoul.",
+            "answers": ["Korean Peninsula", "Hanguk", "Choson"],
+            "incorrect1": "Indochina Peninsula",
+            "incorrect2": "Malay Peninsula",
+            "incorrect3": "Iberian Peninsula",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2020 ERIS",
+            "question": "The book And the Band Played On criticized this president's lack of a response to the HIV/AIDS epidemic, which first became widespread during his administration. This man's administration illegally sold arms to Iran to fund Nicaraguan rebels in the Iran-Contra affair. \"Trickle-down economics\" was popularized by what Republican president who served through the 1980s?",
+            "answers": ["Ronald Reagan"],
+            "incorrect1": "Richard Nixon",
+            "incorrect2": "Jimmy Carter",
+            "incorrect3": "George H.W. Bush",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This science fiction franchise features a diverse crew aboard the starship USS Enterprise, exploring strange new worlds and seeking out new life and civilizations. Its creator, Gene Roddenberry, envisioned a utopian future where humanity has overcome its differences. Iconic characters include Captain James T. Kirk, Spock, and Dr. McCoy. The franchise has expanded to include multiple television series and films. What is the name of this enduring franchise?",
+            "answers": ["Star Trek"],
+            "incorrect1": "Star Wars",
+            "incorrect2": "Battlestar Galactica",
+            "incorrect3": "Doctor Who",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This baseball player, known for his exceptional plate discipline and ability to draw walks, led the major leagues in walks in both 2021 and 2022, showcasing his patient approach at the plate. He burst onto the scene as a teenager with the Washington Nationals, helping them win the World Series in 2019. He was traded to the San Diego Padres in 2022, and then played for the New York Yankees in the 2024 World Series. Name this outfielder who recently agreed to the largest contract in MLB History with the New York Mets.",
+            "answers": ["Juan Soto"],
+            "incorrect1": "Vladimir Guerrero Jr.",
+            "incorrect2": "Ronald Acuña Jr.",
+            "incorrect3": "Fernando Tatis Jr.",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "Michel Barnier, the prime minister of this nation recently lost a vote no confidence vote leading to his resignation. This country's current president leader of the centrist La R\u00e9publique En Marche! party, won re-election in 2022, defeating his far-right rival Marine Le Pen. Its political system is a semi-presidential republic, with a dual executive consisting of the President as head of state and the Prime Minister as head of government. The current president of this country is Emmanuel Macron. What is this European nation, known for its rich history, culture, and political influence on the world stage?",
+            "answers": ["France"],
+            "incorrect1": "Germany",
+            "incorrect2": "Italy",
+            "incorrect3": "Spain",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This professional basketball league, founded in 1996 as a counterpart to the NBA, tipped off its inaugural season in 1997 with eight teams and has since expanded to 13 franchises across the United States. The league's inaugural championship was won by the Houston Comets, led by Sheryl Swoopes, a dominant force in women's basketball. The league most recently added an expansion team in San Francisco called the Golden State Valkyries. What is the name of this league, which showcases the athleticism and talent of female basketball players?",
+            "answers": ["WNBA", " Women's National Basketball Association"],
+            "incorrect1": "NWSL",
+            "incorrect2": "NFL",
+            "incorrect3": "MLB",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2016 PLATO",
+            "question": "This man allegedly invented a parabolic mirror that he used as a heat ray to burn ships attacking his city. Another invention of his uses a spiral blade inside of a cylinder to efficiently raise water and is called his namesake \"screw.\" While taking a bath, this mathematician discovered the method of water displacement to measure volume and shouted \"I have found it!\" in Greek. Name this Ancient Greek scholar from Syracuse who exclaimed \"Eureka!\"",
+            "answers": ["Archimedes"],
+            "incorrect1": "Euclid",
+            "incorrect2": "Pythagoras",
+            "incorrect3": "Aristotle",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 SCOP MS 10",
+            "question": "In a Shakespeare play, a pair of gravediggers agree that a women who died in this manner would have been buried outside the graveyard if she hadn't been a noblewoman. Laertes \"forbids\" his tears after learning that his sister has died this way in Hamlet. Ophelia falls from a willow tree before dying in what way, when she cannot get out of a \"weeping brook?\"",
+            "answers": [
+                "drowning",
+                "being drowned",
+                "jumping into a river",
+                "throwing herself or jumping into Cabed-en-Aras"
+            ],
+            "incorrect1": "asphyxiation",
+            "incorrect2": "hypoxia",
+            "incorrect3": "cardiac arrest",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2020 SCOP MS 10",
+            "question": "A Tatar assassin tried to kill this leader's youngest son, but was stopped by Altani, a woman whom this man honored as a bataar. This man's original successor, Jochi, led the Golden Horde before he was possibly poisoned, and his son Ogedei defeated the Jin Dynasty. This man's grandson founded the Yuan Dynasty, which expanded his empire south into China. Name this founder of the Mongol Empire and ancestor of Kublai Khan.",
+            "answers": ["Genghis Khan", "Temujin", "Chinggis Khan"],
+            "incorrect1": "Kublai Khan",
+            "incorrect2": "Attila the Hun",
+            "incorrect3": "Alexander the Great",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 SCOP Novice 8",
+            "question": "In this city, Danforth and Bloor Streets are connected by the Prince Edward Viaduct. This city's City Hall overlooks Nathan Phillips Square, its country's largest city square. In 2009, this city's CN Tower lost its title as tallest tower in the world. This city, often nicknamed \"the Six,\" lies on the northwest shore of a Great Lake named for its Canadian province. Name this most populous city in Ontario and all of Canada.",
+            "answers": ["Toronto"],
+            "incorrect1": "Montreal",
+            "incorrect2": "Vancouver",
+            "incorrect3": "Ottawa",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This band's iconic album London Calling, released in 1979, featured a diverse range of musical styles, from punk and reggae to ska and rockabilly, showcasing their eclectic influences. The album's cover, a tribute to Elvis Presley's debut album, depicts bassist Paul Simonon smashing his Fender Precision Bass onstage. Their hit song \"Rock the Casbah\" became an anthem of anti-establishment sentiment, even gaining popularity in the Middle East despite its criticism of authoritarian regimes. What is the name of this influential British punk rock band?",
+            "answers": ["The Clash"],
+            "incorrect1": "The Sex Pistols",
+            "incorrect2": "The Ramones",
+            "incorrect3": "Buzzcocks",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2015 SAGES",
+            "question": "Along with John Jay and Alexander Hamilton, this man wrote the Federalist Papers. Since he drafted it, this man is called the \"Father of the Constitution.\" Name this fourth U.S. president, who fled the White House with his wife Dolly during the War of 1812.",
+            "answers": ["James Madison"],
+            "incorrect1": "Thomas Jefferson",
+            "incorrect2": "John Adams",
+            "incorrect3": "James Monroe",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This basketball player, known for his exceptional passing skills and court vision, became the first center since Wilt Chamberlain to lead the NBA in assists, achieving this feat in the 2020-21 season.  He was drafted in the second round of the 2014 NBA draft, a surprisingly low selection for a player who would become a three-time NBA MVP.  He led the Denver Nuggets to their first NBA championship in 2023, earning the Finals MVP award.  Who is this Serbian center, nicknamed \"The Joker\" for his playful demeanor and deceptive skills on the court?",
+            "answers": ["Nikola Joki\u0107", "Nikola Jokic"],
+            "incorrect1": "Joel Embiid",
+            "incorrect2": "Giannis Antetokounmpo",
+            "incorrect3": "Luka Dončić",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2021 SCOP B",
+            "question": "In a book about this event, Eliahou is abandoned by his son while on a long march in the snow, and the protagonist and his father are told to say they are eighteen and forty years old after being separated from Tziporah, Hilda, and Bea. Moshe the Beadle's warning about this event is ignored in the first section of a 1960 book by a survivor of this event. Name this historical event that provides the backdrop for Elie Wiesel's Night, which describes atrocities committed in the Buchenwald and Auschwitz concentration camps?",
+            "answers": ["Holocaust", "Shoah", "genocide of the Jewish people"],
+            "incorrect1": "Armenian Genocide",
+            "incorrect2": "Rwandan Genocide",
+            "incorrect3": "Cambodian Genocide",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2020 SCOP A",
+            "question": "Two decades after this ruler's death, a pair of his followers named Lysimachus and Antigonus fought each other at the Battle of Ipsus. This man won the Battle of Issus over Darius III of Persia in 333 BCE, ten years before he died in Babylon. This son of Philip II never lost a battle. Name this ruler of Macedon whose empire, stretching from Greece to India, was one of the largest empires of the ancient world.",
+            "answers": ["Alexander the Great", "Alexander III of Macedon"],
+            "incorrect1": "Julius Caesar",
+            "incorrect2": "Genghis Khan",
+            "incorrect3": "Napoleon Bonaparte",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2017 SCOP Novice 8",
+            "question": "In 1990, this city's Isabella Stewart Gardner museum was robbed of over $500 million worth of art. This city's downtown area is home to a Freedom Trail, where tourists can visit Dorchester Heights, Faneuil Hall, and the Old North Church. Colleges in and around this city include Emerson College downtown and, across the Charles River in Cambridge, MIT, and Harvard. Logan International Airport serves what capital city of Massachusetts?",
+            "answers": ["Boston"],
+            "incorrect1": "New York City",
+            "incorrect2": "Philadelphia",
+            "incorrect3": "Chicago",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This token recently hit a valution of $100,000 for the first time in its history. This digital currency, created in 2009 by the pseudonymous Satoshi Nakamoto, experienced a dramatic surge in value in 2021, reaching an all-time high of over $68,000 per coin. It operates on a decentralized technology known as blockchain, which allows for secure and transparent transactions without intermediaries. It has been embraced by some investors as a \"digital gold,\" a hedge against inflation and economic uncertainty. However, its volatility and association with illicit activities have also drawn criticism. What is this cryptocurrency, the first and most well-known of its kind?",
+            "answers": ["Bitcoin"],
+            "incorrect1": "Ethereum",
+            "incorrect2": "Dogecoin",
+            "incorrect3": "Litecoin",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2021 SCOP B",
+            "question": "The outer portion of this organ contains layers named for Descemet and Bowman, and may contain Dua's Layer. Tay-Sachs disease causes a \"cherry red spot\" in a part of this organ. The fovea of this organ contains almost no rod cells, which are more plentiful outside this organ's macula. A ring of colored muscle in this organ, the iris, allows light to pass through the lens to the retina. Name this organ that passes information to the optic nerve to allow a person to see.",
+            "answers": ["eyes"],
+            "incorrect1": "ears",
+            "incorrect2": "nose",
+            "incorrect3": "mouth",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 MAKEMAKE",
+            "question": "This river receives the Green River in Canyonlands National Park before flowing downstream into Lake Powell. Low water levels in Lake Mead, which this river flows through, have raised concern of a \"dead pool\" when this river will not be able to flow through Hoover Dam. This river forms the border between California and Arizona. The Grand Canyon was carved by what river named for a Rocky Mountain state?",
+            "answers": ["Colorado River"],
+            "incorrect1": "Mississippi River",
+            "incorrect2": "Columbia River",
+            "incorrect3": "Missouri River",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This comedy series has garnered critical acclaim for its heartwarming tone, positive message, and exploration of themes like teamwork, resilience, and mental health. The show's protagonist, played by Jason Sudeikis, is known for his optimistic demeanor, folksy wisdom, and homemade shortbread cookies.  It follows an American football coach hired to manage a struggling English Premier League soccer team, AFC Richmond, despite having no experience with the sport. What is the name of this Emmy Award-winning Apple TV+ series?",
+            "answers": ["Ted Lasso"],
+            "incorrect1": "Friday Night Lights",
+            "incorrect2": "Coach",
+            "incorrect3": "The Bear",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This golfer, known for his calm demeanor and consistent play, achieved a remarkable feat in 2022 by winning four PGA Tour events in a span of six starts, including his first major championship at the Masters Tournament. He reached the number one spot in the Official World Golf Ranking in March 2022, a position he held for 30 consecutive weeks. He is recognizable for his distinctive swing and his habit of constantly chewing gum during rounds. Who is this American golfer, who made headlines this year for a brief arrest at the PGA Championship?",
+            "answers": ["Scottie Scheffler"],
+            "incorrect1": "Rory McIlroy",
+            "incorrect2": "Jon Rahm",
+            "incorrect3": "Tiger Woods",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2010 SCOP Novice",
+            "question": "In the Michel decay, a muon decays into a neutrino, anti-neutrino, and this particle. These particles were fired at nickel in the Davisson-Germer experiment to demonstrate their wave nature. Its charge was measured by balancing an electric field against gravity in the Millikan oil-drop experiment, and it was discovered in cathode ray tubes by J.J. Thomson. Name this lepton whose antiparticle is the positron, a negatively-charged particle that exists in probabilistic namesake \"clouds\" outside atomic nuclei.",
+            "answers": ["electrons"],
+            "incorrect1": "protons",
+            "incorrect2": "neutrons",
+            "incorrect3": "photons",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2013 SCOP Novice 4",
+            "question": "This ruler responded to the Kronstadt rebellion by taxing farmers instead of requisitioning their crops in his New Economic Policy. He wrote the April Theses on a train from Switzerland as he returned from exile in 1917, after Alexander Kerensky's provisional government was forced out by this man's Bolshevik forces. Name this leader in the Russian Revolution, the first premier of the Soviet Union, preceding Joseph Stalin.",
+            "answers": [
+                "Vladimir Lenin",
+                "Vladimir Ilyich Lenin",
+                "Vladimir Ilyich Ulyanov"
+            ],
+            "incorrect1": "Joseph Stalin",
+            "incorrect2": "Leon Trotsky",
+            "incorrect3": "Mikhail Gorbachev",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2016 Pennsylvania Novice",
+            "question": "This artist depicted himself sitting at a mirror and an easel and creating a sketch of himself with his right hand in his Triple Self\u00adPortrait . This man also showed four U.S. Marshals accompanying Ruby Bridges to school in The Problem We All Live With. In one series he depicted two parents tucking their red\u00adheaded children into bed, a man in a tattered jacket rising to speak, and a woman placing a Thanksgiving turkey on a table. Name this artist of the Four Freedoms series, most famous for his works for the cover of the Saturday Evening Post .",
+            "answers": ["Norman Rockwell"],
+            "incorrect1": "Andrew Wyeth",
+            "incorrect2": "Grant Wood",
+            "incorrect3": "Edward Hopper",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "Its tributaries include the Drava River in Croatia and the Tisza River in Serbia, the latter of which forms the border of Hungary and Slovakia. Flowing through ten nations before emptying into the Black Sea between Romania and Ukraine, this 1,771 mile long river passes through four European capitals, including Bratislava, Belgrade and Budapest. Originating near the town of Donaueschingen in the Black Forest of Germany identify this river that also flows through Vienna, Europe's second longest river.",
+            "answers": ["Danube River", "Donau", "Dunaj", "Dunay"],
+            "incorrect1": "Rhine River",
+            "incorrect2": "Volga River",
+            "incorrect3": "Seine River",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2011 SCOP Novice 2",
+            "question": "As Governor of Virginia, this man was to be kidnapped by Gabriel Prosser's slave revolt. He took a hands-off approach to both the Missouri Compromise and the Panic of 1819, and his cordial approach to bipartisanship led to the \"Era of Good Feelings,\" in which he ran unopposed for re-election. Name this U.S. President who stated that European intervention in the Western Hemisphere would be considered aggression against the U.S. in his namesake Doctrine.",
+            "answers": ["James Monroe"],
+            "incorrect1": "James Madison",
+            "incorrect2": "John Quincy Adams",
+            "incorrect3": "Andrew Jackson",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "A center-right party, Fianna F\u00e1il, emerged with the most seats in this country's Parliament -- called the D\u00e1il -- after its recent election. Fianna F\u00e1il was founded by Eamon de Valera in 1926, five years after this country gained independence from England. Fianna F\u00e1il leader Mich\u00e9al Martin is the frontrunner to become this country's next Prime Minister -- known as a Taoiseach. Name this country, known for its green landscapes, rich literary and musical tradition, and Celtic culture.",
+            "answers": ["Ireland"],
+            "incorrect1": "Iceland",
+            "incorrect2": "Greenland",
+            "incorrect3": "Scotland",
+            "used": "TRUE",
+            "source": "Una Corbett"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This video game franchise, which debuted in 1986 with a gold cartridge for the NES, features a recurring protagonist named Link. Its iconic music, including the \"Main Theme\" and the \"Lost Woods\" theme, has become instantly recognizable to gamers worldwide.  The franchise's games are known for their exploration-based gameplay, intricate dungeons, and challenging puzzles.  What is the name of this popular Nintendo franchise featuing the Princess Zelda, which has spawned numerous sequels, spin-offs, and adaptations?",
+            "answers": ["The Legend of Zelda"],
+            "incorrect1": "The Elder Scrolls",
+            "incorrect2": "Final Fantasy",
+            "incorrect3": "Pokémon",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "In one military campaign undertaken by this empire, the general Narses defeated and killed the Ostrogoth king Totila at the battle of Busta Gallorum. One ruler of this empire was married to a woman who had previously been a burlesque dancer, according to the historian Prokopios, and under the rule of that emperor, the Vandals were conquered by the general Belisarius. This empire's capital featured the magnificent church the Hagia Sophia, which was turned into a mosque following the conquest of this empire in 1453. Name this empire ruled by men such as Justinian the Great from its capital at Constantinople.",
+            "answers": [
+                "Byzantine Empire",
+                "Eastern Roman Empire",
+                "Byzantium",
+                "Empire of the Greeks",
+                "Empire of the Romans",
+                "Romania"
+            ],
+            "incorrect1": "Roman Empire",
+            "incorrect2": "Holy Roman Empire",
+            "incorrect3": "Ottoman Empire",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2016 PLATO",
+            "question": "It's not in Arizona, but this national park has its own \"Grand Canyon\" on a river with namesake waterfalls. Megafauna such as bison and elk can be found in this park that is three times larger than the state of Rhode Island. This park lies in Idaho, Montana, and Wyoming, and is noted for its geothermal features and the super volcano reportedly that lies underneath it. Name this National Park, founded in 1872, that contains \"Old Faithful.\"",
+            "answers": ["Yellowstone National Park"],
+            "incorrect1": "Yosemite National Park",
+            "incorrect2": "Grand Canyon National Park",
+            "incorrect3": "Glacier National Park",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This basketball player, known for his crafty ball-handling and clutch scoring ability, led Villanova University to two NCAA championships in three years, earning the Most Outstanding Player award in the 2016 tournament.  He was drafted 33rd overall by the Dallas Mavericks in 2018, where he played alongside Luka Don\u010di\u0107 and developed into a key contributor.  In 2022, he signed with the New York Knicks, becoming their starting point guard and leading them to their first playoff series win since 2013.  Who is this rising star in the NBA, known for his steady play and leadership on the court?",
+            "answers": ["Jalen Brunson"],
+            "incorrect1": "Jaylen Brown",
+            "incorrect2": "Jalen Green",
+            "incorrect3": "Luka Dončić",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This composer wrote a tone poem inspired by a visit to Havana, his Cuban Overture. Another of this man's pieces begins with a clarinet glissando. \"It Ain't Necessarily So\" and \"Summertime\" are numbers from this composer's opera set in Catfish Row, Porgy and Bess. Identify this brother of Ira and composer of An American in Paris and Rhapsody in Blue.",
+            "answers": ["George Gershwin"],
+            "incorrect1": "Leonard Bernstein",
+            "incorrect2": "Aaron Copland",
+            "incorrect3": "Irving Berlin",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2011 SCOP Novice 2",
+            "question": "George W. Harkins wrote a \"Farewell Letter to the American People\" before this event, in which the provisions of the Treaty of Dancing Rabbit Creek were carried out. The Dade Massacre was part of a decade long war by the Seminoles to avoid this event, and the Supreme Court ruled that the Cherokee People would be forced into this journey as well. Spanning from the South to Oklahoma name this forcible relocation of Native Americans during the 1830s.",
+            "answers": ["Trail of Tears"],
+            "incorrect1": "The Long Walk",
+            "incorrect2": "The Ghost Dance",
+            "incorrect3": "Wounded Knee Massacre",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "The US Department of Agriculture recently ordered the testing of milk for this virus. This influenza virus, which caused a global outbreak in 2022 and 2023, has a particularly high mortality rate in poultry, leading to the culling of millions of birds to contain its spread.  The virus is highly contagious among birds and can also infect humans, though human-to-human transmission is rare.  Symptoms in humans include fever, cough, sore throat, and muscle aches.  While there is no specific treatment for the virus, antiviral medications can help reduce the severity of the illness.  What is this virus, which poses a significant threat to both animal and human health?",
+            "answers": ["Bird Flu", "Avian Flu", "H5N1"],
+            "incorrect1": "Swine Flu",
+            "incorrect2": "Spanish Flu",
+            "incorrect3": "COVID-19",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This psychological horror film, featuring the iconic line \"Here's Johnny!\", showcases a chilling scene where blood pours out of an elevator, symbolizing the hotel's dark history and the protagonist's descent into madness.  The film's use of Steadicam shots creates a sense of unease and allows the audience to experience the hotel's vast and eerie corridors alongside the characters.  Jack Nicholson delivers a captivating performance as Jack Torrance, a writer who becomes the winter caretaker at the isolated Overlook Hotel, where supernatural forces prey on his sanity.  What is the title of this 1980 Stanley Kubrick masterpiece, based on the Stephen King novel?",
+            "answers": ["The Shining"],
+            "incorrect1": "Psycho",
+            "incorrect2": "The Exorcist",
+            "incorrect3": "Halloween",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "Richard Dawkins described an \"extended\" form of this term, which becomes blended in incomplete dominance. The human skin color one is controlled by three genes, and crossing two heterozygous individuals usually results in a 3-to-1 ratio of this. In Mendel's pea plants, these included dwarf, yellow, and wrinkled. Name this term for an organism's physical traits that are determined by its genotype.",
+            "answers": ["phenotypes", "traits"],
+            "incorrect1": "genotypes",
+            "incorrect2": "alleles",
+            "incorrect3": "chromosomes",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2022 SCOP MS 11",
+            "question": "A senator from this state proposed the High Performance Computing Act of 1991. A violation of the Butler Act in this state was argued in court by Clarence Darrow and Williams Jennings Bryan, and focused on a man who claimed to have taught evolution in a public school in Dayton, John Scopes. Al Gore has represented what state whose cities include Memphis and Nashville?",
+            "answers": ["Tennessee", "Tennessee Valley Authority", "TVA"],
+            "incorrect1": "Kentucky",
+            "incorrect2": "Arkansas",
+            "incorrect3": "Mississippi",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This Slovenian basketball prodigy, known for his incredible court vision and scoring ability, became the youngest EuroLeague MVP in history at the age of 19, leading Real Madrid to a championship title. He was drafted third overall by the Atlanta Hawks in the 2018 NBA draft but was immediately traded to the Dallas Mavericks. He has quickly become one of the NBA's most exciting players, known for his step-back three-pointers and dazzling passes. Who is this young superstar, who has already earned five All-NBA First Team selections?",
+            "answers": ["Luka Don\u010di\u0107", "Luka Doncic"],
+            "incorrect1": "Nikola Jokić",
+            "incorrect2": "Giannis Antetokounmpo",
+            "incorrect3": "Stephen Curry",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This mockumentary comedy, featuring a scene where the band struggles to navigate a labyrinthine backstage area, hilariously captures the eccentricities and excesses of the rock and roll lifestyle.  The film's fictional band, Spinal Tap, is known for their over-the-top stage shows, absurd song lyrics, and Spinal Tap's cluelessly arrogant lead singer, David St. Hubbins.  The film's amplifiers, which \"go to eleven,\" have become a symbol of the band's comical pursuit of volume and excess.  What is the title of this 1984 cult classic directed by Rob Reiner, which has become a beloved satire of the music industry?",
+            "answers": ["This is Spinal Tap"],
+            "incorrect1": "The Blues Brothers",
+            "incorrect2": "Wayne's World",
+            "incorrect3": "A Mighty Wind",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This social media platform has seen a surge of users since the election of Donald Trump in 2024. The decentralized social media platform aims to provide an alternative to centralized platforms like Twitter, offering users greater control over their data and interactions. It is built on the AT Protocol, an open-source framework that allows for interoperability between different social networks.  It was initially funded by Twitter, with Jack Dorsey serving on its board of directors. Name this Twitter/X alternative.",
+            "answers": ["Bluesky", "Blue Sky"],
+            "incorrect1": "Mastodon",
+            "incorrect2": "Threads",
+            "incorrect3": "Facebook",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 SCOP MS 7",
+            "question": "Cities on this body of water include Le Havre, Calais, Brighton, and Dover, whose sheer white cliffs sit on the shoreline of this body of water. In 1994, a Eurostar train tunnel underneath this body of water was opened. The islands of Jersey, Guernsey, and the Isle of Wight lie in what channel that separates France from the island of Britain?",
+            "answers": ["English Channel", "The Channel"],
+            "incorrect1": "Irish Sea",
+            "incorrect2": "North Sea",
+            "incorrect3": "Atlantic Ocean",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "One of the many tangents of the discussions in this philosophical work is the order in which people should learn various geometry concepts. Its first five books involve a series of discussions about justice, starting out with what makes an individual just, and eventually what makes a city-state just, which eventually leads to the concept of the philosopher-king. In book seven, the example of people finally realizing that shadows are being cast by real objects is a portion of the introduction of the theory of forms in the allegory of the cave. Name this work by Plato which also discusses the ideals of many forms of government.",
+            "answers": ["The Republic", "Politeia"],
+            "incorrect1": "The Prince",
+            "incorrect2": "Politics",
+            "incorrect3": "Nicomachean Ethics",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2016 Pennsylvania Novice",
+            "question": "One composer from this country ended a suite with a \"cloudburst\" movement and used trumpets to mimic the sound of crickets. Another composer from this country wrote a piece \"for any instrument or combination of instruments\" instructing the performer to sit silently for the title Four Minutes, Thirty\u00adThree Seconds. Another composer from this country, Charles Ives, wrote the \"Concord Sonata\" as well as the \"Three Places in New England\" suite. Name this country home to the minimalist composer John Cage, as well as Star Wars composer John Williams.",
+            "answers": [
+                "United States of America",
+                "USA",
+                "America",
+                "United States"
+            ],
+            "incorrect1": "Canada",
+            "incorrect2": "Mexico",
+            "incorrect3": "Brazil",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "The NASA Juno spacecraft is destined for this body in 2016, when it will observe this body's magnetic field and determine the ratio of hydrogen to oxygen in its atmosphere. Its closest Galilean satellite is partially molten because of tidal forces, and is called Io. This planet contains cyclones called the Little and Great Red Spots. Name this gas giant, the largest planet in the solar system.",
+            "answers": ["Jupiter"],
+            "incorrect1": "Saturn",
+            "incorrect2": "Mars",
+            "incorrect3": "Sun",
             "used": "TRUE"
         }
     ]
