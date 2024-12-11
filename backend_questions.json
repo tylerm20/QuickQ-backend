@@ -19817,7 +19817,7 @@
         {
             "category": "US History",
             "source": "2015 SCOP Novice 6",
-            "question": "Lisa Murkowski's 2015 proposal regarding this object was blocked in Congress by the Ohio delegation; Sally Jewell, the Secretary of the Interior, enacted that Athabascan-championed proposal just prior to a presidential visit focusing on climate concerns in the Arctic. After nearly one century of commemorating the twenty-fifth US president, it was renamed in 2015. Name this tallest mountain in North America, formerly known as Mount McKinley.",
+            "question": "Lisa Murkowski's 2015 proposal regarding this place was blocked in Congress by the Ohio delegation; Sally Jewell, the Secretary of the Interior, enacted that Athabascan-championed proposal just prior to a presidential visit focusing on climate concerns in the Arctic. After nearly one century of commemorating the twenty-fifth US president, it was renamed in 2015. Name this tallest mountain in North America, formerly known as Mount McKinley.",
             "answers": ["Denali", "Mount McKinley"],
             "incorrect1": "Mount Rainier",
             "incorrect2": "Mount Whitney",
@@ -19836,7 +19836,7 @@
         },
         {
             "category": "Sports",
-            "question": "This soccer team won its first MLS Cup in 10 years with a victory over the New York Red Bulls. This Major League Soccer team, boasting a record six MLS Cup titles, plays its home games at Dignity Health Sports Park in Carson, California.  Their iconic crest features a quasar, a celestial object that emits immense energy, symbolizing the team's ambition and star power.  They were one of the league's ten charter clubs, beginning play in 1996.  Their roster has featured international superstars like David Beckham and Zlatan Ibrahimovi\u0107, drawing global attention to the league.  What is the name of this team, known for their success and their passionate fanbase in Southern California?",
+            "question": "This soccer team won its first MLS Cup in 10 years with a victory over the New York Red Bulls. This Major League Soccer team, boasting a record six MLS Cup titles, plays its home games at Dignity Health Sports Park in Carson, California. They were one of the league's ten charter clubs, beginning play in 1996.  Their roster has featured international superstars like David Beckham and Zlatan Ibrahimovi\u0107, drawing global attention to the league.  What is the name of this team, whose crest features a quasar?",
             "answers": ["LA Galaxy", "Los Angeles Galaxy", "Galaxy"],
             "incorrect1": "LAFC",
             "incorrect2": "Los Angeles Lakers",
@@ -19847,7 +19847,7 @@
         {
             "category": "Geography",
             "source": "2015 SAGES",
-            "question": "The highest mountain in this range is Mount Mitchell. The Adirondacks of New York are unusually not part of this range. The trail named for this range runs near the Blue Ridge Parkway in Virginia and North Carolina. Name this mountain range in the eastern United States.",
+            "question": "The highest mountain in this range is Mount Mitchell. The Adirondacks of New York are surprisingly not part of this range. The trail named for this range runs near the Blue Ridge Parkway in Virginia and North Carolina. Name this mountain range, home to the \"AT\" in the eastern United States.",
             "answers": ["Appalachian Mountains", "Appalachians"],
             "incorrect1": "Rocky Mountains",
             "incorrect2": "Andes Mountains",
@@ -19880,7 +19880,7 @@
         {
             "category": "Current Events",
             "question": "Following a controversial declaration of martial law on December 3rd, 2024, this nation has been plunged into turmoil. The president of this democracy, facing mounting public pressure and impeachment proceedings, invoked emergency powers in a late-night address. This unprecedented move sparked widespread protests, with tens of thousands taking to the streets across the country to denounce the government's actions. The declaration has since been overturned and the president survived an impeachment vote. What is the name of this country, which shares a border with North Korea and is known for its technological advancements?",
-            "answers": ["South Korea"],
+            "answers": ["South Korea", "Republic of Korea"],
             "incorrect1": "North Korea",
             "incorrect2": "Japan",
             "incorrect3": "China",
@@ -19942,7 +19942,7 @@
         {
             "category": "World History",
             "source": "2010 Fall Novice Tournament",
-            "question": "The Silla dynasty ruled in this country where Sejon the Great was an early ruler of the Choson Dynasty. A foreign invasion of it by Toyotomi Hideyoshi lost at the battle of Noryang with the help of this country's turtle ships. One war in this country featured a landing by Douglas Macarthur at Inchon, which led to its 38th-parallel demilitarized zone. Name this peninsula split into a northern half ruled by Kim Jong-Il and a southern half with capital Seoul.",
+            "question": "The Silla dynasty ruled in this country where Sejon the Great was an early ruler of the Choson Dynasty. A foreign invasion of it by Toyotomi Hideyoshi lost at the battle of Noryang with the help of this country's turtle ships. One war in this country featured a landing by Douglas Macarthur at Inchon, which led to its 38th-parallel demilitarized zone. Name this peninsula split into a northern half ruled by Kim Jong Un and a southern half with capital Seoul.",
             "answers": ["Korean Peninsula", "Hanguk", "Choson"],
             "incorrect1": "Indochina Peninsula",
             "incorrect2": "Malay Peninsula",
