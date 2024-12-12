@@ -19993,7 +19993,7 @@
         },
         {
             "category": "Sports",
-            "question": "This professional basketball league, founded in 1996 as a counterpart to the NBA, tipped off its inaugural season in 1997 with eight teams and has since expanded to 13 franchises across the United States. The league's inaugural championship was won by the Houston Comets, led by Sheryl Swoopes, a dominant force in women's basketball. The league most recently added an expansion team in San Francisco called the Golden State Valkyries. What is the name of this league, which showcases the athleticism and talent of female basketball players?",
+            "question": "This professional sports league, founded in 1996 as a counterpart to the NBA, tipped off its inaugural season in 1997 with eight teams and has since expanded to 13 franchises across the United States. The league's inaugural championship was won by the Houston Comets, led by Sheryl Swoopes, a dominant force in women's basketball. The league most recently added an expansion team in San Francisco called the Golden State Valkyries. What is the name of this league, which showcases the athleticism and talent of female basketball players?",
             "answers": ["WNBA", " Women's National Basketball Association"],
             "incorrect1": "NWSL",
             "incorrect2": "NFL",
