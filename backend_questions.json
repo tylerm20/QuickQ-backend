@@ -19983,7 +19983,7 @@
     [
         {
             "category": "Current Events",
-            "question": "Michel Barnier, the prime minister of this nation recently lost a vote no confidence vote leading to his resignation. This country's current president leader of the centrist La R\u00e9publique En Marche! party, won re-election in 2022, defeating his far-right rival Marine Le Pen. Its political system is a semi-presidential republic, with a dual executive consisting of the President as head of state and the Prime Minister as head of government. The current president of this country is Emmanuel Macron. What is this European nation, known for its rich history, culture, and political influence on the world stage?",
+            "question": "Michel Barnier, the prime minister of this nation recently lost a no confidence vote leading to his resignation. This country's current president, leader of the centrist La R\u00e9publique En Marche! party, won re-election in 2022, defeating his far-right rival Marine Le Pen. Its political system is a semi-presidential republic, with a dual executive consisting of the President as head of state and the Prime Minister as head of government. The current president of this country is Emmanuel Macron. What is this European nation, known for its rich history, culture, and political influence on the world stage?",
             "answers": ["France"],
             "incorrect1": "Germany",
             "incorrect2": "Italy",
