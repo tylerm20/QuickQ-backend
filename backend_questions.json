@@ -20410,5 +20410,609 @@
             "incorrect3": "Sun",
             "used": "TRUE"
         }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This film's innovative dolly zoom, a camera technique that creates a disorienting sense of vertigo, was used to visually convey the protagonist's acrophobia.  The film's score, composed by Bernard Herrmann, features haunting and romantic themes that heighten the suspense and melodrama.  The film's plot revolves around a retired detective, Scottie Ferguson, who becomes obsessed with a mysterious woman named Madeleine Elster.  What is the title of this 1958 psychological thriller directed by Alfred Hitchcock?",
+            "answers": ["Vertigo"],
+            "incorrect1": "Psycho",
+            "incorrect2": "Rear Window",
+            "incorrect3": "North by Northwest",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2013 SCOP Novice 4",
+            "question": "Ludwig Wittgenstein's example of this phenomenon was a duck-rabbit. Some of these phenomena caused by lateral neural inhibition include the Hermann grid, which consists of white gridlines, black squares, and apparent grey dots at the intersections of the grids. Another example, the Rubin vase, can appear as the silhouette of two faces. Name this type of image that deceives the brain into perceiving something that is not there.",
+            "answers": [
+                "optical illusions",
+                "visual illusions",
+                "ambiguous image",
+                "illusion"
+            ],
+            "incorrect1": "hallucinations",
+            "incorrect2": "mirages",
+            "incorrect3": "dreams",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2014 SCOP Novice 5",
+            "question": "This artist depicted a skyscraper at night in Radiator Building, but her later work focuses on natural images, including a series of jack-in-the-pulpits. After the death of her husband, Alfred Stieglitz, this artist moved to New Mexico, where she painted Cow's Skull: Red, White, and Blue. Name this American artist known for depicting close-ups of flowers and bones.",
+            "answers": ["Georgia O'Keeffe"],
+            "incorrect1": "Frida Kahlo",
+            "incorrect2": "Mary Cassatt",
+            "incorrect3": "Helen Frankenthaler",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 SANDS",
+            "question": "Part of an annual race in this state follows the path of a 1925 diphtheria serum run to its city of Nome. A large species of brown bear is endemic to this state's Kodiak Island. This state's Seward Peninsula contains the finish line of the annual Iditarod sled dog race, which previously began in Anchorage. This is the largest state in the U.S. Name this non-contiguous state with its capital at Juneau.",
+            "answers": ["Alaska"],
+            "incorrect1": "Hawaii",
+            "incorrect2": "Greenland",
+            "incorrect3": "Siberia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Luigi Mangione, the suspected shooter of UnitedHealthcare CEO in Manhattan, was arrested at a McDonald's in this state. He was found in the city of Altoona after being identified by a civilian. This state is home to the highest point in the eastern United States east of the Mississippi River, Mount Davis, which peaks at 3,213 feet above sea level. The Susquehanna River, the longest river on the American East Coast, flows through the state, providing a vital waterway for transportation and recreation. Name this \"Keystone State\" that is bordered by New York, New Jersey, Delaware, Maryland, West Virginia, and Ohio.",
+            "answers": ["Pennsylvania"],
+            "incorrect1": "Philadelphia",
+            "incorrect2": "New Jersey",
+            "incorrect3": "Ohio",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2016 Pennsylvania Novice",
+            "question": "This man championed a domestic program termed the \"Square Deal.\" This president won the Nobel Peace Prize for negotiating the Treaty of Portsmouth, which ended the Russo\u00adJapanese War. This president's administration saw the passage of the Pure Food and Drug Act and the creation of the National Park System. He ran for a third term with the Bull Moose Party. Name this 26th President of the United States, the supposed namesake of a toy bear.",
+            "answers": ["Theodore Roosevelt", "Teddy Roosevelt"],
+            "incorrect1": "Franklin D. Roosevelt",
+            "incorrect2": "William Howard Taft",
+            "incorrect3": "Woodrow Wilson",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2018 SCOP Novice 9",
+            "question": "This war names a syndrome whose symptoms included cramps, headaches, and short-term memory loss. General Norman Schwarzkopf helped launch this war, which was sparked over allegations of illegal use of the Rumaila oil fields. The 1st Armored Division's destruction during this war led to a road becoming known as the \"Highway of Death.\" Name this war that included the American-led Operation Desert Storm against Saddam Hussein and Iraq.",
+            "answers": [
+                "Persian Gulf War",
+                "First Gulf War",
+                "Gulf War",
+                "Operation Desert Storm"
+            ],
+            "incorrect1": "Iraq War",
+            "incorrect2": "Vietnam War",
+            "incorrect3": "Korean War",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This country, the first from the Middle East to host the FIFA Women's World Cup in 2026, will again make history by hosting the men's tournament in 2034.  Known for its vast deserts and the holy city of Mecca, it has invested heavily in sports infrastructure and tourism in recent years.  The country's bid was unopposed, reflecting its growing influence in the world of sports.  What is this nation, the largest in the Arabian Peninsula?",
+            "answers": ["Saudi Arabia"],
+            "incorrect1": "Iran",
+            "incorrect2": "Iraq",
+            "incorrect3": "Yemen",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2017 HIGS",
+            "question": "Ions of this element complex with cyanide to form Prussian blue. This element's sulfide is a cubic crystal often mistaken for gold. The Bessemer process alloys this element with carbon, and its oxide is found in the magnetic mineral magnetite. This element is found in pyrite and its ions are called either ferric or ferrous. Name this metal found in steel.",
+            "answers": ["iron", "Fe"],
+            "incorrect1": "steel",
+            "incorrect2": "aluminum",
+            "incorrect3": "copper",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 KICKOFF Novice",
+            "question": "Many retailers in this city accept the Octopus cards needed to access its Mass Transit Railway. The densest housing settlement ever constructed was a now-destroyed \"walled city\" on this city's Kowloon Peninsula. This city on the Pearl River forms a megalopolis with Guangzhou and Macau. Name this Special Administrative Region, which Great Britain ceded to China in 1997.",
+            "answers": [
+                "Hong Kong",
+                "Hsiang-kang",
+                "Xianggang Tebie Xingzhenqqu"
+            ],
+            "incorrect1": "Shanghai",
+            "incorrect2": "Macau",
+            "incorrect3": "Singapore",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2022 KICKOFF Novice",
+            "question": "In this modern-day country, the seventh of an ancient city's nine layers shows scorch marks consistent with a foreign siege. The neolithic cities of Catalhoyuk and Gobekli Tepe are located in this country, where Heinrich Schliemann excavated the site of ancient Troy. This country was home to the capital of the Eastern Roman Empire. Name this modern-day country once called \"Asia Minor,\" where the Hittites complained about people from Constantinople.",
+            "answers": ["Turkey", "Republic of Turkey", "Turkiye Cumhuriyeti"],
+            "incorrect1": "Greece",
+            "incorrect2": "Syria",
+            "incorrect3": "Egypt",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2020 TAILS",
+            "question": "This president engaged in the Kitchen Debates with Nikita Kruschev. After coming under fire for a suspicious campaign donation, this president emotionally invoked his dog in the Checkers Speech. Spiro Agnew, this man's vice president, resigned after a corruption investigation and was replaced by Gerald Ford. Name this president who resigned after an investigation about a break-in at the Watergate Hotel.",
+            "answers": ["Richard Nixon", "Richard Milhous Nixon"],
+            "incorrect1": "John F. Kennedy",
+            "incorrect2": "Lyndon B. Johnson",
+            "incorrect3": "Gerald Ford",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2015 SCOP Novice 6",
+            "question": "In this novel, Syme is an editor who disappears from work, and Mr Charrington struggles to remember the words to \"Oranges and Lemons.\" O'Brien pretends to be in the Brotherhood in this novel, but is later revealed to be a member of the Thought Police and sends Julia and Winston to be tortured in the Ministry of Love. Name this George Orwell novel about a dystopian society run by the mysterious Big Brother.",
+            "answers": ["Nineteen Eighty-Four", "1984"],
+            "incorrect1": "Brave New World",
+            "incorrect2": "Fahrenheit 451",
+            "incorrect3": "The Handmaid's Tale",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "A federal judge blocked a merger between Albertsons and this grocery chain. Albertsons then pulled out of the deal and sued this grocer. The company, the largest supermarket chain in the United States by revenue, operates over 2,700 stores in 35 states. It is headquartered in Cincinnati, Ohio, and its history traces back to 1883 when Barney Kroger invested his life savings to open a grocery store in downtown Cincinnati. What is the name of this supermarket giant, known for its customer loyalty programs and its \"Our Brands\" product line?",
+            "answers": ["Kroger"],
+            "incorrect1": "Safeway",
+            "incorrect2": "Vons",
+            "incorrect3": "Publix",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "The two-way sensation Travis Hunter recently took home this prestigious college football award. This award, whose first recipient was Jay Berwanger from the University of Chicago in 1935, is given annually to the most outstanding player in college football.  The trophy's distinctive pose, with a player stiff-arming a defender, was inspired by Ed Smith, a former New York University player who modeled for the trophy's sculptor.  The award ceremony is held in New York City, and the winner is chosen by a nationwide panel of sports journalists and former winners.  What is the name of this prestigious award, considered the highest individual honor in college football?",
+            "answers": ["Heisman Trophy", "Heisman"],
+            "incorrect1": "Super Bowl MVP",
+            "incorrect2": "World Series MVP",
+            "incorrect3": "NBA Finals MVP",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This post-apocalyptic action-adventure game, set 20 years after a fungal pandemic has ravaged the world, features a hardened smuggler named Joel who is tasked with escorting a teenage girl named Ellie across a desolate United States.  The game's emotional narrative and realistic graphics, powered by the PlayStation 3's capabilities, created a cinematic and immersive experience.  Its sequel, released in 2020, continued the story and explored themes of revenge, forgiveness, and the enduring bonds of love and loyalty.  What is the name of this critically acclaimed game, which was turned into an HBO Mini Series?",
+            "answers": ["The Last of Us"],
+            "incorrect1": "The Walking Dead",
+            "incorrect2": "Resident Evil",
+            "incorrect3": "Fallout",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This band's debut album, recorded entirely by Dave Grohl in 1995, was a cathartic response to the tragic death of Kurt Cobain and the dissolution of Nirvana. Their music video for \"Learn to Fly,\" featuring the band members as wacky airline employees, won a Grammy Award for Best Short Form Music Video. They have been inducted into the Rock and Roll Hall of Fame, solidifying their status as one of the most influential rock bands of the 21st century. What is the name of this band, whose current lineup includes members like Nate Mendel, Chris Shiflett, and Taylor Hawkins' successor, Josh Freese?",
+            "answers": ["Foo Fighters"],
+            "incorrect1": "Nirvana",
+            "incorrect2": "Pearl Jam",
+            "incorrect3": "Red Hot Chili Peppers",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This hockey player, known for his powerful one-timer shot and his exuberant goal celebrations, surpassed Gordie Howe in 2022 to become the NHL's second all-time leading goal scorer. He was drafted first overall by the Washington Capitals in the 2004 NHL Entry Draft and has become the face of the franchise. He led the Capitals to their first Stanley Cup victory in 2018, cementing his legacy as one of the greatest goal scorers in NHL history. Who is this Russian hockey superstar, nicknamed \"The Great Eight\"?",
+            "answers": ["Alex Ovechkin"],
+            "incorrect1": "Sidney Crosby",
+            "incorrect2": "Connor McDavid",
+            "incorrect3": "Patrick Kane",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2020 TAILS",
+            "question": "In fluid dynamics, streamlines are vectors instantaneously tangent to those of this quantity. When drag and buoyant forces are equal to gravity, an object experiences the \"terminal\" variety of this quantity. The amount of this quantity required to overcome the force of gravity is known as the \"escape\" variety. The rate of change of this quantity is acceleration. Name this quantity often expressed as a speed combined with a direction.",
+            "answers": ["velocity", "terminal velocity", "escape velocity"],
+            "incorrect1": "speed",
+            "incorrect2": "acceleration",
+            "incorrect3": "displacement",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2019 SCOP Novice 10",
+            "question": "One theory about this event claims that participants like Mary Walcott were poisoned by ergot fungi in their rye. During this event, Giles Corey was killed by having heavy stones piled on him because he refused to plead either guilty or innocent. Cotton Mather defended the use of \"spectral evidence,\" based on visions, during this event, in which nineteen people were hanged. Name this 1690s hysteria in Massachusetts in which people were accused of sorcery.",
+            "answers": ["Salem witch trials"],
+            "incorrect1": "Spanish Inquisition",
+            "incorrect2": "McCarthyism",
+            "incorrect3": "French Revolution",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Time Magazine recently named this man their \"Person of the Year\". This man made history this year by being the first person since Grover Cleveland to win non-consecutive presidential elections. Name this real estate developer turned politician who is known for this Mar-a-Lago club in Florida.",
+            "answers": ["Donald J. Trump", "Trump", "Donald Trump"],
+            "incorrect1": "Barack Obama",
+            "incorrect2": "Bill Clinton",
+            "incorrect3": "Jimmy Carter",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2020 MOQBA Novice",
+            "question": "John Conroy developed the Kensington System to guide this leader's upbringing. This monarch was rumored to be secretly married to her servant John Brown. This last British monarch from the House of Hanover was succeeded by her son Edward VII. She was given the title Empress of India by Benjamin Disraeli. This monarch's popularity plummeted drastically after a self-imposed isolation after the death of her mother and her husband, Prince Albert. Name this Queen of England from 1837 to 1901.",
+            "answers": ["Queen Alexandrina Victoria", "Queen Victoria"],
+            "incorrect1": "Queen Elizabeth I",
+            "incorrect2": "Queen Elizabeth II",
+            "incorrect3": "Mary, Queen of Scots",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2018 MVS RAMS",
+            "question": "In one story from this work, a crew of explorers discovers a city of brass filled with wealth, but where all the inhabitants have died from a famine. Antoine Galland added a story to this work in which a character meets snakes who can swallow elephants, and that sailor is transported from a valley of diamonds by a giant bird called a roc. In addition to Sinbad the Sailor, other stories in this collection include Ali Baba and the Forty Thieves and Aladdin. Name this collection of Middle Eastern folk tales told by Scheherazade over the title number of nights.",
+            "answers": [
+                "The Thousand and One Nights",
+                "One Thousand and One Nights",
+                "The Arabian Nights",
+                "'Alf layla wa-layla"
+            ],
+            "incorrect1": "The Canterbury Tales",
+            "incorrect2": "Beowulf",
+            "incorrect3": "The Decameron",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "The Bahr Yussef canal once connected this river to Lake Moeris, and one feeder to it is the Kagera River. Towards the end of this river's path, it splits into two distributaries, the Rosetta Branch, and the Damietta Branch. One tributary of this river begins in Lake Tana, while the other begins in Lake Victoria. It flows over six cataracts, and its Blue and White Branches meet in the Sudanese city of Khartoum. Identify this African river that flows through eleven countries, the longest river in the world.",
+            "answers": ["Nile River"],
+            "incorrect1": "Amazon River",
+            "incorrect2": "Mississippi River",
+            "incorrect3": "Yangtze River",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This skiier recently returned from her retirement in 2019. This athlete, the most successful American woman in alpine skiing history, holds the record for the most World Cup wins by a female skier with 82 victories.  She overcame numerous injuries throughout her career, including a devastating crash at the 2013 World Championships that nearly ended her career.  She won three Olympic medals, including a gold in downhill at the 2010 Vancouver Games.  She is also known for her high-profile relationship with golfer Tiger Woods. Name this alpine skiing legend.",
+            "answers": ["Lindsey Vonn"],
+            "incorrect1": "Mikaela Shiffrin",
+            "incorrect2": "Picabo Street",
+            "incorrect3": "Julia Mancuso",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "At age 18, Gukesh Dommaraju recently became the youngest world champion of this game. This game, whose earliest predecessor is believed to be chaturanga, which originated in India before the 6th century CE, features pieces with names derived from Persian words, such as \"shah\" for king and \"rukh\" for chariot.  The longest recorded game, \"The Evergreen Game\" played in 1852, lasted 20 hours and 15 minutes and ended in a draw after 147 moves.  Its modern form evolved in Europe during the 15th century, with standardized rules and the introduction of the powerful queen piece. Name this strategic board game.",
+            "answers": ["Chess"],
+            "incorrect1": "Checkers",
+            "incorrect2": "Go",
+            "incorrect3": "Backgammon",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 SCOP A",
+            "question": "This region contains the two-hundred-foot-tall Obsidian Cliff near the Mammoth-Norris section of its Grand Loop. Mats of heat-seeking bacteria cause the bright colors of this park's Morning Glory Pool and Grand Prismatic hot spring. A feature in this park, named Steamboat, is the world's largest active geyser, and releases steam heated in the caldera of this park's namesake super-volcano. Name this national park, mostly in Wyoming, known for the regular eruptions of Old Faithful.",
+            "answers": ["Yellowstone National Park", "Wyoming"],
+            "incorrect1": "Yosemite National Park",
+            "incorrect2": "Grand Canyon National Park",
+            "incorrect3": "Glacier National Park",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2017 SCOP MS 7",
+            "question": "This event may have happened to make room for the Domus Aurea. This event was blamed on early Christians, leading to their 64 CE persecution. According to Tacitus, this event began near the Palatine Hill while the emperor was in Antium. Name this disaster that destroyed a prosperous Italian city, legendarily while Nero either played a lyre or fiddled.",
+            "answers": ["Great Fire of Rome", "Remove burning"],
+            "incorrect1": "Great Fire of London",
+            "incorrect2": "Chicago Fire",
+            "incorrect3": "Fall of the Western Roman Empire",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 SCOP MS 7",
+            "question": "One work by this composer includes a \"limping waltz\" and a dynamic marking of 6 p's for the bassoon; that sixth symphony was premiered just a week before this man's death. A popular work by this composer of the Pathetique symphony quotes the French national anthem and includes cannonfire in its depiction of Napoleon's failed invasion. Name this Russian composer of the 1812 Overture.",
+            "answers": ["Peter Tchaikovsky", "Peter Ilyich Tchaikovsky"],
+            "incorrect1": "Nikolai Rimsky-Korsakov",
+            "incorrect2": "Modest Mussorgsky",
+            "incorrect3": "Igor Stravinsky",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This coming-of-age film, set during a Saturday detention session, features students from different cliques who learn to connect.  The film's iconic ending, with the characters raising their fists in triumph as Simple Minds' \"Don't You (Forget About Me)\" plays, has become a symbol of teenage rebellion and self-discovery.  The film's cast, including Emilio Estevez, Anthony Michael Hall, Judd Nelson, Molly Ringwald, and Ally Sheedy, became known as the \"Brat Pack\" and represented a generation of young actors in 1980s films.  What is the title of this 1985 film directed by John Hughes?",
+            "answers": ["The Breakfast Club"],
+            "incorrect1": "Sixteen Candles",
+            "incorrect2": "Pretty in Pink",
+            "incorrect3": "Ferris Bueller's Day Off",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2021 SCOP B",
+            "question": "This man exclaimed, \"so I come here tonight to go to bed\" in a 2:00 AM speech at the University of Michigan that introduced the idea of the Peace Corps. This man asked, \"why does Rice play Texas?\" to illustrate that \"we choose to go to the Moon in this decade\" because it is difficult. This man defeated a fatigued-looking Richard Nixon in the first televised presidential debate. Name this president who commanded, \"ask what you can do for your country\" during his 1961 inauguration.",
+            "answers": ["John F. Kennedy", "JFK", "John Fitzgerald Kennedy"],
+            "incorrect1": "Robert F. Kennedy",
+            "incorrect2": "Lyndon B. Johnson",
+            "incorrect3": "Richard Nixon",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2018 SCOP Novice 9",
+            "question": "German thinkers in this field like Kurt Koffka promoted a Gestalt approach to it. The \"individual\"approach to this field of study was pioneered by a man whose observations of siblings led him to coin the term \"inferiority complex.\" Scientists in this field may use the MBTI questionnaire, which analyzes introversion and extraversion. Alfred Adler and Carl Jung studied what science of the mind, personality, and behavior?",
+            "answers": ["psychology"],
+            "incorrect1": "psychiatry",
+            "incorrect2": "sociology",
+            "incorrect3": "philosophy",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "One organ in members of this phylum contains many ommatidium. Some members of this phylum have an excretory system consisting of Malphigian tubules, while others have book lungs in their respiratory system. Extinct members of this phylum include trilobites, and many members of this phylum have their body divided among the head, thorax, and abdomen. Members of this phylum shed their exoskeleton and have jointed legs. Name this animal phylum which contains crustaceans, arachnids, and insects.",
+            "answers": ["arthropoda", "arthropods"],
+            "incorrect1": "mollusca",
+            "incorrect2": "chordata",
+            "incorrect3": "annelida",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "At one battle in this war, John of Bohemia fought even though he was blind. A temporary peace during this war was the Treaty of Bretigny. This conflict saw a battle on St. Crispin's Day that was the subject of the speech about \"ye band of brothers.\" Joan of Arc was captured and burnt at the stake during this war. The Battles of Crecy and Agincourt were fought during what war between the English and French from 1337 to 1453?",
+            "answers": ["Hundred Years' War", "100 Years War"],
+            "incorrect1": "Thirty Years' War",
+            "incorrect2": "War of the Roses",
+            "incorrect3": "French and Indian War",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 ERIS",
+            "question": "This country's Dodecanese island group actually consists of fifteen islands. In ancient times, ships were dragged over an isthmus in this country using a road called the Diolkos. Many migrants to Europe try to reach this country's islands of Kos and Lesbos. Rhodes and Crete are islands in this country, whose capital contains the Parthenon. What country is led from Athens?",
+            "answers": [
+                "Greece",
+                "the Hellenic Republic",
+                "Hellas",
+                "Ellada",
+                "Elliniki Dimokratia"
+            ],
+            "incorrect1": "Italy",
+            "incorrect2": "Spain",
+            "incorrect3": "Turkey",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This basketball player, known for his smooth scoring ability and clutch performances, led Duke University to the NCAA tournament as a freshman before being drafted third overall by the Boston Celtics in 2017. He earned the Eastern Conference Finals MVP award in 2022, leading the Celtics to the NBA Finals. He won his first title in 2024. He is a five-time NBA All-Star and has been named to the All-NBA First Team thrice. Name this star of of the Boston Celtics.",
+            "answers": ["Jayson Tatum"],
+            "incorrect1": "Jaylen Brown",
+            "incorrect2": "Joel Embiid",
+            "incorrect3": "Giannis Antetokounmpo",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 HIGS",
+            "question": "One character in this novel is sent to Dr. Dorian after her mother believes she is insane. Templeton searches for inspiration for one character in this novel, whose children include Joy, Nellie, and Aranea. The words \"Humble\", \"Terrific\", and \"Radiant\" are written to prevent a character in this novel from being killed by Mr. Zuckerman. Name this novel by E.B. White, in which the title spider saves the life of Wilbur.",
+            "answers": ["Charlotte's Web"],
+            "incorrect1": "Stuart Little",
+            "incorrect2": "The Very Hungry Caterpillar",
+            "incorrect3": "Where the Wild Things Are",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This comedy series, known for its improvisational style and cringeworthy humor, features a semi-fictionalized version of its creator and star, Larry David, as he navigates social situations with his signature neurotic and often inappropriate behavior. The show's \"no hugging, no learning\" rule, established by Larry, reflects his aversion to physical affection and his resistance to personal growth. What is the name of this HBO series, which has been praised for its sharp wit and satirical take on social norms?",
+            "answers": ["Curb Your Enthusiasm"],
+            "incorrect1": "Seinfeld",
+            "incorrect2": "Arrested Development",
+            "incorrect3": "The Office",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This man recently fled to Moscow after rebels took control of the Damascus, Syria. His father was the president of Syria from 1971-2000. This man then took his father's office in 2000 and served in the role until he was forced to flee by rebel forces. Name this son of Hafez al-Assad who has been accused of war crimes during the Syrian Civil War.",
+            "answers": ["Bashar al-Assad"],
+            "incorrect1": "Recep Tayyip Erdoğan",
+            "incorrect2": "Mahmoud Abbas",
+            "incorrect3": "Vladimir Putin",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2020 MOQBA Novice",
+            "question": "An embargo on this commodity caused the so-called \"Lancashire Famine.\" The Petit Gulf hybrid of this crop dramatically increased its production, which grew after a land rush called the Alabama Fever. A 1856 speech by James Henry Hammond said that \"no power on the earth dared to make war on\" this good and that this good \"is King.\"The spread of the boll weevil caused a crisis for growers of this crop. An invention of Eli Whitney sped up the processing of this crop. Name this crop for which the invention of its namesake \"gin,\" a seed separator, entrenched slavery in the South.",
+            "answers": ["cotton", "cotton gin", "Cotton is King"],
+            "incorrect1": "wool",
+            "incorrect2": "linen",
+            "incorrect3": "silk",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2017 Darien DEFT",
+            "question": "This philosopher called himself a \"free spirit\" and argued his predecessors were morally prejudiced in one work. He divided an art form into Apollonian and Dionysian types in another work. This philosopher wrote of his \"horrification\" of the idea of eternal recurrence and argued that the main impetus behind behavior is the \"will to power.\" This author of The Birth of Tragedy believed humans were part of the evolution of the ubermensch. Name this German author of Thus Spoke Zarathustra, who wrote \"God is dead\" in The Gay Science.",
+            "answers": ["Friedrich Nietzsche"],
+            "incorrect1": "Immanuel Kant",
+            "incorrect2": "Søren Kierkegaard",
+            "incorrect3": "Arthur Schopenhauer",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "To the west of this mountain range lies the Pechora basin, which includes the Illych and Usa rivers, and to its east lies the Ob basin. This mountain range rises from the Kara Sea in the north, and its nether-polar region contains its highest peaks, including Mount Karpinsky, and the highest peak of this mountain range, Mount Narodnaya. During World War II, the Soviet authority moved many factories to its foothills, which have long been regarded as the major mineral base of Russia. Identify this mountain range that is considered the natural boundary between northern Asia and Europe.",
+            "answers": ["Ural Mountains", "Uralskiye gory"],
+            "incorrect1": "Himalayan Mountains",
+            "incorrect2": "Alps",
+            "incorrect3": "Andes Mountains",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This tennis player, became the youngest ATP 500 champion in history when he won the 2021 Citi Open in Washington, D.C. at the age of 19.  He is the first player born in the 2000s to reach the quarterfinals of all four Grand Slam tournaments. He is also an accomplished skier, having won a national championship in giant slalom at the age of 13 before focusing on tennis. He tested positive for performance enhancing drugs in 2024 but was cleared. Name this rising Italian tennis star who won 2 Grand Slam titles in 2024.",
+            "answers": ["Jannik Sinner"],
+            "incorrect1": "Carlos Alcaraz",
+            "incorrect2": "Novak Djokovic",
+            "incorrect3": "Rafael Nadal",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2020 TAILS",
+            "question": "Projects Blue Book, Sign, and Grudge were studies of these things conducted by the U.S. Air Force. A supposed discovery of one of these things in Roswell, New Mexico was passed off as a weather balloon by the military. These objects that supposedly make crop circles are rumored to be studied at Area 51. Name these unexplainable aerial phenomena often attributed to alien activity and described as flying saucers.",
+            "answers": [
+                "UFOs",
+                "Unidentified Flying Objects",
+                "UAPs",
+                "Unidentified Aerial Phenomenom"
+            ],
+            "incorrect1": "Aliens",
+            "incorrect2": "Jets",
+            "incorrect3": "weather balloons",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This author wrote about a man who refuses grapes from Merecdes; that character seeks revenge on Fernand, Danglars and Villefort using a fortune found in prison. Another novel by this man describes the machinations of Cardinal Richeliu; at the end of that novel a commission is refused by Porthos, Athos, and Aramis. Edmond Dantes and d'Artagnan were created by what French author of The Count of Monte Cristo and The Three Musketeers?",
+            "answers": ["Alexandre Dumas"],
+            "incorrect1": "Victor Hugo",
+            "incorrect2": "Jules Verne",
+            "incorrect3": "Honoré de Balzac",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "RAID arrays are combinations of these objects that often connect via IDE or Serial ATA. They are sometimes replaced by SSDs and can be structured using NTFS or FAT. These objects contain spinning platters that use magnetism to store data, so the data is retained even when they are powered off. Name these devices with capacities often in the terabytes, used to store computer data.",
+            "answers": ["hard disk drives", "hard drives", "disks"],
+            "incorrect1": "solid state drives",
+            "incorrect2": "RAM",
+            "incorrect3": "optical drives",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This anthology series explores the dark side of technology and its impact on society. One episode depicts a dystopian world where people rate each other in real-time, creating a social hierarchy based on scores. Its creator envisioned it as a modern-day \"Twilight Zone,\" tackling themes of social media, artificial intelligence, and virtual reality. What is the name of this Netflix series, known for its unsettling and thought-provoking stories?",
+            "answers": ["Black Mirror"],
+            "incorrect1": "The Twilight Zone",
+            "incorrect2": "Love, Death & Robots",
+            "incorrect3": "Electric Dreams",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "Christopher Wray announced he would step down as the leader of this agency at the beginning of 2025. This agency's Ten Most Wanted Fugitives list, established in 1950, has featured notorious criminals like Osama bin Laden and Ted Bundy. Its headquarters, the J. Edgar Hoover Building in Washington, D.C., is named after its first director, who led the agency for 48 years. It is responsible for investigating federal crimes, including terrorism, cybercrime, and organized crime. What is the name of this federal law enforcement agency?",
+            "answers": ["FBI", "F.B.I.", "Federal Bureau of Investigation"],
+            "incorrect1": "CIA",
+            "incorrect2": "NSA",
+            "incorrect3": "DEA",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "This artist recently complete her record-breaking \"Eras Tour\" which kicked off in March 2024. The tour featured a setlist spanning her entire music catalog, from her country beginnings to her pop anthems. The tour's elaborate stage design, costume changes, and surprise acoustic songs have delighted fans and critics alike. It has become the highest-grossing tour of all time by a female artist, surpassing Madonna's \"Sticky & Sweet Tour.\" The tour's opening night in Glendale, Arizona, led the city to temporarily rename itself \"Swift City\" in honor of the event. Who is this singer-songwriter?",
+            "answers": ["Taylor Swift"],
+            "incorrect1": "Katy Perry",
+            "incorrect2": "Beyoncé",
+            "incorrect3": "Lady Gaga",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This long-running video game franchise, known for its open-world environments and controversial content, allows players to explore fictional cities like Liberty City, Vice City, and San Andreas, inspired by real-world locations.  The series has sparked debate and criticism for its depiction of violence, crime, and mature themes.  Its latest installment, released in 2013, became one of the best-selling video games of all time, generating over $8 billion in revenue.  What is the name of this controversial yet popular franchise, developed by Rockstar Games?",
+            "answers": ["Grand Theft Auto"],
+            "incorrect1": "Saints Row",
+            "incorrect2": "Red Dead Redemption",
+            "incorrect3": "Mafia",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "Adrian Smith designed the world's largest structure of this type, which is currently located in the United Arab Emirates. Modern ones often use the tube frame design, which superseded the steel frame of earlier structures. Louis Sullivan is known as the father of these structures. Name this kind of large building, examples of which include the Burj Khalifa and the Empire State Building.",
+            "answers": ["skyscraper"],
+            "incorrect1": "tower",
+            "incorrect2": "high-rise",
+            "incorrect3": "castle",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2011 SCOP Novice 2",
+            "question": "It is not an amalgam, but this substance is a catalyst in the Clemmensen reduction. The Leblanc process has been abandoned because it generates this compound as a byproduct. Industrially, this compound is used to pickle steel and synthesize PVC plastics, and with nitric acid, it forms aqua regia. Found in gastric juice name this binary acid composed of a hydrogen atom and the second lightest halogen, also known as HCl.",
+            "answers": ["Hydrochloric Acid", "HCl"],
+            "incorrect1": "Sulfuric Acid",
+            "incorrect2": "Nitric Acid",
+            "incorrect3": "Acetic Acid",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2020 TAILS",
+            "question": "This politician requested that James K. Polk specify the \"spot\" where Mexicans spilled blood on American soil in his \"Spot Resolutions.\" In his Cooper Union address, this politician affirmed his opposition to expansion of slavery. This politician stated that \"a house divided against itself cannot stand\" in a speech against Stephen Douglas. Name this politician who, as president, issued the Emancipation Proclamation.",
+            "answers": ["Abraham Lincoln"],
+            "incorrect1": "George Washington",
+            "incorrect2": "Thomas Jefferson",
+            "incorrect3": "John F. Kennedy",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This college's football team, known for its iconic blue turf field nicknamed \"The Blue,\" pulled off a stunning upset in the 2007 Fiesta Bowl, defeating the Oklahoma Sooners with a series of trick plays, including the \"Statue of Liberty\" play for a game-winning two-point conversion.  They have won six conference championships since joining the Mountain West Conference in 2011. Name this Broncos team who is currently led by record-breaking running back Ashton Jeanty.",
+            "answers": ["Boise State", "Boise State University", "BSU"],
+            "incorrect1": "Boise Hawks",
+            "incorrect2": "Idaho State",
+            "incorrect3": "Fresno State",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2020 TAILS",
+            "question": "One ruler of this empire named Auraungzeb re-established the jizya tax to encourage conversion to the religion it followed. This empire was founded by Babur and reached its zenith under Akbar. One ruler of this empire built a large white marble mausoleum in the city of Agra for his wife Mumtaz. Shah Jahan, commissioner of the Taj Mahal, ruled what Indian Islamic empire?",
+            "answers": ["Mughal Empire", "Gurkani"],
+            "incorrect1": "Ottoman Empire",
+            "incorrect2": "British Empire",
+            "incorrect3": "Mongol Empire",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2019 SCOP Novice 10",
+            "question": "In a story by this author, a songbird sings so beautifully that he convinces Death to spare the Emperor of China. This man wrote about Gerda, who rescues her friend Kai after he is carried away by a mysterious woman in a sleigh. In another story by this man, a sea witch takes the voice of a mermaid who has fallen in love with a prince. Name this Danish author of fairy tales like \"The Nightingale,\" \"The Snow Queen,\"and \"The Little Mermaid.\"",
+            "answers": ["Hans Christian Andersen"],
+            "incorrect1": "The Brothers Grimm",
+            "incorrect2": "Aesop",
+            "incorrect3": "Charles Perrault",
+            "used": "TRUE"
+        }
     ]
 ]
