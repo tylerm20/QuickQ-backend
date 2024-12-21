@@ -20838,7 +20838,7 @@
         {
             "category": "US History",
             "source": "2020 MOQBA Novice",
-            "question": "An embargo on this commodity caused the so-called \"Lancashire Famine.\" The Petit Gulf hybrid of this crop dramatically increased its production, which grew after a land rush called the Alabama Fever. A 1856 speech by James Henry Hammond said that \"no power on the earth dared to make war on\" this good and that this good \"is King.\"The spread of the boll weevil caused a crisis for growers of this crop. An invention of Eli Whitney sped up the processing of this crop. Name this crop for which the invention of its namesake \"gin,\" a seed separator, entrenched slavery in the South.",
+            "question": "An embargo on this commodity caused the so-called \"Lancashire Famine.\" The Petit Gulf hybrid of this crop dramatically increased its production, which grew after a land rush called the Alabama Fever. A 1856 speech by James Henry Hammond said that \"no power on the earth dared to make war on\" this good and that this good \"is King.\" The spread of the boll weevil caused a crisis for growers of this crop. An invention of Eli Whitney sped up the processing of this crop. Name this crop for which the invention of its namesake \"gin,\" a seed separator, entrenched slavery in the South.",
             "answers": ["cotton", "cotton gin", "Cotton is King"],
             "incorrect1": "wool",
             "incorrect2": "linen",
@@ -20959,8 +20959,8 @@
             "source": "2012 Collaborative Middle School Tournament #3",
             "question": "Adrian Smith designed the world's largest structure of this type, which is currently located in the United Arab Emirates. Modern ones often use the tube frame design, which superseded the steel frame of earlier structures. Louis Sullivan is known as the father of these structures. Name this kind of large building, examples of which include the Burj Khalifa and the Empire State Building.",
             "answers": ["skyscraper"],
-            "incorrect1": "tower",
-            "incorrect2": "high-rise",
+            "incorrect1": "boat",
+            "incorrect2": "bridge",
             "incorrect3": "castle",
             "used": "TRUE"
         },
@@ -20988,7 +20988,7 @@
             "category": "Sports",
             "question": "This college's football team, known for its iconic blue turf field nicknamed \"The Blue,\" pulled off a stunning upset in the 2007 Fiesta Bowl, defeating the Oklahoma Sooners with a series of trick plays, including the \"Statue of Liberty\" play for a game-winning two-point conversion.  They have won six conference championships since joining the Mountain West Conference in 2011. Name this Broncos team who is currently led by record-breaking running back Ashton Jeanty.",
             "answers": ["Boise State", "Boise State University", "BSU"],
-            "incorrect1": "Boise Hawks",
+            "incorrect1": "Ohio State",
             "incorrect2": "Idaho State",
             "incorrect3": "Fresno State",
             "used": "TRUE",
