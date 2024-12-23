@@ -21014,5 +21014,592 @@
             "incorrect3": "Charles Perrault",
             "used": "TRUE"
         }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2019 SCOP Novice 10",
+            "question": "This ocean includes the Cocos or Keeling Islands. On another island in this ocean in 2018, John Allen Chau was killed while trying to serve as a missionary to the Sentinelese. This ocean includes the Gulf of Khambhat and the Meghna River delta which are, respectively, part of the Arabian Sea and Bay of Bengal found on opposite sides of the country that shares its name with this ocean. Name this ocean between Africa and Australia.",
+            "answers": ["Indian Ocean"],
+            "incorrect1": "Pacific Ocean",
+            "incorrect2": "Atlantic Ocean",
+            "incorrect3": "Arctic Ocean",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2010 SCOP Novice",
+            "question": "One version of this molecule found in purple bacteria can accept electrons from hydrogen sulfide instead of water. Along with carotenoids, this molecule is found in the thylakoid membrane, and its a and b types can be separated by paper chromatography. Forming the reaction centers of Photosystems I and II, this pigment molecule absorbs light in the red, blue, and violet wavelengths. Giving plants their characteristic color by reflecting green light, name this pigment molecule that captures the light energy used to power photosynthesis.",
+            "answers": ["chlorophyll"],
+            "incorrect1": "hemoglobin",
+            "incorrect2": "carotenoid",
+            "incorrect3": "melanin",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "This policy had its origins in the Pass Laws, and several people who were opposed to this policy were sentenced to prison following the Rivonia Trials. The Spear of the Nation was the military wing of a political party which opposed this policy, which led to the Sharpeville Massacre as well as an event in which students who opposed the mandatory teaching of a certain language were fired upon by police, the Soweto Uprising. Ended by F.W. De Klerk and Nelson Mandela name this policy of racial segregation in South Africa.",
+            "answers": ["Apartheid"],
+            "incorrect1": "segregation",
+            "incorrect2": "Jim Crow laws",
+            "incorrect3": "caste system",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This country will hold elections on February 23, 2025 after its chancellor lost a no-confidence vote, causing the government to collapse. Its parliament, known as the Bundestag, is elected every four years and is responsible for making laws and overseeing the government. Its head of state is the Federal President, currently Frank-Walter Steinmeier, who holds a largely ceremonial role. The chancellor, Olaf Scholz, led a three-party coalition government consisting of the Social Democratic Party, the Green Party, and the Free Democratic Party. What is this European nation, known for its federal republic system and its role as a leading economic power in the European Union?",
+            "answers": ["Germany"],
+            "incorrect1": "France",
+            "incorrect2": "Poland",
+            "incorrect3": "Austria",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2017 SCOP Novice 8",
+            "question": "This woman was the first president of the Ninety-Nines. With funding from Purdue, where she served as a technical adviser, this woman constructed a modified Model 10 Electra. A breakdown of communication between the Itasca and Fred Noonan caused this woman's failure to find Howland Island. Name this first woman to fly solo across the Atlantic Ocean, who disappeared over the Pacific in 1937.",
+            "answers": ["Amelia Earhart"],
+            "incorrect1": "Bessie Coleman",
+            "incorrect2": "Charles Lindbergh",
+            "incorrect3": "Ruth Elder",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This footballer recently won his first MLS MVP Award. The player, who led Argentina to victory in the 2022 World Cup, holds the record for the most Ballon d'Or awards, with eight wins to his name. He is known for his mesmerizing dribbling skills, clinical finishing, and playmaking ability, often leaving defenders bewildered. He spent the majority of his career with FC Barcelona, where he won numerous trophies and became the club's all-time leading scorer. Who is this Argentine forward, widely regarded as one of the greatest footballers of all time?",
+            "answers": ["Lionel Messi"],
+            "incorrect1": "Cristiano Ronaldo",
+            "incorrect2": "Diego Maradona",
+            "incorrect3": "Pelé",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2019 SCOP Novice 10",
+            "question": "This poet described how \"a Plank in Reason, broke\" in the poem \"I felt a Funeral, in my Brain,\" and wrote that \"'Hope' is a thing with feathers\" in another poem. This poet wrote \"I heard a Fly buzz - when I died\" and a poem in which the speaker rides in a carriage with \"Immortality\" and a being who \"kindly stopped for me.\" Name this Belle of Amherst, a reclusive poet who wrote \"Because I could not stop for Death.\"",
+            "answers": ["Emily Dickinson"],
+            "incorrect1": "Walt Whitman",
+            "incorrect2": "Sylvia Plath",
+            "incorrect3": "Maya Angelou",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This sandbox video game, whose soundtrack was composed by German musician C418, features a distinctive blocky art style and allows players to build structures, explore procedurally generated worlds, and gather resources in a variety of biomes.  Its \"Survival\" mode challenges players to gather resources, craft tools, and build shelter to survive against hostile creatures.  Its \"Creative\" mode provides unlimited resources and the ability to fly, allowing players to unleash their imaginations and build elaborate structures.  What is the name of this popular game, developed by Mojang Studios and acquired by Microsoft in 2014?",
+            "answers": ["Minecraft"],
+            "incorrect1": "Fortnite",
+            "incorrect2": "Roblox",
+            "incorrect3": "Terraria",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This swimmer's thrilling victory in the 400-meter freestyle at the 2020 Tokyo Olympics ended Katie Ledecky's dominance in the event and marked a changing of the guard in women's distance swimming.  She holds the world record in the 400-meter freestyle. She also excels in the 200-meter and 800-meter freestyle events, consistently challenging for medals on the world stage. Who is this Australian swimmer, known for her powerful stroke and competitive spirit?",
+            "answers": ["Ariarne Titmus"],
+            "incorrect1": "Katie Ledecky",
+            "incorrect2": "Emma McKeon",
+            "incorrect3": "Sarah Sjöström",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "The murder of this man's friend Abraham Gonzalez deepened his hatred of Victoriano Huerta. This man gained control of the vast mineral wealth of Chihuahua during his time as caudillo of that province. This man commanded the Division of the North, with which he helped the Carranza government take power before launching a raid on Columbus, New Mexico in 1916. Name this famous Mexican revolutionary who was chased by John J. Pershing's Punitive Expedition.",
+            "answers": ["Pancho Villa", "Francisco Villa", "Doroteo Arambula"],
+            "incorrect1": "Emiliano Zapata",
+            "incorrect2": "Porfirio Díaz",
+            "incorrect3": "Benito Juárez",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "Darwin predicted the existence of a Madagascar moth after observing one of these structures, which have separate male/female types in dioecious species. The parts of this occur in multiples of three in monocots and many use nectar to attract pollinators. One mature part of this becomes the fruit, and it has stamen and carpel reproductive organs. Name this structure found in angiosperm plants, often surrounded by petals.",
+            "answers": ["flower"],
+            "incorrect1": "leaf",
+            "incorrect2": "stem",
+            "incorrect3": "root",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "In April 2011 this country announced it was \"for rent,\" eight years after its Head of State, Hans Adam II, joked about selling it to Bill Gates and renaming it Microsoft. This nation and Uzbekistan are the only double-landlocked countries in the world, and it is the wealthiest per capita German-speaking country. Name this principality between Switzerland and Austria with capital Vaduz.",
+            "answers": [
+                "Liechtenstein",
+                "Principality of Liechtenstein",
+                "Fuerstentum Liechtenstein"
+            ],
+            "incorrect1": "Luxembourg",
+            "incorrect2": "Switzerland",
+            "incorrect3": "Austria",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This band's iconic song \"Good Vibrations,\" featuring innovative recording techniques and an array of instruments like the theremin and cello, was one of the most expensive singles ever produced at the time.  Their album Pet Sounds, released in 1966, is considered a masterpiece of pop music, with its intricate harmonies and introspective lyrics.  Their early surf rock anthems like \"Surfin' U.S.A.\" and \"California Girls\" captured the carefree spirit of Southern California youth culture.  What is the name of this influential band, led by Brian Wilson's songwriting and musical vision?",
+            "answers": ["The Beach Boys"],
+            "incorrect1": "The Beatles",
+            "incorrect2": "The Rolling Stones",
+            "incorrect3": "The Kinks",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2019 SCOP Novice 10",
+            "question": "This figure was given a crown and necklaces by the Horae and the Graces for her wedding. This figure's daughter with Epimetheus, Pyrrha, was a survivor in the Greek flood myth. Zeus ordered Hephaestus to make this first woman out of earth and air to punish mankind for accepting the gift of fire from this woman's brother-in-law, Prometheus. All of the evils in the world were released when what mythological woman opened her namesake \"box?\"",
+            "answers": ["Pandora"],
+            "incorrect1": "Hercules",
+            "incorrect2": "Medusa",
+            "incorrect3": "Athena",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2020 ERIS",
+            "question": "One man with this surname ran a campaign ad about the prisoner Willie Horton. A recount of \"hanging chad\" ballots in Florida enabled another man with this surname to narrowly defeat Al Gore in one election. A man with this surname who promised, \"Read my lips: no new taxes\" later lost re-election in 1992 to Bill Clinton. Give this surname of two U.S. Presidents named George.",
+            "answers": ["Bush", "George H. W. Bush", "George W. Bush"],
+            "incorrect1": "Clinton",
+            "incorrect2": "Obama",
+            "incorrect3": "Trump",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "International snack giant Mondelez is said to be considering buying this American brand. This company's founder established a vocational school for orphaned boys in 1909, using his chocolate fortune to fund the institution. Its iconic milk chocolate bar, introduced in 1900, was the first mass-produced milk chocolate bar in the United States. This company founded a town in Pennsylvania around its first factory. Name this company known for its distinctive Kisses chocolates.",
+            "answers": ["Hershey's"],
+            "incorrect1": "Mars",
+            "incorrect2": "Nestlé",
+            "incorrect3": "Cadbury",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2017 Darien DEFT",
+            "question": "One artist depicted this figure lying on a bed and staring into a mirror held in front of a red curtain. A girl looks into a chest in the background as a dog curls up on a bed with this figure in another painting. A third artist depicted this woman in front of a broken arch of trees and to the right of the Three Graces. The spring Hora brings a pink cloak towards this figure as she stands nude atop a scallop shell in another work by that artist. Name this Roman goddess of love, whose \"birth\" was depicted by Sandro Botticelli.",
+            "answers": ["Venus", "Aphrodite"],
+            "incorrect1": "Mars",
+            "incorrect2": "Jupiter",
+            "incorrect3": "Mercury",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This holiday commemorates the rededication of the Second Temple in Jerusalem following a revolt led by Judas Maccabeus against the Seleucid Empire. The holiday's central ritual involves lighting a nine-branched menorah adding one candle each night for eight nights. The miracle of the oil, where a one-day supply of oil miraculously burned for eight days, is a central theme of the celebration.  What is this Jewish holiday, often referred to as the \"Festival of Lights\"?",
+            "answers": ["Hanukkah", "Chanukah", "Hannukah"],
+            "incorrect1": "Kwanzaa",
+            "incorrect2": "Diwali",
+            "incorrect3": "Ramadan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "For any integer N, the sum of all numbers having this property from 1 to N must be a perfect square. It has been proven that for all numbers less than ten to the three hundredth power, there are no perfect numbers with this property. The tangent and sine functions both have this property, which applies to any function for which f of x plus f of negative x equals zero, and is therefore symmetric about the origin. Every binary number with this property must end in 1, and all prime numbers but the smallest have this property. Identify this class of numbers, which leave a remainder when divided by two.",
+            "answers": ["odd numbers"],
+            "incorrect1": "even numbers",
+            "incorrect2": "prime numbers",
+            "incorrect3": "natural numbers",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2022 MAKEMAKE",
+            "question": "The \"Six Arrows\" represent the ideology of this country's founder, who introduced the Latin alphabet to it and banned the wearing of fezzes. This country contains the largest population of Kurds in its southeast, and its first president was Mustafa Kemal Ataturk. In 1922, the Ottoman Empire was replaced by what country which contains the transcontinental city of Istanbul?",
+            "answers": [
+                "Turkey",
+                "Republic of Turkey",
+                "Turkiye",
+                "Turkiye Cumhuriyeti"
+            ],
+            "incorrect1": "Greece",
+            "incorrect2": "Syria",
+            "incorrect3": "Egypt",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This animated tragicomedy series features a protagonist who is a washed-up actor struggling with addiction, depression, and the weight of his past fame. Its voice cast includes Will Arnett, Aaron Paul as Todd Chavez, and Alison Brie as Diane Nguyen.  What is the name of this Netflix series, known for its dark humor and anthropomorphic animals?",
+            "answers": ["BoJack Horseman"],
+            "incorrect1": "Family Guy",
+            "incorrect2": "The Simpsons",
+            "incorrect3": "Rick and Morty",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2021 SCOP B",
+            "question": "During a 1793 yellow fever outbreak in this city, Dr Benjamin Rush accidentally killed dozens of patients by treating them with bloodletting. William Howe captured this city in the aftermath of the Battle of Brandywine, a victory that forced the Continental Congress to flee to nearby Lancaster. The Liberty Bell was originally located in this city's Independence Hall, which hosted the signing of the Declaration of Independence. Name this largest city in Pennsylvania.",
+            "answers": ["Philadelphia"],
+            "incorrect1": "Pittsburgh",
+            "incorrect2": "Boston",
+            "incorrect3": "Baltimore",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This man recently defeated Tyson Fury in a rematch to retain the heavyweight title. This boxer, a former undisputed cruiserweight champion, made history by becoming only the third boxer ever to unify the WBA, IBF, WBO, and IBO heavyweight titles after moving up in weight class. He is known for his exceptional footwork, technical skills, and southpaw stance, which often befuddle opponents. He defeated Anthony Joshua twice in 2021 and 2022 to claim and defend his heavyweight titles. Before his professional boxing career, he won an Olympic gold medal at the 2012 London Games. Who is this Ukrainian boxer, nicknamed \"The Cat\"?",
+            "answers": ["Oleksandr Usyk"],
+            "incorrect1": "Tyson Fury",
+            "incorrect2": "Anthony Joshua",
+            "incorrect3": "Deontay Wilder",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2014 SCOP Novice 5",
+            "question": "This nation's port cities include Valparaiso and Antofagasta, the latter of which was invaded for its nitrate and copper resources to begin the War of the Pacific. This country is home to Easter Island and the incredibly dry Atacama Desert, which lies in a rain shadow west of the Andes Mountains. This country's border with Argentina runs for 3,300 miles, north to south. Name this South American country with capital at Santiago.",
+            "answers": ["Chile"],
+            "incorrect1": "Argentina",
+            "incorrect2": "Peru",
+            "incorrect3": "Brazil",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "The Tacuara was a right-wing group that attacked in this country during the presidency of Arturo Frondozi. The Revolucion Libertadora ended the rule of one man in this country. The Dirty War in this nation followed a coup that overthrew Isabel Peron and set forth a junta that failed to take the Falkland Islands from Great Britain. The largest country created out of the Viceroyalty of the Rio de la Plata, its independence was won through victories by Jose de San Martin. Name this country, currently led by Cristina Kirchner, whose presidents rule from Buenos Aires.",
+            "answers": ["Republic of Argentina", "Argentina"],
+            "incorrect1": "Republic of Chile",
+            "incorrect2": "Federative Republic of Brazil",
+            "incorrect3": "Republic of Peru",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2021 CERES",
+            "question": "In 2021, this state lost a case to California that would have overturned Obamacare. This state's Attorney General, Ken Paxton sued Pennsylvania to overturn the 2020 election. Due to a February 2021 storm, this state was hit with mass power outages, and a senator from this state was criticized for traveling to Cancun during the crisis. John Cornyn and Ted Cruz are from what state with capital Austin?",
+            "answers": ["Texas"],
+            "incorrect1": "California",
+            "incorrect2": "Florida",
+            "incorrect3": "Alaska",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "These molecules contain such unique nucleotides as pseudouridine, hypoxanthine, and inosinic acid. It has a CCA tail at the 3-end of the molecule, which is important for recognition in translation. First hypothesized by Francis Crick, they can come in aminoacyl and peptidyl varieties, which can be attached to two different sites on ribosomes. They have a loop for the anticodon, which makes them look like clover leaves. Identify these molecules that carry amino acids to ribosomes during protein synthesis, one of the three types of RNA.",
+            "answers": ["transfer RNA", "tRNA"],
+            "incorrect1": "messenger RNA",
+            "incorrect2": "ribosomal RNA",
+            "incorrect3": "DNA",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This footballer, the youngest player to score in a FIFA World Cup final since Pel\u00e9 in 1958, achieved this feat at the age of 19 during France's victory in the 2018 tournament.  He is known for his blistering speed, clinical finishing, and dribbling skills, often leaving defenders in his wake.  He played for Paris Saint-Germain before moving to Real Madrid. Who is this French forward, considered one of the most exciting young talents in world football?",
+            "answers": ["Kylian Mbapp\u00e9", "Mbappe"],
+            "incorrect1": "Lionel Messi",
+            "incorrect2": "Erling Haaland",
+            "incorrect3": "Cristiano Ronaldo",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This animated series follows the journey of Aang, a 12-year-old boy who is a spiritual leader destined to bring peace to the war-torn world.  The show's unique blend of Eastern philosophy, martial arts, and compelling characters resonated with audiences of all ages.  Its animation style, inspired by anime and traditional Chinese art, created a visually stunning world.  What is the name of this Nickelodeon series, which has garnered critical acclaim for its storytelling, animation, and cultural impact?",
+            "answers": ["Avatar: The Last Airbender", "avatar"],
+            "incorrect1": "The Legend of Zelda",
+            "incorrect2": "The Legend of Korra",
+            "incorrect3": "Dragon Ball Z",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 SCOP Novice",
+            "question": "Vritra and Tiamat are two of these creatures, who are slain by Indra and Marduk, respectively. Another one, Nithogg, gnaws on a root of Yggdrasil, and Orochi is an eight-headed one who is killed by Susanoo. One of these animals represents the east, and is known as Qinglong in China and Seiryuu in Japan. In Greek myth, warriors grow when the teeth of these creatures are planted. Name these mythological creatures, enormous reptiles that typically breathe fire in Western tradition.",
+            "answers": ["dragons"],
+            "incorrect1": "wyverns",
+            "incorrect2": "griffins",
+            "incorrect3": "dinosaurs",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 MOQBA Novice",
+            "question": "An Art Deco skyscraper built in 1931 in this city was the tallest building west of the Mississippi River until 1961 and is named for a company that left the building in 1991. This city's 18th & Vine district is home to the American Jazz Museum and Negro Leagues Baseball Museum. It's not Los Angeles, but a one block area with frequent live music performances known as \"this city Live!\" sits in this city's Power & Light District. A baseball stadium nicknamed \"The K\" is located in what Missouri city, which shares its name with a city in a neighboring state?",
+            "answers": ["Kansas City", "Kansas City, Missouri"],
+            "incorrect1": "Witchita",
+            "incorrect2": "St. Louis",
+            "incorrect3": "Oklahoma City",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This politician fell and broke her hip while travelling with a congressional delegation in Luxembourg. She was born and raised in Baltimore, and is the daughter of mayor and congressman Thomas D'Alesandro Jr. She served as the speaker of the house from 2007 to 2011 and again from 2019 to 2023. She was the first woman elected as U.S. House Speaker and the first woman to lead a major political party in either chamber of Congress, leading the House Democrats from 2003 to 2023. Name this congresswoman who represent San Francisco.",
+            "answers": ["Nancy Pelosi"],
+            "incorrect1": "Hilary Clinton",
+            "incorrect2": "Kamala Harris",
+            "incorrect3": "Mitch McConnell",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "The Atbarah is an arm of this river that starts at Lake Tana. The Aswan High Dam, an attempt to control this river's flow, resulted in the creation of Lake Nasser, a massive reservoir shared by two nations. This river splits into two different sections near Khartoum, the Blue and the White. Identify this river considered the lifeblood of civilizations in Sudan and Egypt, the longest river in the world.",
+            "answers": ["Nile River"],
+            "incorrect1": "Amazon River",
+            "incorrect2": "Mississippi River",
+            "incorrect3": "Yangtze River",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This cult classic TV series, set in the fictional town of Sunnydale, California, which is located on a Hellmouth, follows a teenage girl chosen to battle vampires, demons, and the forces of darkness. Its creator, Joss Whedon, also known for his work on \"Firefly\" and \"The Avengers,\" explored themes of identity, growing up, and the struggle between good and evil.  What is the name of this series, which ran for seven seasons and spawned a spin-off series, \"Angel\"?",
+            "answers": ["Buffy the Vampire Slayer"],
+            "incorrect1": "Charmed",
+            "incorrect2": "Supernatural",
+            "incorrect3": "The Vampire Diaries",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2016 SAGES",
+            "question": "This process is defined as the movement of soil or sediment from one location to another by means of water flow, wind or gravity. The Grand Canyon was formed by this process. Trees and plants help hold soil in place to help prevent this process. Name this geological process.",
+            "answers": ["erosion"],
+            "incorrect1": "decomposition",
+            "incorrect2": "deposition",
+            "incorrect3": "mass wasting",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "The US Department of Agriculture announced this dangerous invasive species has been eradicated from the United States. This insect, native to Asia and known for its aggressive behavior and painful sting, poses a significant threat to honeybee populations and human health. Its large size, with queens reaching up to two inches in length, and its distinctive orange and black markings make it easily recognizable. Its venom, though not typically fatal to humans, can cause severe pain and allergic reactions. It was first detected in North America in 2019, prompting efforts to eradicate it and prevent its spread. What is this invasive species, also known as the Asian giant hornet?",
+            "answers": ["Muder Hornet", "Asian giant hornet"],
+            "incorrect1": "Killer Bee",
+            "incorrect2": "Bald-faced Hornet",
+            "incorrect3": "Cicada Killer",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This quarterback, known for his cool demeanor and clutch performances under pressure, led LSU to a national championship in 2019, throwing for a record-breaking 60 touchdowns in a single season. He was drafted first overall by the Cincinnati Bengals in the 2020 NFL Draft, and quickly revitalized the franchise. He led the Bengals to their first Super Bowl appearance in over 30 years in 2022, narrowly losing to the Los Angeles Rams. Who is this quarterback, nicknamed \"Joe Cool\" for his calm and collected leadership style? ",
+            "answers": ["Joe Burrow"],
+            "incorrect1": "Ja'Marr Chase",
+            "incorrect2": "Patrick Mahomes",
+            "incorrect3": "Tom Brady",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2013 SCOP Novice 4",
+            "question": "A house on this city's Osage Avenue was bombed by its own police in 1985. Both Boston and this city benefitted from a two-century-long experiment in compound interest by Ben Franklin. The First and Second Banks of the United States were located in this city, whose Carpenters' Hall and Independence Hall hosted the two Continental Congresses. Name this former national capital, the largest city in Pennsylvania.",
+            "answers": ["Philadelphia"],
+            "incorrect1": "Pittsburgh",
+            "incorrect2": "Boston",
+            "incorrect3": "Baltimore",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 SCOP MS 10",
+            "question": "The first of this set of principles requires two witnesses and a sincere confession, and is called shahada, the profession of faith. Adherents wear ihram and walk around the Kaaba during a holy trip that these principles require all Muslims make. Sawm and salat are two of what fundamental principles of Islam that require Muslims to make a pilgrimage to Mecca and fast during Ramadan?",
+            "answers": [
+                "Five Pillars of Islam",
+                "arkan al-Islam",
+                "arkan al-din"
+            ],
+            "incorrect1": "Ten Commandments",
+            "incorrect2": "Eightfold Path",
+            "incorrect3": "Seven Sacraments",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2022 MAKEMAKE",
+            "question": "The \"Yellow Fleet\" was stuck in this structure's Great Bitter Lake after it was closed during the Six-Day War. Gamal Abdel Nasser's nationalization of this structure caused a 1956 \"crisis.\" The ship Ever Given was stuck at this structure, whose construction greatly reduced travel times between the Indian Ocean and Europe. Shipping was disrupted in 2021 when a boat clogged what man-made Egyptian canal?",
+            "answers": ["Suez Canal", "Suez Crisis"],
+            "incorrect1": "Panama Canal",
+            "incorrect2": "Erie Canal",
+            "incorrect3": "Grand Canal",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2014 SCOP Novice 5",
+            "question": "Characters in this novel go to the Malpais reservation in New Mexico, where they meet Linda, whose son remembers her relationship with Pope while watching Three Weeks in a Helicopter. This novel opens by describing the Bokanovsky process, and in this work, Helmholtz Watson is exiled to the Falkland Islands by Mustapha Mond. John the Savage and Bernard Marx oppose the drug Soma in what dystopian novel by Aldous Huxley?",
+            "answers": ["Brave New World"],
+            "incorrect1": "1984",
+            "incorrect2": "Fahrenheit 451",
+            "incorrect3": "The Handmaid's Tale",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This holiday's traditional figure is based on a 4th-century Greek bishop known for his generosity. The holiday's association with its current date was established in the 4th century, coinciding with the Roman celebration of Saturnalia and the winter solstice. The tradition of decorating evergreen trees dates back to pre-Christian pagan practices. What is this holiday, celebrated by Christians worldwide to commemorate the birth of Jesus Christ?",
+            "answers": ["Christmas"],
+            "incorrect1": "Easter",
+            "incorrect2": "Thanksgiving",
+            "incorrect3": "Halloween",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This quarterback set the NFL record for the most passing yards by a player in their first two seasons, showcasing his exceptional talent and potential.  He was drafted sixth overall by the Los Angeles Chargers in the 2020 NFL Draft, and quickly established himself as a franchise quarterback.  He led the Chargers to their first playoff appearance in four years in 2022, narrowly losing to the Jacksonville Jaguars in a thrilling comeback.  Who is this quarterback, known for his calm demeanor and ability to make highlight-reel throws?",
+            "answers": ["Justin Herbert"],
+            "incorrect1": "Patrick Mahomes",
+            "incorrect2": "Jalen Hurts",
+            "incorrect3": "Josh Allen",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 HIGS",
+            "question": "The Channel Islands are located off this state's southern coast. Mount Whitney, the highest peak in the contiguous US, lies in this state's portion of the Sierra Nevada. The Calaveras, Hayward, and San Andreas faults run along this state's Pacific coast. Name this state, the home of the San Francisco 49ers and Sacramento Kings.",
+            "answers": ["California"],
+            "incorrect1": "Texas",
+            "incorrect2": "Florida",
+            "incorrect3": "New York",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This television series, set in a fictional Yorkshire country estate, follows the lives of the aristocratic Crawley family and their servants in the post-Edwardian era. The show's creator, Julian Fellowes, is also known for writing the screenplay for the Oscar-winning film \"Gosford Park.\"  Its storylines explore themes of social change, class conflict, and the impact of historical events like World War I and the sinking of the Titanic.  What is the name of this popular historical drama, which has garnered numerous awards and critical acclaim?",
+            "answers": ["Downton Abbey"],
+            "incorrect1": "Upstairs, Downstairs",
+            "incorrect2": "The Crown",
+            "incorrect3": "Bridgerton",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2016 SAGES",
+            "question": "These natural events occur most intensely at a place just above the focus called the epicenter. Seismologists study these events. They occur when tectonic plates slide against each other in boundaries called faults. Name these natural disasters which cause the ground to shake.",
+            "answers": ["earthquakes"],
+            "incorrect1": "volcanoes",
+            "incorrect2": "tsunamis",
+            "incorrect3": "hurricanes",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2016 SAGES",
+            "question": "Thomas Jefferson expected this mission to uncover a mountain of salt and wooly mammoths. This mission was trying to find a way to travel from the Missouri River to the Pacific Ocean. Name this mission, named after its two leaders who traveled with an Indian guide named Sacagawea.",
+            "answers": ["Lewis and Clark Expedition"],
+            "incorrect1": "Pony Express",
+            "incorrect2": "Oregon Trail",
+            "incorrect3": "California Gold Rush",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "During this dynasty, the encyclopedia Siku Quanshu was compiled. This dynasty saw a failed hundred-day reform movement led by Emperor Guangxu, who was placed under house arrest. The Xinhai Revolution ended this dynasty that was weakened by a long reign of the ultra-conservative Dowager Emperor Cixi. This dynasty once faced the White Lotus Rebellion as well as another rebellion led by one who claimed to be the brother of Jesus, the Taiping Rebellion. Identify this Chinese dynasty that was succeeded by Sun Yat-sen's Republic of China in 1911.",
+            "answers": ["Qing Dynasty", "Manchu Dynasty", "Qingchao"],
+            "incorrect1": "Ming Dynasty",
+            "incorrect2": "Yuan Dynasty",
+            "incorrect3": "Song Dynasty",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "This country's city of Manaus is located at the confluence of the Solimoes [sue-lee-moish] and Negro [nay-grow] rivers. Its capital city was designed by Lucio Costa and Oscar Niemeyer. One city in this nation is home to the statue of Christ the Redeemer. This largest Portuguese-speaking country is home to the mouth of the world's second longest river. Name this largest country in South America that is home to Rio de Janeiro.",
+            "answers": ["Brazil", "Brasil", "Federative Republic of Brazil"],
+            "incorrect1": "Argentina",
+            "incorrect2": "Mexico",
+            "incorrect3": "Colombia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This holiday has a name derived from a Swahili phrase meaning \"first fruits.\" The Kinara, a seven-branched candle holder, is a central symbol of the holiday, with each candle representing a different principle. It is observed from December 26th to January 1st, with each of the seven days dedicated to one of seven principles known as the Nguzo Saba. What is this holiday, celebrated by many African Americans as a time for reflection, community, and cultural affirmation?",
+            "answers": ["Kwanzaa", "quanza"],
+            "incorrect1": "Hanukkah",
+            "incorrect2": "Diwali",
+            "incorrect3": "Ramadan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "Amazonstone and cleavelandite are members of this group of minerals. Samples of it which show a high opalescence are traded as moonstone, and some with a yellow or orange tint are sold as sunstone. The plagioclase and alkali forms of this mineral are prevalent in granite. Made of aluminum, silicon, and either calcium, sodium, or potassium name this mineral, number 6 on the Mohs scale of hardness.",
+            "answers": ["feldspar"],
+            "incorrect1": "quartz",
+            "incorrect2": "mica",
+            "incorrect3": "pyrite",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "She was given nearly dictatorial powers during the Indian Emergency, a two-year period which saw her suspend nearly all civil liberties. However, she was widely praised for holding fair elections after the end of the emergency, which saw her Congress Party swept from power in the Lok Sabha. She later initiated Operation Blue Star, the infamous raid on the Sikh Golden Temple in Amritsar, which led to her assassination by her own bodyguards and subsequent anti-Sikh rioting. For 10 Points, name this fourth prime minister of India who, despite her name, is not related to Mahatma.",
+            "answers": ["Indira Gandhi"],
+            "incorrect1": "Golda Meir",
+            "incorrect2": "Margaret Thatcher",
+            "incorrect3": "Benazir Bhutto",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This golfer, whose career has been marked by both incredible triumphs and personal struggles, made a remarkable comeback in 2019 by winning the Masters Tournament, his first major championship victory in 11 years.  He famously won the 1997 Masters by a record 12 strokes, becoming the youngest champion at age 21.  He has won 15 major championships, second only to Jack Nicklaus.  He is also known for holding all four major titles simultaneously in 2000-2001.  Who is this iconic golfer, widely considered one of the greatest of all time?",
+            "answers": ["Tiger Woods"],
+            "incorrect1": "Jack Nicklaus",
+            "incorrect2": "Arnold Palmer",
+            "incorrect3": "Phil Mickelson",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2021 CERES",
+            "question": "Protesters chanted \"the whole world is watching\" at this city's police during the 1968 Democratic National Convention. In this city, members of Bugs Moran's gang were killed in the St. Valentine's Day Massacre. Supposedly, Mrs. O'Leary's cow kicked over a lantern to begin an 1871 fire in this city. This city was home to notorious gangster Al Capone. Name this largest city in Illinois.",
+            "answers": ["Chicago", "Chicago, Illinois"],
+            "incorrect1": "New York City",
+            "incorrect2": "Los Angeles",
+            "incorrect3": "Houston",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2018 SCOP Novice 9",
+            "question": "The protagonist of this novel secretly reads The Theory and Practice of Oligarchical Collectivism in a room above Mr Charrington's shop while on break from the Ministry of Truth. In this novel, citizens of Airstrip One who do not conform to the ideology of The Party are sent to Room 101 to be subjected to their worst fear. In this novel, Winston Smith is eventually arrested for thoughtcrime against Big Brother. Name this dystopian novel, set in the title year, written by George Orwell.",
+            "answers": ["Nineteen Eighty-Four", "1984"],
+            "incorrect1": "Brave New World",
+            "incorrect2": "Fahrenheit 451",
+            "incorrect3": "The Handmaid's Tale",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This band's 1987 album, *Document*, featuring the hit song \"The One I Love,\" was their first to achieve platinum status, marking a turning point in their career. Their music videos, often featuring surreal imagery and cryptic symbolism, were directed by filmmaker Tarsem Singh, known for his visually striking style. Their early jangle-pop sound, influenced by bands like The Byrds and The Velvet Underground, helped define the alternative rock scene of the 1980s. What is the name of this influential Athens, Georgia band, whose lineup consisted of Michael Stipe, Peter Buck, Mike Mills, and Bill Berry?",
+            "answers": ["R.E.M."],
+            "incorrect1": "U2",
+            "incorrect2": "The Smiths",
+            "incorrect3": "Nirvana",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
     ]
 ]
