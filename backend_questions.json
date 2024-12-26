@@ -21208,7 +21208,7 @@
             "category": "Science",
             "source": "2013 Fall Kickoff Tournament (FKT)",
             "question": "For any integer N, the sum of all numbers having this property from 1 to N must be a perfect square. It has been proven that for all numbers less than ten to the three hundredth power, there are no perfect numbers with this property. The tangent and sine functions both have this property, which applies to any function for which f of x plus f of negative x equals zero, and is therefore symmetric about the origin. Every binary number with this property must end in 1, and all prime numbers but the smallest have this property. Identify this class of numbers, which leave a remainder when divided by two.",
-            "answers": ["odd numbers"],
+            "answers": ["odd numbers", "odds"],
             "incorrect1": "even numbers",
             "incorrect2": "prime numbers",
             "incorrect3": "natural numbers",
@@ -21274,8 +21274,8 @@
         {
             "category": "World History",
             "source": "2010 Fall Kickoff Tournament (FKT)",
-            "question": "The Tacuara was a right-wing group that attacked in this country during the presidency of Arturo Frondozi. The Revolucion Libertadora ended the rule of one man in this country. The Dirty War in this nation followed a coup that overthrew Isabel Peron and set forth a junta that failed to take the Falkland Islands from Great Britain. The largest country created out of the Viceroyalty of the Rio de la Plata, its independence was won through victories by Jose de San Martin. Name this country, currently led by Cristina Kirchner, whose presidents rule from Buenos Aires.",
-            "answers": ["Republic of Argentina", "Argentina"],
+            "question": "The Tacuara was a right-wing group that attacked in this country during the presidency of Arturo Frondozi. The Revolucion Libertadora ended the rule of one man in this country. The Dirty War in this nation followed a coup that overthrew Isabel Peron and set forth a junta that failed to take the Falkland Islands from Great Britain. The largest country created out of the Viceroyalty of the Rio de la Plata, its independence was won through victories by Jose de San Martin. Name this country, currently led by Javier Milei, whose presidents rule from Buenos Aires.",
+            "answers": ["Argentina", "Republic of Argentina"],
             "incorrect1": "Republic of Chile",
             "incorrect2": "Federative Republic of Brazil",
             "incorrect3": "Republic of Peru",
@@ -21343,7 +21343,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This politician fell and broke her hip while travelling with a congressional delegation in Luxembourg. She was born and raised in Baltimore, and is the daughter of mayor and congressman Thomas D'Alesandro Jr. She served as the speaker of the house from 2007 to 2011 and again from 2019 to 2023. She was the first woman elected as U.S. House Speaker and the first woman to lead a major political party in either chamber of Congress, leading the House Democrats from 2003 to 2023. Name this congresswoman who represent San Francisco.",
+            "question": "This politician fell and broke her hip while travelling with a congressional delegation in Luxembourg. She was born and raised in Baltimore, and is the daughter of mayor and congressman Thomas D'Alesandro Jr. She served as the speaker of the house from 2007 to 2011 and again from 2019 to 2023. She was the first woman elected as U.S. House Speaker and the first woman to lead a major political party in either chamber of Congress, leading the House Democrats from 2003 to 2023. Name this congresswoman who represents San Francisco.",
             "answers": ["Nancy Pelosi"],
             "incorrect1": "Hilary Clinton",
             "incorrect2": "Kamala Harris",
