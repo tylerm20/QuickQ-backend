@@ -21524,7 +21524,7 @@
         {
             "category": "Geography",
             "source": "2013 Collaborative Middle School Tournament #4",
-            "question": "This country's city of Manaus is located at the confluence of the Solimoes [sue-lee-moish] and Negro [nay-grow] rivers. Its capital city was designed by Lucio Costa and Oscar Niemeyer. One city in this nation is home to the statue of Christ the Redeemer. This largest Portuguese-speaking country is home to the mouth of the world's second longest river. Name this largest country in South America that is home to Rio de Janeiro.",
+            "question": "This country's city of Manaus is located at the confluence of the Solimoes and Negro rivers. Its capital city was designed by Lucio Costa and Oscar Niemeyer. One city in this nation is home to the statue of Christ the Redeemer. This largest Portuguese-speaking country is home to the mouth of the world's second longest river. Name this largest country in South America that is home to Rio de Janeiro.",
             "answers": ["Brazil", "Brasil", "Federative Republic of Brazil"],
             "incorrect1": "Argentina",
             "incorrect2": "Mexico",
@@ -21554,7 +21554,7 @@
         {
             "category": "World History",
             "source": "2009 Fall Kickoff Tournament (FKT)",
-            "question": "She was given nearly dictatorial powers during the Indian Emergency, a two-year period which saw her suspend nearly all civil liberties. However, she was widely praised for holding fair elections after the end of the emergency, which saw her Congress Party swept from power in the Lok Sabha. She later initiated Operation Blue Star, the infamous raid on the Sikh Golden Temple in Amritsar, which led to her assassination by her own bodyguards and subsequent anti-Sikh rioting. For 10 Points, name this fourth prime minister of India who, despite her name, is not related to Mahatma.",
+            "question": "She was given nearly dictatorial powers during the Indian Emergency, a two-year period which saw her suspend nearly all civil liberties. However, she was widely praised for holding fair elections after the end of the emergency, which saw her Congress Party swept from power in the Lok Sabha. She later initiated Operation Blue Star, the infamous raid on the Sikh Golden Temple in Amritsar, which led to her assassination by her own bodyguards and subsequent anti-Sikh rioting. Name this fourth prime minister of India who, despite her name, is not related to Mahatma.",
             "answers": ["Indira Gandhi"],
             "incorrect1": "Golda Meir",
             "incorrect2": "Margaret Thatcher",
@@ -21593,13 +21593,598 @@
         },
         {
             "category": "Entertainment",
-            "question": "This band's 1987 album, *Document*, featuring the hit song \"The One I Love,\" was their first to achieve platinum status, marking a turning point in their career. Their music videos, often featuring surreal imagery and cryptic symbolism, were directed by filmmaker Tarsem Singh, known for his visually striking style. Their early jangle-pop sound, influenced by bands like The Byrds and The Velvet Underground, helped define the alternative rock scene of the 1980s. What is the name of this influential Athens, Georgia band, whose lineup consisted of Michael Stipe, Peter Buck, Mike Mills, and Bill Berry?",
+            "question": "This band's 1987 album, Document, featuring the hit song \"The One I Love,\" was their first to achieve platinum status, marking a turning point in their career. Their music videos, often featuring surreal imagery and cryptic symbolism, were directed by filmmaker Tarsem Singh, known for his visually striking style. Their early jangle-pop sound, influenced by bands like The Byrds and The Velvet Underground, helped define the alternative rock scene of the 1980s. What is the name of this influential Athens, Georgia band, whose lineup consisted of Michael Stipe, Peter Buck, Mike Mills, and Bill Berry?",
             "answers": ["R.E.M."],
             "incorrect1": "U2",
             "incorrect2": "The Smiths",
             "incorrect3": "Nirvana",
             "used": "TRUE",
             "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This baseball legend passed away on December 20, 2024. He holds the Major League record for most career stolen bases, with an impressive 1,406 steals. He was a key member of the Oakland Athletics' 1989 World Series championship team, earning the World Series MVP award. He famously referred to himself in the third person, with quotes like \"Rickey's the best!\" becoming part of his charismatic persona. He also holds the record for most career runs scored, with 2,295 runs. Who is this Hall of Fame outfielder, often considered the greatest leadoff hitter of all time?",
+            "answers": ["Rickey Henderson"],
+            "incorrect1": "Barry Bonds",
+            "incorrect2": "Ty Cobb",
+            "incorrect3": "Lou Brock",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This video game, set in the American West in 1911, follows the story of John Marston, a former outlaw forced to hunt down his old gang members to protect his family.  The game's open world environment allows players to explore vast landscapes, from snow-capped mountains to arid deserts, encountering wildlife and engaging in various activities like hunting, gambling, and bounty hunting.  Its sequel, released in 2018, delves into the gang's backstory and features a new protagonist, Arthur Morgan.  What is the name of this critically acclaimed Western-themed action-adventure game developed by Rockstar Games?",
+            "answers": ["Red Dead Redemption"],
+            "incorrect1": "Grand Theft Auto",
+            "incorrect2": "The Legend of Zelda",
+            "incorrect3": "Call of Duty",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "Matthew, Chapter 28 notes that Jesus commanded his followers to \"go therefore and make disciples of all nations\" by performing this action. Seventh-day Adventists reserve this practice for adults, though in most Christian denominations it is primarily for infants. Identify this Christian initiation sacrament in which participants are sprinkled with or immersed in water.",
+            "answers": ["baptism", "baptize"],
+            "incorrect1": "confirmation",
+            "incorrect2": "eucharist",
+            "incorrect3": "matrimony",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2016 SAGES",
+            "question": "This is the name of a river that flows from Pittsburgh to Illinois, passing by Louisville, Kentucky. It is also the name of a state that borders Lake Erie and contains the cities of Akron and Dayton. Give this name shared by a major American river and the state containing Cleveland.",
+            "answers": ["Ohio"],
+            "incorrect1": "Iowa",
+            "incorrect2": "Indiana",
+            "incorrect3": "Illinois",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2010 SCOP Novice",
+            "question": "This modern nation was the former site of the Etruscan civilization. Home to the 1860 Expedition of the Thousand and the 1823 Piedmont uprising, the coal burners influenced the Risorgimento process of this modern country, and Victor Emmanuel II was its first unified king. After being exiled to South America, one leader from this nation organized the Redshirts. Home to revolutionary Giuseppe Garibaldi, name this country, led in World War II by the fascist Blackshirts of Benito Mussolini.",
+            "answers": ["Italy", "Italian Republic"],
+            "incorrect1": "Spain",
+            "incorrect2": "Greece",
+            "incorrect3": "France",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Some delivery drivers for this company went on strike from December 20-24, 2024 at the peak of Christmas package season. The drivers were part of the Teamsters union which only represents a small fraction of the company's more than 70,000 employees. This company's logo features an arrow pointing from A to Z, symbolizing its vast selection and its goal to deliver everything to everyone. Its founder initially envisioned the company as an online bookstore named Cadabra. Its headquarters, located in Seattle, Washington, features unique biodome spheres that house thousands of plants from around the world. It has expanded beyond e-commerce to become a major player in cloud computing, artificial intelligence, and entertainment. What is the name of this multinational technology company founded by Jeff Bezos?",
+            "answers": ["Amazon"],
+            "incorrect1": "eBay",
+            "incorrect2": "Walmart",
+            "incorrect3": "Target",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2020 SCOP A",
+            "question": "Hellworth and McClung produced a \"pulsed\" one of these devices using Q-switching. One of these devices nicknamed Shiva, was fitted with neodymium glass and failed to ignite its target reaction even with twenty beamlines. The \"fiber\" ones of these devices use total internal reflection to transmit a coherent photon stream produced by the stimulated emission of radiation. Name these devices that produce a colored beam of light.",
+            "answers": [
+                "LASER",
+                "light amplification by stimulated emission of radiation"
+            ],
+            "incorrect1": "RADAR",
+            "incorrect2": "SONAR",
+            "incorrect3": "microwave",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 MAKEMAKE",
+            "question": "This country considered giving the mountain Halti to a neighbor to celebrate that neighbor's 100th birthday. This country's capital was named Christiania until merging with another village in 1925. A museum in this country is dedicated to painter Edvard Munch. This country's west coast, on the Atlantic ocean, is famous for its fjords. Name this Scandinavian country whose capital city is Oslo.",
+            "answers": ["Norway", "Kingdom of Norway", "Kongeriket Norge"],
+            "incorrect1": "Sweden",
+            "incorrect2": "Finland",
+            "incorrect3": "Denmark",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This American sportscaster recently passed away at age 78. The first African-American to host a major network's coverage of a Super Bowl, he has been a prominent voice in sports broadcasting for over four decades. He has covered a wide range of events, including the NCAA Men's Basketball Tournament, the NBA Finals, and the Olympic Games. He is known for his smooth delivery, insightful commentary, and professionalism. He is the older brother of another renowned broadcaster, Bryant Gumbel, who hosted NBC's \"Today\" show for many years. Who is this respected sportscaster?",
+            "answers": ["Greg Gumbel"],
+            "incorrect1": "Bryant Gumbel",
+            "incorrect2": "Al Michaels",
+            "incorrect3": "Joe Buck",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "Fry's Island and Canvey Island lie within this river with tributaries that include the Churn, Leach, Cole, Ray, and Windrush Rivers. T.S. Eliot makes many references to this river in part three of The Wasteland, and artists including Canaletto, Monet, Whistler, and JMW Turner have all based major works on this river. Ending after Teddington Lock near the lighthouse at Nore is what river that empties into the North Sea and flows through central London?",
+            "answers": ["River Thames"],
+            "incorrect1": "River Seine",
+            "incorrect2": "River Nile",
+            "incorrect3": "River Amazon",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2020 SCOP A",
+            "question": "This woman was held against her will at Henricus after being captured by Samuel Argall. After studying under Alexander Whitaker, this woman converted to Christianity, took the name Rebecca, and ultimately died while visiting England with her husband, John Rolfe. This woman allegedly stopped her father from beating a Jamestown colonist to death. Name this daughter of Powhatan who legendarily saved the life of John Smith.",
+            "answers": ["Pocahontas", "Matoaka", "Amonute", "Rebecca Rolfe"],
+            "incorrect1": "Sacajawea",
+            "incorrect2": "La Malinche",
+            "incorrect3": "Moana",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2020 MOQBA Novice",
+            "question": "An inadequate amount of this substance is produced by the body in thalassemia. A variant of this substance is responsible for providing a certain gas to nitrogen-fixing bacteria and is prefixed with \"leg-.\" A waste product resulting from the breakdown of this substance gives the skin its yellow color in jaundice and is called bilirubin. Carbon monoxide poisoning occurs because this protein binds to carbon monoxide much more tightly than to its target. This iron-containing protein is found in red blood cells. Name this protein that transports oxygen from the lungs to body tissues.",
+            "answers": ["hemoglobin", "leghemoglobin"],
+            "incorrect1": "chlorophyll",
+            "incorrect2": "myoglobin",
+            "incorrect3": "insulin",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2017 Darien DEFT",
+            "question": "This leader has a halo, crown, and purple robe in a namesake \"mosaic\" in Ravenna's Church of San Vitale. One of this leader's generals defeated the Vandals at Ad Decimum and Tricamarum and fought Khosrau I of the Sassanid Empire. The blues and the greens fought over a chariot race during this emperor's reign, which saw the creation of the Corpus Juris Civilis. Belisarius captured Rome and put down the Nika riots for this husband of Theodora, who ordered the construction of the Hagia Sophia. Name this \"great\" Byzantine emperor.",
+            "answers": ["Justinian I", "Justinian the Great"],
+            "incorrect1": "Constantine the Great",
+            "incorrect2": "Theodosius I",
+            "incorrect3": "Heraclius",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This North American chain of stores announced in December 2024 it will close all of its 800+ locations. This company, known for its vast assortment of party supplies and costumes, filed for bankruptcy in January 2023, facing challenges from online retailers and shifting consumer trends. Its iconic retail stores, often adorned with colorful balloons and festive decorations, have been a staple for party planners and last-minute shoppers. Name this company that is the largest retailer of party goods in Canada, Puerto Rico, and Mexico.",
+            "answers": ["Party City"],
+            "incorrect1": "Spirit Halloween",
+            "incorrect2": "Walmart",
+            "incorrect3": "Target",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2016 Pennsylvania Novice",
+            "question": "This language was used to chronicle the journeys of two giants who traveled the world, Gargantua and Pantagruel. One work in this language that calls boredom the \"worst of miseries\" and contains allegedly obscene symbolist poetry has a title that translates as The Flowers of Evil. Medieval songs in an earlier form of this language were sung by Occitan troubadours and included the story of wars against the Moors by Paladins in The Song of Roland . Name this language in which Charles Baudelaire wrote Les Fleurs du Mal .",
+            "answers": ["French"],
+            "incorrect1": "Spanish",
+            "incorrect2": "Italian",
+            "incorrect3": "German",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film, set in a dystopian future Britain ruled by a totalitarian regime, features a masked vigilante who blows up the Houses of Parliament on November 5th, a date commemorating the historical Gunpowder Plot. The film's protagonist played by Hugo Weaving, is a skilled swordsman and master of disguise who seeks to overthrow the oppressive government. The film's iconic Guy Fawkes mask, worn by V, has become a symbol of rebellion and anti-establishment movements worldwide. What is the title of this 2005 film, based on the graphic novel by Alan Moore and David Lloyd?",
+            "answers": ["V for Vendetta"],
+            "incorrect1": "The Matrix",
+            "incorrect2": "Fight Club",
+            "incorrect3": "1984",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2022 SCOP MS 11",
+            "question": "This Greek god comforted Ariadne after Theseus abandoned her. This god took mercy on Tyrrhenian pirates who had kidnapped him by turning them into dolphins so they would not drown. This god inspired his followers, the Maenads, to murder Orpheus, and carried a staff topped by a pinecone called the Thyrsus. Name this \"twice-born\" Greek god, who was born from the thigh of Zeus, and who governed vineyards and wine.",
+            "answers": ["Dionysus", "Bacchus"],
+            "incorrect1": "Zeus",
+            "incorrect2": "Apollo",
+            "incorrect3": "Hades",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "US workers at this coffee chain ended a five-day strike on Christmas Day 2024. The company's origins trace back to 1971, when it was founded in Seattle's Pike Place Market, selling coffee beans and brewing equipment. It has since expanded to over 33,000 stores in 80 countries, becoming a global coffeehouse giant. This company, whose logo features a siren from Greek mythology, introduced the Frappuccino, a blended iced coffee drink, in 1995, and it quickly became a signature offering and cultural phenomenon. Name this worldwide coffee chain.",
+            "answers": ["Starbucks"],
+            "incorrect1": "Dunkin'",
+            "incorrect2": "McDonald's",
+            "incorrect3": "Tim Hortons",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "During this man's tenure as Secretary of War under James Monroe he called for the censure and trial of Andrew Jackson due to his capture of Spanish Florida. Due to this man's longetivity and ability as a Senator, he was identified as a member of the \"Great Triumvirate\" of Congressional leaders along with Henry Clay and Daniel Webster. In his essay \"South Carolina Exposition and Protest,\" he outlined the doctrine of nullification and approved of its usage by states. Name this long time Senator from South Carolina who resigned the Vice Presidency due to his disagreement with President Jackson over the \"Tariff of Abominations.\"",
+            "answers": ["John C. Calhoun", "John Calhoun"],
+            "incorrect1": "Henry Clay",
+            "incorrect2": "Daniel Webster",
+            "incorrect3": "John Quincy Adams",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2013 SCOP Novice 4",
+            "question": "One speech given in this city notes that \"two thousand years ago, the proudest boast was 'civis Romanus sum'\" and claims \"all free men ... are citizens of\" this city. Another speech given here asks a world leader \"if you seek peace...if you seek liberalization: come here to this gate!\" John F. Kennedy said \"Ich bin\" a member of this city, and Ronald Reagan said \"Mr. Gorbachev, tear down this wall!\" in what capital of Germany?",
+            "answers": ["Berlin", "West Berlin"],
+            "incorrect1": "Munich",
+            "incorrect2": "Hamburg",
+            "incorrect3": "Frankfurt",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "This river was known in ancient times as the \"Black\" River due to the black silt it deposited during floods. Lake Tana is one source of this river; John Speke discovered that the other was Lake Victoria. It forms from the confluence of namesake Blue and White Rivers near Khartoum. Aswan High Dam is on what longest river in the world?",
+            "answers": ["Nile River"],
+            "incorrect1": "Amazon River",
+            "incorrect2": "Mississippi River",
+            "incorrect3": "Yangtze River",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This athlete, known for his flamboyant personality and \"Prime Time\" nickname, is the only person to have played in both a Super Bowl and a World Series. He was a two-sport star, excelling in both football and baseball, playing for teams like the Atlanta Falcons, San Francisco 49ers, and Atlanta Braves. He was renowned for his exceptional speed, agility, and coverage skills as a cornerback and kick returner. He is also known for his high-stepping touchdown celebrations and his distinctive \"Prime Time\" dance. Who is this Hall of Fame athlete, who now serves as the football coach at Colorado University?",
+            "answers": ["Deion Sanders"],
+            "incorrect1": "Jerry Rice",
+            "incorrect2": "Bo Jackson",
+            "incorrect3": "Michael Jordan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This franchise's iconic mascot, Pikachu, an electric mouse known for its lightning bolt-shaped tail, has become a global phenomenon, appearing in countless merchandise and spin-offs. Its first video game installments, Red and Green, were released in Japan in 1996 for the Game Boy, introducing the core gameplay mechanics of catching, training, and battling. The franchise has expanded to include a popular anime series, trading cards, toys, and numerous other products. What is the name of this multimedia franchise, centered around fictional creatures with unique abilities and elemental powers?",
+            "answers": ["Pok\u00e9mon", "Pokemon"],
+            "incorrect1": "Digimon",
+            "incorrect2": "Yu-Gi-Oh!",
+            "incorrect3": "Magic: The Gathering",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2021 CERES",
+            "question": "Along with Venus, this is the only other planet in our Solar System to have a retrograde orbit, and its rotational axis is almost sideways compared to its orbit. This planet is the coldest in the solar system, earning it the description \"ice giant\" along with Neptune, which is further from the Sun. What planet is seventh from the Sun?",
+            "answers": ["Uranus"],
+            "incorrect1": "Neptune",
+            "incorrect2": "Saturn",
+            "incorrect3": "Jupiter",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2020 MOQBA Novice",
+            "question": "A holder of this position quipped \"just watch me\" after invoking the War Measures Act to stop the breakaway of a secessionist region in the October Crisis. Lester B. Pearson served in this office after winning a Nobel Peace Prize for resolving the Suez Crisis. The first holder of this office was forced to resign after it was exposed he had taken bribes over the choice route for a transcontinental railroad. That man was John A. MacDonald. Name this position held by Pierre Trudeau, as well as his son, Justin, the head of government of a nation to the north of the U.S.",
+            "answers": [
+                "prime minister of Canada",
+                "PM of Canada",
+                "Canadian Prime Minister"
+            ],
+            "incorrect1": "president of the United States",
+            "incorrect2": "king of England",
+            "incorrect3": "president of Mexico",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 HIGS",
+            "question": "This god created humans after descending into the Underworld and piercing his own skin until heavy volumes of blood flowed out. He often feuded with a brother nicknamed \"Smoking Mirror\", who was often depicted as a jaguar. This deity was often depicted as a feathered serpent and was the patron of maize growing. Hernan Cortes was mistaken for this god by a Mesoamerican civilization. Name this chief god of the Aztecs.",
+            "answers": ["Quetzalcoatl"],
+            "incorrect1": "Huitzilopochtli",
+            "incorrect2": "Tezcatlipoca",
+            "incorrect3": "Kukulkan",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2019 SCOP Novice 10",
+            "question": "This state's city of Beaumont near Port Arthur is home to Spindletop, the site of a 1901 discovery that triggered an economic boom. Geologists in this state have a hard time studying its Barnett Shale, a formation with massive natural gas reserves, because it lies underneath a sprawling metroplex that includes Plano and Fort Worth. Name this southern US state where the oil industry grew the cities of Dallas and Houston.",
+            "answers": ["Texas"],
+            "incorrect1": "California",
+            "incorrect2": "Florida",
+            "incorrect3": "Alaska",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This epic fantasy trilogy's fictional language, Quenya, was created by their author, a philologist and professor of Anglo-Saxon. The One Ring, an artifact of immense power, bears the inscription of Black Speech that translates to \"One ring to rule them all, one ring to find them, one ring to bring them all and in the darkness bind them.\" The story follows the hobbit Frodo Baggins on his quest to destroy the One Ring, an artifact of immense power coveted by the Dark Lord Sauron. What is the title of this fantasy epic, which has been adapted into award-winning films directed by Peter Jackson?",
+            "answers": ["Lord of the Rings"],
+            "incorrect1": "The Hobbit",
+            "incorrect2": "Game of Thrones",
+            "incorrect3": "Harry Potter",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This former NFL quarterback was recently hired to be the head coach of Norfolk State's football team. He was the first quarterback in NFL history to rush for over 1,000 yards in a single season, achieving this feat in 2006. He was drafted first overall by the Atlanta Falcons in the 2001 NFL Draft, and quickly became a sensation with his highlight-reel plays and exciting style of play. However, his career was marred by controversy when he was convicted of dogfighting charges in 2007, serving 21 months in prison. He later returned to the NFL, playing for the Philadelphia Eagles, New York Jets, and Pittsburgh Steelers. Who is this quarterback, whose career was marked by both incredible talent and controversy?",
+            "answers": ["Michael Vick"],
+            "incorrect1": "Tom Brady",
+            "incorrect2": "Peyton Manning",
+            "incorrect3": "Donovan McNabb",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "An Azerbaijan Airlines flight recently crashed in this country, killing 38 people on December 25, 2024. Azerbaijan has since claimed the plane was shot down by Russian air defense systems. This country, the largest landlocked country in the world, is home to the Baikonur Cosmodrome, the world's first and largest operational space launch facility. Its capital city, Astana, boasts futuristic architecture, including the Baiterek Tower, a 97-meter-tall observation tower with a golden orb symbolizing a mythical bird's egg. It is also the world's largest producer of uranium and a significant exporter of oil and gas. What is this Central Asian nation, known for its vast steppes, nomadic traditions, and the hit film \"Borat\"?",
+            "answers": ["Kazakhstan"],
+            "incorrect1": "Kyrgyzstan",
+            "incorrect2": "Uzbekistan",
+            "incorrect3": "Turkmenistan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2021 SCOP B",
+            "question": "A leader of this country oversaw the first partition of Poland after the Confederation of the Bar revolted against her lover, Stanislaw Poniatowski. This country established a capital on the Neva River after seizing land from Sweden during the Great Northern War. This country was rapidly westernized under Peter I, who forced the boyars to pay a beard tax. Name this country where Catherine the Great was crowned Tsarina in Moscow.",
+            "answers": ["Russian Empire"],
+            "incorrect1": "Soviet Union",
+            "incorrect2": "Ottoman Empire",
+            "incorrect3": "British Empire",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2010 SCOP Novice",
+            "question": "This word describes a method of proof that attempts to write every number in binary, then constructs a number that cannot have been represented in that list; that argument shows that the real numbers are uncountable and was advanced by Cantor. This word also refers to square matrices whose only nonzero elements have a row number equal to their column number. For a cube of side length s, the structure by this name has a length of s root 3. Give this word that refers to line segments that connect non-adjacent vertices of a polygon.",
+            "answers": [
+                "diagonal",
+                "Cantor's diagonal argument",
+                "diagonal matrix"
+            ],
+            "incorrect1": "horizontal",
+            "incorrect2": "vertical",
+            "incorrect3": "parallel",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "This philosopher discussed a Confederacy of Deceivers in one work, causing a debate between him and John Bramhall. This man wrote a trilogy of works including De Corpore, De Homine, and De Cive. His most famous work sees him discuss three types of commonwealth and claim that \"the war of all against all\" will only be averted by strong central government; that work centers around the legitimate representative government and claim that life is \"solitary, poor, nasty, brutish, and short.\" Identify this author of Leviathan.",
+            "answers": ["Thomas Hobbes", "Malmesbury"],
+            "incorrect1": "John Locke",
+            "incorrect2": "Jean-Jacques Rousseau",
+            "incorrect3": "Immanuel Kant",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This fantasy series' protagonist, whose middle name is James, shares his birthday with his creator, July 31st.  The series' iconic villain whose name is an anagram for \"Tom Marvolo Riddle,\" fears death and seeks immortality through dark magic.  The series' magical creatures, like house-elves and hippogriffs, are inspired by folklore and mythology.  What is the name of this beloved series, which follows a young wizard's journey through Hogwarts School of Witchcraft and Wizardry?",
+            "answers": ["Harry Potter"],
+            "incorrect1": "Percy Jackson",
+            "incorrect2": "Lord of the Rings",
+            "incorrect3": "Dune",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2010 SCOP Novice",
+            "question": "The Brule River runs through the northwest of this polity, and an extremely low frequency antenna was once operational in this polity's Chequamegon Nicolet National Forest. Washington Island is separated by \"Death's Door\" from Door County in this state, whose namesake river flows through Stevens Point. The cities of Sheboygan and Kenosha lie on the shore of Lake Michigan. Name this state to the north of Illinois with capital at Madison.",
+            "answers": ["Wisconsin"],
+            "incorrect1": "Wyoming",
+            "incorrect2": "Minnesota",
+            "incorrect3": "Michigan",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This man rose to the rank of major when he retired from the army at age 22 in 1865. His election to Congress in 1876 was in part helped by Rutherford B. Hayes, and he chaired the Committee on Ways and Means from 1889 to 1891. His namesake tariff act set an average rate for imports at 48.4% and he used his advocacy of the gold standard and a brilliant advertising campaign designed by Mark Hanna to become the last Civil War veteran elected President in 1896. What president, defeated William Jennings Bryant before being assassinated by Leon Czolgosz in 1901?",
+            "answers": ["William McKinley, Jr."],
+            "incorrect1": "Theodore Roosevelt",
+            "incorrect2": "William Howard Taft",
+            "incorrect3": "Woodrow Wilson",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's iconic orange, blue, and white jerseys, a tribute to their provincial flag, have become synonymous with a dynasty that dominated the NHL in the 1980s. They have won five Stanley Cups, all between 1984 and 1990, led by Wayne Gretzky, often considered the greatest hockey player of all time.  Their current captain, Connor McDavid, is a generational talent who has already won multiple scoring titles and MVP awards.  What is the name of this team, based in Edmonton, Alberta?",
+            "answers": ["Edmonton Oilers", "Oilers"],
+            "incorrect1": "Edmonton Eskimos",
+            "incorrect2": "Calgary Flames",
+            "incorrect3": "Vancouver Canucks",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2012 SCOP Novice 3",
+            "question": "The liver converts this vitamin into calcidiol, which is then converted to calcitriol in the kidneys. Forms of this vitamin act as a hormone that regulates phosphate and calcium concentration in the body and this vitamin is produced with UV light exposure. Shortage of this vitamin causes osteomalacia in adults and rickets in children. Name this fat-soluble vitamin obtained from sunbathing or drinking milk.",
+            "answers": ["Vitamin D", "D"],
+            "incorrect1": "Vitamin C",
+            "incorrect2": "Vitamin A",
+            "incorrect3": "Vitamin E",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2014 SCOP Novice 5",
+            "question": "Philae was the center of this goddess's cult. This goddess made a snake out of earth to bite Ra, which forced Ra to give up his true name. This goddess searched for a tamarisk tree to find her dead husband after he was tricked by Set; she later reassembled thirteen pieces of that husband to make him the god of the dead. Name this Egyptian goddess, the mother of Horus and wife of Osiris.",
+            "answers": ["Isis", "Aset", "Eset", "Ese"],
+            "incorrect1": "Hathor",
+            "incorrect2": "Bastet",
+            "incorrect3": "Sekhmet",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Israel launched an attack against the Houthi rebels in this nation. This country, located on the southern tip of the Arabian Peninsula, is home to the ancient city of Sana'a, a UNESCO World Heritage Site known for its distinctive tower houses.  It is the poorest country in the Arab world, facing a devastating humanitarian crisis due to an ongoing civil war.  It is also where the \"Dragon's Blood Tree\" grows, a unique species with red sap that has been used for centuries for medicinal and dye purposes.  What is this country, known for its rich history and its ongoing conflict?",
+            "answers": ["Yemen"],
+            "incorrect1": "Oman",
+            "incorrect2": "Saudi Arabia",
+            "incorrect3": "United Arab Emirates",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2020 ERIS",
+            "question": "One symbol of a 1956 revolution in this country was its flag with a hole cut out of the middle; after that revolution failed it was led by Janos Kadar, a proponent of \"goulash communism\", named for a popular national dish. This country once formed a dual monarchy with Austria, its western neighbor. Name this country now led by Viktor Orban from Budapest.",
+            "answers": ["Hungary", "Magyarorszag"],
+            "incorrect1": "Romania",
+            "incorrect2": "Slovakia",
+            "incorrect3": "Austria",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "A Jeju Air Flight returning from Thailand recently crashed at Muan International Airport in this nation, killing 189 people. This country, known for its high-speed internet and tech-savvy population, is home to the Demilitarized Zone (DMZ), a heavily fortified border that separates it from its northern neighbor. Its capital city, Seoul, boasts a vibrant mix of modern skyscrapers and historic palaces, including the UNESCO-listed Changdeokgung Palace. It is also a global leader in the production of electronics and automobiles, with brands like Samsung and Hyundai recognized worldwide. What is this East Asian nation, known for its K-pop music, delicious kimchi, and innovative technology?",
+            "answers": ["South Korea", "Republic of Korea"],
+            "incorrect1": "North Korea",
+            "incorrect2": "Japan",
+            "incorrect3": "China",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2022 SANDS",
+            "question": "This novel and Native Son are criticized in James Baldwin's essay \"Everybody's Protest Novel.\" The protagonist of this novel saves Eva St. Clare from drowning and is sold by Arthur Shelby. The author of this novel was supposedly called \"the little woman that started this great war.\" The vicious plantation owner Simon Legree beats the title character of this novel to death. Name this anti-slavery novel by Harriet Beecher Stowe.",
+            "answers": ["Uncle Tom's Cabin"],
+            "incorrect1": "The Adventures of Huckleberry Finn",
+            "incorrect2": "Gone with the Wind",
+            "incorrect3": "To Kill a Mockingbird",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 ERIS",
+            "question": "This state's northwest is home to Shiprock, an eroded volcanic plug held sacred by the region's native population. The White Sands National Monument lies in the southern part of this state, between the cities of Alamogordo and Las Cruces. It's not Nevada, but this state's city of Roswell is associated with an alleged UFO. Name this Southwestern state whose capital is Santa Fe.",
+            "answers": ["New Mexico"],
+            "incorrect1": "Arizona",
+            "incorrect2": "Colorado",
+            "incorrect3": "Texas",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's home arena, FLA Live Arena, located in Sunrise, Florida, has witnessed memorable moments like their thrilling run to the Stanley Cup Finals in 1996, where they ultimately fell to the Colorado Avalanche. They are known for their \"Leap\" tradition, where players jump into the glass after playoff victories, celebrating with their passionate fanbase. This team won their first Stanley Cup in 2024 defeating the Edmonton Oilers. What is the name of this team, whose history includes a memorable \"rat trick\" celebration led by Scott Mellanby in 1995?",
+            "answers": ["Florida Panthers", "Panthers"],
+            "incorrect1": "Florida Marlins",
+            "incorrect2": "Tampa Bay Lightning",
+            "incorrect3": "Carolina Hurricanes",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2020 ERIS",
+            "question": "Oliver Hazard Perry won the Battle of Lake Erie during this war, and a freak tornado stopped the British army from continuing to set fire to one city during it. During an attack on Fort McHenry in this war, Francis Scott Key composed \"The Star-Spangled Banner\". Washington, DC was burned during what 19th century war between the US and Britain named for the year in which it began?",
+            "answers": ["War of 1812"],
+            "incorrect1": "American Revolutionary War",
+            "incorrect2": "Mexican-American War",
+            "incorrect3": "Civil War",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2017 SCOP MS 7",
+            "question": "Sierpinski's triangle is a fractal image created by shading this diagram's even numbers. Tthe calculation \"n choose k\" will find the kth number in its nth row, and this diagram's rows list the binomial coefficients. A French mathematician names what expanding mathematical image whose first few rows are \"1\", then \"1,1\", then \"1,2,1\"?",
+            "answers": ["Pascal's triangle", "Pascal"],
+            "incorrect1": "Pythagorean theorem",
+            "incorrect2": "Fibonacci sequence",
+            "incorrect3": "Golden ratio",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This romantic comedy features a memorable scene in a crowded deli, leading to the iconic line, \"I'll have what she's having.\" The film's central question, \"Can men and women ever just be friends?\", is explored through the evolving relationship between Harry Burns and Sally Albright. The film's soundtrack, featuring classic jazz standards by Harry Connick Jr., adds to its romantic and nostalgic atmosphere. What is the title of this 1989 film directed by Rob Reiner?",
+            "answers": ["When Harry Met Sally"],
+            "incorrect1": "Sleepless in Seattle",
+            "incorrect2": "You've Got Mail",
+            "incorrect3": "Pretty Woman",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "William Henry Harrison appointed Lancaster, Ohio native Thomas Ewing Jr. to this position, which was held by Roger B. Taney prior to becoming Supreme Court Chief Justice. The most famous man to hold this position was succeeded by Oliver Wolcott Jr., and it has been held by men such as Albert Gallatin, Levi Woodbury, and Andrew Mellon. The first man to hold it wrote the majority of the Federalist Papers and died following a duel with Aaron Burr. Identify this Cabinet position first held by Alexander Hamilton.",
+            "answers": ["Secretary of the Treasury"],
+            "incorrect1": "Secretary of State",
+            "incorrect2": "Secretary of Defense",
+            "incorrect3": "Attorney General",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2014 SCOP Novice 5",
+            "question": "This city is home to the Tsing Ma Bridge, and more than 100,000 people live on its Lantau Island. This city, south of Shenzhen on the Kowloon Peninsula, was ceded to Britain in the Treaty of Nanking. This large city on the Pearl River Delta lies east of Macau, a \"Special Administrative Region\" like this city. Name this city, which has existed as \"one country with two systems\" since it was transferred to Chinese ownership in 1997.",
+            "answers": ["Hong Kong"],
+            "incorrect1": "Shanghai",
+            "incorrect2": "Macau",
+            "incorrect3": "Singapore",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "Construction began in 312 BC, when the Roman army was being soundly defeated by the Samnites during the Second Samnite War. Named after a Roman censor who was noted for his public works projects, it was built with a swell in the middle to allow water to run off the sides, and it had ditches on both sides to collect the water. The emperor Trajan would later build the Via Traiana in order to reach by a shorter route. Identify this \"queen of the long roads\" leading to from the Roman coliseum.",
+            "answers": ["Appian Way", "Via Appia"],
+            "incorrect1": "Silk Road",
+            "incorrect2": "Oregon Trail",
+            "incorrect3": "Route 66",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This classic Thanksgiving comedy features a memorable scene where the two main characters, stuck sharing a cramped motel room with only one double bed, end up sleeping head-to-toe in an awkward embrace. The film's mismatched duo, Neal Page, a high-strung businessman, and Del Griffith, a boisterous shower curtain ring salesman, endure a series of misadventures as they try to get home for the holiday.  Their disastrous journey involves a rental car that catches fire, a stolen car that gets towed, and a train ride with uncomfortable seating arrangements. What is the title of this 1987 film directed by John Hughes?",
+            "answers": ["Planes, Trains and Automobiles"],
+            "incorrect1": "National Lampoon's Vacation",
+            "incorrect2": "Home Alone",
+            "incorrect3": "The Hangover",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This footballer, known for his signature \"meditation\" goal celebration, where he kneels and touches his forehead to the ground, became Liverpool's all-time leading Premier League goal scorer in 2023, surpassing Robbie Fowler's record.  He has won the Premier League Golden Boot award, given to the league's top scorer, three times.  He played a key role in Liverpool's Champions League victory in 2019 and their Premier League title win in 2020.  Who is this Egyptian forward, known for his blistering pace and clinical finishing?",
+            "answers": ["Mohamed Salah", "Mo Salah"],
+            "incorrect1": "Cristiano Ronaldo",
+            "incorrect2": "Lionel Messi",
+            "incorrect3": "Kylian Mbappé",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "The Antennae and The Mice are interacting examples of these objects, and Seyfert's Sextet are a group of them. Tidal tails form in these objects, when one or more of them merge. Edwin Hubble classified these on a \"tuning fork diagram\", which includes the elliptical and spiral types. M31 is the Andromeda example of, and our own Milky way is another of what large collections of stars?",
+            "answers": ["galaxy", "galaxies"],
+            "incorrect1": "solar system",
+            "incorrect2": "nebula",
+            "incorrect3": "black hole",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This US president died on December 29, 2024. He was a prolific writer, setting a record for most New York Times best-selling books by a president. However, fewer books were written about him than any other modern president. He was the oldest US president in history, dying at age 100. This man negociated the Camp David Accords between Egypt and Israel. Name this politician from Plains, Georgia who lost his reelection campaign to Ronald Reagan.",
+            "answers": ["Jimmy Carter"],
+            "incorrect1": "Ronald Reagan",
+            "incorrect2": "Bill Clinton",
+            "incorrect3": "George H.W. Bush",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 SCOP Novice",
+            "question": "Upon this legendary figure's death, his crown is passed to Constantine, and he is a member of the Nine Worthies. He discovered the Questing Beast and met King Pellinore, who was pursuing it. He received a mortal wound in battle at Camlann, where he killed his nephew, Mordred, before being taken to the isle of Avalon by Morgan le Fay. That battle arose over a conflict involving this man's wife and the knight Lancelot. Name this legendary British king who inhabited Camelot and wielded Excalibur, the husband of Guinevere and friend of Merlin.",
+            "answers": ["King Arthur Pendragon", "King Arthur", "Pendragon"],
+            "incorrect1": "King Henry VIII",
+            "incorrect2": "Richard the Lionheart",
+            "incorrect3": "William the Conqueror",
+            "used": "TRUE"
         }
     ]
 ]
