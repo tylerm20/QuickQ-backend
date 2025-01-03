@@ -21803,7 +21803,7 @@
         {
             "category": "World History",
             "source": "2013 SCOP Novice 4",
-            "question": "One speech given in this city notes that \"two thousand years ago, the proudest boast was 'civis Romanus sum'\" and claims \"all free men ... are citizens of\" this city. Another speech given here asks a world leader \"if you seek peace...if you seek liberalization: come here to this gate!\" John F. Kennedy said \"Ich bin\" a member of this city, and Ronald Reagan said \"Mr. Gorbachev, tear down this wall!\" in what capital of Germany?",
+            "question": "One speech given in this city notes that \"two thousand years ago, the proudest boast was 'civis Romanus sum'\" and claims \"all free men ... are citizens of\" this city. Another speech given here asks a world leader \"if you seek peace... if you seek liberalization: come here to this gate!\" John F. Kennedy said \"Ich bin\" a member of this city, and Ronald Reagan said \"Mr. Gorbachev, tear down this wall!\" in what capital of Germany?",
             "answers": ["Berlin", "West Berlin"],
             "incorrect1": "Munich",
             "incorrect2": "Hamburg",
@@ -21832,7 +21832,7 @@
         },
         {
             "category": "Entertainment",
-            "question": "This franchise's iconic mascot, Pikachu, an electric mouse known for its lightning bolt-shaped tail, has become a global phenomenon, appearing in countless merchandise and spin-offs. Its first video game installments, Red and Green, were released in Japan in 1996 for the Game Boy, introducing the core gameplay mechanics of catching, training, and battling. The franchise has expanded to include a popular anime series, trading cards, toys, and numerous other products. What is the name of this multimedia franchise, centered around fictional creatures with unique abilities and elemental powers?",
+            "question": "This franchise's iconic mascot, an electric mouse known for its lightning bolt-shaped tail, has become a global phenomenon, appearing in countless merchandise and spin-offs. Its first video game installments, Red and Green, were released in Japan in 1996 for the Game Boy, introducing the core gameplay mechanics of catching, training, and battling. The franchise has expanded to include a popular anime series, trading cards, toys, and numerous other products. What is the name of this multimedia franchise, centered around fictional creatures with unique abilities and elemental powers?",
             "answers": ["Pok\u00e9mon", "Pokemon"],
             "incorrect1": "Digimon",
             "incorrect2": "Yu-Gi-Oh!",
@@ -21870,7 +21870,7 @@
             "category": "Arts & Literature",
             "source": "2017 HIGS",
             "question": "This god created humans after descending into the Underworld and piercing his own skin until heavy volumes of blood flowed out. He often feuded with a brother nicknamed \"Smoking Mirror\", who was often depicted as a jaguar. This deity was often depicted as a feathered serpent and was the patron of maize growing. Hernan Cortes was mistaken for this god by a Mesoamerican civilization. Name this chief god of the Aztecs.",
-            "answers": ["Quetzalcoatl"],
+            "answers": ["Quetzalcoatl", "Feathered Serpent"],
             "incorrect1": "Huitzilopochtli",
             "incorrect2": "Tezcatlipoca",
             "incorrect3": "Kukulkan",
@@ -21888,7 +21888,7 @@
         },
         {
             "category": "Entertainment",
-            "question": "This epic fantasy trilogy's fictional language, Quenya, was created by their author, a philologist and professor of Anglo-Saxon. The One Ring, an artifact of immense power, bears the inscription of Black Speech that translates to \"One ring to rule them all, one ring to find them, one ring to bring them all and in the darkness bind them.\" The story follows the hobbit Frodo Baggins on his quest to destroy the One Ring, an artifact of immense power coveted by the Dark Lord Sauron. What is the title of this fantasy epic, which has been adapted into award-winning films directed by Peter Jackson?",
+            "question": "This epic fantasy trilogy's fictional language, Quenya, was created by their author, a philologist and professor of Anglo-Saxon. An artifact of immense power in the series bears the inscription of Black Speech that translates to \"One ring to rule them all, one ring to find them, one ring to bring them all and in the darkness bind them.\" The story follows the hobbit Frodo Baggins on his quest to destroy the One Ring, an artifact of immense power coveted by the Dark Lord Sauron. What is the title of this fantasy epic, which has been adapted into award-winning films directed by Peter Jackson?",
             "answers": ["Lord of the Rings"],
             "incorrect1": "The Hobbit",
             "incorrect2": "Game of Thrones",
@@ -21898,7 +21898,7 @@
         },
         {
             "category": "Sports",
-            "question": "This former NFL quarterback was recently hired to be the head coach of Norfolk State's football team. He was the first quarterback in NFL history to rush for over 1,000 yards in a single season, achieving this feat in 2006. He was drafted first overall by the Atlanta Falcons in the 2001 NFL Draft, and quickly became a sensation with his highlight-reel plays and exciting style of play. However, his career was marred by controversy when he was convicted of dogfighting charges in 2007, serving 21 months in prison. He later returned to the NFL, playing for the Philadelphia Eagles, New York Jets, and Pittsburgh Steelers. Who is this quarterback, whose career was marked by both incredible talent and controversy?",
+            "question": "This former NFL quarterback was recently hired to be the head coach of Norfolk State's football team. He was the first quarterback in NFL history to rush for over 1,000 yards in a single season, achieving this feat in 2006. He was drafted first overall by the Atlanta Falcons in the 2001 NFL Draft. His career was marred by controversy when he was convicted of dogfighting charges in 2007, serving 21 months in prison. He later returned to the NFL, playing for the Philadelphia Eagles, New York Jets, and Pittsburgh Steelers. Who is this quarterback, whose career was marked by both incredible talent and controversy?",
             "answers": ["Michael Vick"],
             "incorrect1": "Tom Brady",
             "incorrect2": "Peyton Manning",
@@ -21920,8 +21920,8 @@
             "category": "World History",
             "source": "2021 SCOP B",
             "question": "A leader of this country oversaw the first partition of Poland after the Confederation of the Bar revolted against her lover, Stanislaw Poniatowski. This country established a capital on the Neva River after seizing land from Sweden during the Great Northern War. This country was rapidly westernized under Peter I, who forced the boyars to pay a beard tax. Name this country where Catherine the Great was crowned Tsarina in Moscow.",
-            "answers": ["Russian Empire"],
-            "incorrect1": "Soviet Union",
+            "answers": ["Russian Empire", "Russia"],
+            "incorrect1": "United States of America",
             "incorrect2": "Ottoman Empire",
             "incorrect3": "British Empire",
             "used": "TRUE"
