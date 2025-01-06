@@ -22087,7 +22087,7 @@
         {
             "category": "Science",
             "source": "2017 SCOP MS 7",
-            "question": "Sierpinski's triangle is a fractal image created by shading this diagram's even numbers. Tthe calculation \"n choose k\" will find the kth number in its nth row, and this diagram's rows list the binomial coefficients. A French mathematician names what expanding mathematical image whose first few rows are \"1\", then \"1,1\", then \"1,2,1\"?",
+            "question": "Sierpinski's triangle is a fractal image created by shading this diagram's even numbers. The calculation \"n choose k\" will find the kth number in its nth row, and this diagram's rows list the binomial coefficients. A French mathematician names what expanding mathematical image whose first few rows are \"1\", then \"1,1\", then \"1,2,1\"?",
             "answers": ["Pascal's triangle", "Pascal"],
             "incorrect1": "Pythagorean theorem",
             "incorrect2": "Fibonacci sequence",
