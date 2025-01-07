@@ -22186,5 +22186,600 @@
             "incorrect3": "William the Conqueror",
             "used": "TRUE"
         }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "This politician was recently relected as speaker of the US House of Representatives. He was elected for the second time to server as speaker of the House after two Republicans changed their votes on the second ballot. He was born in Shreveport, Louisiana and served as a lawyer for a Christian advocacy group before being elected to the House of Representatives in 2016. Name this congressman from Louisiana who succeeded Mike McCarthy as speaker of the House.",
+            "answers": ["Mike Johnson"],
+            "incorrect1": "Nancy Pelosi",
+            "incorrect2": "Mitch McConnell",
+            "incorrect3": "John Thune",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2016 SAGES",
+            "question": "This state's \"six flags\" include those of Spain and France. One of the worst disasters in U.S. history was the Galveston hurricane that hit this state in 1900. Stephen F. Austin was an early settler in this state. Name this state that George W. Bush was governor of before becoming president.",
+            "answers": ["Texas"],
+            "incorrect1": "California",
+            "incorrect2": "Florida",
+            "incorrect3": "Alaska",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2009 Fall Novice Tournament",
+            "question": "In one work by this author, Harry dies of gangrene in Africa. In addition to \"The Snows of Kilimanjaro,\" this man wrote a novel in which Robert Cohn beats up Pedro Romero over Lady Brett Ashley, who is also loved by Jake Barnes. In one short story, Manolin comforts an aged fisherman after sharks eat that fisherman's huge marlin. Name this creator of Santiago and author of The Sun Also Rises and \"The Old Man and the Sea.\"",
+            "answers": ["Ernest Hemingway"],
+            "incorrect1": "F. Scott Fitzgerald",
+            "incorrect2": "William Faulkner",
+            "incorrect3": "John Steinbeck",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2011 SCOP Novice 2",
+            "question": "Leydig cells may form benign tumors that emit this substance. Insects contain ecdysone which is similar to this chemical in humans. A deficiency of this hormone causes andropause. It reduces the risk for osteoporosis and is also used to treat prostate cancer, though can it be used as an anabolic steroid to increase muscle mass. Produced in the testes name this hormone responsible for male sex characteristics.",
+            "answers": ["testosterone"],
+            "incorrect1": "estrogen",
+            "incorrect2": "progesterone",
+            "incorrect3": "cortisol",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film's haunting Russian roulette scenes, set against the backdrop of the Vietnam War, explore the psychological trauma and lasting impact of conflict on soldiers. The film's soundtrack features a memorable rendition of \"Can't Take My Eyes Off You\" sung by Frankie Valli, which becomes a recurring motif throughout the story. The film stars Robert De Niro, Christopher Walken, and Meryl Streep in a powerful ensemble cast. It won five Academy Awards, including Best Picture and Best Director for Michael Cimino. What is the title of this 1978 war drama?",
+            "answers": ["The Deer Hunter"],
+            "incorrect1": "Apocalypse Now",
+            "incorrect2": "Platoon",
+            "incorrect3": "Full Metal Jacket",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2010 SCOP Novice",
+            "question": "This man was granted extra power through the \"Enabling Act\" after a Dutch Communist was blamed for arson, and he was earlier imprisoned for actions with Ludendorff which were inspired by the March on Rome. This participant of the \"Beer Hall Putsch\" wrote about taking \"living space\" from the Sudetenland before invading Poland on September 1, 1939. The author of Mein Kampf, name this Fuhrer and Chancellor of Nazi Germany.",
+            "answers": ["Adolf Hitler"],
+            "incorrect1": "Benito Mussolini",
+            "incorrect2": "Joseph Stalin",
+            "incorrect3": "Winston Churchill",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "The 2025 world championship of this sport was held at Alexandra Place in London, England. It was won by Luke Littler at age 17, who was the 2024 runner-up. The most common scoring system for this game uses a triple ring and a double ring, which multiply the segment's value when hit.  This game, often played in pubs and bars, involves throwing small pointed projectiles at a circular board with numbered segments. What is this game of skill and precision, popular in the United Kingdom and other countries?",
+            "answers": ["Darts"],
+            "incorrect1": "Archery",
+            "incorrect2": "Cornhole",
+            "incorrect3": "Bowling",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2016 Pennsylvania Novice",
+            "question": "A global seed vault is found on this country's island of Spitsbergen in the Svalbard archipelago, which is separated from this country's mainland by the Barents Sea. The Troll gas field is found offshore from this country, whose cities include Trondheim and Bergen. This country's western coast is indented by flooded valleys carved by glaciers called fjords, and it shares a long border with its eastern neighbor, Sweden. Name this Scandinavian country whose capital is Oslo.",
+            "answers": ["Norway"],
+            "incorrect1": "Sweden",
+            "incorrect2": "Finland",
+            "incorrect3": "Denmark",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2022 MAKEMAKE",
+            "question": "Buddy Holly died in a plane crash near this state's Mason City. This state's highest point is located on a farm near the town of Sibley and is called Hawkeye Point. This state's exclave of Carter Lake lies on the west bank of the Missouri River on its border with Nebraska. Illinois shares the \"Quad Cities\" with what Midwestern state, the southern neighbor of Minnesota, whose capital is Des Moines?",
+            "answers": ["Iowa"],
+            "incorrect1": "Idaho",
+            "incorrect2": "Ohio",
+            "incorrect3": "Illinois",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "1: After he was freed, this man studied at the Hampton Institute and the Wayland Seminary before ascending to his most well-known position. He was assisted by Henry Rogers of Standard Oil, who funded schools in the south, although this man garnered criticism from the NAACP and W.E.B. DuBois over his ideas of integrating African-Americans into society. Name this African-American who delivered the Atlanta Address and who founded the Tuskegee Institute.",
+            "answers": ["Booker T. Washington", "Booker Taliaferro Washington"],
+            "incorrect1": "W.E.B. Du Bois",
+            "incorrect2": "Frederick Douglass",
+            "incorrect3": "Martin Luther King Jr.",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This coach, known for his unconventional methods and interest in Eastern philosophy, earned the nickname \"Zen Master\" and holds the record for the most NBA championships with 11 titles. He led the Chicago Bulls to six championships in the 1990s, utilizing the triangle offense with Michael Jordan. He later guided the Los Angeles Lakers to five championships with Shaquille O'Neal and Kobe Bryant. Who is this legendary coach, known for his calm demeanor and ability to manage star-studded teams?",
+            "answers": ["Phil Jackson"],
+            "incorrect1": "Red Auerbach",
+            "incorrect2": "Gregg Popovich",
+            "incorrect3": "Chuck Daly",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "Starting with the 119th Congress, this politician now serves as US Senate majority leader. He began his career as an elected representative by winning his states lone seat in the House of Representatives in 1996. He joined the Senate in 2005 representing his home state of South Dakota. Name this politician who served as the Whip for the Republican party in the Senate from 2019 to 2024 and is succeeding Mitch McConnell as leader of the Republicans in the Senate.",
+            "answers": ["John Thune"],
+            "incorrect1": "Nancy Pelosi",
+            "incorrect2": "Mitch McConnell",
+            "incorrect3": "Chuck Schumer",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2022 KICKOFF Novice",
+            "question": "This quantity can be computed by taking the reciprocal of the apparent movement of an object in arcseconds. Recessional velocity is proportional to this quantity, according to Hubble's law. This quantity can be measured by observing the parallax of an object. The force between two astronomical bodies is proportional to the inverse square of this quantity. Name this quantity, which is measured in parsecs or kilometers.",
+            "answers": ["distance", "length", "distance modulus"],
+            "incorrect1": "displacement",
+            "incorrect2": "speed",
+            "incorrect3": "velocity",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This satirical black comedy features the iconic line \"I'm as mad as hell, and I'm not going to take this anymore!\", delivered by a news anchor who has a mental breakdown on live television.  The film's biting critique of the television industry and its exploitation of sensationalism earned it four Academy Awards, including Best Actress for Faye Dunaway's portrayal of a ruthless programming executive.  The film's protagonist, Howard Beale, becomes a messianic figure, urging viewers to express their outrage and reclaim their power.  What is the title of this 1976 film directed by Sidney Lumet?",
+            "answers": ["Network"],
+            "incorrect1": "The Social Network",
+            "incorrect2": "Newsroom",
+            "incorrect3": "Newsies",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "This person's love of sweets gave her black teeth, which caused a fashion in which other women painted their teeth black to mimic her. Her spymaster, Francis Walsingham, detected and stopped numerous attempts on her life, including the Babington Plot. The aftermath of that plot, gave this person the opportunity to execute the main rival to her throne, Mary Queen of Scots. Sir Francis Drake and others helped her to defeat the Spanish Armada. Name this Queen of England who lead her nation into a golden age and maritime supremacy.",
+            "answers": [
+                "Queen Elizabeth I",
+                "Queen Elizabeth the Great",
+                "Queen Elizabeth Tudor"
+            ],
+            "incorrect1": "Queen Elizabeth II",
+            "incorrect2": "Queen Victoria",
+            "incorrect3": "Mary, Queen of Scots",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2012 SCOP Novice 3",
+            "question": "The ninety-sixth section of this work invokes the reader to \"recite\" in the name of the lord \"who created man from a mere clot of blood.\" Mukham and mutashabeh are classifications of ayat that appear in this work, which includes basmalah in all but its ninth chapter. Those chapters are called sura, and were first delivered on Mount Hira by Jibreel. Name this Islamic religious text that was revealed to the Prophet Muhammad.",
+            "answers": ["al-Quran", "Quran", "Koran"],
+            "incorrect1": "The Bible",
+            "incorrect2": "The Torah",
+            "incorrect3": "The Bhagavad Gita",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "The presidential election of this year featured the formation of The Texas Regulars, a political party designed to deny the incumbent President a majority of the Electoral College. Norman Thomas and Claude Watson were the candidates of the Socialist and Prohibition parties, while Robert Taft supported John Bricker for the Republican nomination, but Bricker later only served as the vice presidential candidate. Identify this election in which Republican Thomas Dewey lost to incumbent Franklin Roosevelt, who was running for his fourth term.",
+            "answers": ["1944"],
+            "incorrect1": "1914",
+            "incorrect2": "1939",
+            "incorrect3": "1945",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2021 CERES",
+            "question": "A rice dish and macaroni salad are included in this state's \"plate lunch\". The canned pork product Spam is extremely popular in this state, which also originated a raw fish dish called poke and a food derived from the taro plant called poi. This state's traditional food might be consumed at a luau, which might be attended by hula dancers. Name this state consisting of an archipelago in the Pacific Ocean.",
+            "answers": ["Hawai'i", "Hawaii"],
+            "incorrect1": "Alaska",
+            "incorrect2": "Guam",
+            "incorrect3": "Puerto Rico",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 SCOP A",
+            "question": "In this novel, Catherine spreads a rumor that a rich bootlegger is Kaiser Wilhelm's cousin, and falsely claims that the narrator's cousin is Catholic to explain why Tom can't get divorced. In this novel, a new dog leash convinces George Wilson that Myrtle's affair led to her death, so he shoots this novel's protagonist in his pool. Daisy Buchanan runs over her husband's mistress in what novel narrated by Nick Carraway and written by F. Scott Fitzgerald?",
+            "answers": ["The Great Gatsby"],
+            "incorrect1": "The Sun Also Rises",
+            "incorrect2": "Tender Is the Night",
+            "incorrect3": "This Side of Paradise",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This manager, known for his passionate and fiery personality, led the Los Angeles Dodgers to two World Series titles, in 1981 and 1988. He famously proclaimed, \"I bleed Dodger blue,\" showcasing his unwavering loyalty to the team. He managed the Dodgers for 20 seasons, the second-longest tenure in franchise history. He also managed the United States Olympic baseball team to a gold medal at the 2000 Sydney Olympics. Who is this legendary manager, known for his animated personality and his love for the Dodgers?",
+            "answers": ["Tommy Lasorda"],
+            "incorrect1": "Walter Alston",
+            "incorrect2": "Joe Torre",
+            "incorrect3": "Sparky Anderson",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This singer-songwriter's controversial performance at the 1965 Newport Folk Festival, where he plugged in an electric guitar and departed from his acoustic folk roots, marked a turning point in his career and sparked a debate about the evolution of folk music.  His 1965 hit song \"Like a Rolling Stone\" became an anthem of rebellion and social change, with its poetic lyrics and driving rhythm.  He was awarded the Nobel Prize in Literature in 2016, \"for having created new poetic expressions within the great American song tradition.\" Name this iconic musician who is the subject of a recent movie starring Timoth\u00e9e Chalamet.",
+            "answers": ["Bob Dylan"],
+            "incorrect1": "Paul Simon",
+            "incorrect2": "Neil Young",
+            "incorrect3": "Bruce Springsteen",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2017 HIGS",
+            "question": "During one of these events, Louis IX was captured at the Battle of Al Mansurah. Frederick Barbarossa drowned during one of these events, in which Saladin attacked Richard the Lionhearted at the Battle of Arsuf. The first of these events was called for by Pope Urban II and led to the capture of Jerusalem. Name these attempts by the Europeans to recapture the Holy Land.",
+            "answers": ["Crusades", "Holy Crusades"],
+            "incorrect1": "Hundred Years' War",
+            "incorrect2": "Thirty Years' War",
+            "incorrect3": "Punic Wars",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2022 MAKEMAKE",
+            "question": "The area of a segment of one of these objects is two thirds times the base times the height. This object is formed by the intersection of a cone and a plane parallel to its slant surface. This object can be defined as the set of points equidistant from a focus and a directrix. These objects can be formed by the graphs of quadratic functions. Name these objects expressed by the formula y equals x squared.",
+            "answers": ["parabola", "quadratic"],
+            "incorrect1": "hyperbola",
+            "incorrect2": "ellipse",
+            "incorrect3": "circle",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "President Joe Biden recently blocked a merger of this company with the Japanese company Nippon Steel. This company, the world's the first billion-dollar corporation, was founded in 1901 by J.P. Morgan through a merger of several steel and iron companies, including Carnegie Steel Company.  Its headquarters in Pittsburgh, Pennsylvania, was one of the tallest building in the United States when it was completed in 1970. What is the name of this American steel producer, which has faced challenges in recent decades from global competition and shifting economic trends?",
+            "answers": ["U.S. Steel", "US Steel", "United States Steel"],
+            "incorrect1": "Nucor",
+            "incorrect2": "ArcelorMittal",
+            "incorrect3": "Steel Dynamics",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "A terrorist attack where a man drove a truck into a large crowd occurred on the morning on January 1 in this US city. This city's iconic streetcars, including the St. Charles Avenue line, the oldest continuously operating streetcar line in the world, offer a charming way to explore its historic neighborhoods.  Its vibrant music scene, with roots in jazz, blues, and Cajun traditions, fills the streets with lively rhythms and soulful melodies.  Its unique cuisine, featuring dishes like gumbo, jambalaya, and beignets, reflects its diverse cultural influences.  What is this city, known as the \"Crescent City\" for its location on a bend in the Mississippi River, which hosts the annual Mardi Gras celebration, a vibrant carnival renowned for its parades and revelry?",
+            "answers": ["New Orleans"],
+            "incorrect1": "Baton Rouge",
+            "incorrect2": "Las Vegas",
+            "incorrect3": "Shreveport",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This manager, known for his fiery temper and record-setting 161 ejections throughout his career, led the Atlanta Braves to an unprecedented 14 consecutive division titles from 1991 to 2005. He managed the Toronto Blue Jays and Atlanta Braves, winning a World Series title with the Braves in 1995. He was inducted into the Baseball Hall of Fame in 2011, alongside fellow Braves legends Greg Maddux and Tom Glavine. Who is this legendary manager, also known for his signature toothpick chewing habit?",
+            "answers": ["Bobby Cox"],
+            "incorrect1": "Joe Torre",
+            "incorrect2": "Tony La Russa",
+            "incorrect3": "Sparky Anderson",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2015 SCOP Novice 6",
+            "question": "This book is dedicated to a taxi driver and the woman who gave the story its subtitle. In one scene from this book, a character obtains a pair of silver boots after a production of Cinderella, and that man later lives in a zoo with Montana Wildhack after being abducted by Tralfamadorians. Throughout this novel, a bird cries \"Poo-tee-weet\" and deaths are followed by the comment \"so it goes.\" Identify this Kurt Vonnegut novel about Billy Pilgrim and the bombing of Dresden.",
+            "answers": [
+                "Slaughterhouse-Five",
+                "The Children's Crusade: A Duty-Dance with Death"
+            ],
+            "incorrect1": "Catch-22",
+            "incorrect2": "The Things They Carried",
+            "incorrect3": "One Flew Over the Cuckoo's Nest",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2022 KICKOFF Novice",
+            "question": "During this war, Andrew Gould was stabbed with a pen-knife by Nathan Bedford Forrest, who he shot in the hip. In a battle in this war, Daniel Ruggles fired 50 cannons into the \"Hornet's Nest.\" The victors of a battle in this war were reinforced on its second day by Carlos Buell. P. G. T. Beauregard took control of an army in this war after Albert Sidney Johnston's death at Shiloh. Name this war, in which the Confederacy seceded from the Union in 1861.",
+            "answers": [
+                "American Civil War",
+                "Battle of Shiloh",
+                "The Civil War"
+            ],
+            "incorrect1": "American Revolutionary War",
+            "incorrect2": "War of 1812",
+            "incorrect3": "Mexican-American War",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "The sum of the infinite sequence whose terms are the reciprocals of these numbers equals pi squared over 6. The sum of the first n of these is n times n+1 times 2n+1 over 6, while the sum of the first n positive odd numbers is the nth of these. The difference between two of these numbers can be factored as a+b times a-b. Name these numbers equal to the an integer times itself.",
+            "answers": ["perfect squares", "squares", "square numbers"],
+            "incorrect1": "prime numbers",
+            "incorrect2": "odd numbers",
+            "incorrect3": "even numbers",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actress's 1996 film, \"Striptease,\" though a critical flop, earned her a then-record-breaking $12.5 million salary, making her the highest-paid actress in Hollywood history at the time.  She appeared on the cover of Vanity Fair while pregnant, showcasing her baby bump and challenging societal norms.  Her breakthrough role came in 1990's \"Ghost,\" a romantic drama that solidified her status as a leading lady.  She was married to Bruce Willis for 13 years.  Who is this actress, known for her roles in films like \"A Few Good Men\" and \"G.I. Jane\"?",
+            "answers": ["Demi Moore"],
+            "incorrect1": "Ashton Kutcher",
+            "incorrect2": "Bruce Willis",
+            "incorrect3": "Patrick Swayze",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2021 CERES",
+            "question": "This country used its caravel ships to trade with the people of Goa after sailing around the Cape of Good Hope along a route found by this country's explorer Bartholomew Dias. The first European to reach India by sea was an explorer from this country, Vasco da Gama. This country colonized Brazil, which now speaks this country's language. Name this country once ruled from the capital city of Lisbon.",
+            "answers": ["Kingdom of Portugal"],
+            "incorrect1": "Kingdom of Spain",
+            "incorrect2": "Kingdom of France",
+            "incorrect3": "Kingdom of England",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2013 SCOP Novice 4",
+            "question": "An island country in this body of water was called Tylos by the Greeks when it was part of the Achaemenid dynasty; the modern-day country on that island has capital Manama. The Shatt al-Arab drains into this body of water, which is connected by the Strait of Hormuz to the Gulf of Oman and the Arabian Sea. Bahrain lies in, and Qatar, Kuwait, and the United Arab Emirates lie on what Middle Eastern gulf?",
+            "answers": ["Persian Gulf"],
+            "incorrect1": "Arabian Sea",
+            "incorrect2": "Gulf of Oman",
+            "incorrect3": "Red Sea",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2014 SCOP Novice 5",
+            "question": "Victorious soldiers in this war, worried about unfunded pensions, tried to organize the Newburgh Conspiracy. The Conway Cabal was a short-lived attempt to replace the winning leader. During this war, John Andre was hanged for his role in an attempted betrayal of the fort at West Point, a plan organized by Benedict Arnold. Name this war, which ended when Lord Cornwallis surrendered at Yorktown to George Washington.",
+            "answers": ["American Revolutionary War", "Revolutionary War"],
+            "incorrect1": "American Civil War",
+            "incorrect2": "War of 1812",
+            "incorrect3": "French and Indian War",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2019 SCOP Novice 10",
+            "question": "Margaret Bourke-White photographed this man at the Birla House sitting behind a spinning wheel. This man, who agreed to a 1931 pact with Lord Irwin in advance of the Second Round Table Conference, was assassinated by Nathuram Godse, who believed this man had given too much power to Muslims during the partition of the British Raj. A nonviolent 1930 salt march was led by what independence leader who advocated for civil disobedience in India?",
+            "answers": ["Mahatma Gandhi", "Mohandas Karamchand Gandhi"],
+            "incorrect1": "Nelson Mandela",
+            "incorrect2": "Martin Luther King Jr.",
+            "incorrect3": "Jawaharlal Nehru",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This athlete, a key figure in the US Women's National Team's fight for equal pay, co-captained the team to victory in the 2019 FIFA Women's World Cup.  She has won two World Cup titles and an Olympic gold medal.  She played for the San Diego Wave FC in the National Women's Soccer League until her retirement in 2024.  She also co-authored a series of children's books, \"The Kicks,\" which promote female empowerment and sportsmanship.  Who is this soccer star, known for her athleticism and advocacy for gender equality?",
+            "answers": ["Alex Morgan"],
+            "incorrect1": "Megan Rapinoe",
+            "incorrect2": "Carli Lloyd",
+            "incorrect3": "Hope Solo",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actor's breakout role in the Hulu miniseries \"Normal People,\" a coming-of-age romantic drama, earned him a Primetime Emmy Award nomination and widespread critical acclaim. He starred in the 2023 psychological thriller \"God's Creatures,\" alongside Emily Watson, showcasing his versatility and range. He also appeared in the acclaimed 2022 drama \"Aftersun,\" which earned him a nomination for Best Actor at the 95th Academy Awards. Who is this Irish actor, who recently starred in Gladiator II?",
+            "answers": ["Paul Mescal"],
+            "incorrect1": "Paul Rudd",
+            "incorrect2": "Andrew Garfield",
+            "incorrect3": "Barry Keoghan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2022 MAKEMAKE",
+            "question": "This state is the setting of many Bret Harte short stories. In a novel set in this state, a neighborhood throws a party for Doc. A man is shot by his friend to save him from a mob after he killed Curley's wife in this state, the setting of Cannery Row. In one novel, the Joad family travels West to this state. Name this western setting of John Steinbeck novels such as Of Mice and Men and The Grapes of Wrath.",
+            "answers": ["California"],
+            "incorrect1": "Texas",
+            "incorrect2": "Florida",
+            "incorrect3": "New York",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2017 SCOP Novice 8",
+            "question": "The change in this value due to Compton scattering is proportional to one minus the cosine of the scattering angle. Massive particles have a de Broglie [duh BROY] variety of this value equal to Planck's constant over momentum. For the electromagnetic spectrum, the product of this and frequency is equal to the speed of light. Name this quantity, symbolized lambda, that can be computed as the distance between two peaks of a wave.",
+            "answers": ["wavelength"],
+            "incorrect1": "frequency",
+            "incorrect2": "amplitude",
+            "incorrect3": "wave speed",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "A vehicle of this type exploded in front of the Trump Hotel in Las Vegas on New Year's Day. This vehicle's unconventional design, with its angular shape and stainless steel body, has sparked both curiosity and controversy since its unveiling in 2019. Its armored glass windows, demonstrated in a live demonstration that didn't go quite as planned, are claimed to be shatterproof. It boasts impressive performance capabilities, with a claimed 0 to 60 mph acceleration time of 2.9 seconds and a towing capacity of over 14,000 pounds. What is the name of this electric pickup truck, designed by Tesla?",
+            "answers": ["Tesla Cybertruck", "cybertruck", "cyber truck"],
+            "incorrect1": "Ford F-150 Lightning",
+            "incorrect2": "Rivian R1T",
+            "incorrect3": "GMC Hummer EV",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 Darien DEFT",
+            "question": "This country's city of Antsiranana is near Cap d'Ambre, its northernmost point. The Meller's duck lives on Lake Alaotra in this country, the largest producer of vanilla in the world. The Merina people occupy the Central Highlands of this country west of Reunion where the native language is Malagasy. Comoros is northwest of this country separated from the mainland by the Mozambique Channel. Lemurs are endemic to what African island country with capital Antananarivo?",
+            "answers": ["Madagascar", "Republic of Madagascar"],
+            "incorrect1": "Mozambique",
+            "incorrect2": "Mauritius",
+            "incorrect3": "Maldives",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2020 SCOP A",
+            "question": "This thinker described taking an umbrella in case of rain as an irrational caprice in A Treatise on Probability. This man asserted that a \"Carthaginian peace\" was insufficient in The Economic Consequences of the Peace, which he published after attending the Paris Peace Conference in 1919. This man inspired a \"revolution\" toward demand-focused economics in another work. Name this British economist who wrote The General Theory of Employment, Interest, and Money.",
+            "answers": ["John Maynard Keynes"],
+            "incorrect1": "Adam Smith",
+            "incorrect2": "Milton Friedman",
+            "incorrect3": "Friedrich Hayek",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "A bald man dressed in blue and sitting on a chair next to a fire holds his head in his hands in this man's work At Eternity's Gate, while another features a white-coated waiter standing next to a billiards table inside the title structure, The Night Cafe. Five Dutch peasants sit in a dimly lit room around a table in his The Potato Eaters, and the title doctor sits at a table resting his head on his right arm in two different versions of a more famous work, Portrait of Dr. Gachet. Identify this brother of art dealer Theo, the Dutch artist behind Starry Night.",
+            "answers": ["Vincent van Gogh"],
+            "incorrect1": "Claude Monet",
+            "incorrect2": "Pablo Picasso",
+            "incorrect3": "Salvador Dalí",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "President Joe Biden awarded this honor to 18 individuals on January 4, 2025. The recipients included Magic Johnson, George Romney, and George Soros. This award, established in 1963 by President John F. Kennedy, is the highest civilian honor in the United States, recognizing individuals who have made exceptional contributions to the security or national interests of the country, to world peace, or to cultural or other significant public or private endeavors. What is the name of this prestigious award, symbolized by a gold medal with a white star on a blue enamel background?",
+            "answers": ["Presidential Medal of Freedom", "Medal of Freedom"],
+            "incorrect1": "Congressional Medal of Honor",
+            "incorrect2": "Nobel Peace Prize",
+            "incorrect3": "Pulitzer Prize",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This singer's record-breaking single, \"7 Rings,\" which debuted at number one on the Billboard Hot 100 chart, interpolates melodies from \"My Favorite Things\" from the musical The Sound of Music.  Her signature high ponytail and cat-eye makeup have become iconic elements of her style.  She began her career on Broadway, starring in the musical \"13\" before transitioning to television with roles on Nickelodeon shows like \"Victorious\" and \"Sam & Cat.\"  Who is this pop star, known for her impressive vocal range and her hit songs like \"Problem\" and \"Thank U, Next\"?",
+            "answers": ["Ariana Grande"],
+            "incorrect1": "Mariah Carey",
+            "incorrect2": "Taylor Swift",
+            "incorrect3": "Selena Gomez",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2016 Pennsylvania Novice",
+            "question": "This man defeated Desiderius at Pavia to conquer the Lombard kingdom, and then conquered Saxony and Bavaria. Advised by the scholar Alcuin of York and the subject of a biography by Einhard, this ruler's education reforms led to a namesake \"renaissance.\" This king established Aachen as his capital and was a grandson of Charles Martel. He was crowned the first Holy Roman Emperor by Pope Leo III on Christmas Day, 800 CE. Name this \"great\" Frankish king.",
+            "answers": [
+                "Charlemagne",
+                "Charles the Great",
+                "Carolus Magnus",
+                "Karl der Grosse",
+                "Charles I"
+            ],
+            "incorrect1": "Charles Martel",
+            "incorrect2": "Pepin the Short",
+            "incorrect3": "Louis XIV",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2015 SCOP Novice 6",
+            "question": "In ancient times, the southern shore of this sea was split between Pontus, Paphlagonia, and Bithynia. The Strait of Kerch connects it to the oil-rich Sea of Azov, surrounding a peninsula home to Yalta and Sevastopol. The Dniester, Dnieper, and Danube Rivers flow into the west shores of this sea. The Crimean Peninsula juts into what Asian sea north of Turkey?",
+            "answers": ["Black Sea"],
+            "incorrect1": "Caspian Sea",
+            "incorrect2": "Mediterranean Sea",
+            "incorrect3": "Aral Sea",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2020 ERIS",
+            "question": "Betty Parris and Abigail Williams both claimed to be afflicted by these people, setting off a panic which hunted these people. The West Indian slave Tituba, after herself being accused of being one of them, accused Sarah Good and Sarah Osborne during that 1692 panic. A series of \"trials\" were held in Salem, Massachusetts targeting what purported evil magic users?",
+            "answers": ["witches", "witch"],
+            "incorrect1": "wizards",
+            "incorrect2": "sorcerers",
+            "incorrect3": "warlocks",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's iconic \"Al Davis Memorial Torch,\" lit in honor of their legendary owner, stands as the largest 3D printed structure in the world. Their rebellious image and association with the \"Black Hole\" fan section have become synonymous with the franchise. They relocated from Oakland to Los Angeles in 1982, returning to Oakland in 1995, and finally settling in Las Vegas in 2020. They have won three Super Bowl titles, the last of which came in 1983. What is the name of this NFL team, known for their silver and black uniforms and their passionate fanbase?",
+            "answers": ["Las Vegas Raiders", "Raiders"],
+            "incorrect1": "New York Rangers",
+            "incorrect2": "Las Vegas Aces",
+            "incorrect3": "New York Jets",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This team's home stadium features a unique \"California Spectacular\" rock formation in center field, complete with a waterfall and geysers. They made history in 2002 by winning their first and only World Series title, led by a memorable performance from rookie pitcher John Lackey. Their iconic \"rally monkey,\" introduced in 2000, became a symbol of the team's late-inning comebacks and energized their fanbase.  They are owned by Arte Moreno, the first Mexican-American to own a major sports team in the United States. What is the name of this team, based in Anaheim, California?",
+            "answers": ["Los Angeles Angels", "Angels"],
+            "incorrect1": "Los Angeles Dodgers",
+            "incorrect2": "Anaheim Angels",
+            "incorrect3": "California Angels",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2017 Darien DEFT",
+            "question": "A newspaper owner allegedly told a reporter in this region \"you furnish the pictures and I'll furnish the war.\" \"Butcher\" Valeriano Weyler was accused of killing residents of concentration camps on this island. James Buchanan wrote the Ostend Manifesto about the purchase of this island. The Platt and Teller amendments governed U.S. relations with this country after the Spanish-American War, which included the Battle of San Juan Hill near Santiago on this island. Name this country where the U.S.S. Maine exploded in Havana.",
+            "answers": ["Cuba", "Caribbean"],
+            "incorrect1": "Puerto Rico",
+            "incorrect2": "Dominican Republic",
+            "incorrect3": "Haiti",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2017 Darien DEFT",
+            "question": "The Battle of Muret and Siege of Carcassonne took place during one of these events led by Simon de Montfort. Guy de Lusignan's army was crushed at the Horns of Hattin prior to one of these events, during which one leader drowned in the Saleph River. The Battle of Fariksur led to the ransom of Louis IX by the Ayyubids during the \"Seventh\" of these events. The first of these campaigns was led by Peter the Hermit, who responded to the call of Pope Urban II, while the fourth sacked Constantinople. Name these military expeditions to the \"Holy Land.\"",
+            "answers": ["Crusades", "Albigensian Crusade"],
+            "incorrect1": "Hundred Years' War",
+            "incorrect2": "Thirty Years' War",
+            "incorrect3": "Punic Wars",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actor's iconic Vulcan salute, accompanied by the phrase \"Live long and prosper,\" became a symbol of peace and goodwill in popular culture. He directed two of the \"Star Trek\" films, \"The Search for Spock\" and \"The Voyage Home,\" showcasing his talent behind the camera. He also authored two autobiographies, titled \"I Am Not Spock\" and \"I Am Spock,\" reflecting his complex relationship with his most famous role. Who is this actor, best known for portraying the logical and stoic Spock in the \"Star Trek\" franchise?",
+            "answers": ["Leonard Nimoy"],
+            "incorrect1": "William Shatner",
+            "incorrect2": "DeForest Kelley",
+            "incorrect3": "Patrick Stewart",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2018 SCOP Novice 9",
+            "question": "This river may originate at the usually-dry Trewsbury Mead, or at a location known as Seven Springs, which would make this river its country's longest, surpassing the Severn. This river, whose name comes from the Celtic for \"dark,\" is called the Isis where it flows through Oxford. Tower Bridge crosses this river just east of St. Paul's Cathedral. Name this English river that flows through London.",
+            "answers": ["Thames River"],
+            "incorrect1": "River Seine",
+            "incorrect2": "River Tiber",
+            "incorrect3": "River Nile",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2022 MAKEMAKE",
+            "question": "This country's flag reflects the myth that a city in it was founded where an eagle was seen eating a snake atop a cactus. A civilization from this modern day country worshipped a god that took the form of a \"feathered serpent,\" named Quetzalcoatl. At Tenochtitlan, a civilization from this country performed human sacrifice for its gods. The myths of the Aztec civilization are from what country?",
+            "answers": ["Mexico", "United Mexican States"],
+            "incorrect1": "Brazil",
+            "incorrect2": "Argentina",
+            "incorrect3": "Spain",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "A group of genes coding for lactose breakdown, known as the lac operon, was first discovered in this model organism. Although it is not Shigella, shiga toxins are produced in virulent strains of this organism such as its serotype O157:H7. They colonize the human gut at birth. Name these gram-negative bacteria that are a common cause of food poisoning and food recalls.",
+            "answers": [
+                "E. coli",
+                "Escherichia coli",
+                "Bacillus coli communis"
+            ],
+            "incorrect1": "Salmonella",
+            "incorrect2": "Staphylococcus aureus",
+            "incorrect3": "Listeria",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This awards show was hosted by Nikki Glaser on January 5, 2025. These awards, originally presented by the Hollywood Foreign Press Association, are now presented by a group sharing a name with the ceremony. They recognize excellence in both film and television, with categories for both domestic and international productions.  The ceremony is known for its more relaxed and informal atmosphere compared to the Academy Awards, often featuring celebrities mingling and enjoying champagne.  The first ceremony was held in 1944 at the 20th Century Fox studios, and has since become a staple of the Hollywood awards season. What is the name of these awards, symbolized by a golden globe statue?",
+            "answers": ["Golden Globe Awards", "Golden Globes"],
+            "incorrect1": "Academy Awards",
+            "incorrect2": "Emmy Awards",
+            "incorrect3": "Screen Actors Guild Awards",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
     ]
 ]
