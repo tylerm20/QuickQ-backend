@@ -22337,7 +22337,8 @@
             "answers": [
                 "Queen Elizabeth I",
                 "Queen Elizabeth the Great",
-                "Queen Elizabeth Tudor"
+                "Queen Elizabeth Tudor",
+                "Elizabeth"
             ],
             "incorrect1": "Queen Elizabeth II",
             "incorrect2": "Queen Victoria",
@@ -22359,7 +22360,7 @@
         {
             "category": "US History",
             "source": "2009 Fall Kickoff Tournament (FKT)",
-            "question": "The presidential election of this year featured the formation of The Texas Regulars, a political party designed to deny the incumbent President a majority of the Electoral College. Norman Thomas and Claude Watson were the candidates of the Socialist and Prohibition parties, while Robert Taft supported John Bricker for the Republican nomination, but Bricker later only served as the vice presidential candidate. Identify this election in which Republican Thomas Dewey lost to incumbent Franklin Roosevelt, who was running for his fourth term.",
+            "question": "The wartime presidential election of this year featured the formation of The Texas Regulars, a political party designed to deny the incumbent President a majority of the Electoral College. Norman Thomas and Claude Watson were the candidates of the Socialist and Prohibition parties, while Robert Taft supported John Bricker for the Republican nomination, but Bricker later only served as the vice presidential candidate. Identify this election in which Republican Thomas Dewey lost to incumbent Franklin Roosevelt, who was running for his fourth and final term.",
             "answers": ["1944"],
             "incorrect1": "1914",
             "incorrect2": "1939",
@@ -22428,8 +22429,14 @@
         },
         {
             "category": "Current Events",
-            "question": "President Joe Biden recently blocked a merger of this company with the Japanese company Nippon Steel. This company, the world's the first billion-dollar corporation, was founded in 1901 by J.P. Morgan through a merger of several steel and iron companies, including Carnegie Steel Company.  Its headquarters in Pittsburgh, Pennsylvania, was one of the tallest building in the United States when it was completed in 1970. What is the name of this American steel producer, which has faced challenges in recent decades from global competition and shifting economic trends?",
-            "answers": ["U.S. Steel", "US Steel", "United States Steel"],
+            "question": "President Joe Biden recently blocked a merger of this company with the Japanese company Nippon Steel. This company, the world's the first billion-dollar corporation, was founded in 1901 by J.P. Morgan through a merger of several steel and iron companies, including Carnegie Steel Company.  Its headquarters in Pittsburgh, Pennsylvania, was one of the tallest buildings in the United States when it was completed in 1970. What is the name of this American steel producer, which has faced challenges in recent decades from global competition and shifting economic trends?",
+            "answers": [
+                "U.S. Steel",
+                "US Steel",
+                "United States Steel",
+                "United States Steel Corporation",
+                "U.S Steel Corp"
+            ],
             "incorrect1": "Nucor",
             "incorrect2": "ArcelorMittal",
             "incorrect3": "Steel Dynamics",
