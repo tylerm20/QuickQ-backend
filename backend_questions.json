@@ -22447,7 +22447,7 @@
     [
         {
             "category": "Current Events",
-            "question": "A terrorist attack where a man drove a truck into a large crowd occurred on the morning on January 1 in this US city. This city's iconic streetcars, including the St. Charles Avenue line, the oldest continuously operating streetcar line in the world, offer a charming way to explore its historic neighborhoods.  Its vibrant music scene, with roots in jazz, blues, and Cajun traditions, fills the streets with lively rhythms and soulful melodies.  Its unique cuisine, featuring dishes like gumbo, jambalaya, and beignets, reflects its diverse cultural influences.  What is this city, known as the \"Crescent City\" for its location on a bend in the Mississippi River, which hosts the annual Mardi Gras celebration, a vibrant carnival renowned for its parades and revelry?",
+            "question": "A terrorist attack where a man drove a truck into a large crowd occurred on the morning of January 1 in this US city. This city's iconic streetcars, including the St. Charles Avenue line, the oldest continuously operating streetcar line in the world, offer a charming way to explore its historic neighborhoods. Its vibrant music scene, with roots in jazz, blues, and Cajun traditions, fills the streets with lively rhythms and soulful melodies. Its unique cuisine, featuring dishes like gumbo, jambalaya, and beignets, reflects its diverse cultural influences. What is this city, known as the \"Crescent City\" for its location on a bend in the Mississippi River, which hosts the annual Mardi Gras celebration?",
             "answers": ["New Orleans"],
             "incorrect1": "Baton Rouge",
             "incorrect2": "Las Vegas",
