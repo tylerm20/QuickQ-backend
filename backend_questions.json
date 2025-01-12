@@ -22788,5 +22788,595 @@
             "used": "TRUE",
             "source": "Marty Heavey"
         }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This rapper's record label, Shady Records, co-founded with his manager Paul Rosenberg, has launched the careers of successful artists like 50 Cent and Yelawolf. His song \"Lose Yourself,\" from the 2002 film \"8 Mile,\" became the first rap song to win an Academy Award for Best Original Song. He is known for his controversial lyrics, complex rhyme schemes, and alter ego, Slim Shady. He has sold over 220 million records worldwide, making him one of the best-selling music artists of all time. Who is this rapper, often considered one of the greatest of all time?",
+            "answers": ["Eminem"],
+            "incorrect1": "Dr. Dre",
+            "incorrect2": "Snoop Dogg",
+            "incorrect3": "50 Cent",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This quarterback, known for his \"Dangeruss\" nickname and his ability to extend plays with his mobility, led the Seattle Seahawks to their first Super Bowl victory in 2014.  He holds the NFL record for the most wins by a quarterback in his first ten seasons, showcasing his consistent success and leadership.  He was traded to the Denver Broncos in 2022, a move that surprised many fans and analysts.  He is married to singer Ciara, and their family life often makes headlines.  Who is this quarterback, who currently plays for the Pittsburgh Steelers?",
+            "answers": ["Russell Wilson"],
+            "incorrect1": "Tom Brady",
+            "incorrect2": "Aaron Rodgers",
+            "incorrect3": "Patrick Mahomes",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2018 MVS RAMS",
+            "question": "The so-called \"Battle of the Thames\" took place as a result of this campaign, which saw a flotilla of fishing boats clash with another fleet led by Bob Geldof. A supporter of this action kissed a salmon the day before this action. After this action, David Cameron resigned as Prime Minister of the UK, and this vote meant Article 50 of the Treaty of Lisbon would be invoked. Name this landmark 2016 vote that ended with Britain voting to leave the European Union.",
+            "answers": ["Brexit", "leave"],
+            "incorrect1": "Grexit",
+            "incorrect2": "EU",
+            "incorrect3": "NATO",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 Darien DEFT",
+            "question": "In one short story by this author, rats and the French Army free the protagonist from an execution device created by the Spanish Inquisition. This author also wrote about the walling in of a man wearing a jester costume who screams \"For the love of God, Montresor!\" This author of \"The Pit and the Pendulum\" described a maiden who was envied by angels and was interred in a \"sepulchre by the sea.\" Name this author of \"The Cask of Amontillado\" and \"Annabel Lee,\" who described a bird saying \"nevermore\" in \"The Raven.\"",
+            "answers": ["Edgar Allen Poe"],
+            "incorrect1": "Stephen King",
+            "incorrect2": "H.P. Lovecraft",
+            "incorrect3": "Nathaniel Hawthorne",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2020 ERIS",
+            "question": "Many 16th and 17th century maps incorrectly depicted this modern-day U.S. state as an island. Francis Drake claimed the colony of New Albion in this state. Junipero Serra founded many missions along this state's Camino Real. The Donner Party died trying to reach this state, where an 1849 gold rush attracted thousands of migrants. Name this \"Golden State\".",
+            "answers": ["California"],
+            "incorrect1": "Texas",
+            "incorrect2": "Florida",
+            "incorrect3": "New York",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "The Djebel Chelia is the highest peak in the Aures Mountains, which are an eastern extension of this mountain range. Another part of this mountain range contains the Amour, Ksour, and Ouled-Nail mountains, and they run mostly parallel to the Tell Mountains, which are a part of this mountain range that lies near the shore. Its highest peak is the Jbel Toubkal, which is found in the High part of this mountain range. Also having Middle and Anti parts, it is formed by the continental collision of Iberia with Africa. Identify this mountain range in Morocco, Algeria, and Tunisia.",
+            "answers": ["Atlas Mountains", "Atlas"],
+            "incorrect1": "Himalayan Mountains",
+            "incorrect2": "Alps",
+            "incorrect3": "Rocky Mountains",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2015 SAGES",
+            "question": "The only confirmed footprint of this dinosaur is in New Mexico. One specimen of this dinosaur is nicknamed Sue. Some debate exists over whether this theropod was a scavenger or a fierce predator. Name this large, powerfully-jawed carnivorous dinosaur with tiny arms.",
+            "answers": ["Tyrannosaurus rex", "T. rex"],
+            "incorrect1": "Velociraptor",
+            "incorrect2": "Triceratops",
+            "incorrect3": "Stegosaurus",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This national leader announced he would step down as the head of his Liberal Party and prime minister once his party selects a new leader. Born in Ottawa, he went on to attend McGill University and University of British Columbia. He was elected to the House of Commons in 2008, and in 2013 he was chosen as the leader of the Liberal Party. His father, Pierre, was the 15th prime minister of Canada. Name this prime minister of Canada since 2015.",
+            "answers": ["Justin Trudeau"],
+            "incorrect1": "Donald Trump",
+            "incorrect2": "Anita Anand",
+            "incorrect3": "Bill Blair",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This artist's face tattoos, including a barbed wire across his forehead and the words \"Stay Away\" under his right eye, have become as recognizable as his music. His breakout single, \"White Iverson,\" released in 2015, blended elements of hip-hop, R&B, and trap, showcasing his genre-bending style. He holds the record for the most songs with over one billion streams on Spotify, with nine tracks achieving this milestone. He has collaborated with a diverse range of artists, including Ozzy Osbourne, Kanye West, and Justin Bieber. Who is this singer and rapper, known for his distinctive vocal style and eclectic musical influences?",
+            "answers": ["Post Malone"],
+            "incorrect1": "Machine Gun Kelly",
+            "incorrect2": "Drake",
+            "incorrect3": "Kendrick Lamar",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2021 CERES",
+            "question": "In degrees, this number is the lowest positive number for which the sine function is equal to zero. Pi radians are equal to this many degrees. An exterior angle of a polygon and its corresponding interior angle add to this number. Two supplementary angles sum to this number. The sum of a triangle's interior angles is what number which is equal to half the number of degrees in a full circle?",
+            "answers": ["180", "one hunder eighty"],
+            "incorrect1": "90",
+            "incorrect2": "360",
+            "incorrect3": "270",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 TAILS",
+            "question": "In this state, tourists can ride to the top of Sandia Peak via the longest aerial tram in the Americas. A minor-league baseball team in this state's largest city is named the Isotopes in honor of this state's role as the site of the Trinity nuclear test and the home of Los Alamos National Laboratory. Santa Fe is the capital of what Southwestern state with its largest city at Albuquerque?",
+            "answers": ["New Mexico"],
+            "incorrect1": "Arizona",
+            "incorrect2": "Nevada",
+            "incorrect3": "Texas",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Eleven detainees were recently transferred from this notorious military prison to Oman, bringing the remaining prison population down to 15. Established in 1903 through a lease agreement with Cuba, this prison is located on a US naval base on the southeastern tip of Cuba which covers 45 square miles. What is the name of this prison which has housed suspected terrorists without trial since 2002?",
+            "answers": ["Guantanamo Bay", "Gitmo", "cuba"],
+            "incorrect1": "Pearl Harbor",
+            "incorrect2": "Subic Bay",
+            "incorrect3": "Halifax Harbour",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This running back, known for his bruising running style and his stiff arm that sends defenders flying, holds the NFL record for the most rushing yards in a single postseason, a feat he accomplished in 2019. He holds the record for most games with over 200 rushing yards and 2 touchdowns. He played college football at the University of Alabama, where he won the Heisman Trophy in 2015. Who is this Tennessee Titans running back, nicknamed \"King Henry\"?",
+            "answers": ["Derrick Henry"],
+            "incorrect1": "Jonathan Taylor",
+            "incorrect2": "Nick Chubb",
+            "incorrect3": "Christian McCaffrey",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "His Piano Concerto No. 3 was originally intended to be a symphony but was published as a one-movement Allegro brillante posthumously. He wrote an un-numbered Manfred Symphony between his 4th and 5th, and his 7th was left unfinished at his death. The opening 36-bar Andante introduction is marked \"sempre marcatissimo\" in his Serenade for Strings, and his visit to inspired his Capriccio italien. Using part of La Marseillaise in one piece that often uses canons at the end, this is what Russian composer of the 1812 Overture and Symphony No. 6, Pathetique?",
+            "answers": ["Pyotr Ilytch Tchaikovsky", "Tchaikovsky"],
+            "incorrect1": "Sergei Rachmaninoff",
+            "incorrect2": "Igor Stravinsky",
+            "incorrect3": "Nikolai Rimsky-Korsakov",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2016 Pennsylvania Novice",
+            "question": "This King died when his horse bucked him after the horse stepped on hot ashes. A year before his death, this man ordered the creation of the Domesday Book, which listed all landholders and their lands in his new realm. His achievements are recorded in the Bayeux Tapestry. After the death of Edward the Confessor, this man fought against Harold Godwinson for the English throne. Name this duke of Normandy who was victorious at the Battle of Hastings in 1066 and became the first Norman King of England.",
+            "answers": ["William the Conqueror", "William I"],
+            "incorrect1": "Harold Godwinson",
+            "incorrect2": "Richard the Lionheart",
+            "incorrect3": "Henry VIII",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2016 Pennsylvania Novice",
+            "question": "These people call themselves the Dine' and traditionally lived in dried mud houses called hogans. Kit Carson forced these people to undertake the \"Long Walk\" to the Bosque Redondo. Several of these Athabaskan\u00adspeaking people provided unbreakable radio communications during the Battle of Iwo Jima and their major reservation completely surrounds the Hopi Reservation. Name this Native American people of the Four Corners region who provided \"code talkers\" in World War II.",
+            "answers": ["Navajo"],
+            "incorrect1": "Apache",
+            "incorrect2": "Sioux",
+            "incorrect3": "Cherokee",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2016 PLATO",
+            "question": "During this conflict, a prisoner of war used Morse Code on a televised interview to spell \"torture.\" A guerilla attack during a Lunar New Year truce in this war surprised American soldiers. The use of Agent Orange to defoliate trees during this conflict was controversial for its health effects on soldiers. During this war, one side captured Saigon and renamed it Ho Chi Minh City. Name this controversial war fought in a southeast Asian country.",
+            "answers": ["Vietnam War"],
+            "incorrect1": "Korean War",
+            "incorrect2": "World War II",
+            "incorrect3": "Cold War",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This swimmer made history at the 2016 Rio Olympics by becoming the first African-American woman to win an individual gold medal in swimming, tying for first in the 100-meter freestyle. She also earned a gold medal in the 4x100-meter medley relay and a silver in the 4x100-meter freestyle relay at the same Olympics. She swam for Stanford University, where she won seven NCAA titles. Who is this swimmer, known for her powerful freestyle and her advocacy for diversity and inclusion in the sport?",
+            "answers": ["Simone Manuel"],
+            "incorrect1": "Katie Ledecky",
+            "incorrect2": "Missy Franklin",
+            "incorrect3": "Allison Schmitt",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2014 SCOP Novice 5",
+            "question": "In 1984, Bernard Goetz shot four black teenagers on this city's subway, claiming self-defense. In 1976 and 1977, six murders by the \"Son of Sam\" terrorized this city. The zero-tolerance for \"broken windows\" policy used by this city in the 1990s corresponds with a drop in the crime rate under mayor Rudolph Giuliani. Name this city, whose failed 2013 law banning large soft drinks was supported by former mayor Michael Bloomberg.",
+            "answers": ["New York City", "New York", "NYC"],
+            "incorrect1": "Los Angeles",
+            "incorrect2": "Chicago",
+            "incorrect3": "London",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2021 SCOP B",
+            "question": "In this thinker's The Sand Reckoner, he estimates the number of grains of sand in the universe and proves several statements regarding exponents. This Syracusan thinker developed a water screw and a heat ray, and he was said to have calculated the density of a crown made of silver and gold. Name this ancient scientist and mathematician who, upon discovering the principle of buoyancy, legendarily ran naked through the streets, shouting \"Eureka!\"",
+            "answers": ["Archimedes", "Archimedes of Syracuse"],
+            "incorrect1": "Euclid",
+            "incorrect2": "Pythagoras",
+            "incorrect3": "Aristotle",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2016 Pennsylvania Novice",
+            "question": "This state contains deeply eroded ash deposits in the Valley of Ten Thousand Smokes within Katmai National Park. The North Slope oil fields are found in this state, where the Chilkoot Pass can be accessed through this state's port city of Skagway on the historic Yukon Trail. The highest point in North America, Denali, is found in this state. Name this \"North Star\" state whose most populous city is Anchorage and whose capital is Juneau.",
+            "answers": ["Alaska"],
+            "incorrect1": "Hawaii",
+            "incorrect2": "Greenland",
+            "incorrect3": "Siberia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This artist hails from County Wicklow, Ireland, and his music often incorporates elements of Irish folk tradition. His breakthrough single, \"Take Me To Church,\" a soulful ballad with gospel influences, reached number two on the Billboard Hot 100 chart and garnered a Grammy Award nomination for Song of the Year. He collaborated with Annie Lennox on a powerful rendition of \"I Put a Spell on You\" for the 2014 film \"Fifty Shades of Grey.\"    Who is this singer-songwriter, known for his soulful voice and evocative lyrics?",
+            "answers": ["Hozier"],
+            "incorrect1": "Ed Sheeran",
+            "incorrect2": "Passenger",
+            "incorrect3": "James Bay",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "A magnitude 7.1 earthquake struck this region on January 6th resulting in at least 126 deaths. Its spiritual leader, the Dalai Lama, has lived in exile since 1959 due to political unrest.  Its capital city, Lhasa, is home to the Potala Palace, a UNESCO World Heritage Site that once served as the winter residence of the Dalai Lamas.  This region, known for its high altitude and mountainous terrain, is home to Mount Everest, the highest peak in the world. What is this region, often referred to as the \"Roof of the World,\" which has a long history of spiritual and cultural significance?",
+            "answers": ["Tibet", "China"],
+            "incorrect1": "Nepal",
+            "incorrect2": "Bhutan",
+            "incorrect3": "Mongolia",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2021 CERES",
+            "question": "In the book of Luke, the tax collector Zaccheus climbed on top of one of these objects to see Jesus. St. Boniface destroyed a large one of these things, many of which could be found in \"sacred groves\" used by Celtic druids. The Buddha sat under one of these plants, called the Bodhi, known for its heart-shaped leaves. An angel or a star often adorn what plants which are decorated at Christmas?",
+            "answers": ["trees", "firs", "evergreen trees"],
+            "incorrect1": "shrubs",
+            "incorrect2": "grasses",
+            "incorrect3": "vines",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "This metro area has been overwhelmed with fires starting on January 7 including one that has burned Pacific Palisades. Its Griffith Observatory, perched on a hill overlooking the city, offers stunning views of the Hollywood sign and the vast urban landscape. It hosted the Summer Olympics twice, in 1932 and 1984, and they are scheduled to host them in 2028. This city, known as the \"Entertainment Capital of the World,\" is home to the iconic Hollywood Walk of Fame, a sidewalk embedded with over 2,700 stars honoring celebrities from the entertainment industry. What is this sprawling metropolis, the second-most populous city in the United States?",
+            "answers": ["Los Angeles"],
+            "incorrect1": "New York City",
+            "incorrect2": "San Francisco",
+            "incorrect3": "Chicago",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2010 SCOP Novice",
+            "question": "In one work by this author, a man claims he is in jail by the \"implied contract\", refusing to allow the titular friend to get him out. In another work, Alcibiades discusses the nature of love at a dinner party hosted by Aristophanes. This author of Crito and Symposium compared our perception of reality to prisoners watching shadows on a stone wall in what is called the \"allegory of the cave\". Name this Greek philosopher of The Republic and numerous dialogues featuring his teacher, Socrates.",
+            "answers": ["Plato"],
+            "incorrect1": "Socrates",
+            "incorrect2": "Aristotle",
+            "incorrect3": "Epicurus",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This golfer, known for his distinctive \"Happy Gilmore\" swing and his calm demeanor on the course, became the first Norwegian to win a PGA Tour event when he captured the 2020 Puerto Rico Open.  He achieved a historic victory at the 2023 Memorial Tournament, becoming the first European player to win the event since its inception in 1976.  He has also represented his country in the Olympics and the Ryder Cup.  Who is this rising star in professional golf?",
+            "answers": ["Viktor Hovland"],
+            "incorrect1": "Rory McIlroy",
+            "incorrect2": "Jon Rahm",
+            "incorrect3": "Scottie Scheffler",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2015 SCOP Novice 6",
+            "question": "During this battle, Omar Bradley was detained after correctly stating that the capital of Illinois was Springfield. Joachim Peiper executed a group of American POWs during this battle's Malmedy Massacre. When asked to surrender during this battle, an American general defending Bastogne responded \"Nuts!\" Name this World War II battle named for the dent created in Allied lines.",
+            "answers": [
+                "Battle of the Bulge",
+                "Operation Watch on the Rhine",
+                "Battle of the Ardennes",
+                "Ardennes Counteroffensive",
+                "Unternehmen Wacht am Rhein",
+                "Bataille des Ardennes"
+            ],
+            "incorrect1": "Battle of the Somme",
+            "incorrect2": "Battle of Stalingrad",
+            "incorrect3": "D-Day",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This animation studio's first feature film, released in 1995, revolutionized animation with its groundbreaking computer-generated imagery and heartwarming story about a group of toys.  Its iconic lamp mascot, Luxo Jr., has appeared in the studio's production logo since its early short films.  The studio's films, known for their emotional depth and universal appeal, have garnered numerous Academy Awards, including Best Animated Feature for films like \"Finding Nemo\" and \"Toy Story 3.\"  What is the name of this animation studio, a subsidiary of Walt Disney Studios, known for its innovative storytelling and beloved characters?",
+            "answers": ["Pixar", "Pixar animation"],
+            "incorrect1": "DreamWorks Animation",
+            "incorrect2": "Illumination",
+            "incorrect3": "Sony Pictures Animation",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This artist's Charnel House concluded a series that began with his most famous piece, which also included The Weeping Woman. He created two paintings by the name of Three Musicians in 1921, and both are believed to feature his friend Guillaume Apollinaire. He painted Boy with a Pipe during his Rose Period that came after his Blue Period, and, with Les Demoiselles d'Avignon, developed the basic concepts of cubism. Identify this Spanish-born artist, best known for Guernica.",
+            "answers": ["Pablo Picasso"],
+            "incorrect1": "Vincent van Gogh",
+            "incorrect2": "Salvador Dalí",
+            "incorrect3": "Claude Monet",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2016 SAGES",
+            "question": "One monument in this city was built for the 1889 World's Fair to mark the centennial of its country's revolution. The Arc de Triomphe is located in this capital city, which the Seine River flows through. A cathedral in this city inspired The Hunchback of Notre Dame. Name this capital of France.",
+            "answers": ["Paris", "Paris, France"],
+            "incorrect1": "London",
+            "incorrect2": "Rome",
+            "incorrect3": "Berlin",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2020 ERIS",
+            "question": "These rocks are classified by their silicon content as mafic, such as scoria, and felsic, such as rhyolite. These rocks are further classified as extrusive or intrusive, and most of the youngest rock on earth is this kind of rock. Volcanic activity produces what type of rock which includes pumice and basalt and is contrasted with metamorphic and sedimentary?",
+            "answers": ["igneous rocks"],
+            "incorrect1": "sedimentary rocks",
+            "incorrect2": "metamorphic rocks",
+            "incorrect3": "minerals",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2020 MOQBA Novice",
+            "question": "This river forms a lake-like widening that is occupied by M'Bamou in its center. That area of this river is known as Pool Malebo. Soon after joining with the Ubangi River, this river narrows and forms a series of cataracts known as Livingstone Falls. This river is fed by Lake Tanganyika and it separates the two geographically closest non-contiguous capitals in the world. This river was formerly known as the Zaire River under the Mobuto dictatorship. Name this second longest river in Africa that separates Kinshasa and Brazzaville.",
+            "answers": ["Congo River", "Zaire River", "Lualaba River"],
+            "incorrect1": "Amazon River",
+            "incorrect2": "Nile River",
+            "incorrect3": "Mississippi River",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "The US Supreme Court recently heard a case about the constitutionality of a law which would ban this popular app. This app's algorithm, which personalizes content based on user interactions, has been praised for its effectiveness in keeping users engaged.  It has launched the careers of numerous influencers and creators, who have amassed millions of followers through their entertaining and creative content.  What is the name of this short-form video app, which has become a cultural phenomenon, especially among younger generations?",
+            "answers": ["TikTok"],
+            "incorrect1": "Instagram",
+            "incorrect2": "YouTube",
+            "incorrect3": "Facebook",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2015 SAGES",
+            "question": "This government moved its capital to Richmond in 1861, although it was never recognized as an independent country. Its vice president was Alexander Stephens, and its president was Jefferson Davis. Name this group of states that seceded from the Union prior to the U.S. Civil War.",
+            "answers": ["the Confederate States of America", "Confederacy"],
+            "incorrect1": "The Union",
+            "incorrect2": "Axis Powers",
+            "incorrect3": "Allied Powers",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2015 SCOP Novice 6",
+            "question": "In natural units, this quantity's square is the difference between the squares of energy and momentum. This property's units include electronvolts over c squared, and daltons. Objects with this property have inertia and can interact with each other via gravity. This is the quotient of force and acceleration. Name this quantity that is divided by volume to find density and is often measured in grams.",
+            "answers": [
+                "mass",
+                "inertial mass",
+                "gravitational mass",
+                "Planck mass"
+            ],
+            "incorrect1": "weight",
+            "incorrect2": "volume",
+            "incorrect3": "density",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2012 SCOP Novice 3",
+            "question": "This novel's protagonist searches for water for Jimmie Rogers and fights with Wilson over a flag. One man in this novel mistakes a traveling companion for Tom Jamison; another stumbles upon a dead soldier in a clearing after fleeing from a battle. That man travels with a Tattered Soldier and witnesses the death of his friend, Jim Conklin. Name this novel about Civil War soldier Henry Fleming, written by Stephen Crane.",
+            "answers": ["The Red Badge of Courage"],
+            "incorrect1": "The Killer Angels",
+            "incorrect2": "For Whom the Bell Tolls",
+            "incorrect3": "All Quiet on the Western Front",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2018 MVS RAMS",
+            "question": "This ruler was targeted in the Ridolfi and Throckmorton Plots, but both were foiled by this ruler's spymaster Francis Walsingham. This monarch gave the Tilbury Speech after a victory at the Battle of Gravelines, which repelled the Spanish Armada. Pro-Catholic forces schemed to depose this ruler and replace her with Mary, Queen of Scots. Name this English monarch, a daughter of Henry VIII known as the \"Virgin Queen.\"",
+            "answers": ["Elizabeth I of England", "Elizabeth I"],
+            "incorrect1": "Queen Victoria",
+            "incorrect2": "Mary, Queen of Scots",
+            "incorrect3": "Anne Boleyn",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This animation studio's iconic opening sequence features a boy fishing from the moon, a whimsical image that has become synonymous with its brand. Its first feature film, \"Antz,\" released in 1998, showcased the studio's commitment to computer-generated animation.  The studio's franchises, including \"Shrek,\" \"Madagascar,\" and \"Kung Fu Panda,\" have achieved global success and spawned numerous sequels and spin-offs.  What is the name of this animation studio, founded by Steven Spielberg, Jeffrey Katzenberg, and David Geffen?",
+            "answers": ["Dreamworks Animation", "Dreamworks"],
+            "incorrect1": "Pixar",
+            "incorrect2": "Disney",
+            "incorrect3": "Illumination",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This swimmer, who became the youngest individual swimming world champion in over a decade when she won the 200-meter butterfly at the 2022 World Aquatics Championships, holds the world record in the 400-meter individual medley.  She also excels in freestyle events, capturing gold in the 400-meter freestyle at the 2024 World Short Course Championships.  Who is this Canadian swimming sensation, known for her versatility and potential to become one of the sport's all-time greats?",
+            "answers": ["Summer McIntosh"],
+            "incorrect1": "Katie Ledecky",
+            "incorrect2": "Penny Oleksiak",
+            "incorrect3": "Sarah Sjöström",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This footballer, the first player to win the Ballon d'Or F\u00e9minin twice, achieving the feat in 2021 and 2022, is known for her creative playmaking and clinical finishing as a midfielder.  She plays for FC Barcelona Femen\u00ed, where she has won numerous trophies, including the UEFA Women's Champions League.  She suffered a serious knee injury in 2022, which sidelined her for a significant period, but she made a triumphant return to the pitch in 2023.  Who is this Spanish midfielder, considered one of the best players in the world?",
+            "answers": ["Alexia Putellas"],
+            "incorrect1": "Megan Rapinoe",
+            "incorrect2": "Marta Vieira da Silva",
+            "incorrect3": "Alex Morgan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 TAILS",
+            "question": "Mount Springer and Katahdin mark the southern and northern termini of a hiking trail spanning this mountain range. The Catskills and Blue Ridge Mountains are subranges of this larger mountain range. The natural beauty of the region named for this mountain range is threatened by mountaintop removal for coal mining in states like West Virginia. Name this largest mountain range east of the Mississippi.",
+            "answers": ["the Appalachians", "Appalachian Mountains"],
+            "incorrect1": "the Rockies",
+            "incorrect2": "the Himalayas",
+            "incorrect3": "the Andes",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This city recently implemented congestion pricing which charges vehicles for entering busy neighborhoods during the day. The policy was originally scrapped in 2024 but revived at the end of 2024 at a lower price point. This city's iconic subway system, the largest in the world by number of stations, with 472 stations in operation, transports millions of passengers daily, navigating a complex network of underground tunnels.    It is home to the Empire State Building, an Art Deco masterpiece that held the title of the world's tallest building for nearly 40 years.  What is this city, nicknamed the \"Big Apple,\" the most populous city in the United States?",
+            "answers": ["New York City", "New York"],
+            "incorrect1": "Los Angeles",
+            "incorrect2": "Chicago",
+            "incorrect3": "London",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2020 MOQBA Novice",
+            "question": "This programming language's Django framework is used for web development, while its BeautifulSoup library scrapes data from websites. Pip is a package manager for this language. Data scientists use this language's \"pandas,\" \"num,\" and \"sci\" libraries. This language, which does not require the use of semicolons after each statement, uses indents to denote code blocks as opposed to curly braces. Name this easy-to-read programming language that isn't actually named for a snake.",
+            "answers": ["Python"],
+            "incorrect1": "Java",
+            "incorrect2": "Javascript",
+            "incorrect3": "Rust",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actor, who learned to play the guitar for his role as a struggling musician in the 2000 film \"Proof of Life,\" famously threw a telephone at a hotel concierge in 2005, an incident that led to his arrest and a public apology. He gained international recognition for his portrayal of the Roman general Maximus Decimus Meridius in the 2000 historical epic \"Gladiator,\" which earned him an Academy Award for Best Actor. He also starred in the 2003 naval warfare film \"Master and Commander: The Far Side of the World,\" showcasing his versatility and range. Who is this New Zealand-born actor, known for his intense performances and occasional off-screen controversies?",
+            "answers": ["Russell Crowe"],
+            "incorrect1": "Mel Gibson",
+            "incorrect2": "Hugh Jackman",
+            "incorrect3": "Tom Hanks",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2021 CERES",
+            "question": "This ruler brought back his country's traditional religion after it was changed to a monotheistic one-deity religion by his father Akhenaten. Studies of this ruler's injuries have led to theories that he died in a chariot accident. This ruler's tomb in the Valley of the Kings supposedly cursed Lord Carnarvon and was found by archaeologist Howard Carter. Name this \"Boy Pharaoh\" of Egypt who died at age 19.",
+            "answers": [
+                "King Tut",
+                "Tutankhamun",
+                "Tawat \u0295ankhu \u0294aman"
+            ],
+            "incorrect1": "Ramses II",
+            "incorrect2": "Akhenaten",
+            "incorrect3": "Cleopatra",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This treaty set the Saint Croix River as the northeastern boundary of the US. Article III of this treaty declared the right of Native Americans to trade and travel between the US and Canada. American merchants wanted the British West Indies reopened for trade, which was not achieved, but the British did vacate six western forts by June 1796. It notably failed to deal with the impressments of American sailors into the Royal Navy, which became a key issue in the War of 1812. Identify this 1794 treaty that negotiated compensations between the US and Britain, named after a Supreme Court justice.",
+            "answers": ["Jay Treaty", "Treaty of London, 1794"],
+            "incorrect1": "Treaty of Paris",
+            "incorrect2": "Treaty of Ghent",
+            "incorrect3": "Treaty of Versailles",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2021 SCOP B",
+            "question": "In what is now this country, the militant Katipunan society was founded after Jose Rizal's peaceful movement for independence failed. Emilio Aguinaldo fought for this country's freedom against both the Spanish and the Americans, who took Puerto Rico, Guam, and this land from Spain after winning the Spanish-American War. Ferdinand and Imelda Marcos led this country, to which Douglas MacArthur vowed \"I shall return.\" Name this Pacific island country where George Dewey fought the Battle of Manila Bay.",
+            "answers": ["the Philippines"],
+            "incorrect1": "Indonesia",
+            "incorrect2": "Malaysia",
+            "incorrect3": "Vietnam",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This actor's production company, Mundy Lane Entertainment, is named after the street he grew up on in Mount Vernon, New York. He has received a record four Black Reel Awards for Best Actor, showcasing his impact on African-American representation in film. He won his first Academy Award for Best Supporting Actor in 1990 for his portrayal of a defiant Civil War soldier in \"Glory.\" He also directed and starred in the 2007 historical drama \"The Great Debaters,\" about a black debate team from Wiley College. Who is this acclaimed actor, known for his powerful performances in films like \"Malcolm X,\" \"Training Day,\" and \"Fences\"?",
+            "answers": ["Denzel Washington"],
+            "incorrect1": "Morgan Freeman",
+            "incorrect2": "Samuel L. Jackson",
+            "incorrect3": "Will Smith",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "The US Surgeon General recently called for warnings about an increased risk of cancer on this substance. The substance is produced by the fermentation of sugars by yeasts or other microorganisms. Its consumption has been a part of human culture for millennia, with evidence of its production dating back to 7000 BC in China. Its effects on the human body vary depending on the amount consumed, ranging from mild relaxation and euphoria to impaired coordination and judgment. What is this psychoactive substance, the most widely consumed drug in the world? ",
+            "answers": ["alcohol"],
+            "incorrect1": "marijuana",
+            "incorrect2": "heroin",
+            "incorrect3": "tobacco",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2021 CERES",
+            "question": "A group supporting this cause that held signs demeaning \"Kaiser Wilson\" outside the White House were the \"Silent Sentinels\" led by Alice Paul. The \"Declaration of Sentiments\" was written to support this cause at the 1848 Seneca Falls Convention. The 19th Amendment granted and Elizabeth Cady Stanton and Susan B. Anthony supported what right of a certain group to participate in elections?",
+            "answers": ["women's suffrage", "women's right to vote"],
+            "incorrect1": "abolition of slavery",
+            "incorrect2": "civil rights movement",
+            "incorrect3": "prohibition",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "The island of Bornholm is in this body of water, which is connected by the Kiel Canal to the North Sea. One arm of this sea is the Gulf of Bothnia, and the large island of Saaremaa guards its Gulf of Riga. Five national capitals lie on this body of water, including Tallinn, the capital of Estonia, and Stockholm. Name this sea south of Scandinavia.",
+            "answers": ["Baltic Sea"],
+            "incorrect1": "North Sea",
+            "incorrect2": "Mediterranean Sea",
+            "incorrect3": "Black Sea",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2017 Darien DEFT",
+            "question": "This scientist confirmed Gauss's Law using a namesake \"ice-pail\" and showed that the charge on closed conductors remains on their surface. His namesake law states that when a magnet passing through a coil of wire produces a current, the induced electromotive force is equal to the negative rate of change of the magnetic flux. The inventor of the dynamo and a device where the interior electric field is always zero, his namesake \"cage,\" is what physicist whose namesake law explains magnetic induction?",
+            "answers": ["Michael Faraday"],
+            "incorrect1": "James Clerk Maxwell",
+            "incorrect2": "Nikola Tesla",
+            "incorrect3": "Thomas Edison",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "This musician dedicated his Symphony No. 4 in F Minor to his financial supporter Nadezhda von Meck, though they never met. His Sixth Symphony, nicknamed Pathetique, premiered nine days before his death. In one of his ballets, the sorcerer Von Rothbart curses Odette; another includes the \"Dance of the Sugar Plum Fairy\". Name this Russian composer of Swan Lake, The Nutcracker, and the 1812 Overture.",
+            "answers": ["Pytor Ilyich Tchaikovsky"],
+            "incorrect1": "Nikolai Rimsky-Korsakov",
+            "incorrect2": "Modest Mussorgsky",
+            "incorrect3": "Igor Stravinsky",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "This man's political views included that of the Third International Theory, which applied to 3rd-world countries, as well as the concept of Jamahiriya, or \"state of the masses\"; both of which were defined in this man's Green Book. This man's country was the target of US bombings in Operation El Dorado Canyon, and he gave a hero's welcome to the perpetrator of the Lockerbie bombing. This man gained power after toppling Idris I and was overthrown by a rebellion assisted by a NATO no-fly zone. Name this longtime dictator of Libya executed in 2011.",
+            "answers": ["Muammar al-Gaddafi"],
+            "incorrect1": "Saddam Hussein",
+            "incorrect2": "Hosni Mubarak",
+            "incorrect3": "Bashar al-Assad",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This golfer, known for his fiery intensity and passionate celebrations, achieved a remarkable feat in 2023 by winning both the Masters Tournament and the Open Championship, becoming the first Spanish player to win the Claret Jug since Seve Ballesteros in 1988. He reached the number one spot in the Official World Golf Ranking in 2020, a position he has held for several weeks. He is recognizable for his powerful swing and his occasional outbursts of emotion on the course. Who is this golfer, often considered one of the most talented players of his generation?",
+            "answers": ["Jon Rahm"],
+            "incorrect1": "Rory McIlroy",
+            "incorrect2": "Scottie Scheffler",
+            "incorrect3": "Tiger Woods",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
     ]
 ]
