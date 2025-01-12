@@ -22587,7 +22587,7 @@
         {
             "category": "Science",
             "source": "2017 SCOP Novice 8",
-            "question": "The change in this value due to Compton scattering is proportional to one minus the cosine of the scattering angle. Massive particles have a de Broglie [duh BROY] variety of this value equal to Planck's constant over momentum. For the electromagnetic spectrum, the product of this and frequency is equal to the speed of light. Name this quantity, symbolized lambda, that can be computed as the distance between two peaks of a wave.",
+            "question": "The change in this value due to Compton scattering is proportional to one minus the cosine of the scattering angle. Massive particles have a de Broglie variety of this value equal to Planck's constant over momentum. For the electromagnetic spectrum, the product of this and frequency is equal to the speed of light. Name this quantity, symbolized lambda, that can be computed as the distance between two peaks of a wave.",
             "answers": ["wavelength"],
             "incorrect1": "frequency",
             "incorrect2": "amplitude",
