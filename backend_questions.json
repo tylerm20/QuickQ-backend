@@ -22709,8 +22709,8 @@
             "question": "This team's home stadium features a unique \"California Spectacular\" rock formation in center field, complete with a waterfall and geysers. They made history in 2002 by winning their first and only World Series title, led by a memorable performance from rookie pitcher John Lackey. Their iconic \"rally monkey,\" introduced in 2000, became a symbol of the team's late-inning comebacks and energized their fanbase.  They are owned by Arte Moreno, the first Mexican-American to own a major sports team in the United States. What is the name of this team, based in Anaheim, California?",
             "answers": ["Los Angeles Angels", "Angels"],
             "incorrect1": "Los Angeles Dodgers",
-            "incorrect2": "Anaheim Angels",
-            "incorrect3": "California Angels",
+            "incorrect2": "Anaheim Ducks",
+            "incorrect3": "California Condors",
             "used": "TRUE",
             "source": "Marty Heavey"
         },
