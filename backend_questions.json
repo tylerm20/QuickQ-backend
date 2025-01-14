@@ -22793,7 +22793,7 @@
         {
             "category": "Entertainment",
             "question": "This rapper's record label, Shady Records, co-founded with his manager Paul Rosenberg, has launched the careers of successful artists like 50 Cent and Yelawolf. His song \"Lose Yourself,\" from the 2002 film \"8 Mile,\" became the first rap song to win an Academy Award for Best Original Song. He is known for his controversial lyrics, complex rhyme schemes, and alter ego, Slim Shady. He has sold over 220 million records worldwide, making him one of the best-selling music artists of all time. Who is this rapper, often considered one of the greatest of all time?",
-            "answers": ["Eminem"],
+            "answers": ["Eminem", "Marshall Mathers"],
             "incorrect1": "Dr. Dre",
             "incorrect2": "Snoop Dogg",
             "incorrect3": "50 Cent",
