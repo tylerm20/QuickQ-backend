@@ -22802,7 +22802,7 @@
         },
         {
             "category": "Sports",
-            "question": "This quarterback, known for his \"Dangeruss\" nickname and his ability to extend plays with his mobility, led the Seattle Seahawks to their first Super Bowl victory in 2014.  He holds the NFL record for the most wins by a quarterback in his first ten seasons, showcasing his consistent success and leadership.  He was traded to the Denver Broncos in 2022, a move that surprised many fans and analysts.  He is married to singer Ciara, and their family life often makes headlines.  Who is this quarterback, who currently plays for the Pittsburgh Steelers?",
+            "question": "This quarterback holds the NFL record for the most wins by a quarterback in his first ten seasons, showcasing his consistent success and leadership. He is known for his \"Dangeruss\" nickname and his ability to extend plays with his mobility, led the Seattle Seahawks to their first Super Bowl victory in 2014. He was traded to the Denver Broncos in 2022, a move that surprised many fans and analysts.  He is married to singer Ciara, and their family life often makes headlines.  Who is this quarterback, who currently plays for the Pittsburgh Steelers?",
             "answers": ["Russell Wilson"],
             "incorrect1": "Tom Brady",
             "incorrect2": "Aaron Rodgers",
@@ -22886,7 +22886,13 @@
             "category": "Science",
             "source": "2021 CERES",
             "question": "In degrees, this number is the lowest positive number for which the sine function is equal to zero. Pi radians are equal to this many degrees. An exterior angle of a polygon and its corresponding interior angle add to this number. Two supplementary angles sum to this number. The sum of a triangle's interior angles is what number which is equal to half the number of degrees in a full circle?",
-            "answers": ["180", "one hunder eighty"],
+            "answers": [
+                "180",
+                "one hunder eighty",
+                "one eighty",
+                "180 degress",
+                "one hunder eighty degress"
+            ],
             "incorrect1": "90",
             "incorrect2": "360",
             "incorrect3": "270",
