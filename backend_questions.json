@@ -22920,7 +22920,7 @@
         },
         {
             "category": "Sports",
-            "question": "This running back, known for his bruising running style and his stiff arm that sends defenders flying, holds the NFL record for the most rushing yards in a single postseason, a feat he accomplished in 2019. He holds the record for most games with over 200 rushing yards and 2 touchdowns. He played college football at the University of Alabama, where he won the Heisman Trophy in 2015. Who is this Tennessee Titans running back, nicknamed \"King Henry\"?",
+            "question": "This running back, known for his bruising running style and his stiff arm that sends defenders flying, holds the NFL record for the most rushing yards in a single postseason, a feat he accomplished in 2019. He holds the record for most games with over 200 rushing yards and 2 touchdowns. He played college football at the University of Alabama, where he won the Heisman Trophy in 2015. Who is this current Baltimore Ravens running back, nicknamed \"King Henry\"?",
             "answers": ["Derrick Henry"],
             "incorrect1": "Jonathan Taylor",
             "incorrect2": "Nick Chubb",
@@ -22951,7 +22951,7 @@
         {
             "category": "US History",
             "source": "2016 Pennsylvania Novice",
-            "question": "These people call themselves the Dine' and traditionally lived in dried mud houses called hogans. Kit Carson forced these people to undertake the \"Long Walk\" to the Bosque Redondo. Several of these Athabaskan\u00adspeaking people provided unbreakable radio communications during the Battle of Iwo Jima and their major reservation completely surrounds the Hopi Reservation. Name this Native American people of the Four Corners region who provided \"code talkers\" in World War II.",
+            "question": "These people call themselves the Diné and traditionally lived in dried mud houses called hogans. Kit Carson forced these people to undertake the \"Long Walk\" to the Bosque Redondo. Several of these Athabaskan-speaking people provided unbreakable radio communications during the Battle of Iwo Jima and their major reservation completely surrounds the Hopi Reservation. Name this Native American people of the Four Corners region who provided \"code talkers\" in World War II.",
             "answers": ["Navajo"],
             "incorrect1": "Apache",
             "incorrect2": "Sioux",
