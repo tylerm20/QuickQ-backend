@@ -23006,8 +23006,8 @@
             "question": "This state contains deeply eroded ash deposits in the Valley of Ten Thousand Smokes within Katmai National Park. The North Slope oil fields are found in this state, where the Chilkoot Pass can be accessed through this state's port city of Skagway on the historic Yukon Trail. The highest point in North America, Denali, is found in this state. Name this \"North Star\" state whose most populous city is Anchorage and whose capital is Juneau.",
             "answers": ["Alaska"],
             "incorrect1": "Hawaii",
-            "incorrect2": "Greenland",
-            "incorrect3": "Siberia",
+            "incorrect2": "Nevada",
+            "incorrect3": "Wyoming",
             "used": "TRUE"
         },
         {
@@ -23045,7 +23045,7 @@
         {
             "category": "Current Events",
             "question": "This metro area has been overwhelmed with fires starting on January 7 including one that has burned Pacific Palisades. Its Griffith Observatory, perched on a hill overlooking the city, offers stunning views of the Hollywood sign and the vast urban landscape. It hosted the Summer Olympics twice, in 1932 and 1984, and they are scheduled to host them in 2028. This city, known as the \"Entertainment Capital of the World,\" is home to the iconic Hollywood Walk of Fame, a sidewalk embedded with over 2,700 stars honoring celebrities from the entertainment industry. What is this sprawling metropolis, the second-most populous city in the United States?",
-            "answers": ["Los Angeles"],
+            "answers": ["Los Angeles", "LA", "L.A."],
             "incorrect1": "New York City",
             "incorrect2": "San Francisco",
             "incorrect3": "Chicago",
