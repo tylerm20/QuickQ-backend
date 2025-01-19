@@ -23155,7 +23155,11 @@
             "category": "US History",
             "source": "2015 SAGES",
             "question": "This government moved its capital to Richmond in 1861, although it was never recognized as an independent country. Its vice president was Alexander Stephens, and its president was Jefferson Davis. Name this group of states that seceded from the Union prior to the U.S. Civil War.",
-            "answers": ["the Confederate States of America", "Confederacy"],
+            "answers": [
+                "the Confederate States of America",
+                "Confederacy",
+                "Confederate States"
+            ],
             "incorrect1": "The Union",
             "incorrect2": "Axis Powers",
             "incorrect3": "Allied Powers",
@@ -23190,7 +23194,11 @@
             "category": "World History",
             "source": "2018 MVS RAMS",
             "question": "This ruler was targeted in the Ridolfi and Throckmorton Plots, but both were foiled by this ruler's spymaster Francis Walsingham. This monarch gave the Tilbury Speech after a victory at the Battle of Gravelines, which repelled the Spanish Armada. Pro-Catholic forces schemed to depose this ruler and replace her with Mary, Queen of Scots. Name this English monarch, a daughter of Henry VIII known as the \"Virgin Queen.\"",
-            "answers": ["Elizabeth I of England", "Elizabeth I"],
+            "answers": [
+                "Elizabeth I of England",
+                "Elizabeth I",
+                "Queen Elizabeth"
+            ],
             "incorrect1": "Queen Victoria",
             "incorrect2": "Mary, Queen of Scots",
             "incorrect3": "Anne Boleyn",
@@ -23240,7 +23248,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This city recently implemented congestion pricing which charges vehicles for entering busy neighborhoods during the day. The policy was originally scrapped in 2024 but revived at the end of 2024 at a lower price point. This city's iconic subway system, the largest in the world by number of stations, with 472 stations in operation, transports millions of passengers daily, navigating a complex network of underground tunnels.    It is home to the Empire State Building, an Art Deco masterpiece that held the title of the world's tallest building for nearly 40 years.  What is this city, nicknamed the \"Big Apple,\" the most populous city in the United States?",
+            "question": "This city recently implemented congestion pricing which charges vehicles for entering busy neighborhoods during the day. The policy was surprisingly scrapped before being revived at the end of 2024 at a lower price point. This city's iconic subway system, the largest in the world by number of stations, with 472 stations in operation, transports millions of passengers daily, navigating a complex network of underground tunnels.    It is home to the Empire State Building, an Art Deco masterpiece that held the title of the world's tallest building for nearly 40 years.  What is this city, nicknamed the \"Big Apple,\" the most populous city in the United States?",
             "answers": ["New York City", "New York"],
             "incorrect1": "Los Angeles",
             "incorrect2": "Chicago",
