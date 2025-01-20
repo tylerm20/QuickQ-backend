@@ -23392,5 +23392,597 @@
             "used": "TRUE",
             "source": "Marty Heavey"
         }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This athlete, whose parents own the Buffalo Bills and Buffalo Sabres, reached a career-high ranking of world No. 3 in singles tennis in 2023.  She is known for her powerful groundstrokes and aggressive style of play, often dictating the pace of rallies.  She has won two WTA 1000 titles in doubles, partnering with Coco Gauff.  She also reached the quarterfinals of all four Grand Slam singles tournaments in 2022, showcasing her consistency at the highest level. Who is this American tennis star?",
+            "answers": ["Jessica Pegula"],
+            "incorrect1": "Coco Gauff",
+            "incorrect2": "Madison Keys",
+            "incorrect3": "Sloane Stephens",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2022 KICKOFF Novice",
+            "question": "The three-month average of the concentration of this molecule is proxy-measured via the hemoglobin A1c test. The beta cells in the Islets of Langerhans become more active when levels of this molecule increase. An increase in the levels of this molecule stimulates the production of insulin. This substance is deficient in hypoglycemia. This molecule has formula C6H12O6, and is more abundant in individuals with diabetes. Name this sweet molecule.",
+            "answers": [
+                "glucose",
+                "sugar",
+                "blood glucose level",
+                "blood sugar level"
+            ],
+            "incorrect1": "fructose",
+            "incorrect2": "sucrose",
+            "incorrect3": "lactose",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2020 SCOP A",
+            "question": "This organization was founded due to Henri Dunant's description of the Battle of Solferino, which inspired the formation of a committee based in Geneva. The American branch of this organization was founded by Clara Barton after the Civil War. Although it is also symbolized by a crystal and a crescent, this organization's main emblem is a color reversal of the Swiss flag. Three Nobel Peace Prizes have been won by, What organization that protects and cares for the victims of war?",
+            "answers": [
+                "International Red Cross",
+                "American Red Cross",
+                "red cross"
+            ],
+            "incorrect1": "Médecins Sans Frontières (Doctors Without Borders)",
+            "incorrect2": "Amnesty International",
+            "incorrect3": "United Nations",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This character's memorable line, \"Remember who you are,\" serves as a powerful reminder of Simba's royal heritage and his destiny to rule the Pride Lands. His untimely death, orchestrated by his brother Scar in a wildebeest stampede, is one of the most iconic and heartbreaking moments in Disney animation history. His spirit appears to Simba in a vision, urging him to take his rightful place as king. He is voiced by James Earl Jones, whose deep and resonant voice adds to the character's regal presence. Who is this beloved character, the wise and benevolent king of the Pride Lands in Disney's \"The Lion King\"?",
+            "answers": ["Mufasa"],
+            "incorrect1": "Scar",
+            "incorrect2": "Simba",
+            "incorrect3": "Nala",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This religion's (and the word's) largest gathering, the Maha Kumbh Mela, is held every 12 years. This year it is happening at the city of Prayagra. It attracts millions of pilgrims who bathe in sacred rivers for purification and spiritual renewal.  Its traditional practice of yoga, a system of physical and mental disciplines, has gained global popularity for its health benefits and spiritual significance.  Its concept of reincarnation, the belief that the soul is reborn after death, is a central tenet.  What is this religion, the world's oldest major religion, with over a billion followers, primarily in India and Nepal?",
+            "answers": ["Hinduism", "Hindu"],
+            "incorrect1": "Buddhism",
+            "incorrect2": "Islam",
+            "incorrect3": "Christianity",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 Darien DEFT",
+            "question": "This author's novel about Laura Hawkins coined the term \"the Gilded Age.\" This author wrote about a lawyer who uses fingerprints to prove that Tom Driscoll had been switched at birth with Valet de Chambers. This author of Pudd'nhead Wilson created a character who tricks his friends into whitewashing a fence, and gets lost in McDougal's Cave with Becky Thatcher. Another of his protagonists floats down the Mississippi with the escaped slave Jim. Name this author of The Adventures of Tom Sawyer and a sequel about Huckleberry Finn.",
+            "answers": ["Mark Twain", "Samuel Clemens"],
+            "incorrect1": "Ernest Hemingway",
+            "incorrect2": "William Faulkner",
+            "incorrect3": "F. Scott Fitzgerald",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "In 2012 an unknown disk-shaped object was found on the floor of this sea. Arms of this sea include the Gulf of Riga and Gulf of Bothnia. The Kiel Canal bypasses Kattegat Bay and Skagerrak Strait to connect this sea to the North Sea. Germany and Poland are on its southern shore. Name this sea bordered by Estonia, Latvia, and Lithuania, its namesake \"States,\" as well as Finland and Sweden.",
+            "answers": ["Baltic Sea"],
+            "incorrect1": "North Sea",
+            "incorrect2": "Mediterranean Sea",
+            "incorrect3": "Black Sea",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "During this battle, Confederate armies attempted to drive their opponent towards Owl Creek, but Union forces fell back towards an area known as the Hornet's Nest instead. Albert Sidney Johnston was killed on the first day of this battle, and the arrival of General Buell's troops sent the Confederates packing after day two. Name this April 6, 1862 battle fought in Tennessee.",
+            "answers": ["Battle of Shiloh", "Battle of Pittsburg Landing"],
+            "incorrect1": "Battle of Gettysburg",
+            "incorrect2": "Battle of Antietam",
+            "incorrect3": "Battle of Vicksburg",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2022 MAKEMAKE",
+            "question": "This country's traditional percussion orchestra, popular among the Sundanese people, is called the gamelan. A massive Buddhist temple called Borobudur is found in this country, where many Hindus live on the island of Bali. This country is the largest Muslim-majority country in the world, and it borders Malaysia and Brunei on the island of Borneo. Name this island country led from Jakarta.",
+            "answers": ["Indonesia", "Republic of Indonesia"],
+            "incorrect1": "Malaysia",
+            "incorrect2": "Philippines",
+            "incorrect3": "Singapore",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This figure was imprisoned on the Isle of Pines before going into exile in Mexico, returning home on the yacht Granma. After failing to seize Moncada barracks, his \"History will absolve me\" speech helped organize the 26th of July movement to depose Fulcengio Batista, after which he resisted the Bay of Pigs invasion along with his brother Raul. Name this leader who, with Che Guevara, established a long-standing Communist government in Cuba.",
+            "answers": ["Fidel Castro", "Fidel Alejandro Castro Ruz"],
+            "incorrect1": "Che Guevara",
+            "incorrect2": "Raul Castro",
+            "incorrect3": "Fulgencio Batista",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "The title character of this novel studies the works of Cornelius Agrippa and Albertus Magnus. The oriental languages scholar and friend Henry Clerval nurses him back to health in Ingolstadt. We hear about this from the letters of the ship's captain Robert Walton to Margaret Saville about meeting that title character in the Arctic. The central creation admires Felix and Agatha and saves a girl from drowning but kills William in revenge for his own eight-foot height and hideous appearance. Name this Gothic novel subtitled \"The Modern Prometheus\" by its author Mary Shelley.",
+            "answers": ["Frankenstein", "The Modern Prometheus"],
+            "incorrect1": "Dracula",
+            "incorrect2": "The Mummy",
+            "incorrect3": "Dr. Jekyll and Mr. Hyde",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This coach began his NFL coaching career as a special assistant with the Baltimore Colts in 1975, earning a mere $25 per week. He has a reputation for being tight-lipped with the media, often giving short and concise answers in press conferences. Known for his stoic demeanor and his preference for hoodies on the sidelines, he holds the record for the most Super Bowl wins as a head coach, with six championships to his name. Who is this coach, who led the New England Patriots to a record six Super Bowl titles and now leads the University of North Carolina?",
+            "answers": ["Bill Belichick"],
+            "incorrect1": "Tom Brady",
+            "incorrect2": "Vince Lombardi",
+            "incorrect3": "Don Shula",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This gaming console's revolutionary motion controls, utilizing a wireless controller, allowed players to physically interact with games, swinging a virtual tennis racket or bowling a virtual ball. Its family-friendly games attracted a wide audience, including casual gamers and families. Its innovative design and focus on motion-controlled gameplay made it a commercial success, selling over 100 million units worldwide. What is the name of this Nintendo console, released in 2006?",
+            "answers": ["Wii"],
+            "incorrect1": "Nintendo Switch",
+            "incorrect2": "PlayStation",
+            "incorrect3": "Xbox",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2009 Fall Novice Tournament",
+            "question": "This phylum's skeleton is composed of miniscule networks of calcium carbonate known as stereom. These animals possess ampullae in their tube feet, which is part of their water vascular system used for feeding, moving, and breathing. Examples of this phylum include class Asteroidea. The only deuterostome phylum other than the Chordates name this phylum which includes sea urchins, starfish, and sand dollars.",
+            "answers": ["echinoderms", "echinodermata"],
+            "incorrect1": "arthropods",
+            "incorrect2": "mollusks",
+            "incorrect3": "cnidarians",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This director passed away on January 25, 2025 at age 78. This director's films, known for their surreal imagery and dreamlike sequences, often feature enigmatic characters and unsettling narratives that defy easy interpretation. His 1980 film, \"The Elephant Man,\" a biographical drama about a severely deformed man, earned him critical acclaim and eight Academy Award nominations. He created the cult classic television series \"Twin Peaks,\" which captivated audiences with its quirky characters and mysterious plotlines. Name this director of Mulholland Drive.",
+            "answers": ["David Lynch"],
+            "incorrect1": "Quentin Tarantino",
+            "incorrect2": "Stanley Kubrick",
+            "incorrect3": "Christopher Nolan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2016 PLATO",
+            "question": "One former leader of this organization, Don Black, created the hate website Stormfront. Nathan Bedford Forrest was an early leader of this organization, glorified in D.W. Griffith's Birth of a Nation, which opposed carpetbaggers and scalawags. Members of this group sometimes burned crosses and lynched blacks, following the instructions of their \"Grand Wizard.\" Name this white supremacist group famous for its white hooded costumes.",
+            "answers": ["Ku Klux Klan", "KKK"],
+            "incorrect1": "Proud Boys",
+            "incorrect2": "Oath Keepers",
+            "incorrect3": "Antifa",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2020 MOQBA Novice",
+            "question": "Adjuvants, like aluminum salts, are sometimes included with these treatments to boost immune response to them. Thiomersal is a mercury-containing compound used as a preservative for these treatments, which can be either attenuated or inactivated. Andrew Wakefield promulgated the now-debunked theory that the MMR type of these treatments caused autism. Jonas Salk created one of these treatments for polio. Name these immunizations that build immunity by exposing patients to a weakened or dead virus.",
+            "answers": ["vaccines", "polio vaccines", "MMR vaccines"],
+            "incorrect1": "antibiotics",
+            "incorrect2": "antivirals",
+            "incorrect3": "placebos",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This type of agreement was made between forces in Gaza. Another such agreement, signed on the 11th hour of the 11th day of the 11th month in 1918, ended World War I. Another, reached in 1953 after three years of fighting, divided the Korean Peninsula and established a Demilitarized Zone.  Yet another, signed in 1973, aimed to end the Vietnam War but ultimately proved ineffective.  What are these agreements, intended to bring a pause in hostilities?",
+            "answers": ["Cease Fire"],
+            "incorrect1": "Victory",
+            "incorrect2": "Treaty",
+            "incorrect3": "Surrender",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "This figure met his demise when he was struck by a piece of wood from his own vessel. While in Colchis visiting King Aeetes, he accomplished such tasks as yoking fire-breathing oxen and dispatching a group of warriors that sprang forth after dragon teeth were sown into the ground, all to get the Golden Fleece. He was aided in these tasks by his future wife Medea. Name this leader of the Argonauts.",
+            "answers": ["Jason"],
+            "incorrect1": "Freddy Krueger",
+            "incorrect2": "Paul Bunyan",
+            "incorrect3": "Alexander the Great",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "Edward Larson won a Pulitzer Prize for the book Summer for the Gods, a work focusing on this event. Witnesses included future Senator Tom Stewart, judge John Raulston, and H.L. Mencken, who covered this event for the Baltimore Sun. Taking place in Rhea County, it resulted in a one hundred dollar fine from the violation of the Butler Act by a high school teacher from Dayton, Tennessee. Identify this 1925 court case that saw Clarence Darrow and William Jennings Bryan argue about the legality of teaching evolution in school.",
+            "answers": [
+                "The State of Tennessee vs. John Thomas Scopes",
+                "Scopes Trial",
+                "Scopes Monkey Trial"
+            ],
+            "incorrect1": "Brown v. Board of Education",
+            "incorrect2": "Roe v. Wade",
+            "incorrect3": "Miranda v. Arizona",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This handheld gaming device, first released in 1989, featured a monochrome green-tinted display and interchangeable cartridges, revolutionizing portable gaming. Its iconic game, Tetris, a puzzle game where players fit falling blocks together, became a global phenomenon and a bestseller for the device. Its battery life, which could last for over 30 hours on two AA batteries, made it a popular choice for on-the-go entertainment. What is the name of this Nintendo handheld console, which sold over 118 million units worldwide?",
+            "answers": ["Game Boy"],
+            "incorrect1": "Nintendo DS",
+            "incorrect2": "PlayStation Portable",
+            "incorrect3": "Sega Game Gear",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This new golf league, founded by Tiger Woods and Rory McIlroy, is set to revolutionize the sport with its innovative team format and high-tech approach. It will feature six teams of three PGA Tour players competing in a custom-built arena, utilizing advanced technology to track shots and enhance the viewing experience. Matches will be played on Monday nights, offering a primetime alternative to traditional golf tournaments. What is the name of this league, which aims to attract a younger audience and bring a new level of excitement to the sport?",
+            "answers": ["TGL", "Tomorrow's Golf League"],
+            "incorrect1": "PGA Tour",
+            "incorrect2": "LIV Golf",
+            "incorrect3": "DP World Tour",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "One participant in this event sent a letter to Father Garnet asking for help in raising an army but his pleas were rejected. This event was uncovered when a letter sent by Francis Tresham to Baron Monteagle was delivered to Robert Cecil. Several perpetrators of this event died or were captured at Holbeche House, where they fled after raiding Warwick Castle. This event was orchestrated by a man angered at the lack of rights given to Catholics by James I, Robert Catesby. Identify this 1605 plot to assassinate the king by blowing up the British Parliament that led to the conviction of Guy Fawkes.",
+            "answers": ["Gunpowder Plot"],
+            "incorrect1": "Boston Tea Party",
+            "incorrect2": "French Revolution",
+            "incorrect3": "American Revolution",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2014 SCOP Novice 5",
+            "question": "Cities in this country include the capital of the IOC, Lausanne, and Davos, which is home to the annual World Economic Forum. It includes Romansh as one of four official languages, and its states, known as cantons, include Lucerne, Geneva, and Zurich. The Matterhorn lies on this country's southern border with Italy. The International Red Cross is based in what famously neutral Alpine country with capital Bern?",
+            "answers": ["Switzerland"],
+            "incorrect1": "Sweden",
+            "incorrect2": "Austria",
+            "incorrect3": "Luxembourg",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This Grand Slam tennis tournament, the first of the four majors to be held each year, is known for its extreme heat, with temperatures on the court often exceeding 100 degrees Fahrenheit (38 degrees Celsius). Its iconic blue Plexicushion courts have been a distinctive feature since 2008.  The tournament's retractable roof stadiums, Rod Laver Arena and Margaret Court Arena, allow for uninterrupted play in case of rain or extreme heat.  What is the name of this tournament, held annually in Melbourne, Australia?",
+            "answers": ["Australian Open"],
+            "incorrect1": "US Open",
+            "incorrect2": "French Open",
+            "incorrect3": "Wimbledon",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2012 SCOP Novice 3",
+            "question": "This city's Paseo de la Reform is home to the \"Angel of Independence\" victory column and runs through Chapultepec Park. Overlooked by the mound volcano Ajusco, this city north of Puebla was built on an island in Lake Texcoco over the sacked ruins of Tenochtitlan; as a result, the artificial valley prevents wind from clearing out heavy smog. The most populous North American city is what capital city?",
+            "answers": ["Mexico City", "Ciudad de Mexico", "Mexico DF"],
+            "incorrect1": "Guadalajara",
+            "incorrect2": "Monterrey",
+            "incorrect3": "Tijuana",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2017 Darien DEFT",
+            "question": "The \"Great Relief\" ended this state's siege of Fort St. Angelo on Malta. This empire's Edict of Gulhane began its Tanzimat reforms, while its devshirme recruited young boys to be trained for civil and military service. This empire's Hayreddin Barbarossa was defeated by Don John of Austria's Holy League fleet at Lepanto, while Poland's \"Winged Hussars\" drove off its 1683 siege of Vienna. The \"sick man of Europe\" was what empire ruled by Sultan Suleiman the Magnificent from Istanbul?",
+            "answers": ["Ottoman Empire"],
+            "incorrect1": "Roman Empire",
+            "incorrect2": "Byzantine Empire",
+            "incorrect3": "Mughal Empire",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "It reportedly began with the false accusations of a wigmaker's apprentice, which supposedly led a crowd to throw snowballs. The first person to die in this incident was Crispus Attucks, and in total five people died out of the three hundred estimated to be in the crowd surrounding Captain Thomas Preston's British troops. Identify this 1770 incident named for the New England city where it occurred.",
+            "answers": ["Boston Massacre"],
+            "incorrect1": "Boston Tea Party",
+            "incorrect2": "Battle of Bunker Hill",
+            "incorrect3": "Paul Revere's Ride",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "On January 20, 2025, this ceremony was held to swear in Donald Trump as the president of the United States. The ceremony was moved inside the Capitol building for the first time in 40 years due to cold weather. The word stems from the Latin augur, which refers to the rituals of ancient Roman priests seeking to interpret if it was the will of the gods for a public official to be deemed worthy to assume office. Name this ceremony at which William Henry Harrison gave a historically long address for his historically short presidency.",
+            "answers": ["inaguration"],
+            "incorrect1": "election",
+            "incorrect2": "coronation",
+            "incorrect3": "appointment",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This reality dating show, known for its elaborate rose ceremonies and dramatic eliminations, features a single bachelor who must choose a potential wife from a pool of eligible bachelorettes. The show's iconic mansion, located in Agoura Hills, California, serves as the backdrop for romantic dates and cocktail parties. The final rose ceremony, where the bachelor proposes to his chosen bachelorette, is often a highly anticipated and emotional event. What is the name of this ABC series, which has spawned numerous spin-offs and international versions?",
+            "answers": ["The Bachelor", "bachelor"],
+            "incorrect1": "Too Hot to Handle",
+            "incorrect2": "Love Island",
+            "incorrect3": "Married at First Sight",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This man listens to a poem in which Finn kills Hengest being sung by the Shaper and Unferth has misgivings about a swimming race between this man and Breca. This figure defeats Ongentheow and Wiglaf is the only character to help this man when he fights a dragon. This man's most famous exploits are saving Heorot from a descendent of Cain and killing Grendel's mother. Name this titular character of an Old English epic translated by Seamus Heaney.",
+            "answers": ["Beowulf"],
+            "incorrect1": "The Odyssey",
+            "incorrect2": "Sir Gawain and the Green Knight",
+            "incorrect3": "The Canterbury Tales",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2022 SANDS",
+            "question": "Users of this language can use the command \"pip\" to install external modules. Instead of curly brackets, this language uses syntactic indentation to distinguish blocks of code. This programming language emphasizes human readability and uses keywords like \"and\" and \"not\" instead of symbols. Name this popular programming language named after a British comedy group that shares its name with a type of snake.",
+            "answers": ["Python"],
+            "incorrect1": "Java",
+            "incorrect2": "JavaScript",
+            "incorrect3": "Rust",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2012 SCOP Novice 3",
+            "question": "This composer wrote three Venetian boat songs for piano, and his fifth symphony honored an anniversary of the Augsburg Confession. This composer of Songs Without Words was inspired by the sight of Fingal's Cave to write the Hebrides Overture. The Reformation, Italian, and Scottish symphonies were composed by what German composer whose \"Wedding March\" was written as incidental music for A Midsummer Night's Dream?",
+            "answers": ["Felix Mendelssohn-Bartholdy"],
+            "incorrect1": "Johann Sebastian Bach",
+            "incorrect2": "Wolfgang Amadeus Mozart",
+            "incorrect3": "Ludwig van Beethoven",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This baseball player, known for his powerful swing and consistent hitting, achieved the rare feat of hitting 700 career home runs, joining the exclusive club of Barry Bonds, Hank Aaron, and Babe Ruth. He won three National League MVP awards and was a key member of the St. Louis Cardinals' World Series championship teams in 2006 and 2011. He returned to the Cardinals for his final season in 2022, receiving a warm welcome from fans and a fitting farewell to his illustrious career. Who is this Dominican-American slugger, known for his humble demeanor and his impact on the game?",
+            "answers": ["Albert Pujols"],
+            "incorrect1": "Babe Ruth",
+            "incorrect2": "Hank Aaron",
+            "incorrect3": "Barry Bonds",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2022 SCOP MS 11",
+            "question": "This president's train refused to stop to aid the victims of a platform collapse that killed thirteen people who were waiting to hear him speak on his \"Swing Around the Circle\" speaking tour, in which this man ranted against the Radical Republicans. Edwin Stanton barricaded himself in his office rather than allow this man to fire him as Secretary of War. The first US president to be impeached was what man who succeeded Abraham Lincoln?",
+            "answers": ["Andrew Johnson"],
+            "incorrect1": "Andrew Jackson",
+            "incorrect2": "Abraham Lincoln",
+            "incorrect3": "Ulysses S. Grant",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2021 CERES",
+            "question": "The elastic rebound theory provides an explanation for how energy is released during these events, whose damage is measured on the Mercalli scale. These events are caused by the movement of P and S waves along faults at boundaries of tectonic plates. The Richter scale measures these events' magnitude, and if their epicenter is in the ocean, tsunamis may form. In what geologic events may the ground shake?",
+            "answers": ["earthquakes"],
+            "incorrect1": "volcanoes",
+            "incorrect2": "tsunamis",
+            "incorrect3": "hurricanes",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This musician's iconic cardigan, worn during Nirvana's MTV Unplugged performance in 1993, sold for a record-breaking $334,000 at auction in 2019. His left-handed Fender Mustang guitar, often seen in music videos and live performances, has become a symbol of his raw and expressive playing style. His struggles with addiction and depression were well-documented, and his tragic death in 1994 at the age of 27 shocked the world. Who is this grunge icon, the lead singer and guitarist of Nirvana?",
+            "answers": ["Kurt Cobain"],
+            "incorrect1": "Eddie Vedder",
+            "incorrect2": "Chris Cornell",
+            "incorrect3": "Layne Staley",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This Middle Eastern country recently elected Joseph Aoun to be president after a two year vacancy. It is known for its delicious cuisine and stunning landscapes, is home to the ancient city of Byblos, one of the oldest continuously inhabited cities in the world. Its capital, Beirut, was once known as the \"Paris of the Middle East\" for its vibrant cultural scene and cosmopolitan atmosphere. The country has a rich history, with influences from Phoenician, Roman, Ottoman, and French civilizations. What is this country, famous for its cedar trees and its diverse population?",
+            "answers": ["Lebanon"],
+            "incorrect1": "Syria",
+            "incorrect2": "Jordan",
+            "incorrect3": "Israel",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2017 Darien DEFT",
+            "question": "The sniper Vasily Zaytsev scored 225 kills during this battle where the Mamayev Kurgan heights changed hands several times due to their position above the battle. A building known as \"Pavlov's House\" held out for 60 days in this battle, part of the Case Blue offensive launched against the Caucasus. Georgy Zhukov led this battle's Operation Uranus, which encircled the German Sixth Army under Friedrich Paulus. Name this World War II battle fought over a Russian city on the Volga River.",
+            "answers": ["Battle of Stalingrad"],
+            "incorrect1": "Battle of Kursk",
+            "incorrect2": "Battle of Moscow",
+            "incorrect3": "Battle of Leningrad",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2015 SCOP Novice 6",
+            "question": "The flooding of this river creates seasonal varzea forests. A cliff on Nevado Mismi is the source of this river, which is called the Solimoes until it meets the Rio Negro at Manaus. This river, whose delta nearly reaches French Guiana, is the namesake habitat for a pink river dolphin. Name this massive South American river that flows through the largest rainforest on Earth.",
+            "answers": ["Amazon River", "Solimoes River"],
+            "incorrect1": "Nile River",
+            "incorrect2": "Mississippi River",
+            "incorrect3": "Yangtze River",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "It was discovered by Carl Gustav Mosander in its oxide form, which is used today in camera lenses. It is found in monazite and bastnasite and its isotope 138 is sometimes used with barium to date rocks, although its 139 isotope is more common. It is often found with cerium and its name means \"to lie hidden\", although it is one of the most common rare earth metals. Name this metal that is the namesake of the series that fills the 4f orbital and which lies above actinium.",
+            "answers": ["lanthanum"],
+            "incorrect1": "cerium",
+            "incorrect2": "praseodymium",
+            "incorrect3": "neodymium",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2014 SCOP Novice 5",
+            "question": "The 1638 Portsmouth Compact established a settlement that would become part of this colony. Its founder published The Bloody Tenet of Persecution in 1644 and purchased land for this colony from the Narragansett Indians. Anne Hutchinson fled religious persecution in Massachusetts to join this colony with the support of Roger Williams, its founder. Name this colony in New England with capital Providence.",
+            "answers": ["Rhode Island", "Providence Plantations"],
+            "incorrect1": "Long Island",
+            "incorrect2": "Manhattan",
+            "incorrect3": "Staten Island",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 SCOP Novice",
+            "question": "The famous ritornello that begins this work switches to a syncopated rhythm before the solo violin enters with high trills and repeated notes to imitate a birdcall. This collection makes up the first third of The Contest Between Harmony and Invention and is an early example of program music, as the composer included sonnets describing the musical depictions such as a shepherd and sheepdog, thunderstorms, and an icy path. Name this set of concerti grossi for violin, string quartet, and basso continuo which includes \"La Primavera,\" or \"Spring,\" written by Antonio Vivaldi.",
+            "answers": [
+                "The Four Seasons",
+                "La Quattro stagioni",
+                "La Primavera",
+                "Spring"
+            ],
+            "incorrect1": "1812 Overture",
+            "incorrect2": "Flight of the Bumblebee",
+            "incorrect3": "Ride of the Valkyries",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This pitcher's name is enshrined on the award given annually to the best pitchers in Major League Baseball, an honor first awarded in 1956. He holds the MLB record for most career wins, with an astounding 511 victories. He pitched for five different teams during his 22-season career, including the Cleveland Spiders and the Boston Americans (now Red Sox). He also holds the record for most career losses, with 316 losses, a testament to his longevity and the different era in which he played. Who is this legendary pitcher, whose name has become synonymous with pitching excellence?",
+            "answers": ["Cy Young"],
+            "incorrect1": "Babe Ruth",
+            "incorrect2": "Sandy Koufax",
+            "incorrect3": "Greg Maddux",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This reality competition show, where aspiring fashion designers compete, features a signature catchphrase, \"One day you're in, and the next day you're out,\" spoken by its longtime host. The show's challenges, which often involve unconventional materials and tight deadlines, test the designers' creativity and technical skills. Its judges, including Nina Garcia, Heidi Klum, and Michael Kors, have become fashion icons in their own right. What is the name of this long-running Bravo series, which has launched the careers of successful designers like Christian Siriano and Mondo Guerra?",
+            "answers": ["Project Runway"],
+            "incorrect1": "America's Next Top Model",
+            "incorrect2": "Making the Cut",
+            "incorrect3": "Next in Fashion",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "This man destroyed the Sacred Band of Thebes while leading the cavalry wing of his father's army at Chaeronea. One of his castles was known as the Castle of the White Demon, and in one siege, he built a mile-long causeway to transport siege engines. In one battle, he surprised King Pyros at the Hydaspes River with his horse Bucephalus. After his death, Diadochi ruled his empire, which was split among his many generals. He defeated the King Darius at the Battles of Gaugemela and Issus. Name this son of Philip of Macedon who founded a Hellenistic Empire.",
+            "answers": ["Alexander the Great", "Alexander III of Macedon"],
+            "incorrect1": "Julius Caesar",
+            "incorrect2": "Genghis Khan",
+            "incorrect3": "Napoleon Bonaparte",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2010 Fall Novice Tournament",
+            "question": "One sub-range in this mountain range's northern section is the Tatra Mountains. This range's highest point is Gerlach Peak, and it forms the northern, eastern, and southern borders of Transylvania. The Iron Gates gorge on the Danube River separates this range from the Balkan Mountains. Name this mountain range in Eastern Europe that runs primarily through Slovakia, Poland, the Ukraine, and Romania.",
+            "answers": ["Carpathian Mountains"],
+            "incorrect1": "Himalayan Mountains",
+            "incorrect2": "Alps",
+            "incorrect3": "Andes Mountains",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This was recently question in confirmation hearings to be secretary of defense in Donald Trump's incoming administration. He served as a nation guardsman at Guant\u00e1namo Bay and in Iraq and Afghanistan. Since 2014, he has been a political commentator for Fox News and a weekend co-host of Fox & Friends from 2017 to 2024. He was previously the executive director of Vets for Freedom and Concerned Veterans for America. Name this veteran and television personality.",
+            "answers": ["Pete Hegseth"],
+            "incorrect1": "Tucker Carlson",
+            "incorrect2": "Sean Hannity",
+            "incorrect3": "Laura Ingraham",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This musician's iconic song, \"One Love,\" with its message of peace and unity, became a global anthem, covered by artists worldwide and adopted by Amnesty International as a symbol of human rights.  His Rastafarian faith, reflected in his music and lifestyle, promoted social justice, equality, and a connection to nature.  He popularized reggae music, blending Jamaican folk rhythms with elements of ska and rocksteady.  Who is this legendary musician, whose music continues to inspire and uplift people around the world?",
+            "answers": ["Bob Marley"],
+            "incorrect1": "Peter Tosh",
+            "incorrect2": "Bunny Wailer",
+            "incorrect3": "Jimmy Cliff",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2017 SCOP Novice 8",
+            "question": "One of this country's ships accidentally killed three British fisherman in the Dogger Bank incident. When this country was denied use of the Suez Canal in 1904, it launched a months-long journey around Africa to reinforce its Pacific Fleet; this country then lost much of its navy in the Battle of Tsushima Straits against Japan and had its admiral, Zinovy Rozhestvensky, taken prisoner. Name this country whose navy received orders from Moscow.",
+            "answers": ["Russian Empire"],
+            "incorrect1": "Soviet Union",
+            "incorrect2": "Ottoman Empire",
+            "incorrect3": "Holy Roman Empire",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "From this state's city of Medford, one can visit a lava formation known as the Upper and Lower Table Rock. A fungus located in this state is said to be the world's largest organism. A national park in this state is named after a feature that formed from the caldera of Mount Mazama. The Willamette river valley is home to a large portion of this state's population. That valley includes its largest city, from which one can see Mount Hood. This state is home to Crater Lake. Name this state south of Washington, home to cities such as Eugene, Salem, and Portland.",
+            "answers": ["Oregon"],
+            "incorrect1": "Washington",
+            "incorrect2": "Idaho",
+            "incorrect3": "California",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Fall Novice Tournament",
+            "question": "Beings of this type include the six-headed Thrudgelmir, his flood-surviving son Bergelmir, and the half-angel Nephilim of the Bible. Ymir was a primordial one of these beings in Norse myth, of whom Thor crushed one named Hrungnir, and the term jotunn often refers to their \"frost\" type. Greek ones included Orion and a bronze one named Talos. Name these large mythological beings which include the antagonist of Jack and the Beanstalk and Goliath.",
+            "answers": ["giants"],
+            "incorrect1": "titans",
+            "incorrect2": "ogres",
+            "incorrect3": "goblins",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This midfielder, renowned for his exceptional passing accuracy and vision, holds the record for the most appearances for FC Barcelona, with 767 appearances for the club. He was a key figure in Barcelona's dominant era under Pep Guardiola, winning numerous trophies, including four Champions League titles and eight La Liga titles. He also played a pivotal role in Spain's victories at the 2010 World Cup and the 2008 and 2012 European Championships.  Who is this Spanish football legend who managed Barcelona from 2021-24?",
+            "answers": ["Xavi Hern\u00e1ndez", "Xavi"],
+            "incorrect1": "Andrés Iniesta",
+            "incorrect2": "Lionel Messi",
+            "incorrect3": "Sergio Busquets",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "The FDA has ordered a ban on a food dye of this color in food. The dye's No. 3 variant has been shown to cause cancer in rats. This color, associated with passion and excitement, is the color of the iconic double-decker buses in London. It is also the color of the traditional phone booths in the United Kingdom and the mailboxes in the United States. In nature, it is the color of ripe strawberries, tomatoes, and roses. What is this color, located at the end of the visible light spectrum?",
+            "answers": ["Red"],
+            "incorrect1": "Blue",
+            "incorrect2": "Green",
+            "incorrect3": "Yellow",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2016 SAGES",
+            "question": "This ship's captain, Christopher Jones, and his crew stayed with this ship's passengers through a brutal winter in Cape Cod. This ship took on passengers from the Speedwell before crossing the Atlantic. Name this ship that brought the Pilgrims to Plymouth Colony in 1620.",
+            "answers": ["Mayflower"],
+            "incorrect1": "Santa Maria",
+            "incorrect2": "Pinta",
+            "incorrect3": "Niña",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2016 PLATO",
+            "question": "Because helium has a lower value for this property than normal air, your voice sounds higher in helium. Strangely, ice has a lower value for this property than water, whereas most solids have a higher value for this property than their liquid forms. This property of matter will cause an object to float or sink compared to the water it is placed into. Name this property of matter which is calculated by dividing mass by volume.",
+            "answers": ["density"],
+            "incorrect1": "mass",
+            "incorrect2": "volume",
+            "incorrect3": "weight",
+            "used": "TRUE"
+        }
     ]
 ]
