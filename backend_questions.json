@@ -23984,5 +23984,622 @@
             "incorrect3": "weight",
             "used": "TRUE"
         }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2021 CERES",
+            "question": "An election to this post in 1855 took 133 ballots to declare a winner, Nathaniel Banks. James Polk was the only holder of this post to later become president. The Contract with America was written by a holder of this post, Newt Gingrich. Holders of this post sign impeachment articles before delivery to the Senate, and are second in the line of succession. Name this post currently held by Mike Johnson.",
+            "answers": [
+                "Speaker of the House",
+                "US Speaker of the House of Reps",
+                "Speaker of the United States House of Representatives"
+            ],
+            "incorrect1": "Senate Majority Leader",
+            "incorrect2": "President of the United States",
+            "incorrect3": "Chief Justice of the Supreme Court",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2020 SCOP A",
+            "question": "Planck's constant is divided by this quantity to find a particle's wavelength in the de Broglie relation. In Noether's theorem, this quantity is conserved as a result of translational invariance. Impulse is a change in this quantity, which is conserved in collisions. According to Newton's second law, force is the time derivative of this quantity. Name this quantity, symbolized p, which is equal to mass times velocity.",
+            "answers": ["momentum", "linear momentum", "p"],
+            "incorrect1": "velocity",
+            "incorrect2": "acceleration",
+            "incorrect3": "force",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "A holiday celebrating this man was observed on January 20, 2025. This civil rights leader was assassinated in 1968 in Memphis, Tennessee, where he had traveled to support a sanitation workers' strike. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial segregation. His iconic \"I Have a Dream\" speech, delivered during the 1963 March on Washington, called for an end to racism and envisioned a future of equality. Who was this influential figure in the American civil rights movement?",
+            "answers": ["Martin Luther King Jr.", "MLK", "Martin Luther King"],
+            "incorrect1": "Malcolm X",
+            "incorrect2": "Rosa Parks",
+            "incorrect3": "Frederick Douglass",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This man was recently elected into baseball's Hall of Fame. This player, who achieved the rare feat of recording 200 hits in ten consecutive seasons, holds the record for the most career hits in professional baseball, with a combined 4,367 hits in Japan and Major League Baseball.  He won the American League MVP award in 2001, his rookie season with the Seattle Mariners, becoming the first Japanese position player to win the award.  He is known for his unique batting stance, with his bat held high above his head, and his exceptional throwing arm from right field.  Who is this legendary outfielder, who retired in 2019 after a 19-year MLB career?",
+            "answers": ["Ichiro Suzuki"],
+            "incorrect1": "Hideki Matsui",
+            "incorrect2": "Shohei Ohtani",
+            "incorrect3": "Yu Darvish",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2018 MVS RAMS",
+            "question": "Geographic features of this country include the Rann of Kutch and the Thar Desert. This country owns the Andaman and Nicobar Islands and the Lakshadweep Islands as union territories. Several mountain ranges pass through this country, including the Hindu Kush and Himalayas. The Ganges is this country's longest river. Name this country with a capital at New Delhi.",
+            "answers": ["India", "Republic of India", "Bharat"],
+            "incorrect1": "China",
+            "incorrect2": "Pakistan",
+            "incorrect3": "Bangladesh",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2015 SAGES",
+            "question": "Because this language originated in the Castile region, it is also known as castellano. In cities like Granada, this language came into contact with Arabic. Writers of this language use a tilde in words like ano. Name this language spoken in Madrid and Mexico City.",
+            "answers": ["Spanish", "espanol", "castellano"],
+            "incorrect1": "Portuguese",
+            "incorrect2": "Italian",
+            "incorrect3": "French",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2012 SCOP Novice 3",
+            "question": "The uniting of one couple in this opera leads to stuttering in the duet \"Pa, pa, pa.\" In this opera's aria \"O zittre nicht,\" Pamina is pledged to be wed to one character if she can be saved from Sarastro, while another aria, \"Der Holle Rache,\" contains four high F notes. Those arias are both sung by the Queen of the Night. Name this Mozart opera in which Tamino is given the title musical instrument.",
+            "answers": ["The Magic Flute", "Die Zauberflote"],
+            "incorrect1": "The Marriage of Figaro",
+            "incorrect2": "Don Giovanni",
+            "incorrect3": "Così fan tutte",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This reality competition show features a signature phrase, \"It's a ten from Len!\", exclaimed by former judge Len Goodman.  The show's judging panel, including Carrie Ann Inaba, Bruno Tonioli, and Derek Hough, provides feedback and scores on the contestants' performances.  Its mirrorball trophy, awarded to the winning couple, has become a coveted prize in the world of celebrity dance competitions.  What is the name of this long-running ABC series, which has featured a diverse cast of celebrities, from athletes and actors to singers and politicians?",
+            "answers": ["Dancing with the Stars"],
+            "incorrect1": "Strictly Come Dancing",
+            "incorrect2": "So You Think You Can Dance",
+            "incorrect3": "America's Got Talent",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2010 SCOP Novice",
+            "question": "In U.S. vs. E.C. Knight, the Supreme Court ruled that this act could did not give Congress the power to disrupt local manufacturing. Theodore Roosevelt first used the powers granted by this act in 1902 to sue the Northern Securities Company. Including the Establishment Clause, name this 1890 act that gave the Federal Government the power to break up trusts, later strengthened by the Clayton Act.",
+            "answers": ["Sherman Antitrust Act", "Sherman Act"],
+            "incorrect1": "Clayton Antitrust Act",
+            "incorrect2": "Federal Trade Commission Act",
+            "incorrect3": "Robinson-Patman Act",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 SCOP MS 7",
+            "question": "This project included man-made sections like the Gaillard Cut and Gatun Lake, and it was completed in 1914 due in large part to William Gorgas's efforts to control malaria and yellow fever outbreaks. This 48-mile-long structure included three locks to help boats cross between the Atlantic and Pacific. Name this Central American engineering project.",
+            "answers": ["Panama Canal"],
+            "incorrect1": "Suez Canal",
+            "incorrect2": "Erie Canal",
+            "incorrect3": "Grand Canal",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "The leader of this country, recently cruised to re-election in a contest some have described as rigged. The leader, Aleksandr Lukashenko, is Europe\u2019s longest-serving leader. His Eastern European country, often referred to as \"Europe's last dictatorship,\" maintains close ties with Russia. Its capital, Minsk, is home to the imposing Independence Square, one of the largest public squares in Europe. It is known for its vast forests, which cover over 40% of its land area, and its production of potash, a key ingredient in fertilizers. What is this landlocked nation, bordered by Russia, Ukraine, Poland, Lithuania, and Latvia?",
+            "answers": ["Belarus"],
+            "incorrect1": "Ukraine",
+            "incorrect2": "Poland",
+            "incorrect3": "Lithuania",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This university's football team recently became the first winner of the expanded College Football Playoff. This university's athletic program boasts a fierce rivalry with the University of Michigan, a matchup dubbed \"The Game.\" Its football team has won eight national championships, including the first-ever College Football Playoff National Championship in 2015. Its men's basketball team has won one national championship, in 1960, led by legendary coach Fred Taylor. What is the name of this university, whose athletic teams are known as the Buckeyes?",
+            "answers": ["Ohio State", "OSU", "The ohio state university"],
+            "incorrect1": "Princeton",
+            "incorrect2": "Michigan",
+            "incorrect3": "Penn State",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2020 SCOP MS 10",
+            "question": "This soldier was declared a martyr by Pope Callixtus III. Saint Michael is a patron saint of France in part because this soldier had visions of Saints Michael, Margaret, and Catherine telling her to escort the Dauphin to Reims, which required her to lift the English siege of Orleans. French armies in the Hundred Years' War rallied behind what peasant girl who was burned at the stake?",
+            "answers": [
+                "Saint Joan of Arc",
+                "Jeanne d'Arc",
+                "Saint Joan",
+                "Joan of Arc"
+            ],
+            "incorrect1": "Saint Catherine of Siena",
+            "incorrect2": "Saint Teresa of Ávila",
+            "incorrect3": "Saint Thérèse of Lisieux",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 SCOP Novice",
+            "question": "In this work, Sister Gudule is unaware that her daughter is alive; that daughter continues performing with her pet goat after being accused of sorcery. Before that gypsy woman is hanged in this work for falsely confessing to the murder of Phoebus, a deaf man saves her for previously giving him water. The main character is crowned the King of Fools for being remarkably ugly, and Archdeacon Claude Frollo is repeatedly denied love by La Esmeralda. Name this Victor Hugo novel about Quasimodo, a deformed man who lives in a Paris cathedral.",
+            "answers": ["The Hunchback of Notre Dame"],
+            "incorrect1": "Les Misérables",
+            "incorrect2": "The Phantom of the Opera",
+            "incorrect3": "Notre-Dame de Paris",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This reality dating show, where singles get engaged before ever meeting in person, features a unique format where participants communicate through \"pods,\" isolated rooms where they can talk but not see each other. The show's social experiment explores whether love can truly be blind, as couples navigate the challenges of building relationships based on emotional connection rather than physical attraction. Its dramatic weddings, where couples decide at the altar whether to say \"I do\" or \"I don't,\" have become a signature element of the show. What is the name of this Netflix series, which has sparked conversations about modern dating and the nature of love?",
+            "answers": ["Love Is Blind"],
+            "incorrect1": "Married at First Sight",
+            "incorrect2": "The Bachelor",
+            "incorrect3": "Too Hot to Handle",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2022 MAKEMAKE",
+            "question": "Solutions that keep this quantity constant are described by the Henderson-Hasselbalch equation. This quantity can be found by taking the negative log of a solution's H+ ion concentration. Solutions that resist changes in this quantity are known as buffers. Indicators like litmus paper measure this quantity, which is close to zero for hydrochloric acid. Name this measure of acidity, ranging from 0-14.",
+            "answers": [
+                "pH",
+                "power of hydrogen",
+                "power of HS+S",
+                "potential of hydrogen"
+            ],
+            "incorrect1": "pOH",
+            "incorrect2": "molarity",
+            "incorrect3": "temperature",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2013 SCOP Novice 4",
+            "question": "One of these elements is more stable with a half-filled lower-energy shell than a partially-filled higher-energy shell, so it violates the Aufbau principle. Many of these elements are paramagnetic, most have multiple oxidation states, and they include the lanthanides and actinides. Groups 3 through 12 are what f- and d-block elements, which are shown in the middle of the periodic table?",
+            "answers": ["transition metals", "transition elements", "copper"],
+            "incorrect1": "alkali metals",
+            "incorrect2": "alkaline earth metals",
+            "incorrect3": "noble gases",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "The island of Marajo is located at the mouth of this river which was named by Spanish conquistador Francisco de Orellana for the warrior women of Greek mythology. This river's source lies in the Andes of Peru, but it flows more than 4,000 miles east where it empties into the Atlantic Ocean. Electric eels, anacondas, and piranhas are among the wildlife found in what river that drains the rainforests of Brazil?",
+            "answers": ["Amazon River", "Rio Amazonas"],
+            "incorrect1": "Nile River",
+            "incorrect2": "Mississippi River",
+            "incorrect3": "Yangtze River",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This talent show competition, known for its diverse range of acts, from singers and dancers to magicians and comedians, features a panel of celebrity judges who offer critiques and decide which contestants advance in the competition. Its iconic golden buzzer, which sends a contestant directly to the live shows, has become a symbol of the show's ability to discover and showcase extraordinary talent. The show's host, Terry Crews, is known for his enthusiastic reactions and his catchphrase, \"You got the golden buzzer!\" What is the name of this NBC series, which has launched the careers of successful performers like Jackie Evancho and Grace VanderWaal?",
+            "answers": ["America's Got Talent", "agt"],
+            "incorrect1": "American Idol",
+            "incorrect2": "The Voice",
+            "incorrect3": "So You Think You Can Dance",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2010 SCOP Novice",
+            "question": "This man spearheaded the Poor People's Campaign, and, two years previously, this first president of the Southern Christian Leadership Conference was asked to attend a voting rights demonstration in Selma that was broken up by police violence on 1965's \"Bloody Sunday.\" This author of a \"Letter from Birmingham Jail\" led a March on Washington for Jobs and Freedom five years before his assassination by James Earl Ray. Name this Civil Rights leader who organized the Montgomery Bus Boycott and gave the \"I Have a Dream\" speech.",
+            "answers": [
+                "Dr. Martin Luther King, Jr.",
+                "MLK",
+                "Martin Luther King"
+            ],
+            "incorrect1": "Malcolm X",
+            "incorrect2": "Rosa Parks",
+            "incorrect3": "W.E.B. Du Bois",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2014 SCOP Novice 5",
+            "question": "The driest thing one character in this work knows is a lecture on William the Conqueror, and a poem in this novel asks how Father William can stand on his head and balance an eel on his nose. White rose bushes are painted red to appease the decapitation-thirsty Queen of Hearts in this work. It features the Mad Hatter and the Cheshire Cat, who guide the title character after she falls down a rabbit hole. Identify this novel by Lewis Carroll.",
+            "answers": [
+                "Alice's Adventures in Wonderland",
+                "Alice in Wonderland"
+            ],
+            "incorrect1": "Through the Looking-Glass",
+            "incorrect2": "Peter Pan",
+            "incorrect3": "The Wonderful Wizard of Oz",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Trump signed an executive order declaring an end to birthright citizenship, an apparent contradiction to this amendment of the U.S. Constitution. The amendment, ratified in 1868, also guaranteed all citizens \"equal protection of the laws.\"  It was one of three amendments passed during the Reconstruction era to abolish slavery and establish civil and legal rights for black Americans.  It has been invoked in landmark Supreme Court cases, such as Brown v. Board of Education, which declared state-sponsored segregation in public schools unconstitutional.  What is this amendment, which has played a pivotal role in the fight for civil rights in the United States?",
+            "answers": [
+                "14th amendment",
+                "fourteenth amendment",
+                "fourteen",
+                "14"
+            ],
+            "incorrect1": "1st amendment",
+            "incorrect2": "5th amendment",
+            "incorrect3": "19th amendment",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This baseball legend's 56-game hitting streak in 1941, a record that still stands today, captivated the nation and earned him the nickname \"The Yankee Clipper.\" He was a three-time American League MVP and a nine-time World Series champion with the New York Yankees. His marriage to Marilyn Monroe in 1954 made them one of the most glamorous couples of the era. Who is this Hall of Fame center fielder, known for his grace, power, and quiet dignity?",
+            "answers": ["Joe DiMaggio"],
+            "incorrect1": "Mickey Mantle",
+            "incorrect2": "Babe Ruth",
+            "incorrect3": "Yogi Berra",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This philosopher oddly denounced atheists in A Letter Concerning Toleration, and his work Some Thoughts Concerning Education claimed humans are born without innate ideas, a concept that he called tabula rasa. Another of this empiricist's works describes a good state of nature featuring rights to \"life, liberty, and property.\" Name this English philosopher who authored Two Treatises of Government and An Essay Concerning Human Understanding.",
+            "answers": ["John Locke"],
+            "incorrect1": "Thomas Hobbes",
+            "incorrect2": "Jean-Jacques Rousseau",
+            "incorrect3": "Immanuel Kant",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2018 SCOP Novice 9",
+            "question": "This country's capital city is home to Ancon Hill, an undeveloped jungle reserve surrounded by urban growth just northeast of the Bridge of the Americas. This country's Gatun Lake was the largest man-made lake in the world when it was created in the early 20th century as part of a construction project that the French failed to complete. Name this Central American country where a canal connects the Atlantic and Pacific Oceans.",
+            "answers": ["Panama", "Panama Canal"],
+            "incorrect1": "Costa Rica",
+            "incorrect2": "Nicaragua",
+            "incorrect3": "Colombia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA player, known for his exceptional passing skills and court vision, holds the league's all-time records for both assists and steals, with 15,806 assists and 3,265 steals throughout his career.  He played his entire 19-season career with the Utah Jazz, forming a legendary partnership with power forward Karl Malone.  He was a ten-time NBA All-Star and was inducted into the Naismith Memorial Basketball Hall of Fame in 2009.  Who is this point guard, known for his pick-and-roll mastery and his quiet leadership on the court?",
+            "answers": ["John Stockton"],
+            "incorrect1": "Karl Malone",
+            "incorrect2": "Magic Johnson",
+            "incorrect3": "Steve Nash",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "Violence between rebel groups vying for the cocaine trade in this country's Catatumbo region recently left at least 60 dead. This South American country, known for its vibrant coffee culture and its production of emeralds, is a world leading exporter of both.  Its capital city, Bogot\u00e1, is a bustling metropolis located high in the Andes Mountains. It is home to part of the Amazon rainforest, a vast and biodiverse ecosystem that plays a crucial role in global climate regulation.  What is this country, known for its rich cultural heritage, including its vallenato music and its colorful festivals?",
+            "answers": ["Colombia"],
+            "incorrect1": "Bolivia",
+            "incorrect2": "Venezuela",
+            "incorrect3": "Ecuador",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2019 SCOP Novice 10",
+            "question": "In rational functions, setting the denominator equal to zero and solving for x will produce asymptotes with this property. In order for a relation to be a function, a line with this property cannot intersect the graph at any point more than once, according to a test named for these lines. Lines with this property do not have slope, and are parallel to the y-axis. Name this geometric property held by the y-axis, which crosses the horizontal x-axis.",
+            "answers": [
+                "vertical",
+                "vertical lines",
+                "vertical line test",
+                "vertical asymptotes"
+            ],
+            "incorrect1": "horizontal",
+            "incorrect2": "diagonal",
+            "incorrect3": "perpendicular",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2010 SCOP Novice",
+            "question": "This thinker denounced synagogues in On the Jews and Their Lies. With Zwingli, he attended the Marburg Colloquy to debate transubstantiation. This author of the Augsburg Confession was excommunicated by \"Exsurge Domine,\" announced by Pope Leo X, for radical ideas such as a priesthood of all believers and salvation through works alone. Condemned by the Diet of Worms and opposed to Tetzel's sale of indulgences, name this German monk who sparked the Protestant Reformation with his \"Ninety-Five Theses\".",
+            "answers": ["Martin Luther"],
+            "incorrect1": "John Calvin",
+            "incorrect2": "Ulrich Zwingli",
+            "incorrect3": "Desiderius Erasmus",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This man wrote about Jimboy and Sandy Williams in Not Without Laughter, and he included the line, \"Life for me ain't been no crystal stair,\" in \"Mother to Son.\" In another of his poems, he questions whether the titular concept would, \"crust and sugar over-/like a syrupy sweet?\". Name this Harlem Renaissance poet of \"Montage of a Dream Deferred\", who describes a dream as \"a raisin in the sun\" and writes that his soul has grown deep in \"The Negro Speaks of Rivers.\"",
+            "answers": ["Langston Hughes"],
+            "incorrect1": "Zora Neale Hurston",
+            "incorrect2": "James Baldwin",
+            "incorrect3": "Countee Cullen",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This action-adventure sandbox game, with its retro 2D graphics and procedurally generated worlds, allows players to explore vast landscapes, build structures, craft items, and battle a variety of creatures.  Its Eye of Cthulhu boss, a menacing flying eye with tentacles, is a challenging early-game encounter for players.  Its crafting system allows players to combine resources to create powerful weapons, armor, and tools.  What is the name of this popular indie game, often compared to Minecraft for its open-world exploration and creative building elements?",
+            "answers": ["Terraria"],
+            "incorrect1": "Minecraft",
+            "incorrect2": "Starbound",
+            "incorrect3": "Don't Starve",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2017 Darien DEFT",
+            "question": "This company manufactured B-24 bombers at its Willow Run factory. Walter Reuther, a leader of the UAW, was beaten by this company's security guards at the Battle of the Overpass. This company employed the \"Whiz Kids,\" who were instrumental in the release of the Falcon. Robert McNamara and Lee Iacocca led this company, whose founder promoted an 8-hour work day with $5 of pay. That founder started a rubber colony in Brazil and stated customers could have \"any color so long as it's black\" on the \"tin lizzie.\" What company released the Model T?",
+            "answers": ["Ford Motor Company", "Ford"],
+            "incorrect1": "General Motors",
+            "incorrect2": "Chrysler",
+            "incorrect3": "Tesla",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This baseball player's record of 2,130 consecutive games played, a feat that earned him the nickname \"The Iron Horse,\" stood for 56 years until it was broken by Cal Ripken Jr. in 1995. He was a six-time World Series champion and two-time American League MVP with the New York Yankees, forming a legendary duo with Babe Ruth. His retirement speech at Yankee Stadium in 1939, in which he declared himself \"the luckiest man on the face of the earth,\" is considered one of the most iconic moments in sports history. Who is this Hall of Fame first baseman, whose career was tragically cut short by Amyotrophic Lateral Sclerosis (ALS)?",
+            "answers": ["Lou Gehrig"],
+            "incorrect1": "Babe Ruth",
+            "incorrect2": "Joe DiMaggio",
+            "incorrect3": "Mickey Mantle",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2014 SCOP Novice 5",
+            "question": "After insulting the gods, this figure fled to Franang's Falls disguised as a salmon. This god's daughter rules a namesake underworld, and earthquakes are the result of this god writhing in pain as he is punished for tricking Hodr into killing Baldr. He is the lover of the giantess Angrboda, and is often depicted as a part-giant shapeshifter. Name this Norse trickster god.",
+            "answers": ["Loki"],
+            "incorrect1": "Thor",
+            "incorrect2": "Odin",
+            "incorrect3": "Heimdall",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Citizens of this country recently celebrated a new law allowing same-sex marriage with a mass wedding at one of the capital's malls. This Southeast Asian country, known for its ornate temples and vibrant markets, is home to the Grand Palace, a sprawling complex that served as the official residence of the Kings of Siam. Its capital city, Bangkok, is a bustling metropolis with a rich history and a vibrant nightlife. It is one of the world's largest exporters of rice and a major producer of rubber and textiles. What is this country, famous for its friendly people, delicious cuisine, and iconic tuk-tuk taxis?",
+            "answers": ["Thailand"],
+            "incorrect1": "Taiwan",
+            "incorrect2": "Vietnam",
+            "incorrect3": "Malaysia",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This reality singing competition features a panel of judges who try to guess who is behind the mask based on their voices and clues provided throughout the show.  The show's host, Nick Cannon, often adds his own comedic commentary and flamboyant style to the proceedings.  The Golden Mask trophy, awarded to the winner of each season, has become a coveted prize for celebrities seeking to showcase their hidden talents.  What is the name of this popular Fox series, which has spawned international versions and featured a diverse range of celebrity contestants?",
+            "answers": ["The Masked Singer"],
+            "incorrect1": "American Idol",
+            "incorrect2": "The Voice",
+            "incorrect3": "Dancing with the Stars",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2017 SCOP Novice 8",
+            "question": "This country's city of Tacloban was devastated in 2013 by Typhoon Haiyan. This archipelagic country east of the Sulu Sea is divided into island groups of Visayas, Mindanao, and Luzon, the last of which is home to Quezon City. In 2016, a tribunal sided with this country, denying China's Nine-Dash Line claims to the South China Sea on this country's west. Tagalog is spoken in what Asian island country with capital Manila?",
+            "answers": ["the Philippines", "Republic of the Philippines"],
+            "incorrect1": "Indonesia",
+            "incorrect2": "Malaysia",
+            "incorrect3": "Vietnam",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2021 SCOP B",
+            "question": "Leucippus proposed the existence of these objects, whose \"swerve\" was described by Lucretius. The presence of \"corpuscles\" within these objects was confirmed by an experiment with cathode ray tubes. JJ Thomson's \"plum pudding\" model of these objects was disproved by Rutherford's gold foil experiment, which described these things' center as a dense nucleus that, in the Bohr model, was orbited by negatively-charged particles. Name these tiny objects composed of neutrons and protons surrounded by electrons.",
+            "answers": ["atoms"],
+            "incorrect1": "molecules",
+            "incorrect2": "protons",
+            "incorrect3": "electrons",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2017 Darien DEFT",
+            "question": "Governor Alexander Spotswood's Knights of the Golden Horseshoe expedition explored the interior of this colony that Opechancanough led multiple wars against. A rebellion in this colony started with demand of a militia commission from Governor William Berkeley to defend against Indian raids, though its leader died of dysentery. This larger colony's first settlement saw the \"starving time\" and became successful after John Rolfe planted tobacco. Name this colony where Bacon's Rebellion burned down Jamestown.",
+            "answers": ["Virginia", "Colony of Virginia"],
+            "incorrect1": "West Virginia",
+            "incorrect2": "North Carolina",
+            "incorrect3": "Maryland",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 KICKOFF Novice",
+            "question": "This country is home to Manaus, where its largest river meets the Rio Negro. That river in this country alternatively names the pink river dolphin, the primary predator for piranhas. This country contains the world's greatest number of uncontacted tribes, many of which are threatened by deforestation encouraged by its former president. Name this large South American country, home to the majority of the Amazon Rainforest.",
+            "answers": [
+                "Brazil",
+                "Federative Republic of Brazil",
+                "Republica Federativa do Brasil"
+            ],
+            "incorrect1": "Argentina",
+            "incorrect2": "Mexico",
+            "incorrect3": "Colombia",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2019 SCOP Novice 10",
+            "question": "This event began with Richie Havens, who played for over two hours and gave several encores as a stalling tactic while organizers waited for other performers to arrive. Max Yasgur's dairy farm near White Lake was the site of this event, whose performers included Creedence Clearwater Revival, Jefferson Airplane, and Jimi Hendrix. Name this 1969 music festival in upstate New York, often hailed as the high point of the hippie movement.",
+            "answers": [
+                "Woodstock Music Festival",
+                "Aquarian Music Festiva",
+                "Bethel Rock Festival"
+            ],
+            "incorrect1": "Coachella",
+            "incorrect2": "Lollapalooza",
+            "incorrect3": "Burning Man",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "Four people were killed in this city's St. John's Regional Medical Center, which is now closed and scheduled for demolition. The Red Cross estimated 25% of this town was destroyed that same day, including about 7,000 houses. Identify this Missouri city devastated by a tornado rated as an EF-5, the highest on the Enhanced Fujita scale, in May 2011.",
+            "answers": ["Joplin Tornado Outbreak", "torando"],
+            "incorrect1": "Tri-State Tornado",
+            "incorrect2": "Super Outbreak",
+            "incorrect3": "Palm Sunday Tornado Outbreak",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2015 SCOP Novice 6",
+            "question": "Kerry Emanuel has tracked a 25-year increase in the force of these events by measuring their \"power dissipation\", and the Mariners' 1-2-3 rule estimates the error in predicting their paths. The Saffir-Simpson scale rates the intensity of these events which inflict the most damage by generating storm surges. Mostly calm within the eye name these tropical cyclones with wind speeds above 75 miles per hour and names like Joaquin, Sandy, and Katrina.",
+            "answers": ["hurricanes", "tropical cyclone"],
+            "incorrect1": "tornadoes",
+            "incorrect2": "typhoons",
+            "incorrect3": "cyclones",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This gaming console's iconic controller, with its distinctive shape and button layout, has become a symbol of gaming culture. Its online service revolutionized online multiplayer gaming, connecting players worldwide. Its latest console, the Series X, boasts powerful hardware and features like ray tracing and Quick Resume. What is the name of this Microsoft gaming console, which competes with Sony's PlayStation and Nintendo's Switch?",
+            "answers": ["Xbox"],
+            "incorrect1": "PlayStation",
+            "incorrect2": "Nintendo",
+            "incorrect3": "PC",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2022 MAKEMAKE",
+            "question": "The Khwarezmian civilization originated from and spoke a language from this modern-day country's east prior to its conquest by Genghis Khan. The Sassanids and Parthians were based in this modern-day country. This modern-day country's city of Persepolis, where Cyrus the Great ruled, was the capital of a large empire conquered by Alexander the Great. Name this country home to the historical region of Persia.",
+            "answers": [
+                "Iran",
+                "Islamic Republic of Iran",
+                "Jomhuri-ye Eslami-ye Iran"
+            ],
+            "incorrect1": "Iraq",
+            "incorrect2": "Afghanistan",
+            "incorrect3": "Saudi Arabia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This basketball player's outspoken personality and controversial statements, both on and off the court, earned him the nickname \"Sir Charles\" and made him a popular figure in sports media. He was a member of the \"Dream Team,\" the legendary 1992 US Olympic basketball team. He won the NBA MVP award in 1993 with the Phoenix Suns, leading them to the NBA Finals. He is known for his powerful rebounding, physical play, and his \"Round Mound of Rebound\" nickname. Who is this Hall of Fame power forward, now a prominent NBA analyst on TNT?",
+            "answers": ["Charles Barkley"],
+            "incorrect1": "Michael Jordan",
+            "incorrect2": "Shaquille O'Neal",
+            "incorrect3": "Magic Johnson",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2015 SCOP Novice 6",
+            "question": "This composer wrote a challenging piano sonata for Count Waldstein and used five alternating pianissimo E and D-sharp notes to open a bagatelle in A minor. One of this composer's piano sonatas has a \"quasi una fantasia\" theme, representing a reflection off Lake Lucerne. Name this composer of \"Fur Elise\" and the Moonlight Sonata, a German composer who was deaf when he composed his ninth and final symphony.",
+            "answers": ["Ludvig van Beethoven", "Beethoven"],
+            "incorrect1": "Wolfgang Amadeus Mozart",
+            "incorrect2": "Johann Sebastian Bach",
+            "incorrect3": "Franz Schubert",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "President Donald Trump recently withdrew the United States from this global organization. The organization's emblem, a Rod of Asclepius with a serpent entwined around it, symbolizes healing and medicine. Its constitution, which came into force on April 7, 1948, aims to promote health, keep the world safe, and serve the vulnerable. It is headquartered in Geneva, Switzerland, and has six regional offices around the world. It played a crucial role in eradicating smallpox, a deadly infectious disease, and continues to work on global health initiatives such as polio eradication and HIV/AIDS prevention. What is this specialized agency of the United Nations responsible for international public health?",
+            "answers": ["World Health Organization", "WHO"],
+            "incorrect1": "Centers for Disease Control and Prevention",
+            "incorrect2": "World Bank",
+            "incorrect3": "United Nations",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This basketball player, known for his exceptional passing skills and his unorthodox \"no-look\" passes, led the NBA in assists for five seasons, showcasing his playmaking ability and court vision. He won back-to-back NBA MVP awards in 2005 and 2006 with the Phoenix Suns, becoming the first Canadian to win the award. He also played for the Dallas Mavericks and Los Angeles Lakers, though injuries plagued the latter part of his career. Who is this Hall of Fame point guard, known for his up-tempo playing style and his leadership on the court?",
+            "answers": ["Steve Nash"],
+            "incorrect1": "Jason Kidd",
+            "incorrect2": "Stephen Curry",
+            "incorrect3": "Magic Johnson",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2015 SAGES",
+            "question": "The Sahel is the southern border of this region. Large areas of sand dunes called ergs make up part of this region. The Nile River Valley is one of the only places plants can grow in this region. Name this African region, the largest hot desert on Earth.",
+            "answers": ["Sahara Desert"],
+            "incorrect1": "Arabian Desert",
+            "incorrect2": "Gobi Desert",
+            "incorrect3": "Kalahari Desert",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "One river of this name rises from the confluence of the Bois de Sioux River and the Otter Tail Rivers in North Dakota before emptying into Lake Winnipeg, while another river with this name rises in Southern China before emptying into the Gulf of Tonkin. Prior to the Treaty of Guadalupe-Hidalgo, another river of this name served as the border between the US and Mexico, as stipulated by the Adams-Onis Treaty. Identify this common name shared by a tributary of the Mississippi River that separates Texas and Oklahoma.",
+            "answers": ["Red River"],
+            "incorrect1": "Mississippi River",
+            "incorrect2": "Missouri River",
+            "incorrect3": "Arkansas River",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This film led the pack with 13 nominations for the 97th Academy Awards. This musical features a unique storyline about a Mexican drug lord who undergoes a sex change to escape the authorities and becomes a glamorous woman named Emilia.  Its music is composed by Cl\u00e9ment Ducol, who also wrote the score for the 2019 film \"The Sisters Brothers.\"  Its world premiere will take place at the Th\u00e9\u00e2tre du Ch\u00e2telet in Paris, a renowned venue for opera and musical productions.  What is this musical, based on the upcoming film of the same name directed by Jacques Audiard?",
+            "answers": ["Emilia P\u00e9rez", "Emilia Perez"],
+            "incorrect1": "Sofia Vergara",
+            "incorrect2": "Salma Hayek",
+            "incorrect3": "Penélope Cruz",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This reality show, where entrepreneurs pitch their business ideas to a panel of investors, features a signature catchphrase, \"You're dead to me,\" often uttered by investor Kevin O'Leary when rejecting a deal. The show's investors include Mark Cuban, Barbara Corcoran, and Lori Greiner. Its format, which originated in Japan with the show \"Tigers' Cave,\" has been adapted in numerous countries. What is the name of this ABC series, which has become a platform for aspiring entrepreneurs and a showcase for innovative products and services?",
+            "answers": ["Shark Tank"],
+            "incorrect1": "Dragon's Den",
+            "incorrect2": "The Apprentice",
+            "incorrect3": "Survivor",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 SCOP MS 7",
+            "question": "A satirical work of this type by Ambrose Bierce claims that the French eat more bread than anyone else because \"only they know how to make [wheat] palatable.\" An American work of this type used twenty-six languages to establish etymologies, and was written by Noah Webster. Lexicographers create, What books that provide the pronunciations and definitions of words?",
+            "answers": ["dictionary", "dictionaries"],
+            "incorrect1": "thesaurus",
+            "incorrect2": "encyclopedia",
+            "incorrect3": "atlas",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2021 CERES",
+            "question": "These people dominated England during a period stretching from their attack on Lindisfarne Abbey to their defeat at the Battle of Stamford Bridge. These people traded with native Inuits, whom they termed \"skraelings\", in Greenland. A settlement in Newfoundland may have been established by one of these people named Leif Erikson. Name these seafaring Scandinavians who probably didn't wear horned helmets.",
+            "answers": ["Vikings", "the Norse"],
+            "incorrect1": "Saxons",
+            "incorrect2": "Celts",
+            "incorrect3": "Franks",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "A hyperbolic form of this function is defined for a variable x as one-half times quantity e to the x plus e to the minus x. The law of this function states that, for a triangle ABC, c squared equals a squared plus b squared minus 2 a b times this function of the angle C. One over this function of x is the secant of x. Name this function equal to the length of the adjacent side over that of the hypotenuse.",
+            "answers": ["cosine", "cos"],
+            "incorrect1": "sine",
+            "incorrect2": "tangent",
+            "incorrect3": "secant",
+            "used": "TRUE"
+        }
     ]
 ]
