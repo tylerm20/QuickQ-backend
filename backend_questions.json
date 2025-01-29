@@ -24085,7 +24085,7 @@
         {
             "category": "Geography",
             "source": "2017 SCOP MS 7",
-            "question": "This project included man-made sections like the Gaillard Cut and Gatun Lake, and it was completed in 1914 due in large part to William Gorgas's efforts to control malaria and yellow fever outbreaks. This 48-mile-long structure included three locks to help boats cross between the Atlantic and Pacific. Name this Central American engineering project.",
+            "question": "This project included man-made sections like the Gaillard Cut and Gatun Lake, and it was completed in 1914 due in large part to William Gorgas's efforts to control malaria and yellow fever outbreaks. This 48-mile-long structure included three locks to help boats cross between the Atlantic and Pacific. Name this engineering feat located in Central America.",
             "answers": ["Panama Canal"],
             "incorrect1": "Suez Canal",
             "incorrect2": "Erie Canal",
@@ -24104,7 +24104,7 @@
         },
         {
             "category": "Sports",
-            "question": "This university's football team recently became the first winner of the expanded College Football Playoff. This university's athletic program boasts a fierce rivalry with the University of Michigan, a matchup dubbed \"The Game.\" Its football team has won eight national championships, including the first-ever College Football Playoff National Championship in 2015. Its men's basketball team has won one national championship, in 1960, led by legendary coach Fred Taylor. What is the name of this university, whose athletic teams are known as the Buckeyes?",
+            "question": "This university's football team recently became the first winner of the expanded College Football Playoff. This university's athletic program boasts a fierce rivalry with the University of Michigan, a matchup dubbed \"The Game.\" Its football team has won nine national championships, including the first-ever College Football Playoff National Championship in 2015. Its men's basketball team has won one national championship, in 1960, led by legendary coach Fred Taylor. What is the name of this university, whose athletic teams are known as the Buckeyes?",
             "answers": ["Ohio State", "OSU", "The ohio state university"],
             "incorrect1": "Princeton",
             "incorrect2": "Michigan",
