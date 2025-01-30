@@ -24075,7 +24075,7 @@
         {
             "category": "US History",
             "source": "2010 SCOP Novice",
-            "question": "In U.S. vs. E.C. Knight, the Supreme Court ruled that this act could did not give Congress the power to disrupt local manufacturing. Theodore Roosevelt first used the powers granted by this act in 1902 to sue the Northern Securities Company. Including the Establishment Clause, name this 1890 act that gave the Federal Government the power to break up trusts, later strengthened by the Clayton Act.",
+            "question": "In U.S. vs. E.C. Knight, the Supreme Court ruled that this act did not give Congress the power to disrupt local manufacturing. Theodore Roosevelt first used the powers granted by this act in 1902 to sue the Northern Securities Company. Including the Establishment Clause, name this 1890 act that gave the Federal Government the power to break up trusts, later strengthened by the Clayton Act.",
             "answers": ["Sherman Antitrust Act", "Sherman Act"],
             "incorrect1": "Clayton Antitrust Act",
             "incorrect2": "Federal Trade Commission Act",
@@ -24155,7 +24155,9 @@
                 "pH",
                 "power of hydrogen",
                 "power of HS+S",
-                "potential of hydrogen"
+                "potential of hydrogen",
+                "acidity",
+                "basicity"
             ],
             "incorrect1": "pOH",
             "incorrect2": "molarity",
@@ -24186,7 +24188,7 @@
         },
         {
             "category": "Entertainment",
-            "question": "This talent show competition, known for its diverse range of acts, from singers and dancers to magicians and comedians, features a panel of celebrity judges who offer critiques and decide which contestants advance in the competition. Its iconic golden buzzer, which sends a contestant directly to the live shows, has become a symbol of the show's ability to discover and showcase extraordinary talent. The show's host, Terry Crews, is known for his enthusiastic reactions and his catchphrase, \"You got the golden buzzer!\" What is the name of this NBC series, which has launched the careers of successful performers like Jackie Evancho and Grace VanderWaal?",
+            "question": "This talent show competition, known for its diverse range of acts, from singers and dancers to magicians and comedians, features a panel of celebrity judges who offer critiques and decide which contestants advance in the competition. Its iconic golden buzzer, which sends a contestant directly to the live shows, has become a symbol of the show's ability to discover and showcase extraordinary talent. What is the name of this NBC series, hosted by Terry Crews, which has launched the careers of successful performers like Jackie Evancho and Grace VanderWaal?",
             "answers": ["America's Got Talent", "agt"],
             "incorrect1": "American Idol",
             "incorrect2": "The Voice",
