@@ -24449,12 +24449,12 @@
         },
         {
             "category": "Geography",
-            "source": "2012 Collaborative Middle School Tournament #3",
-            "question": "Four people were killed in this city's St. John's Regional Medical Center, which is now closed and scheduled for demolition. The Red Cross estimated 25% of this town was destroyed that same day, including about 7,000 houses. Identify this Missouri city devastated by a tornado rated as an EF-5, the highest on the Enhanced Fujita scale, in May 2011.",
-            "answers": ["Joplin Tornado Outbreak", "torando"],
-            "incorrect1": "Tri-State Tornado",
-            "incorrect2": "Super Outbreak",
-            "incorrect3": "Palm Sunday Tornado Outbreak",
+            "source": "2015 SAGES",
+            "question": "The Sahel is the southern border of this region. Large areas of sand dunes called ergs make up part of this region. The Nile River Valley is one of the only places plants can grow in this region. Name this African region, the largest hot desert on Earth.",
+            "answers": ["Sahara Desert"],
+            "incorrect1": "Arabian Desert",
+            "incorrect2": "Gobi Desert",
+            "incorrect3": "Kalahari Desert",
             "used": "TRUE"
         },
         {
@@ -24469,7 +24469,7 @@
         },
         {
             "category": "Entertainment",
-            "question": "This gaming console's iconic controller, with its distinctive shape and button layout, has become a symbol of gaming culture. Its online service revolutionized online multiplayer gaming, connecting players worldwide. Its latest console, the Series X, boasts powerful hardware and features like ray tracing and Quick Resume. What is the name of this Microsoft gaming console, which competes with Sony's PlayStation and Nintendo's Switch?",
+            "question": "This gaming console's online service revolutionized online multiplayer gaming, connecting players worldwide. Its latest console, the Series X, boasts powerful hardware and features like ray tracing and Quick Resume. What is the name of this Microsoft gaming console, which competes with Sony's PlayStation and Nintendo's Switch?",
             "answers": ["Xbox"],
             "incorrect1": "PlayStation",
             "incorrect2": "Nintendo",
@@ -24535,12 +24535,12 @@
         },
         {
             "category": "Geography",
-            "source": "2015 SAGES",
-            "question": "The Sahel is the southern border of this region. Large areas of sand dunes called ergs make up part of this region. The Nile River Valley is one of the only places plants can grow in this region. Name this African region, the largest hot desert on Earth.",
-            "answers": ["Sahara Desert"],
-            "incorrect1": "Arabian Desert",
-            "incorrect2": "Gobi Desert",
-            "incorrect3": "Kalahari Desert",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "The \"Fujita scale,\" developed by meteorologist Ted Fujita, is used to categorize these events based on their intensity and damage.  The deadliest one in U.S. history, the Tri-State of 1925, carved a path of destruction across Missouri, Illinois, and Indiana, killing 695 people. This type of natural disaster, a violently rotating column of air that forms in severe thunderstorms, holds the record for the highest wind speeds ever recorded, with an estimated 302 miles per hour. What is this meteorological phenomenon, often referred to as a twister?",
+            "answers": ["Torando"],
+            "incorrect1": "Hurricane",
+            "incorrect2": "Earthquake",
+            "incorrect3": "Tsunami",
             "used": "TRUE"
         },
         {
@@ -24601,6 +24601,615 @@
             "incorrect1": "sine",
             "incorrect2": "tangent",
             "incorrect3": "secant",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2020 SCOP MS 10",
+            "question": "Antoine Lavoisier proved that this reaction does not involve the release of phlogiston. Hydrocarbons produce water and carbon dioxide by this reaction. Hay piles can experience a spontaneous type of this reaction, which requires spark plug ignition in engines. Name this process of combining with oxygen to release heat, a reaction commonly known as burning.",
+            "answers": ["combustion", "ignition", "burning", "fire"],
+            "incorrect1": "oxidation",
+            "incorrect2": "decomposition",
+            "incorrect3": "reduction",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This animal, whose shedding of its skin symbolizes rebirth and renewal, is the zodiac animal associated with the Lunar New Year on January 29, 2025. People born in this animal's year are believed to be wise, cunning, and resourceful. In Chinese mythology, it is often depicted as a powerful and benevolent creature, associated with good fortune and wisdom. What is this legless reptile, known for its sinuous movement and its presence in various cultural traditions and mythologies?",
+            "answers": ["Snake", "Year of the snake", "wood snake"],
+            "incorrect1": "Pig",
+            "incorrect2": "Dog",
+            "incorrect3": "Alligator",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2016 Pennsylvania Novice",
+            "question": "This man almost died when Izola Curry stabbed him with a letter opener during a signing for his book Stride Toward Freedom . This man was the first president of the Southern Christian Leadership Conference. He advocated non\u00adviolent lawbreaking to challenge racism in his \"Letter from a Birmingham Jail.\" This man rose to prominence while organizing the Montgomery Bus Boycott. Name this civil rights activist who delivered the \"I Have a Dream\" speech.",
+            "answers": [
+                "Martin Luther King , Jr.",
+                "MLK",
+                "MLK Jr.",
+                "Dr Martin Luther King Jr"
+            ],
+            "incorrect1": "Malcolm X",
+            "incorrect2": "Rosa Parks",
+            "incorrect3": "W.E.B. Du Bois",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This reality competition show, where chefs compete in culinary challenges to impress a panel of judges, features a signature elimination phrase, \"Pack your knives and go,\" signaling the end of a contestant's journey. The show's challenges, which often involve cooking with unusual ingredients or catering for special events, test the chefs' creativity, technical skills, and ability to work under pressure. Its host, Padma Lakshmi, is known for her elegant presence and her culinary knowledge. What is the name of this Bravo series, which has launched the careers of successful chefs like Richard Blais and Stephanie Izard?",
+            "answers": ["Top Chef"],
+            "incorrect1": "Hell's Kitchen",
+            "incorrect2": "MasterChef",
+            "incorrect3": "Chopped",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "H\u014dsh\u014dry\u016b Tomokatsu becomes the 74th yokozuna, this historic sport's highest rank. Wrestlers in this sport, known as rikishi, compete in a circular ring called a dohy\u014d, wearing only a mawashi, a thick belt.  Before each bout, they perform a ritual of throwing salt into the ring to purify it and ward off evil spirits.  The sport's origins can be traced back to ancient Shinto rituals in Japan, where it was performed to entertain the gods.  What is this sport, known for its combination of strength, technique, and tradition?",
+            "answers": ["Sumo Wrestling", "Sumo"],
+            "incorrect1": "Judo",
+            "incorrect2": "Karate",
+            "incorrect3": "Professional wrestling",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 SCOP Novice",
+            "question": "After washing ashore and singing \"Cruda sorte,\" the title character of one work by this man is claimed to be Taddeo's niece, but, as she is Italian, she is brought to Mustafa's harem. In addition to The Italian Girl in Algiers, this composer of The Thieving Magpie composed an opera in which Rosina is wooed by Count Almaviva with the help of a character who sings \"Largo al factotum,\" Figaro. His final opera, based on a Swiss folk legend, is famous for the galloping end to its overture. Name this Italian composer of The Barber of Seville and William Tell.",
+            "answers": ["Gioachino Rossini", "The Italian Girl in Algiers"],
+            "incorrect1": "Giuseppe Verdi",
+            "incorrect2": "Giacomo Puccini",
+            "incorrect3": "Wolfgang Amadeus Mozart",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2010 SCOP Novice",
+            "question": "This leader began his military career by preventing the migration of the Helvetii, an incident described in a work often used as a Latin textbook, the Commentaries. After that conquest, this leader was ordered to disband his army; instead, he defeated his former ally Gnaeus Pompey after crossing the Rubicon. Name this Roman leader whose dictatorship was ended by Cassius and Brutus on the Ides of March.",
+            "answers": ["Gaius Julius Caesar", "Julius Caesar"],
+            "incorrect1": "Augustus Caesar",
+            "incorrect2": "Nero",
+            "incorrect3": "Caligula",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 MAKEMAKE",
+            "question": "The Sleeping Bear Dunes overlook this lake, which is crossed by a ferry between Ludington and Manitowoc. The Door Peninsula separates the main part of this lake from its Green Bay. This lake is often considered to form part of a larger lake with Lake Huron, which it meets at the Straits of Mackinac. The Indiana Dunes and the city of Chicago lie on what Great Lake named for a Midwestern state?",
+            "answers": ["Lake Michigan"],
+            "incorrect1": "Lake Superior",
+            "incorrect2": "Lake Huron",
+            "incorrect3": "Lake Erie",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This baseball legend's switch-hitting prowess was legendary, with his powerful swings from both sides of the plate leading to 536 career home runs.  He won the Triple Crown in 1956, leading the American League in batting average, home runs, and RBIs.  He played his entire 18-season career with the New York Yankees, winning seven World Series titles and three American League MVP awards.  Who is this Hall of Fame center fielder, nicknamed \"The Mick\"?",
+            "answers": ["Mickey Mantle"],
+            "incorrect1": "Babe Ruth",
+            "incorrect2": "Joe DiMaggio",
+            "incorrect3": "Yogi Berra",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2019 SCOP Novice 10",
+            "question": "Satellites in geostationary orbit are placed directly above this feature and, as a result, don't appear to move in the sky when viewed from the ground. An African country with capital Malabo and a South American country with capital Quito are named for their location on or near this geographical feature. Zero degrees latitude is defined at what imaginary line that separates the Earth into northern and southern hemispheres?",
+            "answers": ["equator"],
+            "incorrect1": "prime meridian",
+            "incorrect2": "Tropic of Cancer",
+            "incorrect3": "Tropic of Capricorn",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2019 SCOP Novice 10",
+            "question": "Ethyne contains two hydrogen atoms and two atoms of this element. In a 2004 experiment, Scotch tape was used to create monolayers of this element. Allotropes of this element include materials like graphene and diamond, and a radioactive isotope of this element with a half-life of 5,730 years is used in archaeological dating. Organic chemistry is the study of molecules with what element with atomic number six and chemical symbol C?",
+            "answers": ["carbon", "C"],
+            "incorrect1": "oxygen",
+            "incorrect2": "nitrogen",
+            "incorrect3": "hydrogen",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 ERIS",
+            "question": "This book names an anonymous \"disciple whom Jesus loved\" as one of its sources. This book is classified as the only non-synoptic Gospel, and it contains seven \"I am\" statements and seven \"signs\", ending with the raising of Lazarus from the dead. The last of the four Gospels is what New Testament book which follows Matthew, Mark, and Luke?",
+            "answers": [
+                "Gospel of John",
+                "Book of John",
+                "the Gospel According to John",
+                "Euangelion kata Ioannen"
+            ],
+            "incorrect1": "Gospel of Matthew",
+            "incorrect2": "Gospel of Mark",
+            "incorrect3": "Gospel of Luke",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2021 SCOP B",
+            "question": "This figure cited \"line 157 337\" in a transmission broadcast on 3105 kilohertz. The USGS Itasca was unable to establish communications with this adventurer during an attempt to reach Howland Island. Fred Noonan accompanied this aviator in a Lockheed Electra during a planned circumnavigation of the world. Name this pioneering aviator, the first woman to fly solo across the Atlantic, who disappeared in 1937.",
+            "answers": ["Amelia Earhart", "Amelia Mary Earhart"],
+            "incorrect1": "Bessie Coleman",
+            "incorrect2": "Ruth Elder",
+            "incorrect3": "Jacqueline Cochran",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "These music awards, presented annually by the Recording Academy, recognize excellence in various genres and categories, from Album of the Year and Record of the Year to Best New Artist and Best Music Video. The ceremony is known for its iconic gramophone-shaped trophy and its star-studded performances. The first ceremony was held in 1959, and it has since become one of the most prestigious awards shows in the music industry. What is the name of these awards, often referred to as \"music's biggest night\"?",
+            "answers": ["Grammy's", "Grammy Awards"],
+            "incorrect1": "Academy Awards (Oscars)",
+            "incorrect2": "Emmy Awards",
+            "incorrect3": "Tony Awards",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This singing competition show, where contestants are judged in blind auditions based solely on their vocal abilities, features a unique format where coaches turn their chairs to indicate their interest in working with a singer. The show's coaches, who have included renowned artists like Blake Shelton, Kelly Clarkson, and John Legend, mentor their teams of singers throughout the competition. Its signature red chairs have become a symbol of the show's format and its focus on vocal talent. What is the name of this NBC series, which has launched the careers of successful singers like Cassadee Pope and Jordan Smith?",
+            "answers": ["The Voice"],
+            "incorrect1": "American Idol",
+            "incorrect2": "America's Got Talent",
+            "incorrect3": "The X Factor",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2016 SAGES",
+            "question": "This leader's son Ogedei was given this man's empire when he died. His face is on the paper money of Mongolia. This man established an empire in Asia that was nearly 12 million square miles, the Mongol Empire. Name this famous Mongol emperor born with the name Temujin.",
+            "answers": ["Genghis Khan"],
+            "incorrect1": "Kublai Khan",
+            "incorrect2": "Attila the Hun",
+            "incorrect3": "Tamerlane",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This singer's powerful ballad, \"My Heart Will Go On,\" the theme song from the 1997 blockbuster film \"Titanic,\" became one of the best-selling singles of all time and earned her an Academy Award and a Golden Globe Award.  Her five-octave vocal range and dramatic performance style have made her a global icon, selling over 200 million records worldwide.  She is the best-selling Canadian recording artist and the best-selling French-language artist of all time.  Who is this singer, known for her dramatic ballads and her residency shows in Las Vegas?",
+            "answers": ["Celine Dion"],
+            "incorrect1": "Mariah Carey",
+            "incorrect2": "Whitney Houston",
+            "incorrect3": "Barbra Streisand",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "Ahmed al-Sharaa was recenlty appointed president of this nation's transitional government. This Middle Eastern country, home to the ancient city of Palmyra, a UNESCO World Heritage Site known for its well-preserved Roman ruins, has been ravaged by a devastating civil war that began in 2011.  Its capital, Damascus, is considered one of the oldest continuously inhabited cities in the world.  It is also where the Euphrates River, one of the longest and most historically significant rivers in Western Asia, flows through.  What is this nation, which recently exiled Bashar al-Assad.",
+            "answers": ["Syria"],
+            "incorrect1": "Lebanon",
+            "incorrect2": "Jordan",
+            "incorrect3": "Iraq",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2022 SCOP MS 11",
+            "question": "This measure is quantized by fractions of the Von Klitzing constant in a form of the Hall effect. A Wheatstone bridge can determine this quantity that, unlike reactance, leads to Joule heating. Finding the total value for this quantity requires summing the reciprocal value of each component in a parallel circuit. Conductance is the reciprocal of this quantity, which is measured in ohms. Name this quantity, equal to voltage over current, that opposes the flow of electricity.",
+            "answers": ["electrical resistance", "R"],
+            "incorrect1": "electrical conductance",
+            "incorrect2": "voltage",
+            "incorrect3": "current",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This pitcher's dominance in the 1960s, despite suffering from arthritis that ultimately shortened his career, led to four no-hitters, including a perfect game in 1965.  He won three Cy Young Awards and was a key member of the Los Angeles Dodgers' World Series championship teams in 1963 and 1965.  He famously refused to pitch Game 1 of the 1965 World Series because it fell on Yom Kippur, a Jewish holy day.  Who is this Hall of Fame left-hander, known for his devastating curveball and his courageous stand for his beliefs?",
+            "answers": ["Sandy Koufax"],
+            "incorrect1": "Clayton Kershaw",
+            "incorrect2": "Bob Gibson",
+            "incorrect3": "Pedro Martinez",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "This figure defeated Thanatos in a duel in order to win back Alcestis from the dead. An oath sworn by Zeus caused the dates of birth of this figure and Eurystheus to be switched. This figure's wife Deianira accidentally killed him with a poisoned cloth given to her by the centaur Nessus. After killing his wife Megara in a fit of rage induced by Hera, this hero was sent to accomplish many tasks as penance. Those tasks included slaying the Nemean Lion and capturing Cerberus. Name this Greek hero, who completed twelve labors.",
+            "answers": ["Heracles", "Hercules"],
+            "incorrect1": "Theseus",
+            "incorrect2": "Perseus",
+            "incorrect3": "Achilles",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2022 MAKEMAKE",
+            "question": "The town of Shush in this modern-day country lies near the ancient city of Susa, the capital of the ancient Elamite kingdom. This country's flag contains an emblem of the word \"Allah\" in calligraphy as well as the words \"God is great\" written at the borders between its red, white, and green horizontal stripes. The Strait of Hormuz lies south of what country ruled from its capital of Tehran?",
+            "answers": [
+                "Iran",
+                "Islamic Republic of Iran",
+                "Jomhuri-ye Eslami-ye Iran"
+            ],
+            "incorrect1": "Iraq",
+            "incorrect2": "Afghanistan",
+            "incorrect3": "Saudi Arabia",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2019 SCOP Novice 10",
+            "question": "The 1895 Supreme Court case Pollock v. Farmers' Loan and Trust struck down this policy, but a 1913 Constitutional amendment made it legal. Florida and Nevada are two of seven states that don't use this policy, whose introduction reduced the importance of tariffs for federal government revenue. The Sixteenth Amendment authorized what type of tax that is reported on IRS Form 1040 and which taxes money made by the taxpayer?",
+            "answers": ["income tax"],
+            "incorrect1": "sales tax",
+            "incorrect2": "property tax",
+            "incorrect3": "capital gains tax",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2012 SCOP Novice 3",
+            "question": "The Bay of Puck indents the coast of this country, and its southern border features the Western Tatras mountains. The Russian exclave of Kaliningrad has this country on its southern border. Part of this country's western border is formed by the Oder River, and its longest river is the Vistula, which flows into the Baltic Sea near Gdansk. Name this country that lies east of Germany with capital Warsaw.",
+            "answers": [
+                "Poland",
+                "Republic of Poland",
+                "Rzeczpospolita Polska"
+            ],
+            "incorrect1": "Czech Republic",
+            "incorrect2": "Hungary",
+            "incorrect3": "Slovakia",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This midfielder, known for his exceptional dribbling skills and his ability to dictate the tempo of a game, scored the winning goal for Spain in the 2010 FIFA World Cup final against the Netherlands. He spent the majority of his career with FC Barcelona, where he won numerous trophies, including four Champions League titles and nine La Liga titles. He was a key part of Barcelona's tiki-taka style of play, alongside Xavi Hernandez and Lionel Messi. Who is this Spanish football legend, known for his vision, passing accuracy, and composure on the ball?",
+            "answers": ["Andr\u00e9s Iniesta", "Andres Iniesta"],
+            "incorrect1": "Xavi Hernandez",
+            "incorrect2": "Lionel Messi",
+            "incorrect3": "Sergio Busquets",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2020 ERIS",
+            "question": "Members of one of this country's political parties run for British parliament but do not take their seats. That party, Sinn Fein, was founded to fight for this country's independence. In 1920, British forces shot into a crowd of spectators watching a Gaelic football match in this country's capital. What European country bordering the UK adopted a green-white-orange tricolor flag?",
+            "answers": ["Ireland", "Republic of Ireland"],
+            "incorrect1": "Iceland",
+            "incorrect2": "Scotland",
+            "incorrect3": "Greenland",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "A plane crash near this city's closest airport resulted in at least 60 deaths. A regional American Airlines plane collided with an Army helicopter causing both to fall into the Potomac River. This city's iconic cherry blossom trees, a gift from Japan in 1912, bloom each spring, attracting visitors from around the world to witness their beauty. Its National Mall, a two-mile-long park, houses monuments and memorials dedicated to American presidents and historical events, including the Lincoln Memorial and the Washington Monument. It is home to the Smithsonian Institution, a complex of museums and research centers that houses over 154 million artifacts and specimens. What is this city, the capital of the United States?",
+            "answers": [
+                "Washington, DC",
+                "Washington",
+                "District of Columbia",
+                "DC"
+            ],
+            "incorrect1": "Los Angeles",
+            "incorrect2": "New York City",
+            "incorrect3": "Philadelphia",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2012 SCOP Novice 3",
+            "question": "The Sea Venture sank in Bermuda en route to this colony. William Berkeley's governorship of this colony enraged Nathaniel Bacon, who took a military commission by force from members of this colony's House of Burgesses. It is home to The College of William and Mary and, after becoming a state, its state university was founded by Thomas Jefferson. Name this American colony whose capitals were Williamsburg and Jamestown.",
+            "answers": ["Virginia Colony", "Commonwealth of Virginia"],
+            "incorrect1": "Massachusetts Bay Colony",
+            "incorrect2": "Plymouth Colony",
+            "incorrect3": "Pennsylvania Colony",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 MOQBA Novice",
+            "question": "After tripping down the hills of Barton, a character in one of this author's novels has her ankle cared for by John Willoughby. In that novel by this author, Colonel Brandon offers Edward Ferrars a position in the clergy before marrying Marianne Dashwood. George Wickham attempts to steal one of this author's characters by marrying his sister Georgiana; that character, Fitzwilliam Darcy, encounters Elizabeth Bennet at the beginning of a novel by this author. Name this British author whose novels include Sense and Sensibility and Pride and Prejudice.",
+            "answers": ["Jane Austen"],
+            "incorrect1": "Charlotte Brontë",
+            "incorrect2": "Emily Brontë",
+            "incorrect3": "Louisa May Alcott",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This singer-songwriter's theme park located in the Smoky Mountains of Tennessee, is the state's most popular ticketed tourist attraction. Her philanthropic efforts include the Imagination Library, a book gifting program that has donated millions of books to children worldwide. Her iconic song \"I Will Always Love You,\" written and originally performed by her, became a global hit for Whitney Houston in 1992. Who is this country music legend, known for her flamboyant style, songwriting talent, and philanthropic work?",
+            "answers": ["Dolly Parton"],
+            "incorrect1": "Loretta Lynn",
+            "incorrect2": "Patsy Cline",
+            "incorrect3": "Tammy Wynette",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2016 PLATO",
+            "question": "Gatun Lake was constructed while building this project, which the French attempted after a successful similar project in Africa. The U.S. acquired the rights to move forward with it, and after successful eradication of the mosquito\u00adborne illnesses common in its climate, it was completed in 1914. Name this geographic feature in which locks and dams provide safe passage between the Caribbean Sea and the Pacific Ocean.",
+            "answers": ["The Panama Canal"],
+            "incorrect1": "Suez Canal",
+            "incorrect2": "Erie Canal",
+            "incorrect3": "Grand Canal",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2021 SCOP B",
+            "question": "The acid EDTA is commonly used to perform the complexo-metric type of this process on solutions containing metal ions. Chemicals like Alizarin yellow and Methyl violet are used in this process with solutions at extreme ends of the pH scale. This technique is done until an equivalence point is reached, which is often noted by an indicator changing color. Name this laboratory technique in which liquid from a burette is gradually dripped into a flask of another liquid for the purpose of measuring the concentration of an unknown solution.",
+            "answers": ["titration", "volumetric analysis"],
+            "incorrect1": "distillation",
+            "incorrect2": "filtration",
+            "incorrect3": "chromatography",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This reality competition show, where drag queens compete in various challenges to showcase their charisma, uniqueness, nerve, and talent, features a signature catchphrase, \"Sashay away,\" used to eliminate contestants. The show's host, a drag icon and Emmy Award-winning television personality, guides the contestants through the competition and offers critiques and encouragement. Its iconic runway challenges, where contestants showcase their extravagant outfits and creative concepts, have become a highlight of the show. What is the name of this VH1 series, which has brought drag culture into the mainstream and celebrated LGBTQ+ representation?",
+            "answers": ["RuPaul's Drag Race"],
+            "incorrect1": "Drag Race UK",
+            "incorrect2": "Canada's Drag Race",
+            "incorrect3": "America's Next Top Model",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "In this work, after getting a boiling-hot potato shoved down his back, having to listen to a barrage of questions such as \"Why are oranges round?\" and \"How many does it take to make twelve?,\" and surviving an attempted scalping, Bill declares that his favorite character in the Bible is King Herod. The original plan was to squeeze Ebenezer Dorset for two thousand dollars, but Bill and Sam reduce the demand to fifteen hundred dollars, only to be told that the redheaded brat's father will take him back from the kidnappers for a fee of just two hundred fifty dollars. The two criminals gladly pay up and leave town in what short story by O. Henry?",
+            "answers": ["The Ransom of Red Chief"],
+            "incorrect1": "The Gift of the Magi",
+            "incorrect2": "The Celebrated Jumping Frog of Calaveras County",
+            "incorrect3": "The Tell-Tale Heart",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2014 SCOP Novice 5",
+            "question": "In this leader's farewell address, he noted that, until World War II, \"American makers of plowshares could [...] make swords as well.\" He used the Army to desegregate Central High School in Little Rock, and he was inspired by the Autobahn to develop the national Interstate system. This Supreme Commander of the Allied Forces led the invasion of Normandy on D-Day. Name this general who served as U.S. President following Harry Truman.",
+            "answers": ["Dwight D. Eisenhower", "Dwight Eisenhower"],
+            "incorrect1": "Douglas MacArthur",
+            "incorrect2": "George S. Patton",
+            "incorrect3": "Omar Bradley",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This basketball player, nicknamed \"The Mailman\" for his consistent delivery of points and rebounds, ranks second on the NBA's all-time scoring list with 36,928 points. He played 18 seasons with the Utah Jazz, forming a formidable duo with point guard John Stockton. He won two NBA MVP awards and was a 14-time All-Star. Who is this power forward, known for his pick-and-roll prowess and his signature goggles?",
+            "answers": ["Karl Malone"],
+            "incorrect1": "John Stockton",
+            "incorrect2": "Kobe Bryant",
+            "incorrect3": "Tim Duncan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 SCOP A",
+            "question": "This city contains the unfinished Palm Jebel Ali archipelago. In the late 2010s, this city was embroiled in a copyright claim over a \"Frame\" in Zabeel Park. This city's Logo Islands form the shape of a palm, and its World Islands replicate a world map near the Palm Jumeirah, an artificial archipelago. This city contains the Burj Al Arab and the world's tallest building, the Burj Khalifa. Name this most-populated city in the United Arab Emirates.",
+            "answers": ["Dubai"],
+            "incorrect1": "Abu Dhabi",
+            "incorrect2": "Doha",
+            "incorrect3": "Riyadh",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This company's release of their R1 model caused a panic in US markets with a big drop in Nvidia and other AI company stocks. The company announced surprisingly low costs to train a highly capable model which they have open-sourced. The company is based in China and is owned and funded by Chinese hedge fund High-Flyer. OpenAI has accused this company of inappropriately using their data. Name this AI company with a whale logo.",
+            "answers": ["DeepSeek", "deep seek"],
+            "incorrect1": "DuckDuckGo",
+            "incorrect2": "Google Search",
+            "incorrect3": "Bing",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2022 SCOP MS 11",
+            "question": "Each of bromine and this element name a type of number used to characterize the unsaturation of fats. A common clock reaction changes color when this element complexes with starch. Pills containing potassium and this element may be issued to victims of nuclear disasters. A product whose name combines this element and \"beta\" is a popular skin antiseptic. Name this purplish halogen that can be added to table salt for thyroid health, and that has atomic number 53 and symbol I.",
+            "answers": ["iodine", "I"],
+            "incorrect1": "bromine",
+            "incorrect2": "chlorine",
+            "incorrect3": "fluorine",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2020 SCOP MS 10",
+            "question": "This country's seventeenth century pirate colony of Libertatia used a language derived from Malagasy, a native language of this country. The French overseas region of Mayotte and the island country of Comoros are found in the Mozambique Channel, which separates this country from the mainland. Antananarivo is the capital of what large island country off the southeast coast of Africa?",
+            "answers": ["Madagascar", "Republic of Madagascar"],
+            "incorrect1": "Mozambique",
+            "incorrect2": "Mauritius",
+            "incorrect3": "Comoros",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2020 SCOP MS 10",
+            "question": "Beverly Oliver claimed to be the \"Babushka Lady\" seen in a video of this event taken by Abraham Zapruder, the only person filming as an open motorcade drove through Dealey Plaza on November 22, 1963. John Connolly was injured in what crime committed by Lee Harvey Oswald against the thirty-fifth President of the United States?",
+            "answers": [
+                "assassination of JFK",
+                "Kennedy assassination",
+                "assassination of John Fitzgerald Kennedy",
+                "murder of John Fitzgerald Kennedy",
+                "shooting of John Fitzgerald Kennedy"
+            ],
+            "incorrect1": "assassination of Abraham Lincoln",
+            "incorrect2": "Watergate scandal",
+            "incorrect3": "9/11 attacks",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2015 SCOP Novice 6",
+            "question": "This novel's protagonist plays with Topper and Fred at a dinner party when he forgets he is invisible, and he meets two children named Ignorance and Want. In this novel, the protagonist relives a ball hosted by Mr Fezziwig, meets his dead partner, Jacob Marley, and sends an enormous turkey to Bob Cratchit and Tiny Tim. Name this work by Charles Dickens, in which Ebenezer Scrooge learns the meaning of the title holiday.",
+            "answers": ["A Christmas Carol"],
+            "incorrect1": "A Christmas Story",
+            "incorrect2": "It's a Wonderful Life",
+            "incorrect3": "Miracle on 34th Street",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This city hosted Super Bowl LIX between the Eagles and the Chiefs for the NFL championship. the city's unique musical tradition, known as \"jazz funerals,\" features a procession with a brass band that plays somber dirges during the funeral march and transitions to upbeat jazz tunes as the procession celebrates the life of the deceased. Its French Quarter, with its colorful buildings and wrought-iron balconies, is a popular tourist destination known for its lively nightlife and historic architecture. Its cuisine, a blend of French, Spanish, African, and Caribbean influences, includes iconic dishes like gumbo, jambalaya, and po'boys. What is this city, nicknamed the \"Big Easy,\" famous for its annual Mardi Gras celebration and its distinctive cultural heritage?",
+            "answers": ["New Orleans"],
+            "incorrect1": "Baton Rouge",
+            "incorrect2": "Lafayette",
+            "incorrect3": "Shreveport",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This baseball player's entrance song, \"Enter Sandman\" by Metallica, became synonymous with his intimidating presence as a closer, striking fear into opposing batters. He holds the MLB record for most career saves, with 652 saves, solidifying his reputation as one of the greatest closers of all time. He played his entire 19-season career with the New York Yankees, winning five World Series titles and becoming a beloved figure in baseball. Who is this legendary pitcher, known for his signature cut fastball?",
+            "answers": ["Mariano Rivera"],
+            "incorrect1": "Derek Jeter",
+            "incorrect2": "Babe Ruth",
+            "incorrect3": "Sandy Koufax",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2009 Fall Novice Tournament",
+            "question": "This philosopher outlined four types of widely-held false beliefs, or \"idols.\" One of his works tells of a fictional island southwest of Peru called Bensalem with an ideal research university known as \"Solomon's House.\" In addition to The New Atlantis, other works of his, like The Advancement of Learning, advocated the use of induction. Name this 17th century British philosopher, who declared that \"Knowledge is power\" and refined the scientific method in his Novum Organum.",
+            "answers": ["Sir Francis Bacon"],
+            "incorrect1": "William Shakespeare",
+            "incorrect2": "John Locke",
+            "incorrect3": "Thomas Hobbes",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2010 SCOP Novice",
+            "question": "The Koppen climate classification divides this type of climate into BWh and BWk, depending on the average temperature of the coldest month, but they can also classified by their geographic location, such as coastal or polar. The rocky areas in these regions are called hamada, while the regions of sand dunes are called ergs. Often formed within the rain shadow of a mountain range, name these dry regions, defined as receiving less than 250 millimeters of precipitation each year.",
+            "answers": ["Deserts"],
+            "incorrect1": "Forests",
+            "incorrect2": "Grasslands",
+            "incorrect3": "Tundra",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 SCOP Novice 8",
+            "question": "In this state, a tree stump called the \"Old Man of the Lake\" floats in a lake created by the collapse of Mount Mazama. The cities of Eugene and Corvallis lie on Interstate 5 as it moves north through this state, which is home to Crater Lake. Settlers who flocked to the Willamette Valley via a wagon trail eventually formed what Pacific Northwest state whose largest city, Portland, is just south of Washington?",
+            "answers": ["Oregon"],
+            "incorrect1": "Washington",
+            "incorrect2": "California",
+            "incorrect3": "Idaho",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This gaming console's iconic symbols, the triangle, circle, cross, and square, represent actions and directions in its games, becoming synonymous with the brand. Its exclusive game franchises, including \"God of War,\" \"The Last of Us,\" and \"Uncharted,\" have pushed the boundaries of storytelling and graphics in video games. What is the name of this Sony gaming console, which has sold over 500 million units worldwide?",
+            "answers": ["PlayStation"],
+            "incorrect1": "Xbox",
+            "incorrect2": "Nintendo",
+            "incorrect3": "PC",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "The Statue of Decebalus is located on the banks of this river nearby an ancient structure called the Tabula Traiana, which is the primary ruin left from a bridge believed to be the longest arch bridge for a millenium. The primary sources of this river are the Brigach and Berg Rivers. Tributaries of this river include the Drava River in Croatia and the Tisza River in Serbia. A notable gorge on this river is called the Iron Gates. This river flows through the capital cities of Belgrade, Bratislava, Budapest, and Vienna. Name this second longest river of Europe that starts in the Black Forest of Germany and flows into the Black Sea.",
+            "answers": ["Danube River"],
+            "incorrect1": "Rhine River",
+            "incorrect2": "Volga River",
+            "incorrect3": "Seine River",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This baseball legend, the last MLB player to hit over.400 in a season, achieving a.406 batting average in 1941, enlisted in the U.S. Navy and Marine Corps during World War II and the Korean War, interrupting his baseball career. He was a two-time Triple Crown winner and two-time American League MVP, playing his entire career with the Boston Red Sox. He is also known for his outspoken personality and his contentious relationship with the Boston media, which he famously dubbed the \"Knights of the Keyboard.\" Who is this Hall of Fame left fielder, nicknamed \"Teddy Ballgame\"?",
+            "answers": ["Ted Williams"],
+            "incorrect1": "Babe Ruth",
+            "incorrect2": "Joe DiMaggio",
+            "incorrect3": "Mickey Mantle",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "President Donald Trump imposed these on some of the US's largest trading partners including Canada, Mexico, and China. They can lead to higher prices for consumers and can spark trade disputes between countries. Historically, they have been used as tools of protectionism and have played a role in major economic events like the Great Depression. These taxes, levied on imported goods, are designed to protect domestic industries and generate revenue for governments.  What are these duties imposed on goods entering a country?",
+            "answers": ["tariff", "tariffs"],
+            "incorrect1": "tax",
+            "incorrect2": "subsidy",
+            "incorrect3": "quota",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This reality show, which chronicled the lives of a wealthy and influential family in Calabasas, California, featured a memorable episode where a family member loses a diamond earring in the ocean, sparking a frantic search and a now-iconic meltdown. The show's confessional interviews, where family members share their thoughts and feelings directly to the camera, became a signature element of the show's format. Its catchphrases, like \"You're doing amazing, sweetie,\" and \"Bible,\" have entered popular culture. What is the name of this E! series, which ran for 20 seasons and spawned several spin-off shows?",
+            "answers": ["Keeping Up with the Kardashians"],
+            "incorrect1": "The Real Housewives",
+            "incorrect2": "Jersey Shore",
+            "incorrect3": "The Hills",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "The proteins Band 3 and glycophorins are found on the surface of these cells, the latter of which make them susceptible to plasmodium. In mammals, they do not contain mitochondria and generate energy via fermentation. The old ones are filtered out by the spleen, and they contain about 65% of all iron contents in the body in the form of hemes. A genetic mutation can cause the sickle shape in what cells, also called erythrocytes, whose hemoglobin gives them their distinctive color and the ability to carry oxygen?",
+            "answers": ["red blood cells", "erythrocytes", "haematids", "RBC"],
+            "incorrect1": "white blood cells",
+            "incorrect2": "platelets",
+            "incorrect3": "plasma",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 SCOP Novice 8",
+            "question": "This god and Zephyrus both fell in love with a youth who died in a discus-throwing accident. This accidental murderer of Hyacinth served as a shepherd for King Admetus after he intentionally murdered the Cyclopes as revenge for the death of his son Asclepius. This god pursued the nymph Daphne, and received his lyre from Hermes. Name this Greek god of light and music, the twin brother of Artemis.",
+            "answers": ["Apollo", "Apollon", "Phoebus Apollo"],
+            "incorrect1": "Artemis",
+            "incorrect2": "Zeus",
+            "incorrect3": "Hermes",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2012 SCOP Novice 3",
+            "question": "Near the end of this conflict, the 1st Infantry Division used bulldozers to bury alive enemy forces in trenches. This war saw the first use of Patriot Missiles and ended with the bombing of the \"Highway of Death.\" After losing the ground campaign to the Norman Schwarzkopf-led UN coalition, retreating forces set fire to over 700 oil wells. Iraq's invasion of Kuwait triggered what war codenamed Operation Desert Storm?",
+            "answers": [
+                "Persian Gulf War",
+                "First Persian Gulf War",
+                "Operation Desert Storm",
+                "Iraq-Kuwait War",
+                "Iraq War"
+            ],
+            "incorrect1": "Iraq War",
+            "incorrect2": "Vietnam War",
+            "incorrect3": "Korean War",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2022 MAKEMAKE",
+            "question": "One of this leader's speeches discusses a \"frightful despotism\" and forbids \"entangling alliances.\" The Newburgh Conspiracy and the Conway Cabal were plots to replace this leader with Horatio Gates after this leader's losses at Germantown and Brandywine. After issuing his farewell address warning against political parties, this leader retired to Mount Vernon. Name this first President of the United States.",
+            "answers": ["George Washington"],
+            "incorrect1": "Thomas Jefferson",
+            "incorrect2": "Abraham Lincoln",
+            "incorrect3": "John Adams",
             "used": "TRUE"
         }
     ]
