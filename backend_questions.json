@@ -24555,7 +24555,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This film led the pack with 13 nominations for the 97th Academy Awards. This musical features a unique storyline about a Mexican drug lord who undergoes a sex change to escape the authorities and becomes a glamorous woman named Emilia.  Its music is composed by Cl\u00e9ment Ducol, who also wrote the score for the 2019 film \"The Sisters Brothers.\"  Its world premiere will take place at the Th\u00e9\u00e2tre du Ch\u00e2telet in Paris, a renowned venue for opera and musical productions.  What is this musical, based on the upcoming film of the same name directed by Jacques Audiard?",
+            "question": "This film led the pack with 13 nominations for the 97th Academy Awards. This musical features a unique storyline about a Mexican drug lord who undergoes a sex change to escape the authorities and becomes a glamorous woman named Emilia.  Its music is composed by Cl\u00e9ment Ducol, who also wrote the score for the 2019 film \"The Sisters Brothers.\"  What is this musical film directed by Jacques Audiard?",
             "answers": ["Emilia P\u00e9rez", "Emilia Perez"],
             "incorrect1": "Sofia Vergara",
             "incorrect2": "Salma Hayek",
@@ -24617,7 +24617,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This animal, whose shedding of its skin symbolizes rebirth and renewal, is the zodiac animal associated with the Lunar New Year on January 29, 2025. People born in this animal's year are believed to be wise, cunning, and resourceful. In Chinese mythology, it is often depicted as a powerful and benevolent creature, associated with good fortune and wisdom. What is this legless reptile, known for its sinuous movement and its presence in various cultural traditions and mythologies?",
+            "question": "This animal, whose shedding of its skin symbolizes rebirth and renewal, is the zodiac animal associated with the Lunar Year which began on January 29, 2025. People born in this animal's year are believed to be wise, cunning, and resourceful. In Chinese mythology, it is often depicted as a powerful and benevolent creature, associated with good fortune and wisdom. What is this legless reptile, known for its sinuous movement and its presence in various cultural traditions and mythologies?",
             "answers": ["Snake", "Year of the snake", "wood snake"],
             "incorrect1": "Pig",
             "incorrect2": "Dog",
@@ -24628,7 +24628,7 @@
         {
             "category": "US History",
             "source": "2016 Pennsylvania Novice",
-            "question": "This man almost died when Izola Curry stabbed him with a letter opener during a signing for his book Stride Toward Freedom . This man was the first president of the Southern Christian Leadership Conference. He advocated non\u00adviolent lawbreaking to challenge racism in his \"Letter from a Birmingham Jail.\" This man rose to prominence while organizing the Montgomery Bus Boycott. Name this civil rights activist who delivered the \"I Have a Dream\" speech.",
+            "question": "This man almost died when Izola Curry stabbed him with a letter opener during a signing for his book Stride Toward Freedom. This man was the first president of the Southern Christian Leadership Conference. He advocated non\u00adviolent lawbreaking to challenge racism in his \"Letter from a Birmingham Jail.\" This man rose to prominence while organizing the Montgomery Bus Boycott. Name this civil rights activist who delivered the \"I Have a Dream\" speech.",
             "answers": [
                 "Martin Luther King , Jr.",
                 "MLK",
