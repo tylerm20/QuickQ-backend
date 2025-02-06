@@ -24751,7 +24751,7 @@
             "category": "Current Events",
             "question": "These music awards, presented annually by the Recording Academy, recognize excellence in various genres and categories, from Album of the Year and Record of the Year to Best New Artist and Best Music Video. The ceremony is known for its iconic gramophone-shaped trophy and its star-studded performances. The first ceremony was held in 1959, and it has since become one of the most prestigious awards shows in the music industry. What is the name of these awards, often referred to as \"music's biggest night\"?",
             "answers": ["Grammy's", "Grammy Awards"],
-            "incorrect1": "Academy Awards (Oscars)",
+            "incorrect1": "Academy Awards",
             "incorrect2": "Emmy Awards",
             "incorrect3": "Tony Awards",
             "used": "TRUE",
