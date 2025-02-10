@@ -25057,7 +25057,7 @@
         {
             "category": "Arts & Literature",
             "source": "2015 SCOP Novice 6",
-            "question": "This novel's protagonist plays with Topper and Fred at a dinner party when he forgets he is invisible, and he meets two children named Ignorance and Want. In this novel, the protagonist relives a ball hosted by Mr Fezziwig, meets his dead partner, Jacob Marley, and sends an enormous turkey to Bob Cratchit and Tiny Tim. Name this work by Charles Dickens, in which Ebenezer Scrooge learns the meaning of the title holiday.",
+            "question": "This novel's protagonist plays with Topper and Fred at a dinner party when he forgets he is invisible, and he meets two children named Ignorance and Want. In this novel, the protagonist relives a ball hosted by Mr. Fezziwig, meets his dead partner, Jacob Marley, and sends an enormous turkey to Bob Cratchit and Tiny Tim. Name this work by Charles Dickens, in which Ebenezer Scrooge learns the meaning of the title holiday.",
             "answers": ["A Christmas Carol"],
             "incorrect1": "A Christmas Story",
             "incorrect2": "It's a Wonderful Life",
@@ -25066,7 +25066,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This city hosted Super Bowl LIX between the Eagles and the Chiefs for the NFL championship. the city's unique musical tradition, known as \"jazz funerals,\" features a procession with a brass band that plays somber dirges during the funeral march and transitions to upbeat jazz tunes as the procession celebrates the life of the deceased. Its French Quarter, with its colorful buildings and wrought-iron balconies, is a popular tourist destination known for its lively nightlife and historic architecture. Its cuisine, a blend of French, Spanish, African, and Caribbean influences, includes iconic dishes like gumbo, jambalaya, and po'boys. What is this city, nicknamed the \"Big Easy,\" famous for its annual Mardi Gras celebration and its distinctive cultural heritage?",
+            "question": "This city hosted Super Bowl LIX between the Eagles and the Chiefs for the NFL championship. The city's unique musical tradition, known as \"jazz funerals,\" features a procession with a brass band that plays somber dirges during the funeral march and transitions to upbeat jazz tunes as the procession celebrates the life of the deceased. Its French Quarter, with its colorful buildings and wrought-iron balconies, is a popular tourist destination known for its lively nightlife and historic architecture. Its cuisine, a blend of French, Spanish, African, and Caribbean influences, includes iconic dishes like gumbo, jambalaya, and po'boys. What is this city, nicknamed the \"Big Easy,\" famous for its annual Mardi Gras celebration and its distinctive cultural heritage?",
             "answers": ["New Orleans"],
             "incorrect1": "Baton Rouge",
             "incorrect2": "Lafayette",
@@ -25138,7 +25138,7 @@
         },
         {
             "category": "Sports",
-            "question": "This baseball legend, the last MLB player to hit over.400 in a season, achieving a.406 batting average in 1941, enlisted in the U.S. Navy and Marine Corps during World War II and the Korean War, interrupting his baseball career. He was a two-time Triple Crown winner and two-time American League MVP, playing his entire career with the Boston Red Sox. He is also known for his outspoken personality and his contentious relationship with the Boston media, which he famously dubbed the \"Knights of the Keyboard.\" Who is this Hall of Fame left fielder, nicknamed \"Teddy Ballgame\"?",
+            "question": "This baseball legend, the last MLB player to hit over .400 in a season, achieving a.406 batting average in 1941, enlisted in the U.S. Navy and Marine Corps during World War II and the Korean War, interrupting his baseball career. He was a two-time Triple Crown winner and two-time American League MVP, playing his entire career with the Boston Red Sox. He is also known for his outspoken personality and his contentious relationship with the Boston media, which he famously dubbed the \"Knights of the Keyboard.\" Who is this Hall of Fame left fielder, nicknamed \"Teddy Ballgame\"?",
             "answers": ["Ted Williams"],
             "incorrect1": "Babe Ruth",
             "incorrect2": "Joe DiMaggio",
@@ -25148,7 +25148,7 @@
         },
         {
             "category": "Current Events",
-            "question": "President Donald Trump imposed these on some of the US's largest trading partners including Canada, Mexico, and China. They can lead to higher prices for consumers and can spark trade disputes between countries. Historically, they have been used as tools of protectionism and have played a role in major economic events like the Great Depression. These taxes, levied on imported goods, are designed to protect domestic industries and generate revenue for governments.  What are these duties imposed on goods entering a country?",
+            "question": "President Donald Trump threatened to impose these on some of the US's largest trading partners including Canada, Mexico, and China. They can lead to higher prices for consumers and can spark trade disputes between countries. Historically, they have been used as tools of protectionism and have played a role in major economic events like the Great Depression. These taxes, levied on imported goods, are designed to protect domestic industries and generate revenue for governments.  What are these duties imposed on goods entering a country?",
             "answers": ["tariff", "tariffs"],
             "incorrect1": "tax",
             "incorrect2": "subsidy",
