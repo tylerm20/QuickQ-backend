@@ -25138,7 +25138,7 @@
         },
         {
             "category": "Sports",
-            "question": "This baseball legend, the last MLB player to hit over .400 in a season, achieving a.406 batting average in 1941, enlisted in the U.S. Navy and Marine Corps during World War II and the Korean War, interrupting his baseball career. He was a two-time Triple Crown winner and two-time American League MVP, playing his entire career with the Boston Red Sox. He is also known for his outspoken personality and his contentious relationship with the Boston media, which he famously dubbed the \"Knights of the Keyboard.\" Who is this Hall of Fame left fielder, nicknamed \"Teddy Ballgame\"?",
+            "question": "This baseball legend, the last MLB player to hit over .400 in a season, achieving a .406 batting average in 1941, enlisted in the U.S. Navy and Marine Corps during World War II and the Korean War, interrupting his baseball career. He was a two-time Triple Crown winner and two-time American League MVP, playing his entire career with the Boston Red Sox. He is also known for his outspoken personality and his contentious relationship with the Boston media, which he famously dubbed the \"Knights of the Keyboard.\" Who is this Hall of Fame left fielder, nicknamed \"Teddy Ballgame\"?",
             "answers": ["Ted Williams"],
             "incorrect1": "Babe Ruth",
             "incorrect2": "Joe DiMaggio",
@@ -25210,6 +25210,610 @@
             "incorrect1": "Thomas Jefferson",
             "incorrect2": "Abraham Lincoln",
             "incorrect3": "John Adams",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "This highest peak in this nation is the Pico da Neblina, while notable mountain ranges in this nation include the Espinhaco Mountains. Cities in this nation include Manaus, Belo Horizonte, and Salvador. The Parana River rises in this nation. The only countries on the same continent that do not border this country are Ecuador and Chile, while the Amazon rain forest is located here. Name this Portuguese-speaking South American nation, whose cities include Sao Paulo and Rio de Janeiro.",
+            "answers": ["Brazil", "Brasil", "Federative Republic of Brazil"],
+            "incorrect1": "Argentina",
+            "incorrect2": "Mexico",
+            "incorrect3": "Colombia",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This treaty set the Saint Croix River as the northeastern boundary of the US. Article III of this treaty declared the right of Native Americans to trade and travel between the US and Canada. American merchants wanted the British West Indies reopened for trade, which was not achieved, but the British did vacate six western forts by June 1796. It notably failed to deal with the impressments of American sailors into the Royal Navy, which became a key issue in the War of 1812. Identify this 1794 treaty that negotiated compensations between the US and Britain, named after a Supreme Court justice.",
+            "answers": ["Jay Treaty", "Jay's Treaty", "Treaty of London, 1794"],
+            "incorrect1": "Treaty of Paris",
+            "incorrect2": "Treaty of Ghent",
+            "incorrect3": "Treaty of Versailles",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This Hall of Famer's unusual batting stance, with his feet spread wide apart and his body crouched low to the ground, earned him the nickname \"Stan the Man.\"  He holds the National League record for most career hits, with 3,630 hits, all with the St. Louis Cardinals. He won seven batting titles and three National League MVP awards during his 22-season career. He was also known for his sportsmanship and his friendly demeanor, earning him the respect of fans and fellow players. Who is this legendary outfielder and first baseman?",
+            "answers": ["Stan Musial"],
+            "incorrect1": "Babe Ruth",
+            "incorrect2": "Ted Williams",
+            "incorrect3": "Lou Gehrig",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This author compared the moon to \"a fragment of angry candy\" in \"the Cambridge ladies who live in furnished souls\". This author mentions \"bayonets roasted hot with heat\" in a poem about a \"conscientious objector\". This author of \"i sing of Olaf glad and big\" wrote a poem referring to \"sun moon stars rain\" and \"women and men (both ding and dong)\". Name this poet of \"anyone lived in a pretty how town\" who notably avoided capital letters.",
+            "answers": ["E. E. Cummings", "Edward Eastlin Cummings"],
+            "incorrect1": "T.S. Eliot",
+            "incorrect2": "Robert Frost",
+            "incorrect3": "Ezra Pound",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2017 SCOP MS 7",
+            "question": "Monks in this country accidentally altered the dangerous confluence of three rivers when they built the Leshan Buddha. A tomb containing a mercury river and an army of Terracotta soldiers honors this country's emperor Qin Shi Huangdi, who began building this nation's defense against the Huns. Name this nation, home to a Great Wall.",
+            "answers": [
+                "China",
+                "People's Republic of China",
+                "Middle Kingdom",
+                "Zhongguo"
+            ],
+            "incorrect1": "India",
+            "incorrect2": "Japan",
+            "incorrect3": "Russia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "The leader of this religious group, Prince Karim Al-Hussaini Aga Khan, recently passed away and was replaced by his son, Rahim Al-Hussaini. This branch of Shia Islam has a diverse following across the globe, with significant populations in South Asia, East Africa, and Central Asia. Its followers are known for their emphasis on pluralism and intellectual pursuits. The Aga Khan Development Network, a group of agencies founded by the Aga Khan, focuses on improving the quality of life for communities in developing countries. What is this branch of Islam, known for its rich intellectual tradition and its commitment to social development?",
+            "answers": ["Ismali Muslims"],
+            "incorrect1": "Sunni Muslims",
+            "incorrect2": "Shia Muslims",
+            "incorrect3": "Sufi Muslims",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2020 ERIS",
+            "question": "When these machines exceed the critical value of attack, it causes a dangerous situation called a \"stall\". A common and sometimes incorrect explanation for how these machines work invokes the Bernoulli principle to explain that the air above one part of them is less dense than below, generating lift. What machines might be powered by jet engines and take off from runways?",
+            "answers": ["airplanes", "aircraft", "airfoils"],
+            "incorrect1": "helicopters",
+            "incorrect2": "jets",
+            "incorrect3": "rockets",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This reality show, known for its portrayal of the party-centric lifestyle of a group of housemates, popularized catchphrases like \"GTL\" (Gym, Tan, Laundry) and \"Cabs are here!\"  The show's setting, a summer share house in Seaside Heights, New Jersey, became a popular tourist destination for fans.  The cast members, including Snooki, Pauly D, and The Situation, gained notoriety for their distinctive personalities and dramatic relationships.  What is the name of this MTV series, which sparked controversy for its portrayal of Italian-American stereotypes and its celebration of excessive partying?",
+            "answers": ["Jersey Shore"],
+            "incorrect1": "The Real Housewives",
+            "incorrect2": "The Hills",
+            "incorrect3": "Laguna Beach",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2012 SCOP Novice 3",
+            "question": "A hiking trail to this site goes through \"Dead Woman's Pass,\" and this site includes the Room of the Three Windows. This site, built as an estate for Pachacuti in the 15th century northwest of the capital city Cuzco, is situated high in a Peruvian mountain range. Name this \"lost city of the Incan Empire\" introduced to New World scholars by Hiram Bingham in 1911.",
+            "answers": ["Machu Picchu"],
+            "incorrect1": "Chichen Itza",
+            "incorrect2": "Teotihuacan",
+            "incorrect3": "Tikal",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "Lee Deforest is considered one of the inventors of this technique in the early 1900s when he was working on space telegraphy. This form of radio communication involves the transmission of sinusoidal waves that have varying strength over time. Most early commercial radios used this technique due to its simplicity. Name this radio transmission methodology contrasted with frequency modulation.",
+            "answers": ["amplitude modulation", "AM radio"],
+            "incorrect1": "frequency modulation",
+            "incorrect2": "phase modulation",
+            "incorrect3": "pulse modulation",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Donald Trump and Elon Musk laid off nearly all of this US federal agency's 10 thousand staff members which plans to shut down the agency. This independent agency, established in 1961 by President John F. Kennedy, is primarily responsible for administering civilian foreign aid and development assistance. Its programs focus on areas such as economic growth, agriculture, health, education, and democracy. It operates in over 100 countries, providing assistance to those in need and promoting sustainable development. What is the name of this agency, which plays a crucial role in U.S. foreign policy and humanitarian efforts?",
+            "answers": [
+                "USAID",
+                "US Agency for international development",
+                "u.s.a.i.d."
+            ],
+            "incorrect1": "UNDP",
+            "incorrect2": "UNICEF",
+            "incorrect3": "WHO",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2016 SAGES",
+            "question": "On three different occasions, this city went to war with Rome, and it found much success when this city's general Hannibal marched on Rome on top of elephants during the second war. Name this ancient African city founded by Dido, the enemy of Rome during the Punic Wars.",
+            "answers": ["Carthage"],
+            "incorrect1": "Rome",
+            "incorrect2": "Athens",
+            "incorrect3": "Sparta",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "He started the Shyness Clinic and his latest book is the Lucifer Effect which describes his most famous experiment. During that, number 416 went on a hunger strike on the second day and one group's uniform consisted of sunglasses to avoid eye contact and a baton. Although that experiment was planned to last two weeks, this man cut off that experiment after six days because of ethical concerns. Name this conductor of the Stanford Prison Experiment.",
+            "answers": ["Philip Zimbardo"],
+            "incorrect1": "Stanley Milgram",
+            "incorrect2": "Solomon Asch",
+            "incorrect3": "Albert Bandura",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This reality television franchise is known for its portrayal of the lavish lifestyles and interpersonal dramas of affluent women in various cities. The shows often feature extravagant parties, designer clothes, and conflicts between the cast members. The franchise began in 2006 with a series set in Orange County, California, and has since expanded to numerous cities across the United States and internationally. What is the name of this popular Bravo franchise, which offers a glimpse into the lives of the wealthy and aspirational?",
+            "answers": ["The Real Housewives"],
+            "incorrect1": "Keeping Up with the Kardashians",
+            "incorrect2": "The Hills",
+            "incorrect3": "Jersey Shore",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 SCOP MS 10",
+            "question": "This author's translation of the Red Book of Westmarch changes the names Kalimac and Banaz\u02c6\u0131r into Meriadoc and Samwise. In one of this author's novels, the Rohirrim join in a battle against thousands of orcs. In another novel by this man, Bilbo Baggins is sent on a journey with thirteen dwarves by the wizard Gandalf. Name this linguist and author of The Hobbit and The Lord of the Rings.",
+            "answers": ["J.R.R. Tolkein", "John Ronald Reuel Tolkein"],
+            "incorrect1": "C.S. Lewis",
+            "incorrect2": "J.K. Rowling",
+            "incorrect3": "George R.R. Martin",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL player won the league's MVP award for the 2024 season. The quarterback, known for his powerful arm and impressive running ability, led the NFL in total touchdowns in 2020, showcasing his dual-threat capabilities. He was drafted seventh overall by the Buffalo Bills in the 2018 NFL Draft, and has become the face of the franchise. He led the Bills to their first AFC East division title in 25 years in 2020. Who is this quarterback?",
+            "answers": ["Josh Allen"],
+            "incorrect1": "Patrick Mahomes",
+            "incorrect2": "Joe Burrow",
+            "incorrect3": "Lamar Jackson",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "This event was orchestrated by Isoroku Yamamoto in an attempt to prevent American interference in the Japanese invasion of the Dutch East Indies. The date on which it occurred \"will live in infamy,\" according to a Franklin Roosevelt speech. The U.S.S. Arizona Memorial is dedicated to over 1,100 Americans killed in this event. Identify this December 7, 1941 attack on a United States naval base in Hawaii.",
+            "answers": [
+                "the attack on Pearl Harbor",
+                "pearl harbor",
+                "day that will live in infamy"
+            ],
+            "incorrect1": "the Battle of Midway",
+            "incorrect2": "the D-Day landings",
+            "incorrect3": "the September 11 attacks",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2019 SCOP Novice 10",
+            "question": "In 1846, this country's city of Angostura changed its name to Ciudad Bolivar. The ABC islands of Aruba, Bonaire, and Curac\u00b8ao are just north of this mainland country, a little east of the opening to Lake Maracaibo. The Orinoco River flows through this country into the Atlantic Ocean just northwest of Guyana. Name this South American country, found east of Colombia, whose capital city is Caracas.",
+            "answers": ["Venezuela", "Bolivarian Republic of Venezuela"],
+            "incorrect1": "Colombia",
+            "incorrect2": "Ecuador",
+            "incorrect3": "Peru",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This singer's powerful and raspy vocals, combined with her electrifying stage presence, made her a rock icon and a pioneer for women in music.  Her hit song \"Me and Bobby McGee,\" written by Kris Kristofferson, became a posthumous number-one single and a signature song.  She was known for her psychedelic fashion sense, often adorned with feathers, beads, and scarves.  Who is this singer, who tragically died of a heroin overdose at the age of 27?",
+            "answers": ["Janis Joplin"],
+            "incorrect1": "Jimi Hendrix",
+            "incorrect2": "Jim Morrison",
+            "incorrect3": "Grace Slick",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2013 SCOP Novice 4",
+            "question": "This deity is sometimes identified with the crocodile god Khenty-khety, and with the blind Mekhenty-er-irty because of a struggle with his uncle. This god's severed hands were retrieved by Sobek's fish trap, and this figure painted a wooden boat to look like stone in a race against Set. His left eye represented the moon, and is symbolized by the wadjet. Name this falcon-headed Egyptian god, the son of Osiris.",
+            "answers": ["Horus"],
+            "incorrect1": "Anubis",
+            "incorrect2": "Ra",
+            "incorrect3": "Osiris",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA player was part of a recent blockbuster trade which sent him to the Los Angeles Lakers in exchange for Anthony Davis. This Slovenian basketball prodigy, known for his incredible court vision and scoring ability, became the youngest EuroLeague MVP in history at the age of 19, leading Real Madrid to a championship title. He was drafted third overall by the Atlanta Hawks in the 2018 NBA draft but was immediately traded to the Dallas Mavericks. He is also the first player in NBA history to record multiple triple-doubles with at least 60 points. Who is this young superstar, who has already earned five All-NBA First Team selections?",
+            "answers": ["Luka Don\u010di\u0107", "Luka Doncic"],
+            "incorrect1": "Nikola Jokić",
+            "incorrect2": "Giannis Antetokounmpo",
+            "incorrect3": "Stephen Curry",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "Eleven people were killed in a mass shooting at an adult education center in this nation. This Scandinavian country, known for its minimalist design and innovative furniture giant IKEA, is home to the Nobel Prize Museum, which celebrates the achievements of Nobel laureates. Its capital city, Stockholm, is built on 14 islands and is connected by a network of bridges and ferries. It is also the birthplace of ABBA, the iconic pop group whose music has captivated audiences for decades. What is this country, known for its stunning natural beauty, including its vast forests and picturesque lakes?",
+            "answers": ["Sweden"],
+            "incorrect1": "Switzerland",
+            "incorrect2": "Norway",
+            "incorrect3": "Finland",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2020 TAILS",
+            "question": "The D double-prime layer is near the bottom of this region, which lies beneath the Moho discontinuity. Although this region is solid rock, it acts as a slow but viscous liquid, which allows convection in this region. This region's plumes form hotspots which feature magma rising from this layer to the crust. The asthenosphere lies in what layer of the Earth between the crust and the core?",
+            "answers": ["the mantle"],
+            "incorrect1": "the crust",
+            "incorrect2": "the core",
+            "incorrect3": "the atmosphere",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2017 HIGS",
+            "question": "After this war, land conflicts led to the destruction of Fort Detroit during Pontiac's Rebellion. George Washington failed to seize Fort Duquesne during this war, in which James Wolfe and Louis de Montcalm fought in the Battle of the Plains of Abraham outside Quebec. Identify the North American theater of the Seven Years' War, which pitted the United Kingdom against a European country and its native allies.",
+            "answers": ["French and Indian War", "Seven Years' War"],
+            "incorrect1": "American Revolutionary War",
+            "incorrect2": "War of 1812",
+            "incorrect3": "Seven Years' War",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "This artist performed at the Super Bowl LIX halftime show. His debut studio album was titled Section.80, a reference to a specific California penal code. He initially gained wider recognition after a guest appearance on a track by The Game. His critically acclaimed album To Pimp a Butterfly explored themes of race, identity, and institutional inequality.  He received the Pulitzer Prize for Music in 2018, a rare honor for a non-classical or jazz artist. His public feud with Drake was the subject of his track Not Like Us, which won Best Song of the Year at the 2025 Grammy Awards. Who is this highly influential and award-winning rapper?",
+            "answers": ["Kendrick Lamar"],
+            "incorrect1": "Drake",
+            "incorrect2": "J. Cole",
+            "incorrect3": "Kanye West",
+            "used": "TRUE",
+            "source": "Una Corbett"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA player was recently traded from the Miami Heat to the Golden State Warriors after he was suspended for violating team rules. This basketball player, known for his hard-nosed defense and clutch performances, led the Miami Heat to an improbable NBA Finals appearance in 2020, upsetting the top-seeded Milwaukee Bucks along the way. He was drafted 30th overall by the Chicago Bulls in 2011 and has played for several teams, including the Minnesota Timberwolves and Philadelphia 76ers. Name this six-time NBA All-Star and has been named to the All-NBA Team five times.",
+            "answers": ["Jimmy Butler"],
+            "incorrect1": "Michael Jordan",
+            "incorrect2": "Scottie Pippen",
+            "incorrect3": "Derrick Rose",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 MOQBA Novice",
+            "question": "This artist's motif of a window on the left illuminating the painting appears in a painting in which a depiction of the Last Judgement hangs behind the Woman Holding a Balance. Klaas van Berkel theorized that this artist used his friend Antonie van Leeuwenhoek as the model for a painting in which the title Astronomer touches a globe. The \"Mona Lisa of the North\" is a nickname for a painting by this artist in which a blonde woman in a turban models the title jewelry. Name this Dutch painter of Girl with a Pearl Earring.",
+            "answers": ["Johannes Vermeer"],
+            "incorrect1": "Rembrandt van Rijn",
+            "incorrect2": "Vincent van Gogh",
+            "incorrect3": "Leonardo da Vinci",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "A mutation of the FMR1 gene can result in Martin-Bell syndrome, also named for the \"fragile\" form of this structure. These are inactivated in females in a process called lyonization, resulting in the formation of Barr bodies. Klinefelter syndrome sees the presence of one or more extra copies of this chromosome in males, resulting in reduced levels of testosterone. Turner syndrome is a condition in which females may only have one of these chromosomes. Identify this sex chromosome that is present in both males and females.",
+            "answers": ["X chromosome"],
+            "incorrect1": "Y chromosome",
+            "incorrect2": "autosome",
+            "incorrect3": "chromosome 21",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2018 SCOP Novice 9",
+            "question": "At this man's execution, he wrote a note reading that he was \"now quite certain that the crimes of this guilty land can never be purged away but with blood.\" At his sentencing, this man protested that he had previously led bloodless raids in Missouri and that he did not intend to murder anyone in his attempt to capture a federal armory in what is now West Virginia. Robert E. Lee helped capture what leader of a failed 1859 raid in Harpers Ferry?",
+            "answers": ["John Brown"],
+            "incorrect1": "Frederick Douglass",
+            "incorrect2": "Harriet Tubman",
+            "incorrect3": "William Lloyd Garrison",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 SCOP MS 7",
+            "question": "This location includes Homey Airport near Groom Lake, where Lockheed established \"the Ranch\" for engineers working on the U-2 within Nellis Air Force Range. The existence of this facility was admitted in 2013 by the CIA. Name this Nevada facility where the US Air Force probably tests experimental aircraft and probably doesn't hold the alien remains from Roswell, New Mexico.",
+            "answers": ["Area 51"],
+            "incorrect1": "The Pentagon",
+            "incorrect2": "Fort Knox",
+            "incorrect3": "White Sands Missile Range",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "This leader fought with co-emperor Licinius in battles at Cibalae and Adrianople. It is said that he had a vision before the Battle of Milvian Bridge. He called for the Council of Nicaea and issued the Edict of Milan. He was the first Roman Emperor to convert to Christianity, and he established an eastern capital at Byzantium. Name this Roman Emperor who lent his name to the city now called Istanbul.",
+            "answers": [
+                "Constantine I",
+                "Constantine the Great",
+                "Flavius Valerius Aurelius Constantinus",
+                "Saint Constantine"
+            ],
+            "incorrect1": "Julius Caesar",
+            "incorrect2": "Augustus Caesar",
+            "incorrect3": "Nero",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This musician's iconic round glasses and his message of peace and love, embodied in songs like \"Imagine\" and \"Give Peace a Chance,\" became symbols of the counterculture movement. He formed a songwriting partnership with Paul McCartney that produced some of the most enduring and beloved songs in music history. He was a founding member of the Beatles, a band that revolutionized popular music and achieved unprecedented global fame. Who is this legendary musician, tragically murdered in 1980?",
+            "answers": ["John Lennon"],
+            "incorrect1": "Paul McCartney",
+            "incorrect2": "George Harrison",
+            "incorrect3": "Ringo Starr",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2018 SCOP Novice 9",
+            "question": "The World War II proximity fuse relied on this effect to detonate bombs near their targets, and this type of ultrasound measures the speed of blood through an artery. When applied to microwaves, this effect allows meteorologists to track storms. This effect is exemplified by an ambulance siren whose pitch increases as it approaches the listener. Name this effect in which the frequency of waves changes because the source is moving toward or away from the observer.",
+            "answers": ["Doppler effect"],
+            "incorrect1": "redshift",
+            "incorrect2": "blueshift",
+            "incorrect3": "gravitational lensing",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2018 MVS RAMS",
+            "question": "The Aloadae once placed this god inside a jar for thirteen months. Spartan youths sometimes sacrificed a puppy to a son of this god before going into ritual battle. This god was often accompanied by Eris, the goddess of discord, as well as his sons Phobos and Deimos. Hephaestus caught this god in a net to expose his affair with Aphrodite. Name this Greek god of war.",
+            "answers": ["Ares", "Mars"],
+            "incorrect1": "Zeus",
+            "incorrect2": "Hades",
+            "incorrect3": "Poseidon",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2015 SCOP Novice 6",
+            "question": "One theatre of this war is named for the severed ear of Robert Jenkins, while another is named for George II. During this war, Prussia won the Battle of Mollwitz and seized Silesia, while led by Frederick the Great, whose invasion of a neighboring country violated the Pragmatic Sanction. Name this war fought over Maria Theresa's ascension to the throne of a country led from Vienna.",
+            "answers": ["War of Austrian Succession"],
+            "incorrect1": "War of the Spanish Succession",
+            "incorrect2": "Seven Years' War",
+            "incorrect3": "Napoleonic Wars",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL player was named the MVP of Super Bowl LIX in New Orleans leading his team to a victory over the Kansas City Chiefs. This quarterback, known for his dual-threat abilities as a passer and runner, led the Philadelphia Eagles to Super Bowl LVII in 2023, where he set a Super Bowl record for most rushing yards by a quarterback. He played college football at the University of Alabama and the University of Oklahoma, transferring after losing his starting position to Tua Tagovailoa. Name this player who was drafted in the second round of the 2020 NFL Draft by the Philadelphia Eagles.",
+            "answers": ["Jalen Hurts"],
+            "incorrect1": "Patrick Mahomes",
+            "incorrect2": "Lamar Jackson",
+            "incorrect3": "Josh Allen",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "On Sunday February 9th, President Donald Trump directed the U.S. Treasury to stop producing this item, citing costs. This item was first made in 1793 and featured the head of an allegorical woman with flowing hair. Originally made of pure copper, it is now composed of 97.5% zinc and 2.5% copper. It costs a little over 3 cents to make. What is the name of this coin, which today features President Abraham Lincoln?",
+            "answers": ["Penny", "pennies"],
+            "incorrect1": "Nickel",
+            "incorrect2": "Dime",
+            "incorrect3": "Quarter",
+            "used": "TRUE",
+            "source": "Una Corbett"
+        },
+        {
+            "category": "US History",
+            "source": "2016 PLATO",
+            "question": "This city was torched in protest of Governor William Berkeley during Bacon's Rebellion. The growth of the tobacco industry was spurred by a man from here, John Rolfe, and came after the \"Starving Time.\" Men from this colony were taught to farm by John Smith, who believed himself to have been saved from the Powhatan tribe by Pocahontas. Name this first permanent English settlement in the Americas, the original capital of the Virginia Colony.",
+            "answers": ["Jamestown, Virginia", "Jamestown"],
+            "incorrect1": "Plymouth, Massachusetts",
+            "incorrect2": "Salem, Massachusetts",
+            "incorrect3": "Yorktown, Virginia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This puzzle game features seven distinctive shapes formed from four square blocks, known as \"Tetrominoes.\"  Its iconic theme song, \"Korobeiniki,\" a Russian folk tune, has become synonymous with the game's addictive gameplay.  It was created in 1984 by Alexey Pajitnov, a Soviet software engineer.  What is this game, one of the best-selling video games of all time, whose name is a combination of the Greek word \"tetra\" (meaning four) and \"tennis?\"",
+            "answers": ["Tetris"],
+            "incorrect1": "Pac-Man",
+            "incorrect2": "Space Invaders",
+            "incorrect3": "Donkey Kong",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This mountain is home to the Lewis and Tyndall glaciers, and its Batian peak was ascended by Halford John Mackinder in 1899. It is known as the \"Mountain of Whiteness\" by the native Kikuyu people. Though this mountain is the second-tallest peak on its continent following Mount Kilimanjaro, it is the tallest in its namesake country. Name this stratovolcano located 150 miles northeast of Nairobi, the capital of its namesake country.",
+            "answers": ["Mount Kenya", "Kirinyaga", "Mountain of Whiteness"],
+            "incorrect1": "Mount Kilimanjaro",
+            "incorrect2": "Mount Everest",
+            "incorrect3": "Mount Denali",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2022 SCOP MS 11",
+            "question": "Musical works of this type that are nicknamed Palindrome and Surprise are two of the one-hundred-four of these works written by their \"father,\" Joseph Haydn. Mahler wrote his \"Song of the Earth\" to avoid the\"curse of the ninth\" associated with these works, and Brahms's first one is nicknamed \"Beethoven's Tenth.\"Four movements make up the modern form of what long musical works for full orchestra?",
+            "answers": [
+                "symphony",
+                "symphonies",
+                "New World Symphony",
+                "Symphony From the New World",
+                "Palindrome Symphony",
+                "Surprise Symphony"
+            ],
+            "incorrect1": "concerto",
+            "incorrect2": "sonata",
+            "incorrect3": "opera",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "Mark Williams, a player from this team, recently failed his physical after a trade to the Lakers, forcing the trade to be rescinded. This NBA team's name, inspired by the city's rebellious spirit during the American Revolution, was revived in 2014, bringing back a sense of history and local pride. They were originally established as an expansion team in 1988, led by young stars Larry Johnson and Alonzo Mourning. Their home arena, the Spectrum Center, is located in the heart of Uptown Charlotte. What is the name of this team, whose teal and purple colors were a hallmark of the 1990s?",
+            "answers": ["Charolette Hornets", "Hornets"],
+            "incorrect1": "Charlotte Bobcats",
+            "incorrect2": "New Orleans Pelicans",
+            "incorrect3": "Memphis Grizzlies",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This team defeated the Kansas City Chiefs in Super Bowl LIX. What is the name of this team, whose home stadium, Lincoln Financial Field, is located in the heart of Philadelphia? They were one of the original NFL franchises when the league was founded in 1933 as the Frankford Yellow Jackets. Their iconic kelly green jerseys, adopted in 1954, have become a symbol of the franchise. This was their second Super Bowl title after defeating the New England Patriots in Super Bowl LII. What is the name of this team, whose passionate fanbase is known for their fervent support and their reputation for being some of the most dedicated (and sometimes unruly) fans in the NFL?",
+            "answers": ["Philadelphia Eagles", "Eagles"],
+            "incorrect1": "Philadelphia Phillies",
+            "incorrect2": "Dallas Cowboys",
+            "incorrect3": "New York Giants",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 MOQBA Novice",
+            "question": "In the 1920s, significant grape farming took place on the slopes of this state's Sugarloaf Mountain, which sits on the western shore of Lake Apopka. This state's highest natural point is Britton Hill, the lowest high point in any U.S. State. This state's Osceola County is home to a master planned community that was originally developed byThe Walt Disney Company. That community is called Celebration. This state's second most populous city sits on a plain between Biscayne Bay and the Everglades. Name this state home to cities such as Orlando and Miami.",
+            "answers": ["Florida"],
+            "incorrect1": "California",
+            "incorrect2": "Texas",
+            "incorrect3": "Georgia",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2016 SAGES",
+            "question": "A lost battle at this building was avenged at the Battle of San Jacinto. Davy Crockett and Jim Bowie defended this building, but were ultimately killed by Mexican troops led by Santa Anna. Name this mission in San Antonio, Texas that we are told to \"Remember.\"",
+            "answers": ["The Alamo"],
+            "incorrect1": "The Battle of Gettysburg",
+            "incorrect2": "The Battle of San Jacinto",
+            "incorrect3": "The Battle of Little Bighorn",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This reality television series, known for its heartwarming makeovers and focus on self-improvement, features a \"Fab Five\" of experts who offer guidance on fashion, grooming, interior design, culture, and food. The show's original title was later shortened to reflect its broader message of acceptance and inclusivity. Its \"French Tuck\" fashion tip, popularized by fashion expert Tan France, has become a widely adopted style trend. What is the name of this Netflix series, which has been praised for its positive representation of the LGBTQ+ community and its uplifting message of self-acceptance?",
+            "answers": ["Queer Eye"],
+            "incorrect1": "RuPaul's Drag Race",
+            "incorrect2": "Project Runway",
+            "incorrect3": "The Fab Five",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "This shape is traced out by the set of all points that are equidistant from a focus and a directrix. It is the only conic section that can be graphed as a function. It is the shape of the height versus time graph of a ball tossed straight in the air. Identify this shape that is traced out by the graph of any quadratic function.",
+            "answers": ["parabola"],
+            "incorrect1": "hyperbola",
+            "incorrect2": "ellipse",
+            "incorrect3": "circle",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2015 SCOP Novice 6",
+            "question": "One ruler of this country constructed a statue of Buddha using weapons he confiscated in a \"sword hunt,\" and the Dutch established a trading outpost on this country's Dejima island. In order to retain land, defeated generals in this country would commit seppuku, and one daimyo in this country rose to power after winning the Battle of Sekigahara. Name this country in which Tokugawa Ieyasu moved the capital to Tokyo after becoming Shogun.",
+            "answers": ["Japan", "State of Japan", "Nihon-koku", "Nippon-koku"],
+            "incorrect1": "China",
+            "incorrect2": "South Korea",
+            "incorrect3": "Vietnam",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2022 SANDS",
+            "question": "In 1877, these people launched the anti-modernist Satsuma Rebellion. In a legendary story, forty-seven leader-less examples of these people, known as ronin, avenged their dead master before committing suicide. These people's governing Bushido code draws on elements of Zen Buddhism and Shintoism. Swords like the wakizashi and katana were wielded by members of what Japanese warrior class of people?",
+            "answers": ["samurai", "ronin"],
+            "incorrect1": "ninja",
+            "incorrect2": "shogun",
+            "incorrect3": "daimyo",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This life simulation video game series, known for its relaxing gameplay and adorable animal villagers, allows players to create their own personalized character and build a life in a charming village.  The games feature a real-time clock and calendar, with events and holidays occurring throughout the year.  Players can collect bugs, fish, fossils, and furniture to decorate their homes and the surrounding environment.  What is the name of this Nintendo franchise, which has gained popularity for its calming gameplay and its ability to foster creativity and social connection?",
+            "answers": ["Animal Crossing"],
+            "incorrect1": "Stardew Valley",
+            "incorrect2": "Harvest Moon",
+            "incorrect3": "Minecraft",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 HIGS",
+            "question": "Art museums in this city include Orsay and the Pompidou Center. Couples place \"love-locks\" on the Pont des Artes, a bridge in this city. Napoleon commissioned the Arc de Triomphe at one end of this city's Champs-Elysees. This city comprises twenty arrondissements and is split by the Seine River. Name this home of Notre-Dame Cathedral and the Eiffel Tower, the largest city in France.",
+            "answers": ["Paris"],
+            "incorrect1": "London",
+            "incorrect2": "Rome",
+            "incorrect3": "Berlin",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team's mascot, Stinger, is a yellow jacket with a hockey stick who energizes fans during games with his playful antics. Their cannon goal celebration, which fires confetti and smoke after every home goal, has become a thrilling tradition for fans at Nationwide Arena. They have won one playoff series in their history, a memorable sweep of the Tampa Bay Lightning in 2019. They are the only NHL team to have never reached the Conference Finals. What is the name of this team, based in Columbus, Ohio?",
+            "answers": ["Columbus Blue Jackets", "Blue Jackets"],
+            "incorrect1": "Columbus Crew",
+            "incorrect2": "Pittsburgh Penguins",
+            "incorrect3": "Detroit Red Wings",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2014 SCOP Novice 5",
+            "question": "This quantity is measured by a hygrometer and is found by relating the partial pressure of water vapor to the vapor pressure of liquid water. This quantity is maximized when the air temperature is equal to the dew point, when condensation will occur. It is often given as a percentage in weather reports, where it is combined with temperature to calculate the heat index. Give this measure of the level of water vapor in the air.",
+            "answers": ["relative humidity"],
+            "incorrect1": "absolute humidity",
+            "incorrect2": "dew point",
+            "incorrect3": "temperature",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Along with aluminium, President Trump announced that the U.S. would impose a new import tax on this material starting on Monday February 10th. J.P. Morgan founded a company focused on this material in 1901. It was at one time the largest corporation in the world. This material is a ferrous metal alloy primarily composed of iron, with varying additions of carbon. It is known for its high tensile strength and durability. What is this ubiquitous construction material?",
+            "answers": ["Steel"],
+            "incorrect1": "Iron",
+            "incorrect2": "Aluminum",
+            "incorrect3": "Copper",
+            "used": "TRUE",
+            "source": "Una Corbett"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 Darien DEFT",
+            "question": "Colin Matthews composed an eighth movement to this work subtitled \"The Renewer\", which was dedicated to its original composer's daughter Imogen. A melody from this suite's fourth movement was adapted into the music for Cecil Spring Rice's poem \"I Vow to Thee, My Country.\" The sound of a women's choir offstage fades out as a door is slowly closed on them in this work's final section, \"Neptune, the Mystic.\" Name this orchestral suite with movements such as \"Jupiter, the Bringer of Jollity\" and \"Mars, the Bringer of War\" by Gustav Holst.",
+            "answers": ["The Planets"],
+            "incorrect1": "The Four Seasons",
+            "incorrect2": "The Ring Cycle",
+            "incorrect3": "The Planets Suite",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2022 MAKEMAKE",
+            "question": "An activist for this non-feminist cause changed their name from Isabella Baumfree after saying \"the Spirit calls me, and I must go\". In support of this cause, the Secret Six funded a raid on Harpers Ferry led by John Brown. Harriet Beecher Stowe's novel Uncle Tom's Cabin helped drum up support for this cause. Sojourner Truth promoted what cause accomplished by the 13th Amendment and the Emancipation Proclamation?",
+            "answers": [
+                "abolition of slavery",
+                "ending slavery",
+                "13th Amendment",
+                "Emancipation Proclamation"
+            ],
+            "incorrect1": "Civil Rights Movement",
+            "incorrect2": "women's suffrage",
+            "incorrect3": "Prohibition",
             "used": "TRUE"
         }
     ]
