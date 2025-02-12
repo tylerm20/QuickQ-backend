@@ -25272,7 +25272,7 @@
         {
             "category": "Current Events",
             "question": "The leader of this religious group, Prince Karim Al-Hussaini Aga Khan, recently passed away and was replaced by his son, Rahim Al-Hussaini. This branch of Shia Islam has a diverse following across the globe, with significant populations in South Asia, East Africa, and Central Asia. Its followers are known for their emphasis on pluralism and intellectual pursuits. The Aga Khan Development Network, a group of agencies founded by the Aga Khan, focuses on improving the quality of life for communities in developing countries. What is this branch of Islam, known for its rich intellectual tradition and its commitment to social development?",
-            "answers": ["Ismali Muslims"],
+            "answers": ["Ismali Muslims", "Ismali Islam"],
             "incorrect1": "Sunni Muslims",
             "incorrect2": "Shia Muslims",
             "incorrect3": "Sufi Muslims",
@@ -25323,7 +25323,7 @@
         },
         {
             "category": "Current Events",
-            "question": "Donald Trump and Elon Musk laid off nearly all of this US federal agency's 10 thousand staff members which plans to shut down the agency. This independent agency, established in 1961 by President John F. Kennedy, is primarily responsible for administering civilian foreign aid and development assistance. Its programs focus on areas such as economic growth, agriculture, health, education, and democracy. It operates in over 100 countries, providing assistance to those in need and promoting sustainable development. What is the name of this agency, which plays a crucial role in U.S. foreign policy and humanitarian efforts?",
+            "question": "Donald Trump and Elon Musk laid off nearly all of this US federal agency's 10 thousand staff members with plans to shut down the agency. This independent agency, established in 1961 by President John F. Kennedy, is primarily responsible for administering civilian foreign aid and development assistance. Its programs focus on areas such as economic growth, agriculture, health, education, and democracy. It operates in over 100 countries, providing assistance to those in need and promoting sustainable development. What is the name of this agency, which plays a crucial role in U.S. foreign policy and humanitarian efforts?",
             "answers": [
                 "USAID",
                 "US Agency for international development",
@@ -25368,7 +25368,7 @@
         {
             "category": "Arts & Literature",
             "source": "2020 SCOP MS 10",
-            "question": "This author's translation of the Red Book of Westmarch changes the names Kalimac and Banaz\u02c6\u0131r into Meriadoc and Samwise. In one of this author's novels, the Rohirrim join in a battle against thousands of orcs. In another novel by this man, Bilbo Baggins is sent on a journey with thirteen dwarves by the wizard Gandalf. Name this linguist and author of The Hobbit and The Lord of the Rings.",
+            "question": "This author's translation of the Red Book of Westmarch changes the names Kalimac and Banazir into Meriadoc and Samwise. In one of this author's novels, the Rohirrim join in a battle against thousands of orcs. In another novel by this man, Bilbo Baggins is sent on a journey with thirteen dwarves by the wizard Gandalf. Name this linguist and author of The Hobbit and The Lord of the Rings.",
             "answers": ["J.R.R. Tolkein", "John Ronald Reuel Tolkein"],
             "incorrect1": "C.S. Lewis",
             "incorrect2": "J.K. Rowling",
