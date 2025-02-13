@@ -25394,7 +25394,8 @@
             "answers": [
                 "the attack on Pearl Harbor",
                 "pearl harbor",
-                "day that will live in infamy"
+                "day that will live in infamy",
+                "December 7, 1941"
             ],
             "incorrect1": "the Battle of Midway",
             "incorrect2": "the D-Day landings",
@@ -25404,7 +25405,7 @@
         {
             "category": "Geography",
             "source": "2019 SCOP Novice 10",
-            "question": "In 1846, this country's city of Angostura changed its name to Ciudad Bolivar. The ABC islands of Aruba, Bonaire, and Curac\u00b8ao are just north of this mainland country, a little east of the opening to Lake Maracaibo. The Orinoco River flows through this country into the Atlantic Ocean just northwest of Guyana. Name this South American country, found east of Colombia, whose capital city is Caracas.",
+            "question": "In 1846, this country's city of Angostura changed its name to Ciudad Bolivar. The ABC islands of Aruba, Bonaire, and Curacao are just north of this mainland country, a little east of the opening to Lake Maracaibo. The Orinoco River flows through this country into the Atlantic Ocean just northwest of Guyana. Name this South American country, found east of Colombia, whose capital city is Caracas.",
             "answers": ["Venezuela", "Bolivarian Republic of Venezuela"],
             "incorrect1": "Colombia",
             "incorrect2": "Ecuador",
