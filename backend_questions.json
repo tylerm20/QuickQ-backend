@@ -25646,7 +25646,7 @@
         {
             "category": "Arts & Literature",
             "source": "2022 SCOP MS 11",
-            "question": "Musical works of this type that are nicknamed Palindrome and Surprise are two of the one-hundred-four of these works written by their \"father,\" Joseph Haydn. Mahler wrote his \"Song of the Earth\" to avoid the\"curse of the ninth\" associated with these works, and Brahms's first one is nicknamed \"Beethoven's Tenth.\"Four movements make up the modern form of what long musical works for full orchestra?",
+            "question": "Musical works of this type that are nicknamed Palindrome and Surprise are two of the one-hundred-four of these works written by their \"father,\" Joseph Haydn. Mahler wrote his \"Song of the Earth\" to avoid the\"curse of the ninth\" associated with these works, and Brahms's first one is nicknamed \"Beethoven's Tenth.\" Four movements make up the modern form of what long musical works for full orchestra?",
             "answers": [
                 "symphony",
                 "symphonies",
@@ -25672,7 +25672,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This team defeated the Kansas City Chiefs in Super Bowl LIX. What is the name of this team, whose home stadium, Lincoln Financial Field, is located in the heart of Philadelphia? They were one of the original NFL franchises when the league was founded in 1933 as the Frankford Yellow Jackets. Their iconic kelly green jerseys, adopted in 1954, have become a symbol of the franchise. This was their second Super Bowl title after defeating the New England Patriots in Super Bowl LII. What is the name of this team, whose passionate fanbase is known for their fervent support and their reputation for being some of the most dedicated (and sometimes unruly) fans in the NFL?",
+            "question": "This team defeated the Kansas City Chiefs in Super Bowl LIX. They were one of the original NFL franchises when the league was founded in 1933 as the Frankford Yellow Jackets. Their iconic kelly green jerseys, adopted in 1954, have become a symbol of the franchise. This was their second Super Bowl title after defeating the New England Patriots in Super Bowl LII. What is the name of this team, whose passionate fanbase is known for their fervent support and their reputation for being some of the most dedicated (and sometimes unruly) fans in the NFL?",
             "answers": ["Philadelphia Eagles", "Eagles"],
             "incorrect1": "Philadelphia Phillies",
             "incorrect2": "Dallas Cowboys",
@@ -25683,7 +25683,7 @@
         {
             "category": "Geography",
             "source": "2020 MOQBA Novice",
-            "question": "In the 1920s, significant grape farming took place on the slopes of this state's Sugarloaf Mountain, which sits on the western shore of Lake Apopka. This state's highest natural point is Britton Hill, the lowest high point in any U.S. State. This state's Osceola County is home to a master planned community that was originally developed byThe Walt Disney Company. That community is called Celebration. This state's second most populous city sits on a plain between Biscayne Bay and the Everglades. Name this state home to cities such as Orlando and Miami.",
+            "question": "In the 1920s, significant grape farming took place on the slopes of this state's Sugarloaf Mountain, which sits on the western shore of Lake Apopka. This state's highest natural point is Britton Hill, the lowest high point in any U.S. State. This state's Osceola County is home to a master planned community that was originally developed byThe Walt Disney Company called Celebration. This state's second most populous city sits on a plain between Biscayne Bay and the Everglades. Name this state home to cities such as Orlando and Miami.",
             "answers": ["Florida"],
             "incorrect1": "California",
             "incorrect2": "Texas",
@@ -25695,9 +25695,9 @@
             "source": "2016 SAGES",
             "question": "A lost battle at this building was avenged at the Battle of San Jacinto. Davy Crockett and Jim Bowie defended this building, but were ultimately killed by Mexican troops led by Santa Anna. Name this mission in San Antonio, Texas that we are told to \"Remember.\"",
             "answers": ["The Alamo"],
-            "incorrect1": "The Battle of Gettysburg",
-            "incorrect2": "The Battle of San Jacinto",
-            "incorrect3": "The Battle of Little Bighorn",
+            "incorrect1": "Gettysburg",
+            "incorrect2": "San Jacinto",
+            "incorrect3": "Little Bighorn",
             "used": "TRUE"
         },
         {
