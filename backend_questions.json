@@ -25817,5 +25817,592 @@
             "incorrect3": "Prohibition",
             "used": "TRUE"
         }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This author envisaged a utopia at Bensalem and an ideal college focusing on both theoretical and pure sciences named \"Solomon's House\" in his The New Atlantis. Another one of his works is the second part of his Instauratio Magna and describes this man's method of induction and \"idols of the mind,\" and introduced a new system of logic that he believed to be superior to Aristotle's syllogism. Identify this British philosopher who pioneered the idea of the scientific method in Novum Organum.",
+            "answers": [
+                "Francis Bacon",
+                "Sir Francis Bacon",
+                "Sir Francis Bacon, 1st Viscount St. Alban"
+            ],
+            "incorrect1": "Roger Bacon",
+            "incorrect2": "John Locke",
+            "incorrect3": "Thomas Hobbes",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This annual American sporting event, known for its festive atmosphere and culinary traditions, features a unique trophy: the Borg-Warner Trophy, which bears the sculpted faces of every past winner. The race's 200 laps around a 2.5-mile oval track, totaling 500 miles, demand both speed and endurance from its drivers. Milk is the traditional victory beverage for the winner of this race. What is the name of this event, held annually at the Indianapolis Motor Speedway?",
+            "answers": ["Indianapolis 500", "Indy 500"],
+            "incorrect1": "Daytona 500",
+            "incorrect2": "Monaco Grand Prix",
+            "incorrect3": "24 Hours of Le Mans",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This event was recently won by a Giant Schnauzer named \u201cMonty\u201d. First held in 1877, it is the second-longest continuously held sporting event in the United States, surpassed only by the Kentucky Derby. It features over 3,000 dogs representing over 200 breeds and varieties competing for the coveted title of Best in Show. The competition includes agility, obedience, and breed conformation events, showcasing the dogs' skills and training. It is held annually at Madison Square Garden in New York City. What is the name of this prestigious dog show?",
+            "answers": [
+                "Westminster Kennel Club Dog Show",
+                "Westminster Dog Show"
+            ],
+            "incorrect1": "National Dog Show",
+            "incorrect2": "Crufts",
+            "incorrect3": "AKC National Championship",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2021 CERES",
+            "question": "In a novel by this author, Ice-Nine falls into the ocean and destroys the world. The writer Kilgore Trout is a recurring character in this author's novels. The protagonist of this author's most famous novel is kidnapped by Tralfamadorians to be put in a zoo, and survives the firebombing of Dresden in the title structure. Billy Pilgrim becomes unstuck in time in what author's novel Slaughterhouse-Five?",
+            "answers": ["Kurt Vonnegut Jr."],
+            "incorrect1": "Joseph Heller",
+            "incorrect2": "Ken Kesey",
+            "incorrect3": "Hunter S. Thompson",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2022 KICKOFF Novice",
+            "question": "This quantity equals the square root of the product two, times mass, times kinetic energy. It's not force, but according to Newton's Second Law, the rate of change of this quantity equals mass times acceleration. Rockets generate thrust after ejecting mass, since this quantity is conserved. Impulse equals the change in this quantity. Name this quantity equal to mass times velocity.",
+            "answers": ["linear momentum", "p"],
+            "incorrect1": "angular momentum",
+            "incorrect2": "kinetic energy",
+            "incorrect3": "force",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This musician's deep, resonant voice and somber stage presence earned him the nickname \"The Man in Black.\" His rebellious attitude and outlaw image were solidified by his live recordings at Folsom Prison and San Quentin State Prison. His hit songs, including \"A Boy Named Sue,\" \"Ring of Fire,\" and \"I Walk the Line,\" have become country music classics. Name this influential figure who helped shape the sound of country and folk music.",
+            "answers": ["Johnny Cash"],
+            "incorrect1": "Elvis Presley",
+            "incorrect2": "Willie Nelson",
+            "incorrect3": "Waylon Jennings",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 SCOP MS 10",
+            "question": "In 1934, the controversial construction of the Parker Dam on this river required the National Guard to muster the Arizona Navy. Dams on this river form the Glen Canyon Dam and Lake Mead, which is formed by the Hoover Dam. Name this river of the American West that flows through the Grand Canyon and starts in the Rocky Mountains of its namesake state.",
+            "answers": ["Colorado River"],
+            "incorrect1": "Mississippi River",
+            "incorrect2": "Columbia River",
+            "incorrect3": "Rio Grande",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2015 SCOP Novice 6",
+            "question": "The term \"War Hawk\" was first used to describe supporters of this war, and during the lead up to this war the Chesapeake-Leopard affair led to outrage over impressment. Despite the signing of the Treaty of Ghent, Andrew Jackson fought a battle at New Orleans in this war. During one event in this war, Dolly Madison was forced to flee the capital. Name this war during which the British burned Washington D.C.",
+            "answers": ["War of 1812"],
+            "incorrect1": "American Revolutionary War",
+            "incorrect2": "Mexican-American War",
+            "incorrect3": "Civil War",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "In this city, Wissahickon Creek goes through Fairmount Park. This city can be entered by crossing the Delaware River on the Betsy Ross Bridge. One of its buildings, where the Second Continental Congress adopted the Declaration of Independence, is Independence Hall. The Liberty Bell is found in what city in Pennsylvania?",
+            "answers": ["Philadelphia", "Philadelphia, Pennsylvania"],
+            "incorrect1": "Pittsburgh",
+            "incorrect2": "Boston",
+            "incorrect3": "Baltimore",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2012 SCOP Novice 3",
+            "question": "Early in this man's administration, he fired the entire White House Travel Office. He allegedly made an illegal loan to Susan McDougal, a partner in a land deal named Whitewater, and in another case, Linda Tripp provided evidence of perjury that led this President to be impeached by the House. An inappropriate relationship with Monica Lewinsky blemished the legacy of what U.S. President, the husband of Hillary Rodham?",
+            "answers": ["Bill Clinton", "William Jefferson \"Bill\" Clinton"],
+            "incorrect1": "Barack Obama",
+            "incorrect2": "Jimmy Carter",
+            "incorrect3": "George W. Bush",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This holiday was observed on February 17, 2025 in the United States. The holiday was initially established in 1879 to celebrate George Washington's birthday, which falls on February 22nd. It is observed on the third Monday of February, coinciding with Abraham Lincoln's birthday on February 12th. It is often celebrated with sales and special promotions by retailers, making it a popular shopping weekend. Name this federal holiday that honors all U.S. presidents.",
+            "answers": ["Presidents' Day", "Washington's Birthday"],
+            "incorrect1": "Memorial Day",
+            "incorrect2": "Veterans Day",
+            "incorrect3": "Independence Day",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This sport is hosting an inagural Four Nations tournament between USA, Canada, Sweden, and Finland. The sport's first organized indoor game was played in Montreal, Canada, in 1875. The sport's iconic trophy, the Stanley Cup, is the oldest professional sports trophy in North America. Its origins trace back to Canada in the 19th century, where it was played on frozen lakes and ponds. What is this sport, often referred to as \"the fastest game on ice\"?",
+            "answers": ["Ice Hockey", "NHL", "hockey"],
+            "incorrect1": "Field Hockey",
+            "incorrect2": "Lacrosse",
+            "incorrect3": "Bandy",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2017 Darien DEFT",
+            "question": "This kingdom was first unified after the Battle of Kawela and a battle atop Pali Lookout, which were won by a ruler of this country who built the \"Brick Palace\" in Lahaina. William Hooper established the first sugar plantation in this country, the site of the 1888 Wilcox Rebellion. Lorrin Thurston wrote this country's Bayonet Constitution before overthrowing its government and establishing Sanford Dole as president. Kamehameha and Lili'uokalani led what kingdom ruled from Iolani Palace in Honolulu?",
+            "answers": ["Hawaii", "Kingdom of Hawaii"],
+            "incorrect1": "Alaska",
+            "incorrect2": "Guam",
+            "incorrect3": "Puerto Rico",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "One of these creatures named Ladon guarded the golden apples of the Hesperides. A Babylonian one of these creatures known as Tiamat was slain by Marduk. One in Norse mythology was named Fafnir and was slain for his gold. Puff is a \"magic\" example of what kind of legendeary reptile that breathed fire and was allegedly slain by Saint George?",
+            "answers": ["Dragons"],
+            "incorrect1": "Wyverns",
+            "incorrect2": "Dinosaurs",
+            "incorrect3": "Griffons",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actor appeared as Uncle Sam in Kendrick Lamar's Super Bowl halftime show. This actor's distinctive voice and commanding presence have made him a sought-after figure in Hollywood, with a career spanning over four decades. He has appeared in numerous iconic films, from Quentin Tarantino's \"Pulp Fiction\" to the Marvel Cinematic Universe, where he portrays Nick Fury. Who is this versatile and celebrated actor?",
+            "answers": ["Samuel L. Jackson"],
+            "incorrect1": "Morgan Freeman",
+            "incorrect2": "Denzel Washington",
+            "incorrect3": "Laurence Fishburne",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2010 SCOP Novice",
+            "question": "This force causes the type of redshift observed in the Pound-Rebka experiment. This effect is responsible for tides, and its namesake constant was first approximated using a torsion balance by Henry Cavendish, who found it to be close to 6.67 times 10 to the negative 11 newton-meters squared per kilogram squared. On Earth, the acceleration due to is approximately 9.8 meters per second squared. Name this exclusively attractive force that was \"discovered\" by Newton after an apple fell on his head.",
+            "answers": ["gravity", "gravitation"],
+            "incorrect1": "magnetism",
+            "incorrect2": "friction",
+            "incorrect3": "air resistance",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This city hosted the 2025 NBA All-Star Game which featured a new mini-tournament format. This city hosted the 1906 Summer Olympics, which were originally scheduled for Chicago but were moved due to the devastating earthquake and fire that struck the city earlier that year. The \"Sneaker Wars\" of the 1980s, fueled by the city's basketball culture and the popularity of Nike shoes, led to a surge in shoe-related crime. The city's iconic Candlestick Park, once home to both the Giants and the 49ers, was demolished in 2015, making way for a new housing development. What is the name of this city, known for its rich sporting history and passionate fans?",
+            "answers": ["San Francisco", "SF"],
+            "incorrect1": "Los Angeles",
+            "incorrect2": "San Jose",
+            "incorrect3": "Seattle",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2021 CERES",
+            "question": "This animal's Merino breed is common in New Zealand, where the population of these animals outnumber humans six to one. The first species to be successfully cloned by humans was one of these animals named Dolly. This animal's meat is cooked into mutton, and sleeping children may be told to imagine these animals jumping over a fence. Name these farm animals often sheared to harvest their wool.",
+            "answers": ["sheep"],
+            "incorrect1": "goats",
+            "incorrect2": "cows",
+            "incorrect3": "pigs",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "President Donald Trump talked to this foreign leader on the phone with the aim of starting peace negociations over a war in eastern Europe. His grandfather was a personal cook to Vladimir Lenin and Joseph Stalin.This man worked as a KGB foreign intelligence officer for 16 years. He was president from 2000-2008 and 2012-present. Name this leader of Russia.",
+            "answers": ["Vladimir Putin"],
+            "incorrect1": "Volodymyr Zelenskyy",
+            "incorrect2": "Boris Yeltsin",
+            "incorrect3": "Vladimir Lenin",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2022 MAKEMAKE",
+            "question": "Al Smith's adherence to this faith may have caused his election loss to Herbert Hoover. Prejudice against Italian immigrants to America was partially driven by their adherence to this faith, along with Irish-American immigrants such as the Kennedys. In 2020, Joe Biden became the second president in American history to be a member of what \"Roman\" Christian denomination?",
+            "answers": ["Roman Catholicism", "Christianity"],
+            "incorrect1": "Eastern Orthodoxy",
+            "incorrect2": "Protestantism",
+            "incorrect3": "Islam",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2017 HIGS",
+            "question": "The Gulf of Tonkin incident was used by the Johnson administration to escalate America's involvement in this war. Agent Orange was used during this war as part of a campaign that also targeted Cambodia and Laos. In the aftermath of this war, the losing side's capital at Saigon was renamed Ho Chi Minh City. Name this war in which the United States failed to prevent the spread of communism to a Southeast Asian nation.",
+            "answers": ["Vietnam War"],
+            "incorrect1": "Korean War",
+            "incorrect2": "World War II",
+            "incorrect3": "Cold War",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 SANDS",
+            "question": "In 2007, a bridge carrying I-35 over this river near Saint Anthony Falls collapsed. This river begins at Lake Itasca, and later flows through cities such as Memphis and St. Louis. The Ohio River and Missouri River flow into this river, which flows into the Gulf of Mexico near New Orleans. Name this longest river in the United States, which shares its name with a Southern state.",
+            "answers": ["Mississippi River"],
+            "incorrect1": "Amazon River",
+            "incorrect2": "Nile River",
+            "incorrect3": "Yangtze River",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This show is celebrating its 50th anniversary this year. This show's first episode, hosted by George Carlin, aired on October 11, 1975, with a cast that included Chevy Chase, John Belushi, and Gilda Radner. Its original opening sketch featured Chase introducing himself as the show's first \"Weekend Update\\ anchor. The show's catchphrase, \"Live from New York, it's Saturday Night!\", has become synonymous with its late-night comedy format. The show's musical performances have featured iconic artists like the Rolling Stones, Prince, and Taylor Swift. What is the name of this long-running show that has launched the careers of numerous comedians and actors?",
+            "answers": ["Saturday Night Live", "SNL"],
+            "incorrect1": "The Tonight Show",
+            "incorrect2": "Mad TV",
+            "incorrect3": "In Living Color",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "This goddess may have conceived children by eating lettuce. This \"cow-eyed\" goddess had a wagon pulled by peacocks. She sent a gadfly to sting a cow who had escaped from the hundred-eyed monster Argus. That cow, Io, was one of the women seduced by her philandering husband. Name this queen of the Olympians and wife of Zeus.",
+            "answers": ["Hera"],
+            "incorrect1": "Aphrodite",
+            "incorrect2": "Athena",
+            "incorrect3": "Artemis",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2018 SCOP Novice 9",
+            "question": "This mountain range lies above the world's largest rail tunnel, the Gotthard tunnel, which opened in 2016. A subrange of these mountains reaches into Slovenia and is named for Julius Caesar. The Saint Bernard Pass cuts through this mountain range in a ridge between Monte Rosa and Mont Blanc, its two highest peaks. The Matterhorn is in what European mountain range that is primarily in France, Italy, and Switzerland?",
+            "answers": [
+                "the Alps",
+                "Swiss Alps",
+                "Julian Alps",
+                "French Alps",
+                "Italian Alps"
+            ],
+            "incorrect1": "the Himalayas",
+            "incorrect2": "the Andes",
+            "incorrect3": "the Rocky Mountains",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This annual cycling race, known as the \"Grand Boucle\" (meaning \"the big loop\"), covers over 3,000 kilometers (1,864 miles) across France, incorporating various terrains like mountains, flatlands, and cobbled roads. It is one of the three Grand Tours, alongside the Giro d'Italia and the Vuelta a Espa\\u00f1a. The leader of the race wears a distinctive yellow jersey, symbolizing the overall standings. What is the name of this grueling yet prestigious race, considered the most prestigious in professional cycling?",
+            "answers": ["Tour de France"],
+            "incorrect1": "Giro d'Italia",
+            "incorrect2": "Vuelta a España",
+            "incorrect3": "Paris-Roubaix",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2012 SCOP Novice 3",
+            "question": "As rocket fuel, the metastable metallic form of this element would produce a specific impulse 3 times greater than the Space Shuttle main engine. The fuel hydrazine features four atoms of this element surrounding a pair of nitrogen atoms, and the external tank of a Space Shuttle held liquid forms of oxygen and this diatomic gas. The most abundant element in the universe is what element with atomic number 1 and atomic symbol H?",
+            "answers": ["Hydrogen"],
+            "incorrect1": "Helium",
+            "incorrect2": "Oxygen",
+            "incorrect3": "Carbon",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2015 SAGES",
+            "question": "This president sent troops to clear out the Bonus Army. Homeless people built communities named after this president after the Great Depression occurred during his term in 1929. Name this president whose term also included the beginning stages of building the dam named for him.",
+            "answers": ["Herbert Hoover"],
+            "incorrect1": "Calvin Coolidge",
+            "incorrect2": "Warren G. Harding",
+            "incorrect3": "Franklin D. Roosevelt",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2020 SCOP MS 10",
+            "question": "This ruler legendarily dissolved the world's largest pearl in vinegar, then drank it to win a bet. A carpet was used to sneak this ruler into the headquarters of Julius Caesar. After losing the Battle of Actium, this ruler supposedly asked for and received a basket of figs, which hid an asp that she then used to commit suicide. Name this Egyptian pharaoh, the lover of Julius Caesar and Marc Antony.",
+            "answers": ["Cleopatra", "Cleopatra VII Philopator"],
+            "incorrect1": "Nefertiti",
+            "incorrect2": "Hatshepsut",
+            "incorrect3": "Zenobia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This folk singer and activist's performance of \"We Shall Overcome\" at the 1963 March on Washington became an anthem of the civil rights movement. Her a cappella rendition of \"Swing Low, Sweet Chariot\" at the 1969 Woodstock festival showcased her powerful voice and social activism. Her close friendship with Bob Dylan introduced her to a wider audience and led to collaborations on songs like \"Blowin' in the Wind.\" Name this influential figure in folk music and social activism, known for her distinctive voice and commitment to peace and justice.",
+            "answers": ["Joan Baez"],
+            "incorrect1": "Joni Mitchell",
+            "incorrect2": "Judy Collins",
+            "incorrect3": "Carly Simon",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "Some of his lesser known works are Gertrude and Demian. In one of his novels, the protagonist joins the monastic Order of Castalia after being found by the Magister Musicae. That protagonist is taught in Waldzell and after Thomas von der Trave dies, becomes Magister Ludi. In another of this author's novels, the protagonist goes to the Black Eagle Tavern and meets Hermine whom he later stabs. Identify this author who wrote of Joseph Knecht in The Glass Bead Game and of Harry Haller in Steppenwolf.",
+            "answers": ["Hermann Hesse"],
+            "incorrect1": "Thomas Mann",
+            "incorrect2": "Franz Kafka",
+            "incorrect3": "Albert Camus",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Linda McMahon, a former professional wrestling performer and President Donald Trump's pick to lead this US Department recently finished her Senate confirmation hearing. This US Cabinet department's roots trace back to 1867 when a department with the same name was founded, but only lasted a year. President Jimmy Carter signed the bill creating this department in 1979. It oversees federal student aid programs, including grants and loans, and collects data on America's schools to guide policy and funding decisions. Name this department that is which was recently led by Miguel Cardona, and is often in the news regarding student loan forgiveness.",
+            "answers": ["Department of Education", "dept. of ed."],
+            "incorrect1": "Department of Health and Human Services",
+            "incorrect2": "Department of Labor",
+            "incorrect3": "Department of the Interior",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2018 MVS RAMS",
+            "question": "During this event, participants run back and forth between two hills to commemorate one woman's search for water. One ritual in this event takes place on the Jamarat Bridge, where large crowds can cause participants to be trampled; that ritual is the \"Stoning of the Devil.\" Participants in this event must be in a state of ihram, which involves wearing distinctive white garments. A central ritual in this event is tawaf, or circling the Kaaba. Name this pilgrimage to Mecca that one of the Five Pillars of Islam.",
+            "answers": ["hajj", "pilgrimage to Mecca"],
+            "incorrect1": "umrah",
+            "incorrect2": "confirmation",
+            "incorrect3": "zakat",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2014 SCOP Novice 5",
+            "question": "One leader of this country when asked how far he would go to maintain order responded well, just watch me. After giving that statement that leader invoked the use of the War Measures Act to bring an end to the October Crisis. In this country's namesake caper it participated in a joint operation with the CIA to rescue six American Diplomats from Iran. Name this North American country whose capital city is Ottawa.",
+            "answers": ["Canada"],
+            "incorrect1": "United States",
+            "incorrect2": "Mexico",
+            "incorrect3": "Greenland",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2016 PLATO",
+            "question": "This river is the location of the reservoir Lake Nasser, formed by the Aswan High Dam being built on this river. This river has two major tributaries that are named the \"Blue\" and \"White\". Those rivers converge at Khartoum, the capital of Sudan, and the \"White\" begins at Lake Victoria in Uganda. Name this African river which often flooded to bring nutrients to the farms of ancient Egypt, the longest river in the world.",
+            "answers": ["the Nile River", "Nile"],
+            "incorrect1": "the Amazon River",
+            "incorrect2": "the Mississippi River",
+            "incorrect3": "the Yangtze River",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This cult classic comedy, filmed in Aurora, Illinois, features a memorable scene where the protagonists, Wayne and Garth, headbang to Queen's \"Bohemian Rhapsody\" in their iconic \"Mirthmobile.\" The film's catchphrases, like \"Party on!\" and \"Excellent!\" have become ingrained in popular culture. The film's low-budget aesthetic and self-referential humor contributed to its surprise success, grossing over $183 million worldwide. Name this 1992 film that spawned a sequel and solidified Mike Myers and Dana Carvey as comedy stars.",
+            "answers": ["Wayne's World"],
+            "incorrect1": "Bill & Ted's Excellent Adventure",
+            "incorrect2": "Dumb and Dumber",
+            "incorrect3": "Austin Powers",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "Along with Egbert Benson, he was the representative of New York at the Annapolis Convention, and he wrote the First Report on Public Credit while serving in the position he is best known for. \"Ambition must be made to counteract ambition\" is a quote from the fifty-first of the eighty-five essays published under the pseudonym Publius that this man wrote along with Madison and Jay. Killed by the third vice president, he was the main author of the Federalist papers. This was what first secretary of the treasury who was shot in a duel by Aaron Burr.",
+            "answers": ["Alexander Hamilton"],
+            "incorrect1": "Thomas Jefferson",
+            "incorrect2": "George Washington",
+            "incorrect3": "John Adams",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "The US Justice Department filed to have this politician's corruption case dropped. Multiple federal attorneys and Justice Department officials resigned after they were asked to help file for the charges to be dropped. Multiple of this man's top aides also resigned due to his re-alignment on immigration policy to align with President Trump. Name this former Brooklyn Borough President and current mayor of New York.",
+            "answers": ["Eric Adams"],
+            "incorrect1": "Bill de Blasio",
+            "incorrect2": "Rudy Giuliani",
+            "incorrect3": "Michael Bloomberg",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2010 SCOP Novice",
+            "question": "These organisms have sclerocytes that generate their spicules, part of their asconoid or syconoid bodies. Made of a gelatinous substance called mesohyl, these organisms are the only animals to display no symmetry, and all examples are sessile in adulthood. They feed from the water that flows through their osculum; in many cases, that flow is generated by flagellated cells called choanocytes. Name these simplest animals that make up phylum porifera.",
+            "answers": ["sponges", "porifera"],
+            "incorrect1": "jellyfish",
+            "incorrect2": "corals",
+            "incorrect3": "sea anemones",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This organization, founded in 1906, oversees and regulates student athletics at over 1,100 colleges and universities in the United States. Its headquarters are located in Indianapolis, Indiana. The organization hosts over 90 championships in various sports each year, including the popular March Madness basketball tournament.  The organization's \"Power Five\" conferences included the ACC, Big Ten, Big 12, Pac-12, and SEC, but have recently undergone a shake-up. What is the name of this governing body for college athletics?",
+            "answers": ["NCAA", "National Collegiate Athletic Association"],
+            "incorrect1": "NFL",
+            "incorrect2": "NBA",
+            "incorrect3": "MLB",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "This state is home to a Robert Smithson-designed earthwork sculpture titled Spiral Jetty. Sandstone landforms such as the Fiery Furnace and the Organ can be found in this state's Arches National Park. The transcontinental railroad was officially completed in Promontory Summit in this state. Its capital hosted the 2002 Winter Olympics. Name this Western state that contains the Great Salt Lake.",
+            "answers": ["Utah"],
+            "incorrect1": "Colorado",
+            "incorrect2": "Nevada",
+            "incorrect3": "Arizona",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2017 SCOP Novice 8",
+            "question": "Henry Clinton predicted that a few more battles like this one would \"put an end to British dominion in America,\" since over 100 officers were killed or wounded here. In this battle, William Howe ordered cannons on Copp's Hill to fire on the Americans. The legendary quote \"don't fire until you see the whites of their eyes\" was given during what Revolutionary War battle fought outside Boston, mostly on Breed's Hill, near the beginning of the war?",
+            "answers": ["Battle of Bunker Hill", "Battle of Breed's Hill"],
+            "incorrect1": "Battle of Lexington and Concord",
+            "incorrect2": "Battle of Saratoga",
+            "incorrect3": "Battle of Yorktown",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 SCOP A",
+            "question": "Notes in the sheet music for these works describe a \"languor caused by heat\" and note that \"the drunkards have fallen asleep.\" Sonnets that accompany this section of The Contest Between Harmony and Invention describe \"leafy branches\" and \"icy snow.\" In these works, a string soloist imitates nature imagery like birdsong and rain. Name this set of violin concertos by Antonio Vivaldi that depict Spring, Summer, Fall, and Winter.",
+            "answers": ["The Four Seasons", "Le quattro stagioni"],
+            "incorrect1": "The Planets",
+            "incorrect2": "The Four Temperaments",
+            "incorrect3": "Eine kleine Nachtmusik",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2013 SCOP Novice 4",
+            "question": "This property is the defining characteristic of an Abelian group. Composition of functions and matrix multiplication do not generally have this property. Subtraction also does not have this property because 8 minus 5 is 3, but 5 minus 8 is negative 3. Name this property that states a+b=b+a, that is, that swapping the order of the numbers does not change the result.",
+            "answers": ["commutative property", "commutativity"],
+            "incorrect1": "associative property",
+            "incorrect2": "distributive property",
+            "incorrect3": "transitive property",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This film recently took home the top award from the BAFTAs. This film, directed by Edward Berger, is based on the novel of the same name by Robert Harris. It features a fictional behind-the-scenes look at the election of a new pope, a process shrouded in secrecy and tradition. The film's ensemble cast includes Jonathan Pryce, Anthony Hopkins, and Ralph Fiennes. What is the title of this 2024 historical drama?",
+            "answers": ["Conclave"],
+            "incorrect1": "Synod",
+            "incorrect2": "A Complete Unknown",
+            "incorrect3": "Emilia Perez",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This video game company, founded in 1982, is known for its popular sports franchises, including Madden NFL, FIFA, and NHL. Its headquarters are located in Redwood City, California. The company's Sports division has revolutionized sports gaming with its realistic graphics and immersive gameplay.  Its controversial \"loot box\" monetization strategy, where players can purchase virtual items with real money, has drawn criticism and legal challenges. What is the name of this gaming giant, whose franchises have become synonymous with sports gaming?",
+            "answers": ["Electronic Arts", "EA"],
+            "incorrect1": "Activision Blizzard",
+            "incorrect2": "Ubisoft",
+            "incorrect3": "Take-Two Interactive",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2020 TAILS",
+            "question": "In 1888, this country's Princess Imperial emancipated all of its slaves with the Golden Law. This country allied with Uruguay and Argentina during the War of the Triple Alliance. This country's monarchs were given the honorific Dom, and included Pedro I and II. Name this South American country with cities like Sao Paulo and Rio de Janeiro, which contains most of the Amazon rainforest.",
+            "answers": ["Brazil", "Brasil"],
+            "incorrect1": "Argentina",
+            "incorrect2": "Mexico",
+            "incorrect3": "Colombia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL team, established in 1919, is the only community-owned franchise in the league. The team's colors are green and gold, and they have won four Super Bowl championships, including the first two Super Bowls. Their passionate fanbase is known as \"Cheeseheads,\" who often wear foam cheese-shaped hats to games. What is the name of this team, whose home stadium is Lambeau Field in Wisconsin?",
+            "answers": ["Green Bay Packers"],
+            "incorrect1": "Chicago Bears",
+            "incorrect2": "Minnesota Vikings",
+            "incorrect3": "Detroit Lions",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This NBA team's home arena, Fiserv Forum, opened in 2018 and features a unique zinc-paneled exterior that shimmers in the sunlight.  Their logo, featuring a stylized deer with outstretched antlers, is a nod to the state's wildlife and nickname, \"The Badger State.\"  They have won two NBA championships, the first in 1971 with Kareem Abdul-Jabbar and Oscar Robertson, and the second in 2021 with Giannis Antetokounmpo. What is the name of this team, whose green and cream colors represent the state's lush landscapes?",
+            "answers": ["Milwaukee Bucks"],
+            "incorrect1": "Milwaukee Brewers",
+            "incorrect2": "Chicago Bulls",
+            "incorrect3": "Boston Celtics",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2017 Darien DEFT",
+            "question": "One law based on this effect was challenged by Olbers, who claimed the universe was static and did not expand. Light undergoes chromatic aberration at velocities near the speed of light due to the relativistic form of this effect. Edwin Hubble used this effect to explain why some galaxies will never be visible from Earth. This effect explains why the sound of the siren of an ambulance passing a stationary observer will decrease as it passes them, an example of blueshift or reverse redshift. Name this effect which governs how a perceived frequency changes depending on the relative velocity of the source.",
+            "answers": ["Doppler Effect"],
+            "incorrect1": "redshift",
+            "incorrect2": "blueshift",
+            "incorrect3": "gravitational lensing",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This app was recently added back to the App and Google Play Stores after being removed. This social media platform, known for its short-form videos and viral trends, has faced scrutiny over data privacy and security concerns, particularly regarding its ownership by a Chinese company. Its algorithm, which personalizes content based on user interactions, has been praised for its effectiveness in keeping users engaged. It has launched the careers of numerous influencers and creators, who have amassed millions of followers. What is the name of this app, which has become a cultural phenomenon, especially among younger generations?",
+            "answers": ["TikTok", "Tik Tok"],
+            "incorrect1": "Instagram",
+            "incorrect2": "YouTube",
+            "incorrect3": "Facebook",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2015 SCOP Novice 6",
+            "question": "A \"Southern\" group with this name contains Aoraki, or Mount Cook, in New Zealand. Karl Blodig climbed all major \"four-thousanders\" in the European range of this name. Lakes Lucerne and Geneva, as well as the origins of the Rhone and the Rhine Rivers, are found in this range. Mont Blanc and the Matterhorn are tall peaks in what mountain range on the border between Switzerland and Italy?",
+            "answers": ["Alps", "Southern Alps"],
+            "incorrect1": "Himalayas",
+            "incorrect2": "Andes",
+            "incorrect3": "Rocky Mountains",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2020 ERIS",
+            "question": "The first black woman with this job, Bessie Coleman, died in a 1926 accident. A man with this job had his son kidnapped by Bruno Hauptmann in the \"Crime of the Century.\" Fred Noonan assisted a woman with this job during a trip in which they both disappeared near Howland Island. The \"Spirit of St. Louis\" was used by a man with what job of Charles Lindbergh and Amelia Earhart?",
+            "answers": ["aviator", "pilot"],
+            "incorrect1": "diver",
+            "incorrect2": "astronaut",
+            "incorrect3": "flight attendant",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This 2008 comedy, directed by Adam McKay, features a memorable scene where the two middle-aged protagonists, Brennan Huff and Dale Doback, engage in a destructive drum battle in their family's living room. The film's quotable lines, like \"Did we just become best friends?\", have become ingrained in popular culture. The film's success led to an animated spin-off series and talks of a sequel. Name this buddy comedy starring Will Ferrell and John C. Reilly as two immature stepbrothers forced to live together.",
+            "answers": ["Step Brothers"],
+            "incorrect1": "Talladega Nights",
+            "incorrect2": "Anchorman",
+            "incorrect3": "The Other Guys",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2021 CERES",
+            "question": "An often excerpted \"Chaconne\" is part of J.S. Bach's Six Sonatas and Partitas for this instrument. Pieces nicknamed \"The Hunt\" and \"The Devil's Laughter\" are a part of Nicolo Paganini's 24 Caprices written for this instrument. The concertmaster of an orchestra plays this four-stringed instrument that is smaller than a viola. What is the highest-pitched string instrument in an orchestra?",
+            "answers": ["violin", "fiddle"],
+            "incorrect1": "viola",
+            "incorrect2": "cello",
+            "incorrect3": "double bass",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2022 KICKOFF Novice",
+            "question": "One ruler of this modern-day country had his dead body concealed in a fish cart so his chancellor could forge his will. This country adopted Legalism and book-burning under a ruler who was buried with the Terracotta Army. This country was first unified by Shi Huangdi, whose dynasty was overthrown by the Han. Name this country, whose Qin dynasty began construction of the Great Wall.",
+            "answers": ["China", "Qin dynasty"],
+            "incorrect1": "India",
+            "incorrect2": "Japan",
+            "incorrect3": "Russia",
+            "used": "TRUE"
+        }
     ]
 ]
