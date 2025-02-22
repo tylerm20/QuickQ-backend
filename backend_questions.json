@@ -26090,7 +26090,7 @@
         },
         {
             "category": "Sports",
-            "question": "This annual cycling race, known as the \"Grand Boucle\" (meaning \"the big loop\"), covers over 3,000 kilometers (1,864 miles) across France, incorporating various terrains like mountains, flatlands, and cobbled roads. It is one of the three Grand Tours, alongside the Giro d'Italia and the Vuelta a Espa\\u00f1a. The leader of the race wears a distinctive yellow jersey, symbolizing the overall standings. What is the name of this grueling yet prestigious race, considered the most prestigious in professional cycling?",
+            "question": "This annual cycling race, known as the \"Grand Boucle\" (meaning \"the big loop\"), covers over 3,000 kilometers (1,864 miles) across France, incorporating various terrains like mountains, flatlands, and cobbled roads. It is one of the three Grand Tours, alongside the Giro d'Italia and the Vuelta a Espa\u00f1a. The leader of the race wears a distinctive yellow jersey, symbolizing the overall standings. What is the name of this grueling yet prestigious race, considered the most prestigious in professional cycling?",
             "answers": ["Tour de France"],
             "incorrect1": "Giro d'Italia",
             "incorrect2": "Vuelta a España",
@@ -26150,7 +26150,7 @@
         },
         {
             "category": "Current Events",
-            "question": "Linda McMahon, a former professional wrestling performer and President Donald Trump's pick to lead this US Department recently finished her Senate confirmation hearing. This US Cabinet department's roots trace back to 1867 when a department with the same name was founded, but only lasted a year. President Jimmy Carter signed the bill creating this department in 1979. It oversees federal student aid programs, including grants and loans, and collects data on America's schools to guide policy and funding decisions. Name this department that is which was recently led by Miguel Cardona, and is often in the news regarding student loan forgiveness.",
+            "question": "Linda McMahon, a former professional wrestling performer and President Donald Trump's pick to lead this US Department, recently finished her Senate confirmation hearing. This US Cabinet department's roots trace back to 1867 when a department with the same name was founded, but only lasted a year. President Jimmy Carter signed the bill creating this department in 1979. It oversees federal student aid programs, including grants and loans, and collects data on America's schools to guide policy and funding decisions. Name this department that is which was recently led by Miguel Cardona, and is often in the news regarding student loan forgiveness.",
             "answers": ["Department of Education", "dept. of ed."],
             "incorrect1": "Department of Health and Human Services",
             "incorrect2": "Department of Labor",
