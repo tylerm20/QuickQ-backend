@@ -26295,7 +26295,7 @@
         {
             "category": "Entertainment",
             "question": "This video game company, founded in 1982, is known for its popular sports franchises, including Madden NFL, FIFA, and NHL. Its headquarters are located in Redwood City, California. The company's Sports division has revolutionized sports gaming with its realistic graphics and immersive gameplay.  Its controversial \"loot box\" monetization strategy, where players can purchase virtual items with real money, has drawn criticism and legal challenges. What is the name of this gaming giant, whose franchises have become synonymous with sports gaming?",
-            "answers": ["Electronic Arts", "EA"],
+            "answers": ["Electronic Arts", "EA", "EA Sports"],
             "incorrect1": "Activision Blizzard",
             "incorrect2": "Ubisoft",
             "incorrect3": "Take-Two Interactive",
@@ -26326,7 +26326,7 @@
     [
         {
             "category": "Sports",
-            "question": "This NBA team's home arena, Fiserv Forum, opened in 2018 and features a unique zinc-paneled exterior that shimmers in the sunlight.  Their logo, featuring a stylized deer with outstretched antlers, is a nod to the state's wildlife and nickname, \"The Badger State.\"  They have won two NBA championships, the first in 1971 with Kareem Abdul-Jabbar and Oscar Robertson, and the second in 2021 with Giannis Antetokounmpo. What is the name of this team, whose green and cream colors represent the state's lush landscapes?",
+            "question": "This NBA team's home arena, Fiserv Forum, opened in 2018 and features a unique zinc-paneled exterior that shimmers in the sunlight.  Their logo, featuring a stylized deer with outstretched antlers, is a nod to the state's wildlife. They have won two NBA championships, the first in 1971 with Kareem Abdul-Jabbar and Oscar Robertson, and the second in 2021 with Giannis Antetokounmpo. What is the name of this team, whose green and cream colors represent the state's lush landscapes?",
             "answers": ["Milwaukee Bucks"],
             "incorrect1": "Milwaukee Brewers",
             "incorrect2": "Chicago Bulls",
@@ -26402,6 +26402,589 @@
             "incorrect1": "India",
             "incorrect2": "Japan",
             "incorrect3": "Russia",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This first-person shooter game, released in 1993, revolutionized the genre with its fast-paced action, 3D graphics, and violent gameplay. Its protagonist, a space marine, battles hordes of demons from Hell, utilizing weapons like the shotgun, chainsaw, and BFG 9000. Its shareware release model, which allowed players to try the first episode for free, contributed to its widespread popularity and influence. What is the name of this groundbreaking game, which spawned a franchise and inspired numerous other first-person shooters?",
+            "answers": ["Doom"],
+            "incorrect1": "Quake",
+            "incorrect2": "Wolfenstein 3D",
+            "incorrect3": "Half-Life",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2019 SCOP Novice 10",
+            "question": "According to an impossible legend, after this thinker heard blacksmith hammers, he discovered the mathematical relationships behind musical tuning. A ten-dot triangle was sacred to the followers of this thinker, who supposedly drowned a man who discovered an irrational number. Name this ancient Greek philosopher who names a theorem about the side lengths of right triangles, commonly written as a squared plus b squared equals c squared.",
+            "answers": [
+                "Pythagoras",
+                "Pythagoras of Samos",
+                "Pythagorean theorem"
+            ],
+            "incorrect1": "Socrates",
+            "incorrect2": "Plato",
+            "incorrect3": "Aristotle",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "A plane created by the company Boom reached this speed. The plane, XB-1, is the first privately developed aircraft to reach this speed. This speed, which is faster than the speed of sound, is measured in Mach numbers, with Mach 1 representing the speed of sound at a given altitude and temperature. The Concorde, a passenger jet that operated from 1976 to 2003, could travel at Mach 2, crossing the Atlantic Ocean in under 3.5 hours.  Chuck Yeager, an American test pilot, became the first person to break the sound barrier in level flight in 1947, flying the experimental Bell X-1 aircraft.  What is this speed, which creates a sonic boom when an object travels through the air faster than sound waves can propagate?",
+            "answers": ["Supersonic"],
+            "incorrect1": "Hypersonic",
+            "incorrect2": "Transonic",
+            "incorrect3": "Subsonic",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2014 SCOP Novice 5",
+            "question": "This function gives the y-coordinate of a point rotated from standard position along the unit circle. This odd function, which passes through the origin and has a period of two pi, is the reciprocal of cosecant. For an acute angle in a right triangle, it is the ratio of the opposite side to the hypotenuse. Name this trigonometric function, which gives the tangent function when divided by cosine.",
+            "answers": ["sine", "sin"],
+            "incorrect1": "cosine",
+            "incorrect2": "tangent",
+            "incorrect3": "cotangent",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This golfer's signature drink, a blend of iced tea and lemonade, became a popular refreshment and a testament to his widespread appeal. He was known for his aggressive playing style and his charismatic personality, which earned him the nickname \"The King\" and a devoted following known as \"Arnie's Army.\" He won seven major championships, including four Masters Tournaments. Who is this legendary golfer, who helped popularize the sport and inspire generations of players?",
+            "answers": ["Arnold Palmer"],
+            "incorrect1": "Jack Nicklaus",
+            "incorrect2": "Tiger Woods",
+            "incorrect3": "Phil Mickelson",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2013 SCOP Novice 4",
+            "question": "One deity of these natural entities pursued the nymph Arethusa. In one myth, two of these called Alpheus and Peneus were used to help Hercules complete his fifth labor with the Augean stables. One of these consisting of fire was called Phlegethon. Drinking from one of these caused forgetfulness, and Charon ferried people across one of these entities. The Lethe and Styx are examples of what type of geographic feature with running water?",
+            "answers": ["rivers"],
+            "incorrect1": "lakes",
+            "incorrect2": "oceans",
+            "incorrect3": "streams",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 HIGS",
+            "question": "Bikku Bitti, the highest peak in this country, is located in the Tibesti Mountains on this nation's border with Chad. This country's eastern region of Cyrenaica contains its namesake desert, which extends into Egypt in the east and makes up the northeastern part of the Sahara. Bordering the Mediterranean Sea, this country is found to the east of Tunisia and Algeria. Name this North African nation whose capital is Tripoli.",
+            "answers": ["Libya"],
+            "incorrect1": "Egypt",
+            "incorrect2": "Algeria",
+            "incorrect3": "Tunisia",
+
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2017 Darien DEFT",
+            "question": "Twenty-one soldiers crossed the Canadian border and robbed three banks in St. Albans, Vermont during this war. This conflict's western theater ended after the Battle of Glorieta Pass. Great Britain paid damages to the victor of this war in the Alabama claims. One side of this war reduced the other's cotton exports by following Winfield Scott's Anaconda plan, which was completed after a naval battle that allegedly saw the line \"damn the torpedoes.\" David Farragut won the battle of Mobile Bay in what war against the Confederacy?",
+            "answers": ["U.S. Civil War", "American Civil War", "Civil War"],
+            "incorrect1": "American Revolutionary War",
+            "incorrect2": "War of 1812",
+            "incorrect3": "Mexican-American War",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "A plane operated by this American airline subsidiary crashed and flipped after landing in Toronto. Nobody was killed and the airline has offered every passenger $30,000. This airline's hub at Hartsfield-Jackson Atlanta International Airport is the world's busiest airport, handling over 100 million passengers annually. It was founded in 1924 as Huff Daland Dusters, a crop-dusting company, before transitioning to passenger flights in 1929. It is a founding member of the SkyTeam airline alliance, which includes airlines like Air France-KLM and Korean Air. What is the name of this major American airline, known for its extensive network and its focus on customer service?",
+            "answers": ["Delta Air Lines", "Delta"],
+            "incorrect1": "United Airlines",
+            "incorrect2": "American Airlines",
+            "incorrect3": "Southwest Airlines",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2022 SCOP MS 11",
+            "question": "This general ordered William Shippen to inoculate all troops against variola, and used fog as cover to evacuate his troops to Manhattan after the Battle of Brooklyn Heights. A force of Hessian mercenaries were routed by this man in a surprise attack after Christmas Day, 1776. Name this Commander in Chief of the Continental Army and first President of the United States.",
+            "answers": ["George Washington"],
+            "incorrect1": "Thomas Jefferson",
+            "incorrect2": "Abraham Lincoln",
+            "incorrect3": "John Adams",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This iconic video game character, whose shape is based on a pizza with a slice missing, was originally called Puck-Man in Japan, but the name was changed for its American release to avoid vandalism.  Its \"wakka wakka\" sound effect, created by the game's sound designer, has become synonymous with the character and the game.  The game was a massive success upon its release in 1980, becoming a cultural phenomenon and spawning numerous sequels, spin-offs, and merchandise.  What is the name of this arcade classic, where the player navigates a maze, eating dots and avoiding ghosts?",
+            "answers": ["Pac-Man"],
+            "incorrect1": "Tetris",
+            "incorrect2": "Donkey Kong",
+            "incorrect3": "Space Invaders",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2020 SCOP MS 10",
+            "question": "Litharge, an oxide of this element, is a component of fine crystal. This final element in the uranium decay chain was once used as an antiknock agent added to gasoline. Patients undergoing an x-ray wear an apron with this element as shielding. This element's high toxicity prevents its modern use in paint and water pipes. Name this metallic element used in bullets, but not pencils, whose symbol is Pb.",
+            "answers": ["lead", "pb"],
+            "incorrect1": "gold",
+            "incorrect2": "copper",
+            "incorrect3": "iron",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2017 HIGS",
+            "question": "Otto Skorzeny organized the rescue of this man from the Imperatore Hotel in the Gran Sasso raid. This man captured Addis Ababa during his reign, forcing the exile of the Ethiopian emperor. This dictator's National Fascist Party came to power after he led the Blackshirts during his March on Rome. Name this leader, also known as II Duce, who was the Italian Prime Minister from 1922 to 1943.",
+            "answers": ["Benito Mussolini"],
+            "incorrect1": "Adolf Hitler",
+            "incorrect2": "Joseph Stalin",
+            "incorrect3": "Francisco Franco",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This athlete's remarkable performance at the 1912 Stockholm Olympics, where he won gold medals in both the pentathlon and decathlon, led King Gustav V of Sweden to proclaim him \"the greatest athlete in the world.\" He played professional baseball and football, even playing alongside legendary baseball player Babe Ruth on the same team. His Olympic medals were stripped in 1913 due to a technicality regarding his amateur status, but were posthumously reinstated in 1983.  Who is this legendary athlete, considered one of the most versatile athletes of all time?",
+            "answers": ["Jim Thorpe"],
+            "incorrect1": "Jesse Owens",
+            "incorrect2": "Jackie Robinson",
+            "incorrect3": "Babe Ruth",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 SCOP MS 7",
+            "question": "This city is home to the Heinz food company headquarters, and tourists often eat sandwiches dressed with coleslaw and fries at this city's Primanti Brothers. Steelworkers traditionally ate pierogis in this city, which sits at the confluence of the Monongahela, Allegheny, and Ohio rivers. Name this western Pennsylvania city, the state's second largest city after Philadelphia?",
+            "answers": ["Pittsburgh", "Pittsburgh, Pennsylvania"],
+            "incorrect1": "Philadelphia",
+            "incorrect2": "Cleveland",
+            "incorrect3": "Cincinnati",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "This god hung himself from Yggdrasil for nine days and nights in order to obtain the knowledge of runes. This owner of the spear Gungnir gives all his food to his wolves Geri and Freki and receives information about the world through his ravens Hugin and Munin. This husband of Frigg was known as the \"Allfather\" and will be killed at Ragnarok by the wolf Fenrir. Name this chief god of Norse mythology.",
+            "answers": ["Odin", "Wodan", "Wotan", "Wodinaz"],
+            "incorrect1": "Thor",
+            "incorrect2": "Loki",
+            "incorrect3": "Zeus",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This NFL linebacker's ferocious pass-rushing skills and relentless pursuit of quarterbacks revolutionized the linebacker position, forcing offenses to adapt their blocking schemes. He won three NFL Defensive Player of the Year awards and was named NFL MVP in 1986, a rare feat for a defensive player. He played his entire 13-season career with the New York Giants, leading them to two Super Bowl victories. Who is this Hall of Fame linebacker, known for his explosive speed and his impact on the game?",
+            "answers": ["Lawrence Taylor"],
+            "incorrect1": "Reggie White",
+            "incorrect2": "Ray Lewis",
+            "incorrect3": "Dick Butkus",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "The most winning woman he ever knew was hanged for poisoning three little children for their insurance-money. Irene Adler, always THE woman to this man, outwitted him during his investigation of \"A Scandal in Bohemia.\" This man returned in \"The Adventure of the Empty House\" after battling Professor Moriarty to the death. Name this detective faithfully accompanied by John Watson.",
+            "answers": ["Sherlock Holmes"],
+            "incorrect1": "Hercule Poirot",
+            "incorrect2": "Miss Marple",
+            "incorrect3": "Inspector Morse",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2020 SCOP MS 10",
+            "question": "Joseph Priestly liberated this element by heating the compound red mercury. This element's namesake reaction involves loss of electrons. The triatomic form of this element is called ozone, and its more common diatomic gas is needed to generate a candle flame. Name this element, a vital gas that is inhaled during respiration.",
+            "answers": ["oxygen", "O"],
+            "incorrect1": "nitrogen",
+            "incorrect2": "carbon dioxide",
+            "incorrect3": "hydrogen",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This musical's iconic song, \"Defying Gravity,\" a powerful ballad about breaking free from societal expectations, has become a popular anthem for self-empowerment. The musical's story, based on the novel by Gregory Maguire, reimagines the classic story of \"The Wizard of Oz\" from the perspective of the Wicked Witch of the West. Its characters, including Elphaba, Glinda, and the Wizard, offer a nuanced and complex look at the traditional heroes and villains of the Oz universe. What is the name of this long-running Broadway musical, known for its stunning visuals, catchy songs, and thought-provoking story?",
+            "answers": ["Wicked"],
+            "incorrect1": "The Wizard of Oz",
+            "incorrect2": "Hamilton",
+            "incorrect3": "Phantom of the Opera",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2020 SCOP MS 10",
+            "question": "Justice Ward Hunt decided this woman's guilt before her trial began and told the jury to declare her guilty. In post-trial remarks, this woman argued that she had the \"right to a voice\" in government and threatened that she would never pay a one hundred dollar fine that was levied in June 1873. Name this American suffragist who was convicted of illegally voting, and who is honored on a one-dollar coin.",
+            "answers": ["Susan B. Anthony"],
+            "incorrect1": "Elizabeth Cady Stanton",
+            "incorrect2": "Alice Paul",
+            "incorrect3": "Sojourner Truth",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2009 Fall Novice Tournament",
+            "question": "Bombolai Hill is the only volcano in this nation, which has its highest point at Low's Peak on Mt. Kinabalu. A city-state is separated from this nation by the Straits of Johor, and off its northwest coast is Penang Island. Its states of Sabah and Sarawak are separated from its capital, which is home to the Petronas Towers. Name this nation split between Borneo and its namesake peninsula, ruled from Kuala Lumpur.",
+            "answers": ["Malaysia"],
+            "incorrect1": "Indonesia",
+            "incorrect2": "Thailand",
+            "incorrect3": "Singapore",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This company passed Walmart in 4th quarter revenue for the first time, making it the largest company in the world by revenue. This company's headquarters, nicknamed \"The Spheres,\" features three glass domes filled with over 40,000 plants from around the world, creating a unique work environment for its employees. Its annual Prime Day shopping event, launched in 2015, has become a major online sales phenomenon, rivaling Black Friday and Cyber Monday. Its founder, Jeff Bezos, originally envisioned the company as an online bookstore named Cadabra. What is the name of this multinational technology company, known for its e-commerce platform, cloud computing services, and digital streaming?",
+            "answers": ["Amazon"],
+            "incorrect1": "eBay",
+            "incorrect2": "Walmart",
+            "incorrect3": "Alibaba",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This man wanted to acquire Schleswig and Holstein so he started the Seven Weeks war and he sent the forged Ems Dispatch to France in order to start a war ended by the Treaty of Frankfurt. Dismissed by William II and hired by William I, he started a campaign against the Catholic church called the Kulturkampf and won the Franco-Prussian War. Notable for giving the Iron and Blood speech, this is what German Chancellor nicknamed the Iron Chancellor.",
+            "answers": ["Otto von Bismarck"],
+            "incorrect1": "Kaiser Wilhelm I",
+            "incorrect2": "Adolf Hitler",
+            "incorrect3": "Helmuth von Moltke",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2017 SCOP Novice 8",
+            "question": "This species was infected with T2 phage DNA in the Hershey-Chase experiment. The lac and trp operons were first discovered in this species, which generates vitamin K for its hosts. Undercooked beef may be contaminated with this prokaryote that can divide every 20 minutes in a Petri dish. Name this Gram-negative, rod-shaped species that is normally found in the human large intestine, the most important bacterial model organism.",
+            "answers": ["Escherichia coli", "E. coli"],
+            "incorrect1": "Salmonella",
+            "incorrect2": "Staphylococcus aureus",
+            "incorrect3": "Listeria",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 ERIS",
+            "question": "According to one myth from this country, there were originally ten suns, but nine of them were shot out of the sky by the archer Houyi. This country's traditional folklore features legendary figures called the Eight Immortals and a deity known as the Jade Emperor. Chang'e is the moon goddess of what country whose mythology was influenced by Confucianism and Taoism?",
+            "answers": ["China", "Zhongguo"],
+            "incorrect1": "India",
+            "incorrect2": "Japan",
+            "incorrect3": "Russia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This baseball player's record-breaking streak of 2,632 consecutive games played, surpassing Lou Gehrig's long-standing record, earned him the nickname \"Iron Man.\" He was a two-time American League MVP and a 19-time All-Star, playing his entire career with the Baltimore Orioles. He famously hit a home run in his final All-Star Game appearance in 2001, a memorable moment that capped off his illustrious career. Who is this Hall of Fame shortstop and third baseman, known for his durability, consistency, and leadership?",
+            "answers": ["Cal Ripken Jr."],
+            "incorrect1": "Derek Jeter",
+            "incorrect2": "Alex Rodriguez",
+            "incorrect3": "Ken Griffey Jr.",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "Amazon MGM movie studio recently acquired the rights to this famous British character. This fictional British Secret Service agent's preferred drink, a vodka martini, is famously ordered \"shaken, not stirred.\" His gadgets, including a Walther PPK pistol and an Aston Martin DB5 equipped with ejector seats and machine guns, have become iconic symbols of the franchise. His code number, 007, signifies his license to kill in the line of duty. He has been portrayed by numerous actors, including Sean Connery, Roger Moore, and Daniel Craig. Who is this suave and sophisticated spy, created by author Ian Fleming?",
+            "answers": ["James Bond"],
+            "incorrect1": "Jason Bourne",
+            "incorrect2": "Ethan Hunt",
+            "incorrect3": "Jack Ryan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 KICKOFF Novice",
+            "question": "This country's northernmost major island is home to the native Ainu people and the winter resort city of Sapporo. The southernmost of the prefectures dividing this country is named after the Ryukyu Archipelago. This country's city of Yokohama is located in the world's most populous metro area, which is on its largest island, Honshu. The islands of Hokkaido and Okinawa are controlled by what country, which is governed from Tokyo?",
+            "answers": ["Japan", "Nihon-koku", "Nippon-koku"],
+            "incorrect1": "China",
+            "incorrect2": "South Korea",
+            "incorrect3": "Vietnam",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2018 SCOP Novice 9",
+            "question": "This writer noted that \"Tyranny, like Hell, is not easily conquered\" in the opening paragraph of a work that opens \"These are the times that try men's souls.\" This author of The Crisis wrote an \"Investigation of True and Fabulous Theology\" that advocated deism, as well as a 1776 work that argued for independence from Britain. Name this early American pamphleteer who wrote The Age of Reason and Common Sense.",
+            "answers": ["Thomas Paine"],
+            "incorrect1": "Thomas Jefferson",
+            "incorrect2": "Benjamin Franklin",
+            "incorrect3": "John Adams",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2015 SAGES",
+            "question": "This event was caused by a drought combined with the failure of farmers to use methods such as crop rotation. It caused thousands of \"Okies\" to migrate to California. Name this weather event that often caused black clouds to appear over the Great Plains in the 1930s.",
+            "answers": ["Dust Bowl"],
+            "incorrect1": "Great Depression",
+            "incorrect2": "Dirty Thirties",
+            "incorrect3": "Black Blizzard",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This musical's Jellicle Ball, a dazzling spectacle of dance and song, is the central event where the Jellicle cats gather to celebrate their unique identities. The musical's song \"Memory,\" a poignant ballad about longing and regret, has become a beloved standard, performed by numerous artists. Its costumes and makeup, designed to transform the actors into feline creatures, are a distinctive feature of the show. What is the name of this Andrew Lloyd Webber musical, based on T.S. Eliot's poetry collection \"Old Possum's Book of Practical Cats\"?",
+            "answers": ["Cats"],
+            "incorrect1": "Felines",
+            "incorrect2": "Grease",
+            "incorrect3": "Hairspray",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "During this event, Attorney General Elliot Richardson and Deputy Attorney General William Ruckelshaus resigned in the Saturday Night Massacre. It attempted to cover up C.R.E.E.P.'s attempt to bug the Democratic Party headquarters. It was uncovered by Bob Woodward and Carl Bernstein with the help of Deep Throat. What scandal caused President Nixon to resign following his reelection?",
+            "answers": ["Watergate scandal"],
+            "incorrect1": "Iran-Contra affair",
+            "incorrect2": "Lewinsky scandal",
+            "incorrect3": "Teapot Dome scandal",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This multiplayer online battle arena (MOBA) game, where two teams of five players battle to destroy each other's base, features a diverse cast of over 160 champions, each with unique abilities and playstyles. Its ranked mode allows players to compete against others of similar skill levels, climbing the ladder to reach the top. Its annual World Championship, a global esports event with millions of viewers, showcases the highest level of competitive play. What is the name of this popular game, developed and published by Riot Games?",
+            "answers": ["League of Legends"],
+            "incorrect1": "Dota 2",
+            "incorrect2": "Smite",
+            "incorrect3": "Heroes of the Storm",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This quarterback's iconic \"fake spike\" play, where he pretended to spike the ball to stop the clock but instead threw a game-winning touchdown pass, became a legendary moment in NFL history. He holds the NFL record for most passing yards and touchdowns in a single season, a feat he accomplished in 1984. He played his entire 17-season career with the Miami Dolphins, leading them to the Super Bowl in 1985. Who is this Hall of Fame quarterback, known for his quick release and his accuracy as a passer?",
+            "answers": ["Dan Marino"],
+            "incorrect1": "Joe Montana",
+            "incorrect2": "John Elway",
+            "incorrect3": "Brett Favre",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2016 PLATO",
+            "question": "One novel by this author details an encounter between an escaped convict and the protagonist, who is later supposedly sent by Miss Havisham to become a gentleman. A street urchin created by this author is discovered to be the half\u00adbrother of Monks after joining with Fagin's gang. Name this author who, along with writing Great Expectations and Oliver Twist, created the character Ebenezer Scrooge in his A Christmas Carol.",
+            "answers": ["Charles Dickens"],
+            "incorrect1": "William Shakespeare",
+            "incorrect2": "Jane Austen",
+            "incorrect3": "Mark Twain",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This thinker's wife Harriet Taylor aided his defense of gender equality in The Subjection of Women. He cited Alexis de Tocqueville's phrase \"tyranny of the majority\" and advocated the harm principle in defending one book's title concept, and argued that actions should be judged by \"the proportion to which they promote happiness\" in a work named for a moral system founded by Jeremy Bentham. Name this author of On Liberty and Utilitarianism.",
+            "answers": ["John Stuart Mill"],
+            "incorrect1": "Jeremy Bentham",
+            "incorrect2": "John Locke",
+            "incorrect3": "Thomas Hobbes",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This public figure was hospitalized with pneumonia and experienced kidney failure. This religious leader became the first pope from the Americas and the first from the Southern Hemisphere. He is known for his emphasis on social justice, environmental protection, and interfaith dialogue. He has written encyclicals on climate change and economic inequality, urging action to address these global challenges. Who is this head of the Catholic Church, born Jorge Mario Bergoglio in Argentina?",
+            "answers": ["Pope Francis"],
+            "incorrect1": "Pope Benedict XVI",
+            "incorrect2": "Pope John Paul II",
+            "incorrect3": "Dalai Lama",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "During the Civil War, this city was defended by Fort St. Philip and controversially occupied by Union general Benjamin Butler. The Sieur de Bienville led a group of French settlers here in 1718. This city's suburb of Metairie contains the southern end of the Lake Pontchartrain Causeway. Its Lower Ninth Ward was damaged when levees were weakened by a 2005 storm. What Louisiana city was devastated by Hurricane Katrina?",
+            "answers": ["New Orleans", "New Orleans, Louisiana"],
+            "incorrect1": "Baton Rouge",
+            "incorrect2": "Lafayette",
+            "incorrect3": "Shreveport",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2017 Darien DEFT",
+            "question": "Colloidal particles of this element are attached to antibodies to stain in one form of electron microscopy, and this element that is purified in the Miller process is alloyed with silver in electrum. This element has the highest ductility and malleability of the transition metals. Geiger and Marsden shot alpha particles through a foil of this element in an experiment that led to the discovery of the atomic nucleus under Ernest Rutherford. Name this precious metal with chemical symbol Au.",
+            "answers": ["Gold"],
+            "incorrect1": "Silver",
+            "incorrect2": "Platinum",
+            "incorrect3": "Copper",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This basketball legend's single-game scoring record of 100 points, achieved in 1962, remains one of the most remarkable feats in sports history. He also holds the record for most rebounds in a single game, with 55 rebounds. He led the NBA in scoring seven times and in rebounding eleven times, showcasing his dominance on both ends of the court.  He played for the Philadelphia/San Francisco Warriors, the Philadelphia 76ers, and the Los Angeles Lakers, winning two NBA championships. Who is this Hall of Fame center, known for his incredible athleticism and his larger-than-life personality?",
+            "answers": ["Wilt Chamberlain"],
+            "incorrect1": "Bill Russell",
+            "incorrect2": "Kareem Abdul-Jabbar",
+            "incorrect3": "Michael Jordan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 SCOP Novice 8",
+            "question": "This desert's Tibesti Mountains are home to the Toubou people. In the east of this desert, the salty Lake Turkana is threatened by a dam on the Omo River. The large-eared fennec fox lives in this desert, where two Grand Ergs lie in the rain shadow of the Atlas Mountains to its north. This desert is north of a transition zone that passes from Sudan to Mali called the Sahel. Name this African desert, the largest in the world.",
+            "answers": ["Sahara Desert"],
+            "incorrect1": "Arabian Desert",
+            "incorrect2": "Gobi Desert",
+            "incorrect3": "Kalahari Desert",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2019 SCOP Novice 10",
+            "question": "In 1786, this state passed a Statute for Religious Freedom that its drafter prominently mentioned on his tombstone. This state's namesake university was founded as a secular school in response to weak leadership at the College of William and Mary. The estate of Monticello was built in this state by one of the eight US presidents to have been born in it. Name this largest of the thirteen original colonies, where Thomas Jefferson was once governor in Richmond.",
+            "answers": ["Virginia"],
+            "incorrect1": "West Virginia",
+            "incorrect2": "North Carolina",
+            "incorrect3": "Maryland",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Microsoft recently announced a breakthrough in this field with the announcement of their Majorana 1 chip. Unlike classical computers that use bits to represent information as 0s or 1s, the field uses qubits, which can represent 0, 1, or both simultaneously. This phenomenon, known as superposition, allows these computers to perform calculations exponentially faster than classical computers for certain types of problems.  What is this field of computer science based on the principles of quantum mechanics?",
+            "answers": ["quantum computing", "quantum computer"],
+            "incorrect1": "classical computing",
+            "incorrect2": "cloud computing",
+            "incorrect3": "edge computing",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2011 SCOP Novice 2",
+            "question": "The Mollweide map projection preserves this quantity, which is given for solids of revolution by Pappus's first theorem. Gabriel's horn has an infinite amount of this quantity. It can be found \"under a curve\" via integration, and for triangles using the semiperimeter in Hero's formula. For a circle, pi r squared gives what quantity that for a rectangle is expressed as width times length?",
+            "answers": ["area", "signed area", "surface area"],
+            "incorrect1": "perimeter",
+            "incorrect2": "volume",
+            "incorrect3": "length",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This anime series' protagonist, whose Saiyan name is Kakarot, was sent to Earth as a baby to escape the destruction of his home planet.  His signature move, the Kamehameha, a powerful energy blast fired from his hands, has become one of the most recognizable attacks in anime history.  The series features epic battles against powerful villains, including Frieza, Cell, and Majin Buu.  What is the name of this popular anime series, which follows the adventures of Goku and his friends as they train in martial arts and protect the Earth from threats?",
+            "answers": ["Dragon Ball Z"],
+            "incorrect1": "Attack on Titan",
+            "incorrect2": "One Piece",
+            "incorrect3": "Sailor Moon",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This man drove a chariot as the archer Pandarus was killed in it. He defeats the Rutulian leader Turnus, and enters a cave near Lake Avernus after the Golden Bough grants him safe passage in the Underworld. This hero had a boulder thrown at his pelvis by Diomedes, married Lavinia, and loved a queen of Carthage named Dido who he abandoned during his journey from Troy to Italy, where this son of Venus met the Latins. Name this hero of a Roman epic by Virgil.",
+            "answers": ["Aeneas", "The Aeneid"],
+            "incorrect1": "Odysseus",
+            "incorrect2": "Achilles",
+            "incorrect3": "Hector",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2020 TAILS",
+            "question": "This leader gave the name Second Polish War to his invasion of Russia, which included the Battle of Borodino. After losing the War of the Sixth Coalition, this general, who had previously won the Battle of Austerlitz, was exiled to Elba. This leader was more famously exiled afterwards to the island of Saint Helena after losing a battle to the Duke of Wellington. Name this French leader who lost the Battle of Waterloo.",
+            "answers": ["Napoleon Bonaparte", "Napoleon I"],
+            "incorrect1": "Julius Caesar",
+            "incorrect2": "Alexander the Great",
+            "incorrect3": "Genghis Khan",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2017 HIGS",
+            "question": "More than 65% of this state's population lives in Maricopa County, and two of its biggest cities are Chandler and Glendale. The northeast part of this state includes most of the Navajo Nation, and this state contains the Painted Desert. Most of this state's islands are in Roosevelt Lake and Lake Mead, which is a reservoir behind Hoover Dam on the Colorado River. Identify this state home to the Grand Canyon, whose capital is Phoenix.",
+            "answers": ["Arizona"],
+            "incorrect1": "New Mexico",
+            "incorrect2": "Nevada",
+            "incorrect3": "Utah",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "NASA is tracking one of these, called 2024 YR4, that it says has about 1.5 percent chance of hitting Earth. These celestial bodies, remnants from the early formation of the solar system, range in size from small pebbles to dwarf planets hundreds of miles in diameter. Most of them reside in a belt between Mars and Jupiter, but some have orbits that bring them close to Earth.  One such object, measuring about 10 kilometers in diameter, is believed to have caused the extinction of the dinosaurs 66 million years ago. What are these rocky objects that orbit the Sun?",
+            "answers": ["asteroid"],
+            "incorrect1": "comet",
+            "incorrect2": "meteor",
+            "incorrect3": "planet",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This surfer's record of 11 world surfing championships, achieved between 1992 and 2011, solidified his status as the most successful surfer of all time. He is known for his innovative aerial maneuvers and his ability to read waves, adapting his style to different conditions. He founded a company which created a revolutionary artificial wave pool that produces perfect waves for surfing. He also co-founded Outerknown, a sustainable clothing company that focuses on environmentally friendly practices. Who is this surfing legend, who continues to compete at a high level even in his 50s?",
+            "answers": ["Kelly Slater"],
+            "incorrect1": "John John Florence",
+            "incorrect2": "Gabriel Medina",
+            "incorrect3": "Mick Fanning",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2012 SCOP Novice 3",
+            "question": "This figure's actions led to the killing of 800 men in Susa over two days, and a festival commemorating this successor to Queen Vashti features the reading of this figure's Megillah, which describes her triumph over Haman. She used her influence over Xerxes to save the Jews, leading to a celebration named for the casting of lots. The triumph of Mordecai and what Jewish queen is celebrated with Purim?",
+            "answers": ["Esther", "Hadassah"],
+            "incorrect1": "Ruth",
+            "incorrect2": "Deborah",
+            "incorrect3": "Sarah",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This anime series' protagonist, who dreams of becoming Hokage, the leader of his village, has a powerful nine-tailed fox demon sealed within him.  His signature move, the Shadow Clone Jutsu, allows him to create multiple copies of himself to aid in battle.  The series follows his journey as he trains to become a ninja and faces challenges from rival villages and powerful enemies.  What is the name of this popular anime series, known for its action-packed battles and its exploration of themes like friendship, determination, and the power of believing in oneself?",
+            "answers": ["Naruto"],
+            "incorrect1": "One Piece",
+            "incorrect2": "Bleach",
+            "incorrect3": "My Hero Academia",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2014 SCOP Novice 5",
+            "question": "This empire crumbled after the Battle of Nedao. These people, who originated east of the Volga in Scythia, also lost to Flavius Aetius at the 451 Battle of Chalons. One ruler of these people came to power after possibly murdering his brother Bleda; that leader was known as the \"Scourge of God\" for his cruelty. Name these nomadic people who frequently battled the Romans and were led by Atilla.",
+            "answers": ["Huns", "the Hunnic Empire"],
+            "incorrect1": "Mongols",
+            "incorrect2": "Visigoths",
+            "incorrect3": "Vandals",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2015 SCOP Novice 6",
+            "question": "A five-month-long one of these events started in San Francisco and was an attempt to bring attention to the historical treatment of Native Americans. One of these events was led by Jacob Coxey after the Panic of 1893 caused widespread unemployment. In 1963, Martin Luther King led one of these events named for Jobs and Freedom, at the end of which he gave his \"I have a Dream\" speech. Name this act of walking to the capital of the United States.",
+            "answers": [
+                "March on Washington",
+                "marches on Washington DC",
+                "walking to Washington, DC"
+            ],
+            "incorrect1": "Million Man March",
+            "incorrect2": "Women's March",
+            "incorrect3": "March for Our Lives",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2017 SCOP Novice 8",
+            "question": "The Philadelphia type of this structure results from a translocation error. Another example of these structures can condense into a Barr body. The centromere is important to the separation of these structures. They are organized by length in pictures called karyotypes, which can show the presence of a trisomy in people with Down syndrome. X and Y are the sex types of what DNA structures found in 23 pairs in human cells?",
+            "answers": ["chromosomes", "chromosome 22", "X chromosome"],
+            "incorrect1": "genes",
+            "incorrect2": "DNA",
+            "incorrect3": "RNA",
             "used": "TRUE"
         }
     ]
