@@ -26515,7 +26515,7 @@
         },
         {
             "category": "Entertainment",
-            "question": "This iconic video game character, whose shape is based on a pizza with a slice missing, was originally called Puck-Man in Japan, but the name was changed for its American release to avoid vandalism.  Its \"wakka wakka\" sound effect, created by the game's sound designer, has become synonymous with the character and the game.  The game was a massive success upon its release in 1980, becoming a cultural phenomenon and spawning numerous sequels, spin-offs, and merchandise.  What is the name of this arcade classic, where the player navigates a maze, eating dots and avoiding ghosts?",
+            "question": "This iconic video game character's shape is based on a pizza with a slice missing. Its \"wakka wakka\" sound effect, created by the game's sound designer, has become synonymous with the character and the game.  The game was a massive success upon its release in 1980, becoming a cultural phenomenon and spawning numerous sequels, spin-offs, and merchandise.  What is the name of this arcade classic, where the player navigates a maze, eating dots and avoiding ghosts?",
             "answers": ["Pac-Man"],
             "incorrect1": "Tetris",
             "incorrect2": "Donkey Kong",
