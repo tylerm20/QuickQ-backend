@@ -26495,7 +26495,7 @@
     [
         {
             "category": "Current Events",
-            "question": "A plane operated by this American airline subsidiary crashed and flipped after landing in Toronto. Nobody was killed and the airline has offered every passenger $30,000. This airline's hub at Hartsfield-Jackson Atlanta International Airport is the world's busiest airport, handling over 100 million passengers annually. It was founded in 1924 as Huff Daland Dusters, a crop-dusting company, before transitioning to passenger flights in 1929. It is a founding member of the SkyTeam airline alliance, which includes airlines like Air France-KLM and Korean Air. What is the name of this major American airline, known for its extensive network and its focus on customer service?",
+            "question": "A plane operated by this airline's subsidiary crashed and flipped after landing in Toronto. Nobody was killed and the airline has offered every passenger $30,000. This airline's hub at Hartsfield-Jackson Atlanta International Airport is the world's busiest airport, handling over 100 million passengers annually. It was founded in 1924 as Huff Daland Dusters, a crop-dusting company, before transitioning to passenger flights in 1929. It is a founding member of the SkyTeam airline alliance, which includes airlines like Air France-KLM and Korean Air. What is the name of this major American airline, known for its extensive network and its focus on customer service?",
             "answers": ["Delta Air Lines", "Delta"],
             "incorrect1": "United Airlines",
             "incorrect2": "American Airlines",
