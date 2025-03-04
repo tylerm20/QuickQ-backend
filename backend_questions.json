@@ -26915,7 +26915,7 @@
         },
         {
             "category": "Current Events",
-            "question": "NASA is tracking one of these, called 2024 YR4, that it says has about 1.5 percent chance of hitting Earth. These celestial bodies, remnants from the early formation of the solar system, range in size from small pebbles to dwarf planets hundreds of miles in diameter. Most of them reside in a belt between Mars and Jupiter, but some have orbits that bring them close to Earth.  One such object, measuring about 10 kilometers in diameter, is believed to have caused the extinction of the dinosaurs 66 million years ago. What are these rocky objects that orbit the Sun?",
+            "question": "NASA is tracking one of these, called 2024 YR4, that it says had up to a 1.5 percent chance of hitting Earth. These celestial bodies, remnants from the early formation of the solar system, range in size from small pebbles to dwarf planets hundreds of miles in diameter. Most of them reside in a belt between Mars and Jupiter, but some have orbits that bring them close to Earth.  One such object, measuring about 10 kilometers in diameter, is believed to have caused the extinction of the dinosaurs 66 million years ago. What are these rocky objects that orbit the Sun?",
             "answers": ["asteroid"],
             "incorrect1": "comet",
             "incorrect2": "meteor",
@@ -26985,6 +26985,597 @@
             "incorrect1": "genes",
             "incorrect2": "DNA",
             "incorrect3": "RNA",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2017 SCOP Novice 8",
+            "question": "William Plumer prevented this man from becoming the second unanimously elected president in 1820. A policy created by this man was modified by the Roosevelt Corollary. This man launched a goodwill tour of America, causing a newspaper to declare that the country had entered an \"Era of Good Feelings.\" Name this fifth President of the United States whose namesake doctrine limited European involvement in North America.",
+            "answers": ["James Monroe"],
+            "incorrect1": "James Madison",
+            "incorrect2": "James K. Polk",
+            "incorrect3": "James A. Garfield",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "Early in this work, babies are given an electrical shock to condition them to dislike books and nature, part of the Bokanovsky Process. People in the work actively take Soma, a drug that provides instant gratification, and is integral to a solidarity service that worships Henry Ford attended by Bernard. This novel also features a man who reads the Complete Works of Shakespeare and the voice of Mustapha Mond. John the Savage is a prime example of modern man in what 1932 dystopian novel by Aldous Huxley?",
+            "answers": ["Brave New World"],
+            "incorrect1": "1984",
+            "incorrect2": "Fahrenheit 451",
+            "incorrect3": "The Handmaid's Tale",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2020 SCOP MS 10",
+            "question": "This work suggests that all history is \"the history of class struggles,\" and discusses the opposing classes of bourgeoisie and proletariat. A new ideology based on workers owning the means of production is described in what revolutionary pamphlet by Friedrich Engels and Karl Marx that inspired the politics of Soviet Russia?",
+            "answers": [
+                "The Communist Manifesto",
+                "The Manifesto of the Communist Party"
+            ],
+            "incorrect1": "Das Kapital",
+            "incorrect2": "The Wealth of Nations",
+            "incorrect3": "Mein Kampf",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 SCOP MS 10",
+            "question": "This state's city of Beaumont near Port Arthur is home to Spindletop, the site of a 1901 discovery that triggered an economic boom. Geologists in this state have a hard time studying its Barnett Shale, a formation with massive natural gas reserves, because it lies underneath a sprawling metroplex that includes Plano and Fort Worth. Name this southern US state where the oil industry grew the cities of Dallas and Houston.",
+            "answers": ["Texas"],
+            "incorrect1": "California",
+            "incorrect2": "Florida",
+            "incorrect3": "Alaska",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This religious event began on the evening of February 28, 2025. This holy month in the Islamic calendar, observed by Muslims worldwide as a month of fasting, prayer, reflection, and community, concludes with the joyous festival of Eid al-Fitr. During this month, Muslims abstain from food and drink from dawn until sunset, a practice known as Sawm. The Quran, Islam's holy book, is believed to have been first revealed to the Prophet Muhammad during this month, a night known as Laylat al-Qadr, or the \"Night of Power.\" What is the name of this month, the ninth month of the Islamic calendar?",
+            "answers": ["Ramadan"],
+            "incorrect1": "Eid al-Fitr",
+            "incorrect2": "Eid al-Adha",
+            "incorrect3": "Hanukkah",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actor died in February 2025. This actor's portrayal of the tough and determined Popeye Doyle in the 1971 film \"The French Connection\" earned him an Academy Award for Best Actor and became one of his most iconic roles. He also starred in the 1992 Western \"Unforgiven,\" which won the Academy Award for Best Picture and earned him a second Oscar, this time for Best Supporting Actor. He served in the United States Marine Corps for four and a half years before pursuing his acting career. Who is this actor, known for his versatile performances in films like \"The Conversation,\" \"Hoosiers,\" and \"The Royal Tenenbaums\"?",
+            "answers": ["Gene Hackman"],
+            "incorrect1": "Jack Nicholson",
+            "incorrect2": "Robert De Niro",
+            "incorrect3": "Al Pacino",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2011 SCOP Novice 2",
+            "question": "The aliquot sequence is constant for these numbers, whose examples other than the first one have digital root 1. Currently-known examples of them are in one-to-one correspondence with Mersenne prime numbers, and there are a number of restrictions on-- but no proof about--the existence of odd versions of these numbers. Equaling the sum of its proper divisors give this type of number whose first two examples are 6 and 28.",
+            "answers": ["perfect numbers"],
+            "incorrect1": "prime numbers",
+            "incorrect2": "composite numbers",
+            "incorrect3": "irrational numbers",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This basketball legend recently announced her retirement. This player, known for her clutch performances and her fiery competitiveness, is the WNBA's all-time leading scorer, showcasing her longevity and scoring prowess. She has won three WNBA championships with the Phoenix Mercury and a record six Olympic gold medals with the U.S. national team. She played college basketball at the University of Connecticut, where she won three national championships under legendary coach Geno Auriemma. Who is this basketball legend, often considered one of the greatest female basketball players of all time?",
+            "answers": ["Diana Taurasi"],
+            "incorrect1": "Sue Bird",
+            "incorrect2": "Maya Moore",
+            "incorrect3": "Lisa Leslie",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2021 SCOP B",
+            "question": "This leader attempted to escape from Beaurevoir Castle by jumping out of a seventy-foot tower into a dry moat. Because heresy only carried the death penalty if it was a repeat offense, this woman was charged with cross-dressing so that she could be burned at the stake. This woman told the future Charles VII that she was on a divine mission, prompting him to send her to relieve the Siege of Orl\u00b4eans. Name this French peasant girl who became a hero during the Hundred Years War.",
+            "answers": ["Joan of Arc", "Jeanne d'Arc"],
+            "incorrect1": "Catherine of Siena",
+            "incorrect2": "Hildegard of Bingen",
+            "incorrect3": "Isabella I of Castile",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This man announced a run for New York City mayor in an attempt to return to politics. This politician, who served as the 56th Governor of New York, comes from a prominent political family, following in the footsteps of his father, Mario, who also served as governor of New York. He gained national attention for his daily briefings during the COVID-19 pandemic. His governorship ended in 2021 after multiple allegations of sexual harassment surfaced. Who is this former governor, known for his assertive leadership style and his role in New York politics?",
+            "answers": ["Andrew Cuomo"],
+            "incorrect1": "Mario Cuomo",
+            "incorrect2": "George Pataki",
+            "incorrect3": "Eliot Spitzer",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This man hosted the 97rd Annual Academy Awards.This comedian's late-night talk show, which followed \"The Tonight Show with Jay Leno,\" was known for its quirky humor, offbeat sketches, and his self-deprecating style. He began his career as a writer for \"Saturday Night Live\" and \"The Simpsons,\" showcasing his talent for comedy writing before transitioning to hosting. His signature hairstyle, a tall and voluminous pompadour, has become a recognizable part of his persona. Who is this comedian, known for his talk show appearances and his \"Clueless Gamer\" segments?",
+            "answers": ["Conan O'Brien"],
+            "incorrect1": "David Letterman",
+            "incorrect2": "Jay Leno",
+            "incorrect3": "Jimmy Fallon",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2017 SCOP Novice 8",
+            "question": "Employees of this organization included secretary Helen Gandy, associate director Clyde Tolson, and W. Mark Felt, who leaked information during the Watergate scandal as Deep Throat. The first head of this organization had a personal feud with John F. Kennedy that escalated to this agency wiretapping Kennedy's house. Name this governmental agency, once led by J. Edgar Hoover, that is the primary law enforcement agency of the US.",
+            "answers": ["Federal Bureau of Investigation", "FBI"],
+            "incorrect1": "Central Intelligence Agency",
+            "incorrect2": "National Security Agency",
+            "incorrect3": "Drug Enforcement Administration",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 SCOP MS 10",
+            "question": "The coastal resort of Provincetown lies on the tip of this state's eastern region, and cities like New Bedford lie on Buzzards Bay in this state's south. Myles Standish State Forest is found in a coastal region of this state, which includes the islands of Chappaquiddick, Martha's Vineyard, and Nantucket. Plymouth Colony was established in what is now what New England state that borders both Connecticut and Rhode Island?",
+            "answers": ["Massachusetts"],
+            "incorrect1": "Maryland",
+            "incorrect2": "Connecticut",
+            "incorrect3": "New Hampshire",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "One of this man's works ends with \"Thy firmness makes my circle just, / And makes me end where I begun.\" Another one of his works asks a \"cruel and sudden\" creature \"hast thou since / Purpled thy nail in blood of innocence?\" and calls it both a \"marriage bed\" and a \"marriage temple,\" and in another he claims that the titular entity \"art slave to Fate, Chance, kings, and desperate men,\" and that it \"shalt die.\" \"A Valediction Forbidding Mourning\" and \"The Flea\" are by  what British metaphysical poet whose Holy Sonnets include the 10th one, \"Death be not proud\"?",
+            "answers": ["John Donne"],
+            "incorrect1": "William Shakespeare",
+            "incorrect2": "John Milton",
+            "incorrect3": "Geoffrey Chaucer",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This sport's highest governing body, the FIVB, organizes major international competitions, including the Olympic Games and the World Championships. The sport was invented in 1895 by William G. Morgan, a YMCA physical education director, who originally called it \"Mintonette.\" The libero player, a defensive specialist introduced in 1998, wears a contrasting jersey color to easily identify them on the court. What is the name of this team sport played by two teams of six players on a court divided by a net?",
+            "answers": ["Volleyball"],
+            "incorrect1": "Basketball",
+            "incorrect2": "Tennis",
+            "incorrect3": "Soccer",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2017 SCOP Novice 8",
+            "question": "An analog of this statement, the Poiseuille equation, models the flow of blood through the circulatory system. A phasor diagram can help apply this statement to cases where impedance is present. This statement predicts a linear relationship between I and V, while the reciprocal of each resistor's value must be summed to apply this law to parallel circuits. Name this law stating voltage equals current times resistance.",
+            "answers": ["Ohm's law"],
+            "incorrect1": "Newton's law of universal gravitation",
+            "incorrect2": "The law of conservation of energy",
+            "incorrect3": "The ideal gas law",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "The Christian Democratic party (CDU/CSU) led by Friedrich Merz, won the most seats in the Bundestag after recent elections in this nation. This European country is home to the world-famous Oktoberfest, a 16-day festival celebrating Bavarian culture with beer, food, and traditional costumes. Its capital city, Berlin, is a vibrant metropolis that was once divided by the Berlin Wall, a symbol of the Cold War. It is the birthplace of classical music composers like Johann Sebastian Bach, Ludwig van Beethoven, and Wolfgang Amadeus Mozart. What is this country, the most populous member state of the European Union?",
+            "answers": ["Germany"],
+            "incorrect1": "France",
+            "incorrect2": "Poland",
+            "incorrect3": "Austria",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 MAKEMAKE",
+            "question": "This country's capital city was designed in the shape of an airplane around a \"Monumental Axis\" by architect Oscar Niemeyer. \"Cariocas\" are residents of this country's second most populous city, which was the origin of bossa nova music and hosts massive parades in the Sambodrome during Carnaval. Name this Portuguese-speaking country in South America which contains most of the Amazon rainforest.",
+            "answers": ["Brazil"],
+            "incorrect1": "Argentina",
+            "incorrect2": "Mexico",
+            "incorrect3": "Colombia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This flim won the Best Picture award at the Academy Awards. This film, which premiered at the 2024 Cannes Film Festival, is directed by Sean Baker, known for his previous films that explore marginalized communities. Its narrative delves into the world of sex work and the complexities of relationships and power dynamics. The film's protagonist is played by Mikey Madison, who previously collaborated with the director on the film \"Red Rocket.\" What is the title of this film, which won the prestigious Palme d'Or at Cannes?",
+            "answers": ["Anora"],
+            "incorrect1": "The Brutalist",
+            "incorrect2": "Conclave",
+            "incorrect3": "I'm Still Here",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "One of this artist's bronze creations depicts several men, including a biblical king, sitting around a table. In addition to the Feast of Herod, this artist created an equestrian statue of the recently deceased Erasmo da Narni, called the Gattamelata. His most well-known works were created while he was in Florence, including a statue of St. George, a wooden Mary Magdalene, and that of a nude figure standing over the head of Goliath. Identify the sculptor of the bronze David.",
+            "answers": ["Donatello"],
+            "incorrect1": "Michelangelo",
+            "incorrect2": "Leonardo da Vinci",
+            "incorrect3": "Raphael",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2021 CERES",
+            "question": "A member of this family was involved in a car accident that killed Mary Jo Kopechne in the Chappaquiddick incident. Another member of this family was killed at the Ambassador Hotel by Sirhan Sirhan. A president from this family ordered the Bay of Pigs invasion after dealing with the Cuban Missile Crisis and was assassinated by Lee Harvey Oswald in 1963. What family included the 35th US president, John F?",
+            "answers": [
+                "Kennedy family",
+                "John F. Kennedy",
+                "Robert Kennedy",
+                "Ted Kennedy",
+                "JFK",
+                "RFK"
+            ],
+            "incorrect1": "Roosevelt family",
+            "incorrect2": "Bush family",
+            "incorrect3": "Clinton family",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2014 SCOP Novice 5",
+            "question": "Cyclin-dependent kinase 4 and 6 are needed in this phase to cross the restriction point, where protein p53 may trigger apoptosis. Most mature nerve cells are permanently arrested in this phase, which directly follows cytokinesis. Its S subphase is when DNA is replicated, while its G1 and G2 portions are devoted to cell growth. Name this \"resting phase\" of the cell cycle that must be completed before mitosis can begin.",
+            "answers": ["interphase", "G1"],
+            "incorrect1": "prophase",
+            "incorrect2": "metaphase",
+            "incorrect3": "anaphase",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This sport features a variety of disciplines, including artistic, rhythmic, and trampoline variations, each requiring a unique blend of strength, flexibility, and coordination. The perfect score in artistic gymnastics was traditionally a 10.0, but the scoring system has evolved to emphasize difficulty and execution. The Olympic Games have been a major showcase for this sport, with legendary gymnasts like Nadia Com\u0103neci and Simone Biles captivating audiences with their incredible feats. What is the name of this sport, which involves performing sequences of movements on apparatus or the floor?",
+            "answers": ["Gymnastics"],
+            "incorrect1": "Cheerleading",
+            "incorrect2": "Acrobatics",
+            "incorrect3": "Parkour",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2017 Darien DEFT",
+            "question": "A group of these people established the Rurik dynasty in Novgorod and formed the Byzantine Varangian Guard. Charles the Simple gave Rollo, one of these people, control of the Duchy of Normandy. These people attacked the Lindisfarne monastery, and Cnut the Great, one of their leaders, controlled both Denmark and England. These people established a settlement at L'Anse aux Meadows in Newfoundland. Name these Scandinavian seafarers once led by Leif Erikson.",
+            "answers": ["Vikings", "Norsemen"],
+            "incorrect1": "Saxons",
+            "incorrect2": "Celts",
+            "incorrect3": "Romans",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2020 TAILS",
+            "question": "The artists Christo and Jeanne-Claude installed 5,703 fabric-covered gates in this place in 2005. Features called the Lake and the Ramble are in this place, whose layout was primarily designed by Frederick Law Olmstead. This place, which divides the Upper West and Upper East Sides of Manhattan, is the origin of Shakespeare in the Park. Name this large park in New York City.",
+            "answers": ["Central Park"],
+            "incorrect1": "Hyde Park",
+            "incorrect2": "Golden Gate Park",
+            "incorrect3": "Stanley Park",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This summer this musical group is setting off on a tour that they say will be their last. This hip-hop group's iconic logo, a stylized \"W\" with a sword, has become a symbol of their influence and their impact on music and culture. Their debut album, released in 1993, revolutionized hip-hop with its raw energy, innovative production, and intricate lyrical style. The group is composed of nine members, each with a distinct persona and rapping style, including RZA, GZA, Method Man, and Raekwon. Their music often draws inspiration from martial arts films, philosophy, and comic books. What is the name of this influential hip-hop group from Staten Island, New York?",
+            "answers": ["Wu-Tang Clan"],
+            "incorrect1": "A Tribe Called Quest",
+            "incorrect2": "Public Enemy",
+            "incorrect3": "Run-DMC",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2010 Fall Novice Tournament",
+            "question": "The Gazimestan speech commemorated a 1389 battle fought on this region's Blackbird's Field. This region, the subject of the EULEX policing plan, was targeted after the 1999 Rambouillet Agreement by Slobodan Milosevic, prompting NATO to bomb Yugoslavia. The ICJ and George W. Bush recognized its 2008 declaration of independence. With an ethnic majority of Albanians and a capital at Pristina name this secessionist region southwest of Serbia.",
+            "answers": [
+                "Republic of Kosovo",
+                "Autonomous Province of Kosovo and Metohija"
+            ],
+            "incorrect1": "Republic of Serbia",
+            "incorrect2": "Republic of Albania",
+            "incorrect3": "Republic of North Macedonia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This racquet sport, played with a shuttlecock, which is a high-drag projectile, requires players to hit the shuttlecock over a net and land it within the boundaries of their opponent's court. The shuttlecock's feathers create significant air resistance, making it decelerate rapidly, which distinguishes it from other racquet sports. The sport is governed internationally by the BWF. What is the name of this sport, which originated in ancient Greece and Egypt, but gained popularity in its current form in England in the 19th century?",
+            "answers": ["Badminton"],
+            "incorrect1": "Tennis",
+            "incorrect2": "Squash",
+            "incorrect3": "Pickleball",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2014 SCOP Novice 5",
+            "question": "This author wrote about an old woman who refused payment to a thieving doctor because she couldn't see her belongings. In other stories by this man, a mouse saves a lion from hunters and a farmer kills a goose that lays golden eggs. Another of his tales teaches that \"slow and steady wins the race.\" \"The Tortoise and the Hare\" and \"The Boy who Cried Wolf\" are by this ancient Greek author of namesake fables.",
+            "answers": ["Aesop"],
+            "incorrect1": "Homer",
+            "incorrect2": "Plato",
+            "incorrect3": "Aristotle",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2014 SCOP Novice 5",
+            "question": "The English Statute of Laborers set a maximum wage in response to deaths caused by this event. Jews were falsely accused of poisoning wells during this event, whose victims are supposedly described by the nursery rhyme \"Ring Around the Rosie.\" This event was likely caused by merchant ships transporting flea-infested rats from Asia. Name this pandemic that sickened and killed tens of millions of people in Europe in the 14th century.",
+            "answers": ["bubonic plague", "Black Death", "black plague"],
+            "incorrect1": "smallpox",
+            "incorrect2": "influenza",
+            "incorrect3": "cholera",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "Factors of 1 plus this value all to the nth power appear in both the numerator and denominator of the amortization formula. Dividing a final value by the nth power of one plus this quantity yields present value. Factors of one plus this quantity to the nth power and one plus n times this quantity, when multiplied by a principal value, represent its compound and simple types. Name this quantity that represents the cost of borrowing money.",
+            "answers": [
+                "interest rate",
+                "simple interest rate",
+                "compound interest rate"
+            ],
+            "incorrect1": "inflation rate",
+            "incorrect2": "unemployment rate",
+            "incorrect3": "exchange rate",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Recent outbreaks of this diseas have sickened over 100 people in the U.S. causing at least one death. This highly contagious disease, characterized by a distinctive rash that starts on the face and spreads down the body, is caused by a virus in the paramyxovirus family. It was once a common childhood illness, but widespread vaccination efforts have significantly reduced its prevalence. Its symptoms include fever, cough, runny nose, and conjunctivitis (pink eye). What is the name of this disease, which is preventable through the MMR vaccine?",
+            "answers": ["Measles"],
+            "incorrect1": "Chickenpox",
+            "incorrect2": "Rubella",
+            "incorrect3": "Mumps",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2013 SCOP Novice 4",
+            "question": "In one work, this man criticized Robert Filmer's view of monarchy and argued that revolution is needed if the government fails to serve the interests of citizens. He wrote that knowledge is gained from experience alone because the human mind at birth is a tabula rasa, or \"blank slate,\" in An Essay Concerning Human Understanding. Name this English philosopher who described social contract theory in Two Treatises of Government.",
+            "answers": ["John Locke"],
+            "incorrect1": "Thomas Hobbes",
+            "incorrect2": "Jean-Jacques Rousseau",
+            "incorrect3": "Immanuel Kant",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2012 SCOP Novice 3",
+            "question": "When given temperatures and enthalpy values, the Clausius-Clapeyron equation estimates this value, which, for volatile substances, is higher at low temperatures. At equilibrium, the partial pressure of a substance is equal to its mole fraction times this quantity, according to Raoult's Law. A boiling substance will have equal values for atmospheric pressure and what other type of pressure exerted when a gas co-exists with its liquid or solid phase?",
+            "answers": ["vapor pressure"],
+            "incorrect1": "atmospheric pressure",
+            "incorrect2": "partial pressure",
+            "incorrect3": "osmotic pressure",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "This poet wrote about his travels through Asia, as well as his observations of Haiti and the Soviet Republic in his autobiography, I Wonder as I Wander. He also stated that, \"They send me in the kitchen when company comes\" in his poem, \"I, Too, Sing America.\" Lorraine Hansberry took the title for her play, A Raisin in the Sun, from this man's poem, \"Harlem,\" in which he asks, \"What happens to a dream deferred?\" Name this African American author of the Harlem Renaissance that wrote \"for me, life ain't been no crystal stair,\" in \"Mother to Son\"in addition to \"The Negro Speaks of Rivers.\"",
+            "answers": ["Langston Hughes"],
+            "incorrect1": "Zora Neale Hurston",
+            "incorrect2": "James Baldwin",
+            "incorrect3": "Ralph Ellison",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 TAILS",
+            "question": "This river joins with the Rio Negro at the Meeting of the Waters. Iquitos, one of the most inland ports in the world, sits on the banks of this river. The city of Manaus also lies on this river, and is located in a state named for it. This river has the highest discharge volume, and is second-longest, in the world. What very long river in Brazil is named for a group of Greek-warrior women?",
+            "answers": ["Amazon River"],
+            "incorrect1": "Nile River",
+            "incorrect2": "Mississippi River",
+            "incorrect3": "Yangtze River",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Adrien Brody won the Best Actor Oscar for his role in this film. This film, directed by Brady Corbet, explores the life and work of a visionary architect whose career spans decades. It features Adrien Brody, who also starred in Corbet's previous film, \"Vox Lux,\" alongside Felicity Jones and Guy Pearce. The film's title refers to a style of architecture characterized by its raw concrete aesthetic and monumental forms, a style that reflects the architect's artistic vision. What is the name of this film, which delves into themes of ambition, legacy, and the artistic process?",
+            "answers": ["The Brutalist"],
+            "incorrect1": "The Minimalist",
+            "incorrect2": "The Modernist",
+            "incorrect3": "The Postmodernist",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This sport's perfect game, achieved by throwing twelve consecutive strikes, results in a score of 300. The pins, arranged in a triangular formation, are knocked down by a ball with finger holes, allowing for a variety of throwing styles. The sport has its roots in ancient Egypt, with evidence of a similar game dating back to 3200 BC, but the modern version evolved in Germany. What is the name of this sport, played indoors on a long, narrow lane?",
+            "answers": ["Bowling"],
+            "incorrect1": "Curling",
+            "incorrect2": "Billiards",
+            "incorrect3": "Shuffleboard",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2020 MOQBA Novice",
+            "question": "The losing side in this war created the Saint Patrick's Battalion from Irish defectors of the winning side. A \"Bear Flag Republic\" in this war enjoyed independence for three weeks before being annexed by the U.S. Abraham Lincoln introduced the Spot Resolutions to protest the legal basis for this conflict. This conflict's first fighting, known as the Thornton Affair, took place in the disrupted Nuances Strip outside Fort Texas. It was ended by the Treaty of Guadalupe Hidalgo, which seized California and New Mexico. Name this 1846 to 1848 war fought by the U.S with its southern neighbor.",
+            "answers": ["Mexican-American War", "the Mexican War"],
+            "incorrect1": "American Civil War",
+            "incorrect2": "Spanish-American War",
+            "incorrect3": "War of 1812",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This official had a heated discussion with President Donald Trump in the Oval Office which led to him leaving without signing a propose deal mineral deal in exchange for defense. This political figure, a former actor and comedian, gained international prominence for his leadership of Ukraine during the Russian invasion that began in 2022. He was elected President of Ukraine in 2019, winning by a landslide. Who is this president, whose defiance and resolve have made him a symbol of resistance?",
+            "answers": ["Volodymyr Zelenskyy", "Zelensky"],
+            "incorrect1": "Vladimir Putin",
+            "incorrect2": "Alexander Lukashenko",
+            "incorrect3": "Petro Poroshenko",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "One version of this law states that heat cannot flow spontaneously from low temperature to high temperature. Another version of this law states that it is impossible to convert heat completely into work in a cyclic process. Maxwell proposed a thought experiment in which sorting air molecules seems to violate this law. Identify this law, credited to French physicist Sadi Carnot, which states that \"in a closed system, a process that occurs will tend to increase the total entropy of the universe.\"",
+            "answers": ["Second Law of Thermodynamics", "2nd law"],
+            "incorrect1": "First Law of Thermodynamics",
+            "incorrect2": "Third Law of Thermodynamics",
+            "incorrect3": "Law of Conservation of Mass",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This ceremony occurred on March 2, 2025 in Los Angeles, California. These awards, presented annually by the Academy of Motion Picture Arts and Sciences (AMPAS), are considered the most prestigious awards in the film industry, recognizing excellence in cinematic achievements. The ceremony is known for its iconic golden statuette, often referred to as \"Oscar.\" The first ceremony was held in 1929 at the Hollywood Roosevelt Hotel, and it has since become a global event, broadcast live in over 200 countries. What is the name of these awards, with categories including Best Picture, Best Director, and Best Actor/Actress?",
+            "answers": ["Academy Awards", "Oscars"],
+            "incorrect1": "Golden Globe Awards",
+            "incorrect2": "Emmy Awards",
+            "incorrect3": "Tony Awards",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 TAILS",
+            "question": "A figure circled this deity and his wife to win a race with the prize of a magic mango, proposed by this god. This god is depicted with matted hair and a crescent moon on his head. After this god swallowed halahala created during the churning of the ocean, this god's throat turned blue due to the potency of the poison. Name this three-eyed destroyer deity who makes up the Trimurti with Brahma and Vishnu.",
+            "answers": ["Shiva", "Mahadeva"],
+            "incorrect1": "Vishnu",
+            "incorrect2": "Brahma",
+            "incorrect3": "Ganesha",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This show is currently airing its long-awaited second season. This science fiction thriller series, set in a mysterious corporate environment, explores the concept a surgical procedure that divides an employee's memories between their work life (\"innie\") and personal life (\"outie\"). The series' unique visual style, with its sterile office spaces and unsettling atmosphere, creates a sense of unease and intrigue. The show's central mystery revolves around the employees of Lumon Industries and their quest to uncover the truth about their work. What is the name of this critically acclaimed Apple TV+ series?",
+            "answers": ["Severance"],
+            "incorrect1": "Black Mirror",
+            "incorrect2": "The Twilight Zone",
+            "incorrect3": "Maniac",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This event's Main Event, the No-Limit Texas Hold'em World Championship, is the most prestigious tournament in poker, attracting thousands of players from around the world. The winner of the Main Event receives a multimillion-dollar prize and the coveted bracelet, a symbol of poker excellence. The event originated in 1970 at Binion's Horseshoe Casino in Las Vegas, Nevada, and has since grown into a global phenomenon. What is the name of this series of poker tournaments, held annually in Las Vegas?",
+            "answers": ["World Series of Poker", "WSOP"],
+            "incorrect1": "World Series of Blackjack",
+            "incorrect2": "World Series of Chess",
+            "incorrect3": "World Series of Darts",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2013 SCOP Novice 4",
+            "question": "This leader's body was hung upside down in the Square of the 15 Martyrs. He led the Republic of Salo after Otto Skorzeny's glider raid on Gran Sasso freed him from Victor Emmanuel III's policemen. In 1935, his army deposed Haile Selassie in an invasion of Ethiopia. He rose to power in 1922 as the Blackshirts marched on Rome. Name this fascist dictator, known as \"Il Duce,\" who led Italy during World War II.",
+            "answers": ["Benito Mussolini"],
+            "incorrect1": "Adolf Hitler",
+            "incorrect2": "Joseph Stalin",
+            "incorrect3": "Francisco Franco",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "This man was targeted in the Conway Cabal, which was partially due to his losses at Germantown and Brandywine. He declared political parties to be a \"frightful despotism\" and warned against engaging in \"entangling alliances\" in his Farewell Address, after which his former Vice President John Adams became President. Name this leader of the Continental Army who became the first President of the United States.",
+            "answers": ["George Washington"],
+            "incorrect1": "Thomas Jefferson",
+            "incorrect2": "Abraham Lincoln",
+            "incorrect3": "John Adams",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2015 SCOP Novice 6",
+            "question": "In this mountain range, accountant-turned-fugitive James \"Bismarck\" Hammes avoided capture by hiking for six years on a trail that extends from Springer Mountain to Mount Katahdin. Mount Mitchell is its highest peak, and this range includes the Piedmont and Blue Ridge subranges in Virginia and North Carolina. Name this mountain range that impedes east-west travel as it extends from Georgia to Maine.",
+            "answers": ["Appalachian Mountains"],
+            "incorrect1": "Rocky Mountains",
+            "incorrect2": "Andes Mountains",
+            "incorrect3": "Himalayan Mountains",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This show is currently airing its third season. This anthology series, created by Mike White, explores themes of wealth, privilege, and social dynamics against the backdrop of luxurious resort locations. Each season features a new cast of characters and a different setting, with the first season taking place in Hawaii and the second in Sicily. The series is known for its dark humor, its satirical portrayal of the upper class, and its exploration of complex relationships and moral dilemmas. What is the name of this critically acclaimed HBO series, which has garnered numerous awards and nominations?",
+            "answers": ["The White Lotus"],
+            "incorrect1": "Succession",
+            "incorrect2": "The Gilded Age",
+            "incorrect3": "Big Little Lies",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "2. Mount San Antonio is the tallest mountain in this state's San Gabriel Mountains. The highest point in this state, Mt. Whitney, is also the highest point in the contiguous United States. It contains the western shore of the largest alpine lake in North America. 5 hours to the south of Mt. Whitney lies the lowest point in North America. This third largest state in the U.S. contains Lake Tahoe and Death Valley. Its San Fernando Valley holds the majority of this state's most populous city, Los Angeles. Name this state with capital at Sacramento.",
+            "answers": ["California"],
+            "incorrect1": "Texas",
+            "incorrect2": "Florida",
+            "incorrect3": "New York",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2019 SCOP Novice 10",
+            "question": "Winston Churchill's The River War documented a revolt in this country that included the death of General\"Chinese\" Gordon and the Battle of Omdurman. The Janjaweed militia participates in this country's ongoing genocidal war in Darfur, for which president Omar al-Bashir was indicted for war crimes. A 2019 wave of mass protests shook Khartoum, the capital of what African country whose southern region declared independence in 2012?",
+            "answers": ["Republic of the Sudan", "Sudan"],
+            "incorrect1": "Republic of South Sudan",
+            "incorrect2": "Republic of Egypt",
+            "incorrect3": "Federal Democratic Republic of Ethiopia",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2016 Pennsylvania Novice",
+            "question": "This city was burned to the ground during a rebellion against William Berkeley. Residents of this city were saved by the arrival of relief ships under Lord De La Warr. Before leading its inhabitants through the \"starving time\" of 1609, this settlement's governor was said to have been saved from execution by the Powhatan woman Pocahontas. Name this Virginia settlement governed by John Smith, the first permanent English settlement in the New World.",
+            "answers": ["Jamestown"],
+            "incorrect1": "Plymouth",
+            "incorrect2": "Roanoke",
+            "incorrect3": "Williamsburg",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This sport, considered one of the oldest field games in the world, is often described as a cross between lacrosse, hockey, and baseball. Players use a stick called a hurley (or cam\u00e1n) to hit a small ball called a sliotar, with the aim of scoring by driving the sliotar between the opponent's goalposts. A goal, worth 3 points, is scored by hitting the sliotar under the crossbar into a net guarded by a goalkeeper. What is the name of this fast-paced and physical team sport, a national game of Ireland?",
+            "answers": ["Hurling"],
+            "incorrect1": "Lacrosse",
+            "incorrect2": "Gaelic Football",
+            "incorrect3": "Rugby",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2022 SANDS",
+            "question": "Evidence from NASA's Dawn spacecraft suggests that Ceres could be home to an ice type of this geologic feature. Io has an abundance of these features, which are responsible for its surface color. The largest one of these features in the solar system is the Martian Olympus Mons, which is of the \"shield\" variety and could be active. Name these geologic features that can erupt with lava.",
+            "answers": ["volcanoes", "cryovolcano", "shield volcano"],
+            "incorrect1": "earthquakes",
+            "incorrect2": "tsunamis",
+            "incorrect3": "hurricanes",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Wildfires broke out in this US state leading Governor Henry McMaster to declare a state of emergency. This U.S. state, known for its beautiful coastline and historic cities, is home to Fort Sumter, where the first shots of the American Civil War were fired. Its city of Charleston is famous for its colorful Rainbow Row, a series of historic houses painted in pastel hues. It is also a major producer of peaches, earning it the nickname \"The Peach State,\" though the official nickname is \"The Palmetto State.\" What is this state, one of the original thirteen colonies, located in the southeastern United States?",
+            "answers": ["South Carolina"],
+            "incorrect1": "North Carolina",
+            "incorrect2": "Georgia",
+            "incorrect3": "Virginia",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2019 SCOP Novice 10",
+            "question": "In a novel by this author, Arronax, Conseil, and Ned Land flee the Maelstrom, which threatens to sink a strange vessel. In another of this man's novels, Aouda is saved from being burned alive by Passepartout and a man who later uses the international dateline to win a bet. Phileas Fogg and Captain Nemo's submarine, the Nautilus, appear in what French author's novels Around the World in Eighty Days and Twenty Thousand Leagues Under the Sea?",
+            "answers": ["Jules Verne", "Jules Gabriel Verne"],
+            "incorrect1": "H.G. Wells",
+            "incorrect2": "Edgar Allan Poe",
+            "incorrect3": "Mary Shelley",
             "used": "TRUE"
         }
     ]
