@@ -27324,7 +27324,7 @@
         },
         {
             "category": "Current Events",
-            "question": "Recent outbreaks of this diseas have sickened over 100 people in the U.S. causing at least one death. This highly contagious disease, characterized by a distinctive rash that starts on the face and spreads down the body, is caused by a virus in the paramyxovirus family. It was once a common childhood illness, but widespread vaccination efforts have significantly reduced its prevalence. Its symptoms include fever, cough, runny nose, and conjunctivitis (pink eye). What is the name of this disease, which is preventable through the MMR vaccine?",
+            "question": "Recent outbreaks of this disease have sickened over 100 people in the U.S. causing at least one death. This highly contagious disease, characterized by a distinctive rash that starts on the face and spreads down the body, is caused by a virus in the paramyxovirus family. It was once a common childhood illness, but widespread vaccination efforts have significantly reduced its prevalence. Its symptoms include fever, cough, runny nose, and conjunctivitis (pink eye). What is the name of this disease, which is preventable through the MMR vaccine?",
             "answers": ["Measles"],
             "incorrect1": "Chickenpox",
             "incorrect2": "Rubella",
