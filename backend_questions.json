@@ -27511,7 +27511,7 @@
         {
             "category": "Geography",
             "source": "2010 Fall Kickoff Tournament (FKT)",
-            "question": "Mount San Antonio is the tallest mountain in this state's San Gabriel Mountains. The highest point in this state, Mt. Whitney, is also the highest point in the contiguous United States. It contains the western shore of the largest alpine lake in North America. 5 hours to the south of Mt. Whitney lies the lowest point in North America. This third largest state in the U.S. contains Lake Tahoe and Death Valley. Its San Fernando Valley holds the majority of this state's most populous city, Los Angeles. Name this state with capital at Sacramento.",
+            "question": "Mount San Antonio is the tallest mountain in this state's San Gabriel Mountains. The highest point in this state, Mt. Whitney, is also the highest point in the contiguous United States. It contains the western shore of the largest alpine lake in North America. Five hours to the south of Mt. Whitney lies the lowest point in North America. This third largest state in the U.S. contains Lake Tahoe and Death Valley. Its San Fernando Valley holds the majority of this state's most populous city, Los Angeles. Name this state with capital at Sacramento.",
             "answers": ["California"],
             "incorrect1": "Texas",
             "incorrect2": "Florida",
@@ -27521,7 +27521,7 @@
         {
             "category": "World History",
             "source": "2019 SCOP Novice 10",
-            "question": "Winston Churchill's The River War documented a revolt in this country that included the death of General\"Chinese\" Gordon and the Battle of Omdurman. The Janjaweed militia participates in this country's ongoing genocidal war in Darfur, for which president Omar al-Bashir was indicted for war crimes. A 2019 wave of mass protests shook Khartoum, the capital of what African country whose southern region declared independence in 2012?",
+            "question": "Winston Churchill's The River War documented a revolt in this country that included the death of General \"Chinese\" Gordon and the Battle of Omdurman. The Janjaweed militia participates in this country's ongoing genocidal war in Darfur, for which president Omar al-Bashir was indicted for war crimes. A 2019 wave of mass protests shook Khartoum, the capital of what African country whose southern region declared independence in 2012?",
             "answers": ["Republic of the Sudan", "Sudan"],
             "incorrect1": "Republic of South Sudan",
             "incorrect2": "Republic of Egypt",
@@ -27577,6 +27577,252 @@
             "incorrect2": "Edgar Allan Poe",
             "incorrect3": "Mary Shelley",
             "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2011 SCOP Novice 2",
+            "question": "Norman Mushari uses the philanthropy of one of this author's characters to try to prove him insane. Maniacs in the Fourth Dimension was written by a character in this author's novel Breakfast of Champions. Besides Eliot Rosewater and Kilgore Trout, he created a character who goes to Tralfamadore and saw the firebombing of Dresden. Name this author who wrote about Billy Pilgrim in his novel Slaughterhouse-Five.",
+            "answers": ["Kurt Vonnegut"],
+            "incorrect1": "Joseph Heller",
+            "incorrect2": "Philip K. Dick",
+            "incorrect3": "Ray Bradbury",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2013 SCOP Novice 4",
+            "question": "This war was instigated by the \"reconcentration\" tactics of Valeriano \"Butcher\" Weyler. Only one American sailor died at a major victory for George Dewey in this war. The losing side ceded Puerto Rico, Guam, and the Philippines to the United States after this \"splendid little war.\" An explosion on the USS Maine in Havana sparked what 1898 war in which Teddy Roosevelt's Rough Riders fought in Cuba against their parent country?",
+            "answers": ["Spanish-American War"],
+            "incorrect1": "Mexican-American War",
+            "incorrect2": "American Civil War",
+            "incorrect3": "World War I",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2021 SCOP B",
+            "question": "This body of water was refilled by the Zanclean flood over five million years ago, ending the Messinian salinity crisis. The Barbary Coast was along this body of water, which lies west of the Levant and south of Asia Minor. The Strait of Gibraltar separates this sea from the Atlantic Ocean, and its Aegean and Adriatic Seas were considered part of \"the Great Sea\" by the ancient Greeks and Romans. Name this sea that separates Europe and Africa.",
+            "answers": ["Mediterranean Sea"],
+            "incorrect1": "Black Sea",
+            "incorrect2": "Red Sea",
+            "incorrect3": "Baltic Sea",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2020 TAILS",
+            "question": "The costly ransom of one king in this war caused the peasants of one country to rise in the Jacquerie Rebellion. Edward the Black Prince fought in this war before dying of dysentery, and he won the battles of Poitiers and Crecy against King John II of France in this war. What war fought between England and France in the 14th and 15th centuries was actually 16 years longer than its name implies?",
+            "answers": ["Hundred Years' War", "100 years war"],
+            "incorrect1": "Thirty Years' War",
+            "incorrect2": "War of the Roses",
+            "incorrect3": "Napoleonic Wars",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This holiday was celebrated with a parade in New Orleans on April 4, 2025. This celebration, known for its elaborate parades, vibrant costumes, and festive atmosphere, culminates on \"Fat Tuesday,\" the day before the start of Lent in the Christian calendar. Its signature colors are purple (justice), green (faith), and gold (power), which are prominently displayed in decorations and costumes. The tradition of throwing beads, doubloons, and other trinkets from parade floats has become a hallmark of the celebration. What is the name of this annual carnival celebration, most famously associated with New Orleans, Louisiana?",
+            "answers": ["Mardi Gras", "Fat Tuesday"],
+            "incorrect1": "Cinco de Mayo",
+            "incorrect2": "Oktoberfest",
+            "incorrect3": "St. Patrick's Day",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film's iconic dance scene, featuring Uma Thurman and John Travolta in a twist contest, is set to Chuck Berry's \"You Never Can Tell,\" becoming one of the most memorable moments in cinema history. Its nonlinear narrative structure, weaving together multiple storylines, revolutionized storytelling in independent film. Its dialogue, filled with pop culture references and witty banter, has become widely quoted and celebrated. What is the title of this 1994 film, directed by Quentin Tarantino, which won the Palme d'Or at the Cannes Film Festival?",
+            "answers": ["Pulp Fiction"],
+            "incorrect1": "Reservoir Dogs",
+            "incorrect2": "Kill Bill",
+            "incorrect3": "Jackie Brown",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2011 SCOP Novice 2",
+            "question": "The \"extended\" version of this man's algorithm gives solutions to Diophantine equations. He proved that there are an infinite number of prime numbers, and his aforementioned namesake algorithm is used to find the greatest common denominator. He names a claim about the existence of a unique parallel line, his fifth postulate. This \"father of geometry\" is what Greek mathematician who wrote The Elements?",
+            "answers": ["Euclid"],
+            "incorrect1": "Pythagoras",
+            "incorrect2": "Archimedes",
+            "incorrect3": "Aristotle",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team sport, popular in Commonwealth countries, is played on a rectangular court divided into three sections, with a goal ring at each end. It features seven players on each team, each assigned to specific positions with defined areas of the court where they can operate. The objective is to score goals by passing a ball and shooting it through the opponent's goal ring. What is the name of this sport, similar to basketball but with restrictions on player movement with the ball?",
+            "answers": ["netball"],
+            "incorrect1": "basketball",
+            "incorrect2": "volleyball",
+            "incorrect3": "handball",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2022 MAKEMAKE",
+            "question": "A large O-shaped lake in this province was formed when a reservoir filled an ancient impact crater. This Canadian province's largest city is known for smoked-meat sandwiches and a unique style of bagel. Tourists in another city in this province can visit the massive Chateau Frontenac and the Plains of Abraham, which overlook the St. Lawrence River. Montreal is in what French-speaking Canadian province?",
+            "answers": ["Quebec"],
+            "incorrect1": "Ontario",
+            "incorrect2": "Alberta",
+            "incorrect3": "British Columbia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Intuitive Machines, a private company based in Texas, attempted to land their craft Athena on this satellite planet. However, the lander missed its mark toppled over and died 24 hours after touching down. This celestial body became the target of intense space exploration during the Cold War, leading to a historic race to land humans on its surface. The first unmanned spacecraft to achieve a soft landing was Luna 9 in 1966, paving the way for future crewed missions. The Apollo program, launched by the United States, ultimately achieved this goal with the Apollo 11 mission in 1969. What is the name of this celestial body, the Earth's only natural satellite?",
+            "answers": ["Moon"],
+            "incorrect1": "Mars",
+            "incorrect2": "Venus",
+            "incorrect3": "Titan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 ERIS",
+            "question": "The speaker of this poem asks its subject \"is there - is there balm in Gilead?\" before ordering it \"back into the tempest and the Night's Plutonian shore\". The title animal of this poem is perched on a \"pallid bust of Pallas just above my chamber door\". \"Once upon a midnight dreary\" is the opening of what poem by Edgar Allan Poe in which the title bird declares \"nevermore\"?",
+            "answers": ["The Raven", "the raven"],
+            "incorrect1": "The Tell-Tale Heart",
+            "incorrect2": "Annabel Lee",
+            "incorrect3": "The Fall of the House of Usher",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film's iconic car chase scene, featuring a dangerous game of \"chicken\" with two cars speeding towards a cliff, became a symbol of teenage rebellion and reckless abandon. Its star, James Dean, became a cultural icon and a symbol of youthful angst and alienation, despite his tragically short career. The film explores themes of juvenile delinquency, generational conflict, and the search for identity. What is the title of this 1955 film, directed by Nicholas Ray, which has become a classic of American cinema?",
+            "answers": ["Rebel Without a Cause"],
+            "incorrect1": "The Wild One",
+            "incorrect2": "Easy Rider",
+            "incorrect3": "American Graffiti",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2022 MAKEMAKE",
+            "question": "The yacht Granma transported revolutionaries to this country in the 26th of July movement. An Argentine revolutionary in this country was shown with a stoic face and a beret in Alberto Korda's photo Guerrillero Heroico. A leader of this country overthrew Fulgencio Batista along with his second-in-command Che Guevara and brother Raul. Name this Caribbean island country once led by Fidel Castro.",
+            "answers": ["Cuba", "Republic of Cuba", "Republica de Cuba"],
+            "incorrect1": "Puerto Rico",
+            "incorrect2": "Dominican Republic",
+            "incorrect3": "Jamaica",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL player recently signed a 3-year $100 million contract with the Seattle Seahawks after playing one year with the Minnesota Vikings. This quarterback, known for his strong arm and his ability to make throws from various arm angles, was drafted third overall by the New York Jets in the 2018 NFL Draft. He played college football at the University of Southern California (USC), where he won the Pac-12 South Division title in 2017. Name this player who has also played for the Carolina Panthers and the San Francisco 49ers.",
+            "answers": ["Sam Darnold"],
+            "incorrect1": "Zach Wilson",
+            "incorrect2": "Baker Mayfield",
+            "incorrect3": "Daniel Jones",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2020 SCOP A",
+            "question": "This author of the letter \"To the Inhabitants of America\" suffered a gruesome leg injury in an attack on Quebec City that killed Richard Montgomery. This man's wife, Peggy Shippen, connected him with John Andre, who was hanged in October 1780 after being caught with papers written by this man. Name this officer in the American Revolution who became infamous for his failed attempt to betray West Point to the British.",
+            "answers": ["Benedict Arnold"],
+            "incorrect1": "Ethan Allen",
+            "incorrect2": "Nathan Hale",
+            "incorrect3": "Aaron Burr",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2014 SCOP Novice 5",
+            "question": "This type of interaction is responsible for the high crystallinity of nylon, and it explains why hydrofluoric acid has a higher boiling point than hydrochloric acid. These interactions occur between base pairs in DNA. Ice has lower density than water due to the behavior of what type of bonding, a strong dipole-dipole interaction named for element 1 on the Periodic Table?",
+            "answers": ["hydrogen bonds", "dipole-dipole interaction"],
+            "incorrect1": "ionic bonds",
+            "incorrect2": "covalent bonds",
+            "incorrect3": "peptide bonds",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "The Zeisel test can be used to detect them, and the compound THF is a very polar example of one. The \"crown\" varieties are cyclic and can be used as solvents in Grignard reagents due to their low reactivity. These compounds can be produced by the Williamson synthesis or by the dehydration of alcohols. Identify these chemical compounds, characterized by two alkyl groups single bonded to an oxygen, whose diethyl version used to be used as an anesthetic.",
+            "answers": ["ethers"],
+            "incorrect1": "isopropyls",
+            "incorrect2": "aldehydes",
+            "incorrect3": "ketones",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL player was recently traded from the Seattle Seahawks to the Las Vegas Raiders where he signed a contract extension. This quarterback, once considered a journeyman, experienced a career resurgence with the Seattle Seahawks, earning NFL Comeback Player of the Year honors in 2022. He was drafted by the New York Jets in the second round of the 2013 NFL Draft and has also played for the New York Giants and the Los Angeles Chargers. He played college football at West Virginia University, where he set numerous school records. Who is this quarterback, known for his resilience and his impressive performance in recent seasons?",
+            "answers": ["Geno Smith"],
+            "incorrect1": "Drew Lock",
+            "incorrect2": "Russell Wilson",
+            "incorrect3": "Justin Herbert",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This nation's Liberal Party chose Mark Carney as their new leader making him the next Prime Minister of the nation. Name this country which borders the United States to the North where Justin Trudeau was just replaced. This country's economy, one of the largest in the world, is highly diversified, with significant contributions from natural resources, manufacturing, and services. It is a major exporter of energy, minerals, and agricultural products, and it has a strong automotive industry. What is the name of this country, a member of the G7 and known for its vast natural resources and its advanced industrial economy?",
+            "answers": ["Canada"],
+            "incorrect1": "United States",
+            "incorrect2": "Mexico",
+            "incorrect3": "Greenland",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "Salvador was the capital of this country until it was replaced by an Oscar Niemeyer planned city in 1956. Tourist sites in this country include Ipanema Beach, Sugarloaf Mountain, and the statue of Christ the Redeemer, and its ecotourist destination city Manaus is located in the world's largest rainforest. Porto Alegre, Sao Paulo, and Rio de Janeiro are located in what largest country in South America?",
+            "answers": ["Brazil"],
+            "incorrect1": "Argentina",
+            "incorrect2": "Mexico",
+            "incorrect3": "Colombia",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2021 SCOP B",
+            "question": "This politician tried to transfer Guant\u00b4anamo Bay prisoners to Thomson, Illionis, but was stymied when Congress refused to provide appropriate funds. In the late 2000s, Rod Blagojevich tried to sell this man's vacated senate seat. Partially fueled by slogans like \"Yes We Can,\" this man defeated John McCain in the 2008 presidential election. Joe Biden was the vice president for what first Black president of the United States?",
+            "answers": ["Barack Obama"],
+            "incorrect1": "Bill Clinton",
+            "incorrect2": "George W. Bush",
+            "incorrect3": "Joe Biden",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2022 KICKOFF Novice",
+            "question": "One meal consumed during this holiday begins with eating a date and is called iftar. During this period, the beginning of the day is defined as the moment at which a human eye can tell the difference between black and white threads. The Night of Power during this period celebrates the Quran first being revealed to Muhammad by Jibril. Name this ninth month of the Islamic calendar, during which Muslims fast from dawn to dusk.",
+            "answers": ["Ramadan"],
+            "incorrect1": "Eid al-Fitr",
+            "incorrect2": "Eid al-Adha",
+            "incorrect3": "Diwali",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2021 CERES",
+            "question": "King Victor Emmanuel III failed to stop this country's \"Blackshirts\" from marching on its capital. Haile Selassie gave a failed request for help to the League of Nations after this country invaded Ethiopia in 1935. This country's fascist leader Benito Mussolini signed a \"Pact of Steel\" with Adolf Hitler. The Axis Powers in World War II were Germany, Japan, and what country, the site of the March on Rome?",
+            "answers": ["Italy", "Italia"],
+            "incorrect1": "Spain",
+            "incorrect2": "Greece",
+            "incorrect3": "France",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actor's piercing blue eyes and charismatic screen presence made him a Hollywood icon, starring in films like \"Cool Hand Luke,\" \"Butch Cassidy and the Sundance Kid,\" and \"The Sting.\" He was also a successful race car driver and team owner winning numerous IndyCar championships. His philanthropic efforts included the founding of a food company whose profits are donated to charity. Who is this actor, known for his talent, his philanthropy, and his striking good looks?",
+            "answers": ["Paul Newman"],
+            "incorrect1": "Marlon Brando",
+            "incorrect2": "James Dean",
+            "incorrect3": "Steve McQueen",
+            "used": "TRUE",
+            "source": "Marty Heavey"
         }
     ]
 ]
