@@ -27745,28 +27745,8 @@
     ],
     [
         {
-            "category": "Science",
-            "source": "2011 Fall Kickoff Tournament (FKT)",
-            "question": "The Zeisel test can be used to detect them, and the compound THF is a very polar example of one. The \"crown\" varieties are cyclic and can be used as solvents in Grignard reagents due to their low reactivity. These compounds can be produced by the Williamson synthesis or by the dehydration of alcohols. Identify these chemical compounds, characterized by two alkyl groups single bonded to an oxygen, whose diethyl version used to be used as an anesthetic.",
-            "answers": ["ethers"],
-            "incorrect1": "isopropyls",
-            "incorrect2": "aldehydes",
-            "incorrect3": "ketones",
-            "used": "TRUE"
-        },
-        {
-            "category": "Sports",
-            "question": "This NFL player was recently traded from the Seattle Seahawks to the Las Vegas Raiders where he signed a contract extension. This quarterback, once considered a journeyman, experienced a career resurgence with the Seattle Seahawks, earning NFL Comeback Player of the Year honors in 2022. He was drafted by the New York Jets in the second round of the 2013 NFL Draft and has also played for the New York Giants and the Los Angeles Chargers. He played college football at West Virginia University, where he set numerous school records. Who is this quarterback, known for his resilience and his impressive performance in recent seasons?",
-            "answers": ["Geno Smith"],
-            "incorrect1": "Drew Lock",
-            "incorrect2": "Russell Wilson",
-            "incorrect3": "Justin Herbert",
-            "used": "TRUE",
-            "source": "Marty Heavey"
-        },
-        {
             "category": "Current Events",
-            "question": "This nation's Liberal Party chose Mark Carney as their new leader making him the next Prime Minister of the nation. Name this country which borders the United States to the North where Justin Trudeau was just replaced. This country's economy, one of the largest in the world, is highly diversified, with significant contributions from natural resources, manufacturing, and services. It is a major exporter of energy, minerals, and agricultural products, and it has a strong automotive industry. What is the name of this country, a member of the G7 and known for its vast natural resources and its advanced industrial economy?",
+            "question": "This nation's Liberal Party chose Mark Carney as their new leader making him the next Prime Minister of the nation. This country is a major exporter of energy, minerals, and agricultural products, and it has a strong automotive industry. This country borders the United States to the North and Justin Trudeau used to lead it. What is the name of this country, a member of the G7 and known for its vast natural resources and its advanced industrial economy?",
             "answers": ["Canada"],
             "incorrect1": "United States",
             "incorrect2": "Mexico",
@@ -27787,7 +27767,7 @@
         {
             "category": "US History",
             "source": "2021 SCOP B",
-            "question": "This politician tried to transfer Guant\u00b4anamo Bay prisoners to Thomson, Illionis, but was stymied when Congress refused to provide appropriate funds. In the late 2000s, Rod Blagojevich tried to sell this man's vacated senate seat. Partially fueled by slogans like \"Yes We Can,\" this man defeated John McCain in the 2008 presidential election. Joe Biden was the vice president for what first Black president of the United States?",
+            "question": "This politician tried to transfer Guantanamo Bay prisoners to Thomson, Illionis, but was stymied when Congress refused to provide appropriate funds. In the late 2000s, Rod Blagojevich tried to sell this man's vacated senate seat. Partially fueled by slogans like \"Yes We Can,\" this man defeated John McCain in the 2008 presidential election. Joe Biden was the vice president for what first Black president of the United States?",
             "answers": ["Barack Obama"],
             "incorrect1": "Bill Clinton",
             "incorrect2": "George W. Bush",
@@ -27796,13 +27776,13 @@
         },
         {
             "category": "Arts & Literature",
-            "source": "2022 KICKOFF Novice",
-            "question": "One meal consumed during this holiday begins with eating a date and is called iftar. During this period, the beginning of the day is defined as the moment at which a human eye can tell the difference between black and white threads. The Night of Power during this period celebrates the Quran first being revealed to Muhammad by Jibril. Name this ninth month of the Islamic calendar, during which Muslims fast from dawn to dusk.",
-            "answers": ["Ramadan"],
-            "incorrect1": "Eid al-Fitr",
-            "incorrect2": "Eid al-Adha",
-            "incorrect3": "Diwali",
-            "used": "TRUE"
+            "source": "2016 SAGES",
+            "question": "This king of Pessinus once found the satyr Silenus when he was lost. As a result, Dionysus offered this king any power. Later this king had his ears turned into those of a donkey. Name this king who chose the power to turn everything he touched into gold.",
+            "answers": ["King Midas"],
+            "incorrect1": "Hamlet",
+            "incorrect2": "King Arthur",
+            "incorrect3": "Napoleon",
+            "used": "FALSE"
         },
         {
             "category": "World History",
@@ -27823,6 +27803,629 @@
             "incorrect3": "Steve McQueen",
             "used": "TRUE",
             "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "The Zeisel test can be used to detect them, and the compound THF is a very polar example of one. The \"crown\" varieties are cyclic and can be used as solvents in Grignard reagents due to their low reactivity. These compounds can be produced by the Williamson synthesis or by the dehydration of alcohols. Identify these chemical compounds, characterized by two alkyl groups single bonded to an oxygen, whose diethyl version used to be used as an anesthetic.",
+            "answers": ["ethers"],
+            "incorrect1": "isopropyls",
+            "incorrect2": "aldehydes",
+            "incorrect3": "ketones",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL player was recently traded from the Seattle Seahawks to the Las Vegas Raiders where he signed a contract extension. This quarterback, once considered a journeyman, experienced a career resurgence with the Seattle Seahawks, earning NFL Comeback Player of the Year honors in 2022. He was drafted by the New York Jets in the second round of the 2013 NFL Draft and has also played for the New York Giants and the Los Angeles Chargers. He played college football at West Virginia University, where he set numerous school records. Who is this quarterback, known for his resilience and his impressive performance in recent seasons?",
+            "answers": ["Geno Smith"],
+            "incorrect1": "Drew Lock",
+            "incorrect2": "Russell Wilson",
+            "incorrect3": "Justin Herbert",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2014 SCOP Novice 5",
+            "question": "This number is squared in the solution to the Basel problem. One experiment to calculate this number exploits the Buffon's needle problem. Archimedes approximated this number, the number of radians in 180 degrees, by bounding it by the perimeters of 96-sided polygons, finding that it is less than 22 over 7. Give this ratio of a circle's circumference and diameter, an irrational number approximately equal to 3.14.",
+            "answers": ["pi", "3.14"],
+            "incorrect1": "tau",
+            "incorrect2": "e",
+            "incorrect3": "phi",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This Formula One driver, known for his qualifying prowess and his ability to extract the maximum performance from his car, achieved his first Formula One victory at the 2019 Belgian Grand Prix. He drives for Scuderia Ferrari, one of the most iconic and successful teams in Formula One history. He is a member of the Ferrari Driver Academy, a program that develops young racing talent. Who is this racing driver, hailing from Monaco?",
+            "answers": ["Charles Leclerc"],
+            "incorrect1": "Max Verstappen",
+            "incorrect2": "Lewis Hamilton",
+            "incorrect3": "George Russell",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2019 SCOP Novice 10",
+            "question": "After this man made his brother Joseph an unpopular King of Spain, he had to fight the Peninsular War to defend Joseph's rule. This man forced the Treaty of Pressburg, which gave this man large amounts of land from the Austrian Empire. This man beat the Third Coalition at the Battle of Austerlitz in 1805, two months after his navy lost at Trafalgar. Name this emperor who was exiled to Saint Helena in 1815 after his French army was defeated at Waterloo.",
+            "answers": ["Napoleon Bonaparte", "Napoleon I"],
+            "incorrect1": "Julius Caesar",
+            "incorrect2": "Alexander the Great",
+            "incorrect3": "Genghis Khan",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This holiday was celebrated on Friday, March 14 in India. This Hindu spring festival, also known as the \"Festival of Colors,\" is celebrated with vibrant displays of colored powder and water, symbolizing the arrival of spring and the victory of good over evil. Its origins are rooted in Hindu mythology, with various stories associated with the festival, including the legend of Holika and Prahlad. The festivities typically include music, dancing, and the sharing of sweets. What is the name of this joyous festival, a major celebration in India and Nepal?",
+            "answers": ["Holi"],
+            "incorrect1": "Diwali",
+            "incorrect2": "Eid",
+            "incorrect3": "Hanukkah",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 HIGS",
+            "question": "This nation is home to the city of Mariupol, which is located on the Sea of Azov. The Pripyat River flows into Belarus in the north and then back into this country, which is home to most of the Dnieper River. In July 2015, Dmitry Medvedev said that this nation's southernmost section, called Crimea, had been fully integrated with Russia. Name this Eastern European nation with capital at Kiev.",
+            "answers": ["Ukraine"],
+            "incorrect1": "Poland",
+            "incorrect2": "Russia",
+            "incorrect3": "Belarus",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2015 SCOP Novice 6",
+            "question": "This author wrote of a character who was \"more brave than me:more blond than you.\" That \"conscientious object-or\" had a \"heart that recoiled at war.\" This man wrote the poem \"maggie and milly and molly and may,\" which has almost no capital letters, and described a man who \"sang his didn't and danced his did.\" \"anyone lived in a pretty how town\" is by what American poet known for his strange punctuation and capitalization?",
+            "answers": [
+                "E.E. Cummings",
+                "Edwin Estlin Cummings",
+                "EE Cummings"
+            ],
+            "incorrect1": "T.S. Eliot",
+            "incorrect2": "Walt Whitman",
+            "incorrect3": "Robert Frost",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This musician's 1959 album, \"Kind of Blue,\" considered one of the greatest jazz albums of all time, popularized modal jazz, a style characterized by its improvisational freedom and harmonic ambiguity. His innovative use of the Harmon mute, which he often placed close to the microphone, created a distinctive and intimate sound. He was a key figure in the development of bebop, cool jazz, hard bop, and modal jazz, constantly pushing the boundaries of the genre. Who is this trumpeter and composer, known for his influential contributions to jazz music?",
+            "answers": ["Miles Davis"],
+            "incorrect1": "John Coltrane",
+            "incorrect2": "Louis Armstrong",
+            "incorrect3": "Duke Ellington",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2016 PLATO",
+            "question": "A followup to this Supreme Court case said that the ruling should be carried out \"with all deliberate speed.\" This Supreme Court case overturned the Plessy v. Ferguson decision. The majority opinion in this case stated that \"separate educational facilities are inherently unequal.\" The organization that lost this case was based in Topeka, Kansas. Name this 1954 Supreme Court case that worked to desegregate schools.",
+            "answers": [
+                "Brown v. Board of Education",
+                "Brown v board",
+                "Brown v. Board of Education of Topeka, Kansas"
+            ],
+            "incorrect1": "Roe v. Wade",
+            "incorrect2": "Miranda v. Arizona",
+            "incorrect3": "Dred Scott v. Sandford",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This animated film's iconic characters, Woody and Buzz Lightyear, have become beloved figures in popular culture, representing friendship and adventure. Its groundbreaking use of computer-generated imagery (CGI) revolutionized animation and paved the way for future animated films. Its story, which explores themes of growing up and the importance of imagination, has resonated with audiences of all ages. What is the name of this 1995 Pixar film, the first full-length computer-animated feature film?",
+            "answers": ["Toy Story"],
+            "incorrect1": "Finding Nemo",
+            "incorrect2": "The Lion King",
+            "incorrect3": "Shrek",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2021 SCOP B",
+            "question": "This religious action is described in Paul's letter to the Ephesians as a result of having \"one lord\" and\"one faith.\" The son of Elizabeth, John, saw the Holy Spirit descend \"like a dove\" onto Jesus during this ritual in the Jordan River. In Catholicism, this action is typically performed on infants and in Eastern Orthodoxy, it can be performed through full immersion. Name this Christian ritual, also called \"christening,\" in which a person is inducted into the church by being blessed with water.",
+            "answers": ["baptism", "baptise", "christening"],
+            "incorrect1": "confirmation",
+            "incorrect2": "communion",
+            "incorrect3": "ordination",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This Formula 1 driver, known for his consistent performances and his popular presence on social media, achieved his first Formula 1 victory at the 2024 Miami Grand Prix. He drives for McLaren, a historic team in Formula 1. He is often seen as a rising star in the sport. Who is this British driver?",
+            "answers": ["Lando Norris"],
+            "incorrect1": "Oscar Piastri",
+            "incorrect2": "George Russell",
+            "incorrect3": "Carlos Sainz",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "President Donald Trump has threatened to cut the staff of this agency which is associated with a US national deadline on April 15. This agency's primary function is to enforce the tax laws of the United States, collecting taxes and providing assistance to taxpayers. Its origins can be traced back to the Civil War, when it was established to help finance the war effort. The agency is responsible for processing millions of tax returns each year, a complex task that involves verifying information and ensuring compliance. What is the name of this bureau of the Department of the Treasury?",
+            "answers": ["Internal Revenue Service", "IRS"],
+            "incorrect1": "Federal Trade Commission",
+            "incorrect2": "Securities and Exchange Commission",
+            "incorrect3": "Central Intelligence Agency",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 SCOP MS 7",
+            "question": "This state's tallest peak is Mount Elbert, and its official flower, the blue columbine, was discovered during the first ascent of a mountain discovered by Zebulon Pike. Over 50 \"fourteeners,\" or mountains over 14,000 feet tall, are found in what \"Mile High\" state in the Rockies, with capital Denver?",
+            "answers": ["Colorado"],
+            "incorrect1": "Wyoming",
+            "incorrect2": "Utah",
+            "incorrect3": "Arizona",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2021 CERES",
+            "question": "An equation named for Konstantin Tsiolkovsky is used to calculate the motion of these machines, because they get lighter through fuel loss as they travel. Robert Goddard and Werner von Braun are scientists best known for their work with these machines, which may be comprised of multiple stages which fall off as they fly. What vehicles such as Saturn V and Falcon 9 are used to launch into space?",
+            "answers": ["rockets"],
+            "incorrect1": "airplanes",
+            "incorrect2": "helicopters",
+            "incorrect3": "balloons",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2018 SCOP Novice 9",
+            "question": "This president's policies were frequently blocked by the \"Four Horsemen,\" a conservative block of the Supreme Court, and he failed in a controversial attempt to \"pack\" more justices on the Court. This man used bank holidays and new agencies like the Tennessee Valley Authority and WPA to fight the Great Depression. Name this president who expanded the federal government through his New Deal policies while suffering from polio.",
+            "answers": [
+                "Franklin Delano Roosevelt",
+                "FDR",
+                "Franklin Roosevelt"
+            ],
+            "incorrect1": "Theodore Roosevelt",
+            "incorrect2": "Herbert Hoover",
+            "incorrect3": "Harry S. Truman",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2017 SCOP Novice 8",
+            "question": "A holder of this title controversially pushed his people away from polytheism in favor of a solar god worshiped at Amarna. Lord Carnavon funded Howard Carter's 1922 expedition to discover the burial grounds of one of these people at Luxor; that mission found a sarcophagus containing a solid gold funerary mask and mummified remains. Name this title given to Akenhaten, King Tut, and other ancient Egyptian rulers.",
+            "answers": ["Egyptian pharaohs", "pharaohs"],
+            "incorrect1": "Roman emperors",
+            "incorrect2": "Greek kings",
+            "incorrect3": "Persian shahs",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2021 CERES",
+            "question": "Following the 2003 Goodridge case, Massachusetts became the first state to grant the right to perform this action, which California took away in Proposition 8. After the case Obergefell v. Hodges legalized this action nationwide by striking down the Defense of Marriage Act, the White House was temporarily lit up with rainbow pride colors. Name this action that might involve two men becoming husbands.",
+            "answers": [
+                "gay marriage",
+                "same-sex marriage",
+                "homosexual marriage"
+            ],
+            "incorrect1": "abortion",
+            "incorrect2": "drug possession",
+            "incorrect3": "polygamy",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This footballer's philosophy, known as \"Total Football,\" revolutionized the sport with its fluid formations and emphasis on positional interchangeability. He won the Ballon d'Or three times and was a key player for both Ajax and Barcelona, two clubs that are synonymous with his style of play. He also managed both Ajax and Barcelona, continuing to implement his tactical vision and shaping the future of football. Who is this Dutch football legend, known for his technical brilliance and his profound influence on the game?",
+            "answers": ["Johan Cruyff"],
+            "incorrect1": "Franz Beckenbauer",
+            "incorrect2": "Diego Maradona",
+            "incorrect3": "Pelé",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This director's 2019 film, \"Parasite,\" made history by becoming the first non-English language film to win the Academy Award for Best Picture. His films often blend genres, incorporating elements of thriller, comedy, and social commentary, exploring themes of class inequality and social injustice. He has directed acclaimed films such as \"Memories of Murder,\" \"The Host,\" and \"Snowpiercer,\" showcasing his versatility and his ability to create compelling and thought-provoking cinema. Who is this South Korean filmmaker, known for his masterful storytelling and his unique cinematic vision?",
+            "answers": ["Bong Joon-ho"],
+            "incorrect1": "Park Chan-wook",
+            "incorrect2": "Steven Spielberg",
+            "incorrect3": "Lee Chang-dong",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This event will occur in the Northern Hemisphere on March 20, 2025. This astronomical event, marking the beginning of spring occurs when the Sun crosses the celestial equator, resulting in roughly equal lengths of day and night. It has been celebrated in various cultures throughout history with festivals and rituals symbolizing renewal and rebirth. Its date varies slightly each year due to the Earth's elliptical orbit and axial tilt. What is the name of this event, a significant point in the Earth's annual cycle around the Sun?",
+            "answers": ["Spring Equinox", "March equinox", "vernal equinox"],
+            "incorrect1": "Summer Solstice",
+            "incorrect2": "Autumnal Equinox",
+            "incorrect3": "Winter Solstice",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2020 SCOP MS 10",
+            "question": "When preceded by the German root \"zwitter\" [z'vitter], this term describes a molecule that is simultaneously dipolar. Bases are classified as strong or weak by their ability to completely dissociate into these things; for example, lye breaks apart into hydroxide molecules and sodium atoms. Give this term for chemicals that have lost or gained electrons and thus have a positive or negative electric charge.",
+            "answers": ["ions", "zwitterions", "cations", "anions"],
+            "incorrect1": "isotopes",
+            "incorrect2": "molecules",
+            "incorrect3": "neutrons",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2016 Pennsylvania Novice",
+            "question": "During this battle, the Chateau of Hougoumont was besieged. British troops in this battle protected themselves from artillery fire by lying down on the reverse slope of La Haye Sainte. British infantry squares repeatedly turned back cavalry led by Marshal Ney at this battle. This battle concluded when the British were relieved by a Prussian Army under General von Blucher. Name this 1815 battle in Belgium in which the Duke of Wellington defeated Napoleon.",
+            "answers": ["Battle of Waterloo"],
+            "incorrect1": "Battle of Austerlitz",
+            "incorrect2": "Battle of Trafalgar",
+            "incorrect3": "Battle of Leipzig",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2022 SANDS",
+            "question": "This region is home to the American-operated McMurdo Station on its Ross Island. This region is separated from one continent's southern tip, Cape Horn, by the Drake Passage. The Adelie and emperor species of a certain bird only live in this region. Penguins live on this continent, which is home to the South Pole. Name this least populous and coldest continent in the world.",
+            "answers": ["Antarctica"],
+            "incorrect1": "Arctic",
+            "incorrect2": "Greenland",
+            "incorrect3": "Siberia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2017 SCOP Novice 8",
+            "question": "In this novel, \"with sheets\" is added to one of the Seven Commandments, which are written on a wall after Jones and his men are defeated at the Battle of the Cowshed. In this novel, Old Major teaches the song\"Beasts of England,\" Boxer repeats \"Napoleon is always right,\" and Snowball teaches the motto \"Four legs good! Two legs bad!\" to a group of sheep. A Marxist revolution is led by pigs in what George Orwell novel?",
+            "answers": ["Animal Farm"],
+            "incorrect1": "1984",
+            "incorrect2": "Brave New World",
+            "incorrect3": "Fahrenheit 451",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "The former president of the this nation, Rodrigo Duterte, was arrested on the basis of an International Criminal Court warrant charging him with crimes against humanity during his national war on drugs. This Southeast Asian country, known for its stunning beaches and vibrant coral reefs, is comprised of over 7,000 islands, making it an archipelago. Its capital city, Manila, is a bustling metropolis with a rich history and a mix of modern and colonial architecture. It is the world's leading exporter of coconut oil and a major producer of rice and other agricultural products. What is this country known for its iconic jeepney transportation?",
+            "answers": ["the Philippines", "Phillipines"],
+            "incorrect1": "Indonesia",
+            "incorrect2": "Malaysia",
+            "incorrect3": "Vietnam",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This singer-songwriter's introspective lyrics and gentle acoustic guitar style, often exploring themes of personal struggles and emotional healing, helped define the singer-songwriter movement of the 1970s. His album \"Sweet Baby James,\" released in 1970, catapulted him to fame and featured his signature song of the same name. His distinctive voice and his fingerpicking technique have become instantly recognizable, earning him a dedicated fanbase. Who is this musician, known for his hits like \"Fire and Rain,\" \"You've Got a Friend,\" and \"Carolina in My Mind\"?",
+            "answers": ["James Taylor"],
+            "incorrect1": "Carole King",
+            "incorrect2": "Joni Mitchell",
+            "incorrect3": "Jackson Browne",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This cricketer, known as the \"God of Cricket\" in India, holds numerous records in both Test and One Day International (ODI) cricket, including the most runs scored and the most centuries. He was the first player to score 100 international centuries, a feat that cemented his legendary status. He played for India for over two decades, becoming a national icon and an inspiration to aspiring cricketers. Who is this Indian cricketer, widely regarded as one of the greatest batsmen of all time?",
+            "answers": ["Sachin Tendulkar"],
+            "incorrect1": "Brian Lara",
+            "incorrect2": "Ricky Ponting",
+            "incorrect3": "Shane Warne",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2016 Pennsylvania Novice",
+            "question": "An army from what is now this modern\u00adday nation attempted to invade the Joseon dynasty but was repelled by turtle ships. One general in this nation led \"winter\" and \"summer\" campaigns to try to capture his enemy's recently rebuilt castle. In 1281 this nation's defeat of the navy of Kublai Khan with the help of a typhoon was attributed to a \"divine wind.\" The siege of Osaka occurred in this nation, which Tokugawa Ieyasu once led. Name this nation that on December 7th, 1941, bombed Pearl Harbor.",
+            "answers": ["Japan", "Nippon"],
+            "incorrect1": "China",
+            "incorrect2": "South Korea",
+            "incorrect3": "Vietnam",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2016 Pennsylvania Novice",
+            "question": "After a great storm, this man was marooned without supply on Jamaica for one year in 1503. Accusations of brutality such as cutting off a someone's ears and nose for stealing corn led to this man's imprisonment after a governorship. This man made contact with Arawak Indians on San Salvador, and his major discovery occurred during his voyage on the Nina, the Pinta, and the Santa Maria. Name this Genoan Mariner, credited with re\u00addiscovering the Americas in 1492.",
+            "answers": ["Christopher Columbus"],
+            "incorrect1": "Ferdinand Magellan",
+            "incorrect2": "Vasco da Gama",
+            "incorrect3": "Amerigo Vespucci",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2014 SCOP Novice 5",
+            "question": "A Lucas cell can be used to detect one element in this group that causes lung cancer. Ununoctium is the newest member of this group. Shorthand electron configurations features abbreviations for elements in this group in brackets. Each one of these elements is monatomic with a full valence shell. Name this group of unreactive elements on the far right of the periodic table, whose members include xenon, radon, and helium.",
+            "answers": ["noble gases"],
+            "incorrect1": "alkali metals",
+            "incorrect2": "halogens",
+            "incorrect3": "transition metals",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2021 CERES",
+            "question": "He's not Apollo, but this god sent a monster to ravage the land when King Laomedon (LAY-oh-me-don) didn't reward him for building the walls of Troy like promised. After being taunted by the hero Odysseus, Polyphemus prayed to this god, his father. This god lost a contest in which he created the first horse to Athena to become the patron god of Athens. Name this brother of Zeus and Hades, and god of the sea.",
+            "answers": ["Poseidon"],
+            "incorrect1": "Zeus",
+            "incorrect2": "Hades",
+            "incorrect3": "Apollo",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "The highest point in this nation is Jebel Toubkal, and foreign enclaves surrounded by this nation include Melilla (meh-LEE-yah) and Ceuta (say-OO-tah). Its cities include Safi and Marrakech, and this country is home to the western terminus of the Atlas Mountains. It is north of the disputed Western Sahara and south of the Strait of Gibraltar. Name this country that includes the cities of Casablanca and Rabat.",
+            "answers": [
+                "Morocco",
+                "Kingdom of Morocco",
+                "Al Mamlakah al Maghribiyah"
+            ],
+            "incorrect1": "Algeria",
+            "incorrect2": "Tunisia",
+            "incorrect3": "Egypt",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2022 SCOP MS 11",
+            "question": "Before amylase enzyme was isolated, this compound was used to turn corn starch into glucose syrup. The\"fizz test\" for calcium carbonate applies a muri-atic solution of this compound to rocks. Gold will dissolve in a mixture of nitric acid and this compound, called \"aqua regia.\" Water and table salt are the products when this compound reacts with sodium hydroxide. Stomach acid consists of which strong acid with formula HCl [H-C-L]?",
+            "answers": ["hydrochloric acid", "Hcl"],
+            "incorrect1": "sulfuric acid",
+            "incorrect2": "nitric acid",
+            "incorrect3": "acetic acid",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 SCOP Novice",
+            "question": "One of this author's works sees a scorpion bite Coyotito, the son of two pearl fishers, and in another novel, the knowledge that Cathy Ames was a prostitute drives her son, Aron Trask, to death. Besides many novels set in Salinas Valley, California, this author of The Pearl and Cannery Row wrote about how Muley Graves stays in Oklahoma while Jim Casey and Rose of Sharon run from the dust bowl with the Joad family. Name this American author of Great Depression-era novels like East of Eden and The Grapes of Wrath.",
+            "answers": ["John Steinbeck"],
+            "incorrect1": "Ernest Hemingway",
+            "incorrect2": "William Faulkner",
+            "incorrect3": "F. Scott Fitzgerald",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This documentary series, which has significantly increased the popularity of Formula 1 racing, provides an inside look at the drivers, teams, and rivalries that make up the sport. Its dramatic storytelling and behind-the-scenes access have attracted a new generation of fans. The series is produced by Netflix and has been praised for its ability to capture the intensity and excitement of Formula 1. What is the name of this show?",
+            "answers": ["Drive to Survive"],
+            "incorrect1": "Formula 1",
+            "incorrect2": "The Last Dance",
+            "incorrect3": "Cheer",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 TAILS",
+            "question": "This desert is home to the Tibesti Mountains. The Tuareg people are indigenous to the central regions of this desert. This desert is bordered to the south by a region called the Sahel and also contains the cities of Niamey and Timbuktu. Sankore University was built by the Mali Empire on the edge of this desert. What largest hot desert in the world covers much of north Africa?",
+            "answers": ["Sahara Desert"],
+            "incorrect1": "Arabian Desert",
+            "incorrect2": "Gobi Desert",
+            "incorrect3": "Kalahari Desert",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This singer-songwriter's music, often celebrating the beauty of nature and the simplicity of life, made him a prominent figure in the folk and country music scenes of the 1970s. His iconic song \"Take Me Home, Country Roads,\" with its nostalgic lyrics and uplifting melody, has become an anthem for West Virginia and a beloved classic. His love for aviation led him to become an experienced pilot, a passion that tragically ended in his death in a plane crash. Who is this musician, known for his hits like \"Rocky Mountain High,\" \"Annie's Song,\" and \"Leaving on a Jet Plane\"?",
+            "answers": ["John Denver"],
+            "incorrect1": "James Taylor",
+            "incorrect2": "Jim Croce",
+            "incorrect3": "Bob Dylan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "Ukraine attacked this city with drones on the eve of discussions with the United States about their ongoing war. This city's iconic Red Square, a UNESCO World Heritage Site, is home to St. Basil's Cathedral, a colorful and ornate structure with distinctive onion-shaped domes. Its metro system, known for its elaborate stations decorated with mosaics, sculptures, and chandeliers, is considered one of the most beautiful in the world. It is the political and economic center of Russia, and it has a rich history dating back to the 12th century. What is the name of this city, the capital of Russia, located on the Moskva River?",
+            "answers": ["Moscow"],
+            "incorrect1": "Saint Petersburg",
+            "incorrect2": "Kiev",
+            "incorrect3": "Berlin",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2016 PLATO",
+            "question": "This man's donation founded the University of Chicago, the alma mater of his only son. This man once owned the companies that became ExxonMobil and Chevron, and he clashed with Andrew Carnegie. This man integrated his company both vertically and horizontally, leading to criticism from the muckraker Ida Tarbell. Name this \"robber baron\" who founded Standard Oil and whose grandson Nelson was vice president under Gerald Ford.",
+            "answers": ["John D. Rockefeller"],
+            "incorrect1": "Andrew Carnegie",
+            "incorrect2": "J.P. Morgan",
+            "incorrect3": "Cornelius Vanderbilt",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2022 MAKEMAKE",
+            "question": "Early on in this conflict, the defensive \"Maginot Line\" completely failed to deter an invasion. In this conflict, the slogan \"Work, Family, Fatherland\" was adopted by a regime led by former war hero Philippe Petain. In this conflict, a French regime based in the city of Vichy (VEE-shee) was resisted by the \"Free French\". Name this conflict during which France was led by a Nazi puppet government.",
+            "answers": ["World War II", "WWII", "Second World War"],
+            "incorrect1": "World War I",
+            "incorrect2": "Korean War",
+            "incorrect3": "Vietnam War",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2018 SCOP Novice 9",
+            "question": "A hypothetical type of this structure is the 20-mile long O'Neill cylinder, and Wernher von Braun's design for one is based on a rotating wheel. The most recently completed one of these is China's Tiangong-2. Valery Polyakov holds the endurance record for spending 437 days aboard one of these called Mir [meer], and due to a calculation error, the American one, Skylab, crashed in Australia upon re-entry. Name this type of structure whose International example houses astronauts and their experiments in outer space.",
+            "answers": ["space stations", "orbital stations"],
+            "incorrect1": "satellites",
+            "incorrect2": "space shuttles",
+            "incorrect3": "rockets",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2018 MVS RAMS",
+            "question": "After this event, the Hotline Agreement was signed between its two major parties. This event was triggered in part by the photographing of bases at San Cristobal by a U-2 spy plane. As part of a compromise to resolve this event, the United States agreed to remove Jupiter missiles from Turkey, and during this event John F. Kennedy ordered the blockade of a Communist island. Name this 1962 Cold War incident in which the United States and Soviet Union stood on the brink of nuclear war.",
+            "answers": [
+                "Cuban Missile Crisis",
+                "Caribbean Crisis",
+                "Missile Scare",
+                "October Crisis of 1962"
+            ],
+            "incorrect1": "Bay of Pigs Invasion",
+            "incorrect2": "Vietnam War",
+            "incorrect3": "Korean War",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2022 KICKOFF Novice",
+            "question": "This empire's \"Great Interregnum\" ended with the ascension of the House of Luxembourg. Local leaders of this empire met in the Imperial Diet. Within this empire, France rivaled the Hapsburgs for influence with its electors. This empire was ruled by Spanish kings in the 1500s after the election of Charles V. Name this fragmented Central European empire, which ruled much of medieval Germany.",
+            "answers": ["Holy Roman Empire", "HRE"],
+            "incorrect1": "Roman Empire",
+            "incorrect2": "Byzantine Empire",
+            "incorrect3": "Ottoman Empire",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This basketball legend's silhouette is the basis for the NBA's iconic logo, a testament to his impact on the sport. He was a 14-time NBA All-Star and won an NBA championship with the Los Angeles Lakers in 1972. He also served as a successful coach and executive in the NBA, showcasing his diverse contributions to the league. Who is this Hall of Fame guard, known for his clutch performances and his nickname, \"Mr. Clutch\"?",
+            "answers": ["Jerry West"],
+            "incorrect1": "Jerry Rice",
+            "incorrect2": "Jerry Seinfeld",
+            "incorrect3": "Jerry Lewis",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "One crew member was missing after a vessel collided with a U.S.-flagged oil tanker in this body of water forcing the crews of both ships to abandon their vessels. This body of water, a shallow, epicontinental sea, is a major source of oil and natural gas for the surrounding countries. It is bordered by the United Kingdom, Norway, Denmark, Germany, the Netherlands, Belgium, and France. Its shipping lanes are some of the busiest in the world, connecting major European ports. What is the name of this sea, known for its strong winds and its role in European trade and energy production?",
+            "answers": ["North Sea"],
+            "incorrect1": "Baltic Sea",
+            "incorrect2": "Mediterranean Sea",
+            "incorrect3": "Black Sea",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Fall Novice Tournament",
+            "question": "One novel by this author is about a thieving woman whose many husbands include a banker, a \"Lancanshire\" man, and her half-brother. Like Samuel Pepys, this author offered an account of the 1665 Plague in his A Journal of the Plague Year. Another novel follows a man who rescues a prisoner from cannibals. That prisoner is named Friday and the novel is narrated by a man stranded on an island for 28 years. Name this British author of Moll Flanders and Robinson Crusoe.",
+            "answers": ["Daniel Defoe"],
+            "incorrect1": "Jonathan Swift",
+            "incorrect2": "Samuel Richardson",
+            "incorrect3": "Henry Fielding",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2009 Fall Novice Tournament",
+            "question": "Reindeer Lake lies on the eastern border of this province and Lake Athabasca on the western border. Swift Current and Moose Jaw are to the south, and the Assiniboine River flows through the capital of this province. Bordered by the Northwest Territories to the north, Manitoba to the east, and Alberta to the west, this is what Canadian province whose cities include its provinicial capital, Regina, and Saskatoon?",
+            "answers": ["Saskatchewan"],
+            "incorrect1": "Alberta",
+            "incorrect2": "Manitoba",
+            "incorrect3": "Ontario",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This musician's bass playing, characterized by its melodic and inventive style, was a crucial element of The Beatles' groundbreaking sound. His songwriting partnership with John Lennon produced some of the most iconic and beloved songs in music history. He formed the band Wings after the breakup of The Beatles, achieving further success with hits like \"Band on the Run\" and \"Live and Let Die.\" Who is this legendary musician, known for his prolific career as a singer, songwriter, and multi-instrumentalist?",
+            "answers": ["Paul McCartney"],
+            "incorrect1": "John Lennon",
+            "incorrect2": "George Harrison",
+            "incorrect3": "Ringo Starr",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2020 MOQBA Novice",
+            "question": "This country is home to the second largest nickel reserves in the world, after Russia. An electric railway built by Hershey's chocolate company connects this country's capital to a province that contains the Zapata Swamp, Matanzas. The Hotel Nacional in this country's capital was home to a 1946 conference of organized crime leaders organized by Meyer Lansky. A United States military prison off the coast of this country has been the site of internationally condemned incidents of torture. Guantanamo Bay is off the coast of what Caribbean nation with capital at Havana?",
+            "answers": ["Cuba", "Republic of Cuba", "Republica de Cuba"],
+            "incorrect1": "Puerto Rico",
+            "incorrect2": "Dominican Republic",
+            "incorrect3": "Jamaica",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This game show's format, created by Merv Griffin, features a unique answer-and-question format, where contestants are given clues in the form of answers and must phrase their responses in the form of a question. Its iconic host, Alex Trebek, hosted the show for 37 seasons, becoming a beloved figure in television. The show's categories cover a wide range of topics, from history and literature to science and pop culture. What is the name of this long-running game show, known for its intellectual challenge and its \"Daily Double\"?",
+            "answers": ["Jeopardy!", "jeopardy"],
+            "incorrect1": "Wheel of Fortune",
+            "incorrect2": "The Price is Right",
+            "incorrect3": "Who Wants to Be a Millionaire",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This basketball player is known for his clutch performances and his ability to hit game-winning shots. He played his entire 18-season career with the Indiana Pacers, becoming a beloved figure in the state. He was a five-time NBA All-Star and is considered one of the greatest three-point shooters of all time. Who is this Hall of Fame shooting guard, famous for his rivalry with the New York Knicks in the 1990s?",
+            "answers": ["Reggie Miller"],
+            "incorrect1": "Larry Bird",
+            "incorrect2": "Michael Jordan",
+            "incorrect3": "Ray Allen",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This leader went on the Great Embassy with his diplomats, and faced revolt from a group of guards supporting his brother Ivan V, the streltsy. This man's forces won at Poltava, beating Charles XII of Sweden in the Great Northern War. He forced nobles to shave their beards, simplified the Cyrillic alphabet, and moved the capital to a namesake port as part of reforms to Westernize his nation. Identify this modernizer of Russia, a \"Great\" czar.",
+            "answers": [
+                "Peter the Great",
+                "Peter I",
+                "Pyotr Alexeyevich Romanov"
+            ],
+            "incorrect1": "Catherine the Great",
+            "incorrect2": "Ivan the Terrible",
+            "incorrect3": "Nicholas II",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This cultural and religious holiday, traditionally celebrated on March 17th, is associated with the color green, shamrocks, and leprechauns. It originated as a feast day for the patron saint of Ireland, who is credited with bringing Christianity to the country. It is now celebrated around the world with parades, Irish music, and dancing. What is the name of this holiday?",
+            "answers": ["St. Patrick's Day", "Saint patricks day"],
+            "incorrect1": "St. Valentine's Day",
+            "incorrect2": "St. George's Day",
+            "incorrect3": "St. Andrew's Day",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2015 SAGES",
+            "question": "The cross-cousin form of this practice was common among the Iroquois. Under the Napoleonic Code, men could do this at age 18 and women at age 15. Obergefell v. Hodges was ruled in favor of same-sex couples being able to do this. Name this process, which usually involves a wedding ceremony.",
+            "answers": ["marriage", "getting married"],
+            "incorrect1": "engagement",
+            "incorrect2": "divorce",
+            "incorrect3": "annulment",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2020 MOQBA Novice",
+            "question": "Angular momentum is quantized as an integer multiple of the reduced form of this quantity, which is equal to this quantity over two pi and is denoted with a bar. The de Broglie [\"de broy\"] wavelength is equal to this quantity over momentum. The product of the standard deviations of position and momentum is at least this quantity over four pi by the Heisenberg uncertainty principle, and the energy of a photon is equal to this constant times the speed of light over wavelength. Give this constant, denoted lowercase h, named for a German founder of quantum theory.",
+            "answers": ["Planck's constant", "h", "h-bar"],
+            "incorrect1": "Boltzmann constant",
+            "incorrect2": "Avogadro's number",
+            "incorrect3": "Speed of light",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2022 SANDS",
+            "question": "The phrases ma non troppo and con moto may be appended to terms describing this property. Using rubato allows a performer to adjust this aspect of a piece. The terms accelerando and ritardando suggest a change in this musical property. A common term for marking this property of music, allegro, is typically realized at about 120 beats per minute. Name this term describing how fast or slow a musician should perform music.",
+            "answers": ["tempo", "time", "speed"],
+            "incorrect1": "rhythm",
+            "incorrect2": "melody",
+            "incorrect3": "harmony",
+            "used": "TRUE"
         }
     ]
 ]
