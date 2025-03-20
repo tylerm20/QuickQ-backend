@@ -28427,5 +28427,286 @@
             "incorrect3": "harmony",
             "used": "TRUE"
         }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2022 SCOP MS 11",
+            "question": "A character in this novel battles wineskins and fights Samson Carasco disguised as the Knight of Mirrors. This novel's title character rides the old horse Rocinante and tries to honor his fictional lady-love, Dulcinea, with the help of a farmer named Sancho Panza. Name this Miguel de Cervantes novel in which the title man tilts at windmills he thinks are giants while imagining he's a knight.",
+            "answers": [
+                "Don Quixote",
+                "Don Quijote",
+                "The Ingenious Gentleman Don Quijote of La Mancha",
+                "El Ingenioso hidalgo Don Quixote de la Mancha"
+            ],
+            "incorrect1": "The Great Gatsby",
+            "incorrect2": "Portrait of Dorian Gray",
+            "incorrect3": "Donatello",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "A nightclub fire in the city of Ko\u010dani in this natino killed at least 59 people and injured more than 155 others. This country's capital city, Skopje, is home to a large number of statues and monuments, a project known as \"Skopje 2014,\" which aimed to enhance the city's identity. Its name was officially changed to its current name in 2019 to resolve a long-standing dispute with Greece. It is a landlocked country located on the Balkan Peninsula. What is the name of this country, bordered by Kosovo, Serbia, Bulgaria, Greece, and Albania?",
+            "answers": ["North Macedonia"],
+            "incorrect1": "Serbia",
+            "incorrect2": "South Macedonia",
+            "incorrect3": "Slovenia",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2017 SCOP MS 7",
+            "question": "Composition of these mathematical objects make the codomain of one of them the domain of the other. The vertical line test can easily determine whether a given graph describes one of these objects. In these relations, every input has exactly one possible output. Name these mathematical objects, often written in \"f of x\" form, often taught in algebra as \"machines\" that turn a number into a new number.",
+            "answers": ["functions"],
+            "incorrect1": "planes",
+            "incorrect2": "variables",
+            "incorrect3": "parabolas",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "Shohei Ohtani played recently played in front of home crowd as the Dodgers took on the Cubs in a preseason MLB series in this nation. This country is the birthplace of many sporting legends such as Ichiro Suzuki and Hideki Matsuyama. Name this nation that hosted the \"2020\" Olympics in 2021.",
+            "answers": ["Japan"],
+            "incorrect1": "China",
+            "incorrect2": "South Korea",
+            "incorrect3": "Vietnam",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2010 Fall Novice Tournament",
+            "question": "This operation had sites at Hanford, Washington and Oak Ridge, Tennessee; 60,000 acres of the latter were bought by the Army Corps of Engineers. Its military leader was Leslie Groves, and \"Trinity\" was one experiment from this project conducted at Los Alamos, New Mexico, on J. Robert Oppenheimer's watch. Inspired by a letter from Einstein, who denounced its product name this World War II project in which the US developed the first atomic bomb.",
+            "answers": ["Manhattan Project", "construction of the atomic bomb"],
+            "incorrect1": "Apollo Project",
+            "incorrect2": "Human Genome Project",
+            "incorrect3": "Manhattan Transfer",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2016 Pennsylvania Novice",
+            "question": "This man led a raid to rescue his wife with his friend Jamuka, who later turned on him as a rival warlord. This ruler destroyed the Khwarezmian empire by sacking Samarkand. He was succeeded by his son, Ogedei, and his descendants founded China's Yuan dynasty. This man's grandson was named Kublai; that grandson would control the largest land empire in history. Name this man born as Temujin, who became the first emperor of the Mongols.",
+            "answers": ["Genghis Khan", "Temujin"],
+            "incorrect1": "Kublai Khan",
+            "incorrect2": "Attila the Hun",
+            "incorrect3": "Alexander the Great",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This artist recently released a pop album titled \"Mayhem\". This singer's iconic meat dress, worn at the 2010 MTV Video Music Awards, sparked controversy and became a symbol of her boundary-pushing fashion sense. Her debut album, \"The Fame,\" released in 2008, catapulted her to stardom with hits like \"Just Dance\" and \"Poker Face.\" She is known for her powerful vocals, her theatrical performances, and her advocacy for LGBTQ+ rights. Who is this pop icon, whose real name is Stefani Germanotta?",
+            "answers": ["Lady Gaga"],
+            "incorrect1": "Madonna",
+            "incorrect2": "Beyoncé",
+            "incorrect3": "Taylor Swift",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2012 SCOP Novice 3",
+            "question": "The Capsian people lived in the northern foothills of this mountain range. This range, whose easternmost subrange is the Aures Mountains, was home to an extinct species of bear, the only bear native to the continent. It is south of the Rif Mountains, and its highest peak, Jebel Toubkal, is visible from Marrakesh, Morocco. Name this North African mountain range named for a Titan who held up the heavens.",
+            "answers": ["Atlas Mountains"],
+            "incorrect1": "Rocky Mountains",
+            "incorrect2": "Alps",
+            "incorrect3": "Andes Mountains",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2020 MOQBA Novice",
+            "question": "The new-music \"Kronos\" ensemble plays instruments in this family. A member of this family of instruments introduces a minor-key Frere Jacques theme in the funeral march third movement of Mahler's First Symphony. Elgar's concerto for an instrument in this family was popularized by Jacqueline du Pre. Schubert's Trout Quintet was written for instruments in this family, as were many quartets that utilized snap pizzicato. Name this family of instruments that includes the cello and violin.",
+            "answers": [
+                "string instruments",
+                "violin",
+                "viola",
+                "cello",
+                "string bass"
+            ],
+            "incorrect1": "wind instruments",
+            "incorrect2": "percussion instruments",
+            "incorrect3": "brass instruments",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2014 SCOP Novice 5",
+            "question": "This country lies southeast of Mayotte, a French departement that is claimed by Comoros. While it itself was under French control, this country became known as the Malagasy Republic for two decades before its full independence. This fourth largest island in the world is separated from the mainland by the Mozambique Channel. Name this African island nation with capital Antananarivo, home to many lemurs.",
+            "answers": ["Madagascar"],
+            "incorrect1": "Mozambique",
+            "incorrect2": "Mauritius",
+            "incorrect3": "Maldives",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2019 SCOP Novice 10",
+            "question": "Shortly after this event, photographs were taken of three \"tramps\" with disputed identities walking under police escort. Beverly Oliver claimed to be the \"Babushka Lady\" seen in a video of this event taken by Abraham Zapruder, the only person filming as an open motorcade drove through Dealey Plaza on November 22, 1963. John Connolly was injured in what crime committed by Lee Harvey Oswald against the thirty-fifth President of the United States?",
+            "answers": [
+                "assassination of JFK",
+                "JFK assassination",
+                "Kennedy Assassination",
+                "Assassination of John F. Kennedy",
+                "assassination of Kennedy",
+                "assassination",
+                "murder",
+                "shooting"
+            ],
+            "incorrect1": "assassination of Abraham Lincoln",
+            "incorrect2": "Watergate scandal",
+            "incorrect3": "9/11 attacks",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This tournament's bracket, a visual representation of the tournament's structure, has become a cultural phenomenon, with millions of people participating in bracket pools to predict the winners of each game. The tournament culminates in the Final Four, where the four remaining teams compete for the national championship. It features a single-elimination format, meaning that a single loss eliminates a team from contention. What is the name of this NCAA Division I men's basketball tournament, held annually in the United States?",
+            "answers": [
+                "March Madness",
+                "NCAA basketball",
+                "college basketball"
+            ],
+            "incorrect1": "Super Bowl",
+            "incorrect2": "World Series",
+            "incorrect3": "NBA Finals",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2020 MOQBA Novice",
+            "question": "The London equations describe this phenomenon. In a theory of this phenomenon, electrons near the Fermi level form Cooper pairs; that theory, an alternative to Ginzburg-Landau theory, is the BCS theory of this phenomenon. YBCO displays the high-temperature variety of this phenomenon. Materials that exhibit this phenomenon are perfect diamagnets, as they expel magnetic fields in the Meissner effect, which allows them to levitate. Name this phenomenon, in which a material exhibits zero electric resistance.",
+            "answers": ["superconductivity", "superconductors"],
+            "incorrect1": "reactivity",
+            "incorrect2": "resistance",
+            "incorrect3": "insulation",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "In this nation, 53 people were killed after the United States launches air and naval strikes against the Houthi rebel group. This country's ongoing conflict has led to a major humanitarian crisis, with millions of people facing famine and displacement. Its ancient city of Sana'a is one of the oldest continuously inhabited cities in the world, boasting a rich history and unique architecture. It is located on the Arabian Peninsula. What is the name of this country, bordered by Saudi Arabia and Oman?",
+            "answers": ["Yemen"],
+            "incorrect1": "Oman",
+            "incorrect2": "Saudi Arabia",
+            "incorrect3": "United Arab Emirates",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This American military officer controversially kept Emperor Hirohito from facing war crimes trials, and helped write the constitution of Japan. During the Korean War, he had wanted to cross the Yalu River to attack the Chinese, and was eventually removed from command after trying to drum up support for this offensive in Congress. He also was in charge of removing the Bonus Army from Washington. Name this American general who, during World War II, he rose to the rank of Supreme Commander of Allied Forces in the Southwest Pacific Area.",
+            "answers": ["Douglas MacArthur"],
+            "incorrect1": "George Patton",
+            "incorrect2": "Dwight D. Eisenhower",
+            "incorrect3": "Chester W. Nimitz",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actor's passion for Italian cuisine led to the creation of his popular CNN series, \"Searching for Italy,\" where he explores the diverse regional dishes and culinary traditions of the country. He has also written cookbooks and has become a respected figure in the world of food and wine. His versatile acting career includes roles in films like \"The Devil Wears Prada,\" \"The Hunger Games,\" and \"Spotlight.\" Who is this actor, known for his charming personality and his love of food and culture?",
+            "answers": ["Stanley Tucci"],
+            "incorrect1": "Stanley Kubrick",
+            "incorrect2": "Stanley Donen",
+            "incorrect3": "Stanley Myers",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This actor's signature move, a high-flying spinning back kick, has become synonymous with his action film persona. His martial arts background includes training in karate, kickboxing, and Muay Thai, which he incorporates into his film roles. He gained international fame for his roles in films like \"Bloodsport,\" \"Kickboxer,\" and \"Universal Soldier,\" showcasing his athleticism and martial arts skills. Who is this actor, known for his action films and his nickname, \"The Muscles from Brussels\"?",
+            "answers": [
+                "Jean-Claude Van Damme",
+                "Jean Claude Van Dam",
+                "Jon Claude",
+                "JCVD"
+            ],
+            "incorrect1": "Steven Seagal",
+            "incorrect2": "Chuck Norris",
+            "incorrect3": "Bruce Lee",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2020 SCOP A",
+            "question": "Segregation in the area around this structure was the subject of a 1964 Zonian protest over display of the American flag. John Hay negotiated a treaty for the construction of this project with Philippe-Jean Bunau-Varilla that allowed the construction of Gatun Lake near Col\u00b4on, as well as a series of artificial locks that transport cargo through this waterway. Name this canal that stretches from the Atlantic to the Pacific through a namesake central American country.",
+            "answers": ["Panama Canal"],
+            "incorrect1": "Suez Canal",
+            "incorrect2": "Erie Canal",
+            "incorrect3": "Grand Canal",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "President Donald Trump has threatened to withdraw from this multinational organization. This organization's Article 5, a cornerstone of its collective defense principle, states that an attack on one member is considered an attack on all members, requiring a response. Its headquarters are located in Brussels, Belgium. It was established in 1949 with the signing of the North Atlantic Treaty. What is the name of this intergovernmental military alliance between North American and European countries?",
+            "answers": ["NATO", "North Atlantic Treaty Organization"],
+            "incorrect1": "United Nations",
+            "incorrect2": "Warsaw Pact",
+            "incorrect3": "European Union",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2022 SANDS",
+            "question": "Early reforms made by this ruler include imposing a beard tax and abolishing the Boyar-controlled Duma. This ruler studied shipbuilding in the Netherlands while on his Grand Embassy to Western Europe. A bronze equestrian statue of this ruler stands in his namesake city on the Gulf of Finland. Name this Tsar who modernized Russia in the early 18th century.",
+            "answers": ["Peter the Great", "Peter I"],
+            "incorrect1": "Catherine the Great",
+            "incorrect2": "Ivan the Terrible",
+            "incorrect3": "Nicholas II",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This baseball player has won three American League MVP awards, showcasing his sustained excellence and dominance in the sport. He is widely regarded as one of the greatest baseball players of his generation. He plays center field for the Los Angeles Angels. Who is this player, known for his exceptional combination of power, speed, and fielding ability?",
+            "answers": ["Mike Trout"],
+            "incorrect1": "Aaron Judge",
+            "incorrect2": "Shohei Ohtani",
+            "incorrect3": "Mookie Betts",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "This figure, when traveling to Gerar openly claimed that his wife was his sister, which prompted the king in that area to have her brought to him. This figure was also visited by 3 men who had come to tell him that his wife would bear a child. This was to reflect and honor the covenant that he had made with God about populating the land with his numerous descendants. He sent away Hagar and Ishmael at the request of his wife, and had earlier sent his nephew Lot away towards Sodom. Name this \"father of many nations\", whose wife Sarah gave birth to his son Isaac.",
+            "answers": ["Abraham"],
+            "incorrect1": "Moses",
+            "incorrect2": "Jesus",
+            "incorrect3": "Muhammad",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2017 Darien DEFT",
+            "question": "This river's name is followed by \"do norte\" and \"do sul\" in the names of two Brazilian states, and a change in its path was the basis of the Chazimal border dispute. This river rises in the San Juan Mountains before passing Laredo and Matamoros and receiving water from the Conchos and Pecos Rivers. This river forms the boundary between Ciudad Juarez and El Paso, making it a popular location for border crossings. Name this river that separates Texas from Mexico.",
+            "answers": ["Rio Grande", "Rio Bravo"],
+            "incorrect1": "Mississippi River",
+            "incorrect2": "Colorado River",
+            "incorrect3": "Missouri River",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "One version of this law states that heat cannot flow spontaneously from low temperature to high temperature. Another version of this law states that it is impossible to convert heat completely into work in a cyclic process. Maxwell proposed a thought experiment in which sorting air molecules seems to violate this law. Identify this law, credited to French physicist Sadi Carnot, which states that \"in a closed system, a process that occurs will tend to increase the total entropy of the universe.\"",
+            "answers": [
+                "2nd Law of Thermodynamics",
+                "second law",
+                "Second Law of Thermodynamics",
+                "Lord Kelvin",
+                "Rudolf Clausius"
+            ],
+            "incorrect1": "1st Law of Thermodynamics",
+            "incorrect2": "3rd Law of Thermodynamics",
+            "incorrect3": "Law of Conservation of Mass",
+            "used": "TRUE"
+        }
     ]
 ]
