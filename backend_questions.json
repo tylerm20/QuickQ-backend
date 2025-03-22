@@ -28708,5 +28708,173 @@
             "incorrect3": "Law of Conservation of Mass",
             "used": "TRUE"
         }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2017 SCOP MS 7",
+            "question": "The speaker of this poem thinks that a phrase \"caught from some unhappy master\" is the only answer possible for the question \"is there balm in Gilead,\" which he asks a character who has \"perched upon a bust of Pallas.\" The speaker tries to forget about a \"radiant maiden\" named Lenore, but is tormented by the title bird, who repeatedly caws \"nevermore.\" Name this poem by Edgar Allen Poe.",
+            "answers": ["The Raven"],
+            "incorrect1": "The Tell-Tale Heart",
+            "incorrect2": "Annabel Lee",
+            "incorrect3": "The Fall of the House of Usher",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2018 MVS RAMS",
+            "question": "The ratio between this quantity for a substance and this quantity for water is the specific gravity. Antoine Baume invented a pair of hydrometer scales to measure this quantity. That device works based on Archimedes' principle, which can calculate the mass of an object based on the volume of fluid displaced. This quantity is symbolized rho, and strangely ice has a lower value for this quantity than liquid water. Name this quantity, the ratio of mass to volume.",
+            "answers": ["density", "mass density"],
+            "incorrect1": "mass",
+            "incorrect2": "volume",
+            "incorrect3": "weight",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This international organization recently elected its first female leader. This organization's five-ring symbol, designed by Pierre de Coubertin, represents the union of the five continents and the universality of the Olympic Games. Its headquarters are located in Lausanne, Switzerland. It was founded in 1894 to revive the ancient Olympic Games. What is the name of this governing body of the modern Olympic Games?",
+            "answers": ["IOC", "International Olympic Committee"],
+            "incorrect1": "UN",
+            "incorrect2": "FIFA",
+            "incorrect3": "NATO",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2016 PLATO",
+            "question": "One notable volcano located on this continent is Mount Erebus. Vinson Massif is the highest mountain on this continent. Argentina claims part of this continent as part of its Tierra del Fuego Province; however, an international treaty suspends all claims to parts of this continent in order to advance scientific activity such as studying emperor penguins and ice cores. Name this icy continent, the location of the South Pole.",
+            "answers": ["Antarctica"],
+            "incorrect1": "Arctic",
+            "incorrect2": "Greenland",
+            "incorrect3": "Siberia",
+
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Disney recently released a live action version of a classic film with Rachel Zegler starring in its namesake role. This character's iconic song, \"Someday My Prince Will Come,\" expresses her hope for true love and a better future. Her stepmother, the Evil Queen, is driven by jealousy and seeks to eliminate her, leading to the famous poisoned apple plot. She finds refuge in a cottage with seven dwarfs, each with a distinct personality and name. What is the name of this Disney princess, who is known for her kindness, her gentle nature, and her iconic line, \"Whistle While You Work\"?",
+            "answers": ["Snow White"],
+            "incorrect1": "Cinderella",
+            "incorrect2": "Sleeping Beauty",
+            "incorrect3": "Little Red Riding Hood",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This event was led by Mirabeau and Abbe Sieyes. It happened when the Third Estate went to discuss the new reforms proposed by Jacques Necker that would've changed voting in the Estates-General to be by head instead of by estate. It was necessitated because the participants were locked out of the room where they normally met, and represented an assertion of the sovereignty of the people over the king. This is what event where the participants swore to not disband until a constitution was written while in a sporting arena.",
+            "answers": ["Tennis Court Oath"],
+            "incorrect1": "Boston Tea Party",
+            "incorrect2": "Storming of the Bastille",
+            "incorrect3": "Declaration of Independence",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Heathrow Airport outside of this major city had to close for a day due to a fire at an electrical substation. This city's iconic Big Ben, officially known as the Elizabeth Tower, is a famous clock tower that has become a symbol of the city and the United Kingdom. Its River Thames is a major waterway that flows through the city, spanned by numerous historic bridges. It is home to Buckingham Palace, the official residence of the British monarch. What is the name of this city, the capital of England and the United Kingdom?",
+            "answers": ["London"],
+            "incorrect1": "Paris",
+            "incorrect2": "Berlin",
+            "incorrect3": "Rome",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "Frederick Muhlenberg was the first person to hold this office. This office is granted appointment power for select and conference committees. It confers the ability to schedule legislation for the floor and the person in this position controls the flow of debate. It is second in the line of presidential succession. What position was previously held by Dennis Hastert and is currently held by Mike Johnson?",
+            "answers": [
+                "Speaker of the House of Representatives",
+                "Speaker of the House"
+            ],
+            "incorrect1": "Senate Majority Leader",
+            "incorrect2": "President of the Senate",
+            "incorrect3": "Chief Justice of the Supreme Court",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "Google announced an agreement for their largest acquisition ever with the company Wiz which is headquarted in this nation. This Middle Eastern country, known for its technological innovation and its significant role in the development of modern agriculture, is home to the ancient city of Jerusalem, a holy site for Judaism, Christianity, and Islam. Its Dead Sea, the lowest point on Earth's surface, is a unique geographical feature. It was established as a modern state in 1948, following the end of World War II. What is the name of this country, located on the eastern shore of the Mediterranean Sea?",
+            "answers": ["Israel"],
+            "incorrect1": "Lebanon",
+            "incorrect2": "Syria",
+            "incorrect3": "Jordan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2016 Pennsylvania Novice",
+            "question": "This country contains the ruins of Catalhoyuk [cha\u00adtal\u00adho\u00adyuuk], a Neolithic city north of the Taurus Mountains. Mount Arafat, the traditional landing site of Noah's Ark, is in this country. The northwestern tip of this country is separated by the Dardanelles and the Bosporus from the rest of this country on the Anatolian Plateau in Asia Minor. Bordered on the north by the Black Sea and on the south by the Mediterranean Sea, name this country that spans two continents, and whose most populous city is Istanbul.",
+            "answers": ["Turkey"],
+            "incorrect1": "Greece",
+            "incorrect2": "Syria",
+            "incorrect3": "Egypt",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "This city's tallest building, completed in 2001, is the 974-foot Comcast Center, and Lancaster Avenue runs through this city's \"Main Line\", including its suburbs of Wayne and Bryn Mawr. Universities in this city lying along the Delaware and Schuylkill Rivers include Drexel, Temple, and the University of Pennsylvania. Name this fifth-largest city in the United States, the \"city of brotherly love\" and cheesesteaks which is home to Independence Hall and the Liberty Bell.",
+            "answers": ["Philadelphia", "Philly", "Philadelphia, Pennsylvania"],
+            "incorrect1": "Pittsburgh",
+            "incorrect2": "Baltimore",
+            "incorrect3": "Boston",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team recently sold for an NBA record $6.1 billion dollars. This NBA team's iconic parquet floor, a distinctive feature of their home arena, has witnessed numerous championships and legendary performances. Their rivalry with the Los Angeles Lakers, a matchup known for its intensity and star power, is considered one of the greatest rivalries in sports history. They have won a record 18 NBA championships. What is the name of this team, known for its rich history, its passionate fanbase, and its iconic green and white colors?",
+            "answers": ["Boston Celtics", "Celtics"],
+            "incorrect1": "Boston Red Sox",
+            "incorrect2": "Boston Bruins",
+            "incorrect3": "New York Knicks",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2013 Fall Kickoff Tournament (FKT)",
+            "question": "Thalassemia patients have a reduced quantity of these cells, which can be measured using the mean corpuscular volume. The schizont phase of malaria is found within these cells. At the end of their lifespan, which is about 120 days, these cells are relocated to the spleen and destroyed. The body condition when a low number of these cells are present is anemia. These cells, which do not have nuclei, gain their color from an iron-containing protein known as hemoglobin. Name these cells in the bloodstream, which carry oxygen throughout the body.",
+            "answers": ["red blood cells", "erythrocytes"],
+            "incorrect1": "white blood cells",
+            "incorrect2": "platelets",
+            "incorrect3": "plasma",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "A new version of this game set in Japan was released in 2025. This video game series' unique Animus device allows players to relive the memories of their ancestors through genetic memory, a core element of its narrative. The series often features historical figures and events, blending historical fiction with action-adventure gameplay. Its iconic hidden blade, a retractable wrist-mounted weapon, is a signature tool for its assassins. What is the name of this popular video game franchise, developed by Ubisoft, which explores the historical conflict between the Assassins and the Templars?",
+            "answers": ["Assassin's Creed"],
+            "incorrect1": "Grand Theft Auto",
+            "incorrect2": "The Witcher",
+            "incorrect3": "Far Cry",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "This brother of Chrysaor created the Hippocrene fountain. This figure was credited with helping a hero slay the Chimera and was tamed with a special girdle given by Athena to that hero, Bellerophon, in a dream. Eventually employed as Zeus' bolt-carrier, this figure sprang from the neck of Medusa after she was decapitated by Perseus. Name this winged horse from Greek myth.",
+            "answers": ["Pegasus"],
+            "incorrect1": "Centaur",
+            "incorrect2": "Minotaur",
+            "incorrect3": "Griffin",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2010 Fall Novice Tournament",
+            "question": "In one novel from this country, the protagonist is born with a sentient mineral in his mouth, Dream of The Red Chamber. Another work from this country centers on a band of 108 outlaws with a stronghold in a marsh. Another work from here details Pigsy and Sandy's journey to India. Identify this country whose four great classics include Water Margin and Journey to the West, home to such writers as Li Po.",
+            "answers": ["China", "People's Republic of China"],
+            "incorrect1": "Japan",
+            "incorrect2": "India",
+            "incorrect3": "Russia",
+            "used": "TRUE"
+        }
     ]
 ]
