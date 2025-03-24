@@ -28876,5 +28876,521 @@
             "incorrect3": "Russia",
             "used": "TRUE"
         }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2016 PLATO",
+            "question": "The tawny frogmouth is often mistaken as this type of animal. These animals are divided into two families called Strigidae and Tytonidae, which are more commonly known as the \"true\" and \"barn\" varieties. These animals have serrated feathers that allow them to fly silently and they can turn their heads 270 degrees in either direction. Types of this animal include the Snowy and Great Horned species. Name these nocturnal birds.",
+            "answers": ["owls", "Strigiformes"],
+            "incorrect1": "hawks",
+            "incorrect2": "eagles",
+            "incorrect3": "falcons",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Pope Francis, who is from this nation, was recently released from hospital after battling pneumonia and related illnesses. He is the first pope from the Americas and the first from the Southern Hemisphere. This nation is also the homeland of tango. Its capital city, Buenos Aires, is a vibrant metropolis known for its European-influenced architecture and its rich cultural heritage. What is the name of this country, located in South America and known for its gauchos, its vast pampas grasslands, and its football rivalry with Brazil?",
+            "answers": ["Argentina"],
+            "incorrect1": "Brazil",
+            "incorrect2": "Chile",
+            "incorrect3": "Uruguay",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2010 Fall Novice Tournament",
+            "question": "One city near this body of water, Ulan-Ude, is the capital of the region named for the indigenous Buryats, who inhabit the largest island in this lake, Olkhon. Another city near this lake is Irkutsk, which lies on the only river flowing out of this lake, the Angara. The Serenge and Lena Rivers flow into this lake, which is the oldest in the world. Name this incredibly deep lake in Russia, the largest freshwater lake in the world by volume.",
+            "answers": ["Lake Baikal"],
+            "incorrect1": "Lake Superior",
+            "incorrect2": "Lake Victoria",
+            "incorrect3": "Great Bear Lake",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This boxer turned businessman recently passed away at the age of 76. This boxer, known for his devastating punching power, made a remarkable comeback in his later career, winning the heavyweight championship again at the age of 45, becoming the oldest heavyweight champion in history. He achieved legendary status with his \"Rumble in the Jungle\" fight against Muhammad Ali in 1974. He is also known for his successful line of grilling products. Who is this former heavyweight boxing champion?",
+            "answers": ["George Foreman"],
+            "incorrect1": "Muhammad Ali",
+            "incorrect2": "Joe Frazier",
+            "incorrect3": "Mike Tyson",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This man was originally only supposed to act as regent for his infant nephew, Amyntas IV. Held as a hostage in his youth by Thebes, he received his military and diplomatic education from Epaminondas of Thebes. While in power, this man intervened in the Social War to gain land and resources for his kingdom, fought the Third Sacred War, and made threats on Sparta. However his reign over Greece ended in 336 BC when he was assassinated by one of his bodyguards. For 10 Points, name this King of Macedonia, father of Alexander.",
+            "answers": ["Philip II of Macedon", "Philip"],
+            "incorrect1": "Alexander the Great",
+            "incorrect2": "Pericles",
+            "incorrect3": "Leonidas",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2017 HIGS",
+            "question": "Marinus van der Lubbe was blamed for one of these events that occurred at the Reichstag building, and 146 garment workers died during one of these at the Triangle Shirtwaist Factory. Mrs. O'Leary's cow is blamed for one of these events in Chicago, and Nero apocryphally played a lyre during another one in Rome. Name these natural disasters, one of which broke out after the 1906 earthquake in San Francisco.",
+            "answers": ["fires", "conflagration", "starting a fire"],
+            "incorrect1": "floods",
+            "incorrect2": "earthquakes",
+            "incorrect3": "hurricanes",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 SCOP MS 10",
+            "question": "A figure on the left of this painting wears a cameo brooch that may depict Persephone over a polka-dotted brown apron, and looks uneasily toward another figure. A strangely ornate window in the Dibble House in Iowa inspired the background of this painting, for which the artist's dentist modeled as a man wearing denim overalls and holding a pitchfork. Name this painting of a stern-looking couple, created by Grant Wood.",
+            "answers": ["American Gothic"],
+            "incorrect1": "The Scream",
+            "incorrect2": "Starry Night",
+            "incorrect3": "Guernica",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film, directed by the Coen brothers, features a chilling performance by Javier Bardem as the relentless and enigmatic hitman Anton Chigurh. Its stark and violent depiction of the American West is adapted from a novel by Cormac McCarthy. The film won four Academy Awards, including Best Picture, Best Director, and Best Supporting Actor for Bardem. What is the name of this 2007 neo-Western thriller?",
+            "answers": ["No Country for Old Men"],
+            "incorrect1": "Fargo",
+            "incorrect2": "The Big Lebowski",
+            "incorrect3": "True Grit",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2015 SAGES",
+            "question": "This natural feature is located off the coast of Queensland and contains no atolls. The calcium carbonate shells of the creatures who live here have experienced coral bleaching. Name this Australian natural feature which is the largest living structure in the world.",
+            "answers": ["Great Barrier Reef"],
+            "incorrect1": "Red Sea Coral Reef",
+            "incorrect2": "Belize Barrier Reef",
+            "incorrect3": "Florida Reef",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2009 Fall Novice Tournament",
+            "question": "One character in this work is a consul named Sharpless, to whom the titular character declares that her child's name is Sorrow. Another character is a marriage broker named Goro, who shows a house to a naval officer. That officer marries the title character and later deserts her to marry an American named, prompting to kill herself with her father's knife. Lieutenant Pinkerton is a character in what Giacomo Puccini opera about a Japanese woman?",
+            "answers": ["Madame Butterfly", "Madama Butterfly"],
+            "incorrect1": "La Bohème",
+            "incorrect2": "Tosca",
+            "incorrect3": "Carmen",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2021 CERES",
+            "question": "Adrian Smith used a Y-shaped design for one of these structures located next to the Dubai Fountain. An early architect of these structures, Louis Sullivan, designed one of them named for Elias Wainwright. William Van Alen designed the Chrysler Building, one of these structures in New York. The Burj Khalifa is the tallest of what towering buildings often found in large cities?",
+            "answers": ["skyscrapers", "towers"],
+            "incorrect1": "pyramids",
+            "incorrect2": "towers",
+            "incorrect3": "castles",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This baseball player is known for his exceptional all-around skills, excelling both offensively and defensively. He won the American League MVP award in 2018 with the Boston Red Sox and World Series titles with the Los Angeles Dodgers in 2020 and 2024. He is a versatile player, capable of playing multiple positions, including outfield and second base. Who is this player, known for his power hitting, speed, and Gold Glove-caliber defense?",
+            "answers": ["Mookie Betts"],
+            "incorrect1": "Aaron Judge",
+            "incorrect2": "Bryce Harper",
+            "incorrect3": "Fernando Tatis Jr.",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "The Trump administration deported two planeloads of migrants accused of being a part of a Venezuelan gang to this country. This Central American country, the smallest in the region, is known for its surfing destinations and its black sand beaches along the Pacific coast. It is also the first country in the world to adopt Bitcoin as legal tender. Its capital city, San Salvador, is a bustling metropolis located in a volcanic region. What is the name of this country, bordered by Guatemala and Honduras?",
+            "answers": ["El Salvador"],
+            "incorrect1": "Honduras",
+            "incorrect2": "Guatemala",
+            "incorrect3": "Nicaragua",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This band's album \"OK Computer,\" released in 1997, is often hailed as a masterpiece and a defining album of the 1990s, exploring themes of technology, identity, and alienation. Their lead singer, Thom Yorke, is known for his distinctive vocals and his introspective songwriting. The band is known for their experimental approach to rock music, incorporating elements of electronic and alternative music. What is the name of this British rock band, known for their innovative sound and their critically acclaimed albums like \"The Bends\" and \"Kid A\"?",
+            "answers": ["Radiohead"],
+            "incorrect1": "Oasis",
+            "incorrect2": "Blur",
+            "incorrect3": "Coldplay",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2013 SCOP Novice 4",
+            "question": "The Speedwell failed twice while sailing with this ship, which was captained by Christopher Jones. It landed in Provincetown Harbor in Cape Cod, where men like military officer Miles Standish and governor William Bradford signed a namesake \"Compact\" outlining the government of their new colony, Plymouth Plantation. Name this ship that, in 1620, crossed the Atlantic to bring the first Pilgrim families to North America.",
+            "answers": ["Mayflower"],
+            "incorrect1": "Santa Maria",
+            "incorrect2": "HMS Beagle",
+            "incorrect3": "Golden Hind",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2022 KICKOFF Novice",
+            "question": "A nurse born on this island ran the \"British Hotel\" during the Crimean War. This island, the birthplace of Mary Seacole, faced the Morant Bay Rebellion and wars involving escaped slaves called \"Maroons.\" From his base on this island, Henry Morgan raided Spanish settlements in Panama. On this island, the nickname \"Sodom of the New World\" was given to the notorious pirate haven of Port Royal. What Caribbean island has its capital at Kingston?",
+            "answers": ["Jamaica"],
+            "incorrect1": "Haiti",
+            "incorrect2": "Cuba",
+            "incorrect3": "Dominican Republic",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This sport, one of the oldest known team sports, is traditionally played on horseback, with players using long-handled mallets to drive a small ball down a field and into the opponent's goal. Matches are divided into periods called chukkers, each lasting seven minutes. The sport has a rich history, with evidence of similar games played in ancient Persia as early as the 6th century BC. What is the name of this sport, often associated with royalty and the elite?",
+            "answers": ["Polo"],
+            "incorrect1": "Lacrosse",
+            "incorrect2": "Croquet",
+            "incorrect3": "Equestrian Dressage",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "The Drake Passage separates the South Shetland Islands of this landmass and Hornos Island of a nearby landmass. Seas that border it include Scotia Sea and Bellingshausen Sea. Part of the landmass is named Queen Maud Land, and that is bordered by the Weddell Sea. The Ellsworth mountain range contains the largest mountains on this continent. Several features of the continent are named after Amundsen including a bordering sea and an ice shelf. This is what continent notable for having penguins and the South Pole.",
+            "answers": ["Antartica"],
+            "incorrect1": "Arctic",
+            "incorrect2": "Greenland",
+            "incorrect3": "Siberia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2018 SCOP Novice 9",
+            "question": "Robert Merton's strain theory seeks to explain why this phenomenon exists. A late 20th century decrease in this activity may be the result of unleaded gasoline. Jeremy Bentham argued that those that participated in this type of activity should be put in the Panopticon, in which one central guard could observe everyone. Name this type of deviant activity that is investigated and punished by law enforcement.",
+            "answers": ["crime", "breaking the law", "illegal activity"],
+            "incorrect1": "law enforcement",
+            "incorrect2": "justice",
+            "incorrect3": "morality",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Two astronauts from this national agency, Suni Williams and Butch Wilmore, recently returned to Earth, ending a nine-month trip to space that was supposed to last eight days. This agency's iconic Apollo program achieved the historic feat of landing the first humans on the Moon in 1969. Its Hubble Space Telescope has provided stunning images of the universe, revolutionizing our understanding of astronomy. What is the name of this independent agency of the U.S. federal government responsible for civilian space programs?",
+            "answers": [
+                "NASA",
+                "National Aeronautics and Space Administration"
+            ],
+            "incorrect1": "ESA",
+            "incorrect2": "Roscosmos",
+            "incorrect3": "CERN",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2020 ERIS",
+            "question": "This man coined the term \"satyagraha\" to describe his philosophy of political resistance, as exemplified by the 240-mile-long Salt March he undertook to protest British salt monopolies. This man launched the \"Quit India Movement\" to demand independence from Britain. In 1948, a Hindu nationalist assassinated what Indian nonviolent activist and independence leader?",
+            "answers": [
+                "Mahatma Gandhi",
+                "Mohandas Gandhi",
+                "Mohandas Karamchand Gandhi"
+            ],
+            "incorrect1": "Jawaharlal Nehru",
+            "incorrect2": "Subhas Chandra Bose",
+            "incorrect3": "Muhammad Ali Jinnah",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2016 PLATO",
+            "question": "This poet wrote that \"the Windows failed \u00ad and then I could not see to see,\" in one poem where this poet \"heard a Fly buzz when\" she \"died.\" In another poem, this poet wrote that she \"paused before a House that seemed A Swelling of the Ground\" and \"surmised the Horses' Heads Were toward Eternity\" in a \"Carriage\" that \"held but just Ourselves \u00ad And Immortality.\" Name this author of \"Because I could not stop for death,\" known as the \"Belle of Amherst.\"",
+            "answers": ["Emily Dickinson"],
+            "incorrect1": "Walt Whitman",
+            "incorrect2": "Edgar Allan Poe",
+            "incorrect3": "Sylvia Plath",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This band's lead singer, David Byrne, is known for his unique stage presence and his quirky dance moves. Their music blends elements of new wave, funk, and art rock, creating a distinctive and innovative sound. Their 1980 album, \"Remain in Light,\" is considered a landmark album of the era, showcasing their rhythmic complexity and their experimental approach. What is the name of this American rock band, known for songs like \"Psycho Killer,\" \"Burning Down the House,\" and \"Once in a Lifetime\"?",
+            "answers": ["Talking Heads"],
+            "incorrect1": "The Ramones",
+            "incorrect2": "Blondie",
+            "incorrect3": "The Clash",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "One leader of this polity first distinguished himself by rescuing two surrounded soldiers on the eve of a battle; that man was Mirabeau Lamar. The Battle of San Jacinto secured the independence for this polity, which had endured the Goliad massacre. A namesake hurricane in 1900 devastated the city of Galveston in this polity, which was also the home state of a president who passed the Civil Rights Act and championed the \"Great Society,\" Lyndon B. Johnson. Name this home state of George W. Bush, a former republic and home of the Alamo.",
+            "answers": ["Texas", "Republic of Texas"],
+            "incorrect1": "California",
+            "incorrect2": "Florida",
+            "incorrect3": "Arizona",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This annual long-distance sled dog race, held in Alaska, covers a grueling course of approximately 1,000 miles, testing the endurance and resilience of both mushers and their dog teams. The race commemorates a historic trail which was a former supply route that once connected communities in Alaska. Mushers face extreme weather conditions, challenging terrain, and the need for exceptional dog care throughout the race. What is the name of this iconic race, which typically begins in Anchorage and ends in Nome?",
+            "answers": ["Iditarod", "The Iditarod Trail Sled Dog Race"],
+            "incorrect1": "Tour de France",
+            "incorrect2": "Dakar Rally",
+            "incorrect3": "Ironman Triathlon",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "Edna St. Vincent Millay described the coastline of this state in \"Renascence\" and its northernmost point is Estcort Station, while its largest city lies on Casco Bay. The Kennebec River drains into a namesake gulf from this state's Moosehead Lake, and Baxter State Park is the site of its highest peak, Mt. Katahdin. Part of the border with its northern neighbor is formed by the Saint John River, which flows into the Bay of Fundy, and it largest cities include Bangor, Lewiston, and Portland. Identify this U.S. state, the site of Acadia National Park and eastern neighbor of New Hampshire, with capital at Augusta.",
+            "answers": ["Maine"],
+            "incorrect1": "Vermont",
+            "incorrect2": "New Hampshire",
+            "incorrect3": "Connecticut",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2020 SCOP MS 10",
+            "question": "One example of these objects is an equilateral triangle whose center is removed to create three new equilateral triangles, each of whose centers is similarly removed, and so on. The Sierpinski triangle is one of these images, as is the Mandelbrot set. Name these mathematical images that resemble themselves at intense zooming levels.",
+            "answers": ["fractals", "Sierpinski triangle"],
+            "incorrect1": "polygons",
+            "incorrect2": "cubes",
+            "incorrect3": "circles",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Anti-government protests broke out across Turkey following the arrest of mayor Ekrem Imamoglu of this city. He was thought to be a potential opposition candidate to President Recep Tayyip Erdogan. This city is home to Hagia Sophia. Its Bosphorus Strait, a narrow waterway, divides the city between Europe and Asia, making it a transcontinental city. Its Grand Bazaar, one of the largest and oldest covered markets in the world, offers a vibrant and bustling shopping experience. What is the name of this city, formerly known as Constantinople, located in Turkey?",
+            "answers": ["Istanbul"],
+            "incorrect1": "Athens",
+            "incorrect2": "Rome",
+            "incorrect3": "Cairo",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "1: After he was freed, this man studied at the Hampton Institute and the Wayland Seminary before ascending to his most well-known position. He was assisted by Henry Rogers of Standard Oil, who funded schools in the south, although this man garnered criticism from the NAACP and W.E.B. DuBois over his ideas of integrating African-Americans into society. Name this African-American who delivered the Atlanta Address and who founded the Tuskegee Institute.",
+            "answers": ["Booker T. Washington"],
+            "incorrect1": "W.E.B. Du Bois",
+            "incorrect2": "Marcus Garvey",
+            "incorrect3": "Frederick Douglass",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This HBO series, set in a lawless 1870s South Dakota mining town, features a rich ensemble cast and a gritty portrayal of the American West. Its creator, David Milch, is known for his complex characters and his use of poetic and profane language. The series was praised for its historical accuracy and its exploration of themes like civilization, corruption, and the struggle for power. What is the name of this critically acclaimed Western drama, which ran for three seasons?",
+            "answers": ["Deadwood"],
+            "incorrect1": "Tombstone",
+            "incorrect2": "Virginia City",
+            "incorrect3": "Dodge City",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "One attempt on the life of this son of Robert the Devil was foiled when the would-be assassin stabbed a child sleeping next to this man by accident, and this man put down an insurrection against his rule at the Battle of Val-es-Dunes. This man ordered the Harrying of the North, which devastated Northumbria and he was often aided by his half-brothers Odo and Robert. This man's greatest victory is depicted on the Bayoux Tapestry and was preceded by the Battle of Stamford Bridge. That battle saw this man defeat Harold Godwinson for control of a kingdom which this man issued the Domesday Book for. Name this victor at the Battle of Hastings, the first Norman king of England.",
+            "answers": [
+                "William the Conqueror",
+                "William I",
+                "William the Norman",
+                "William the Bastard"
+            ],
+            "incorrect1": "Richard the Lionheart",
+            "incorrect2": "Henry VIII",
+            "incorrect3": "Alfred the Great",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2013 Collaborative Middle School Tournament #4",
+            "question": "One work by this composer includes the sections \"O Death, where is thy sting?\" and \"I know that my Redeemer liveth.\" He included two bourrees in a collection of three suites first played on barges on the River Thames for George I. This composer of Water Music composed a fugue on the line \"and he shall reign for ever and ever\" in a chorus named \"Hallelujah.\" Name this composer of Messiah.",
+            "answers": ["George Frideric Handel", "Handel", "George Handel"],
+            "incorrect1": "Johann Sebastian Bach",
+            "incorrect2": "Wolfgang Amadeus Mozart",
+            "incorrect3": "Ludwig van Beethoven",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2017 HIGS",
+            "question": "The title character in one of this man's works is killed by Diana Moon Glampers, while in another work Felix Hoenikker's [HAW-nick-ur]'s invention of \"ice-nine\" leads to the destruction of the world. This author of \"Harrison Bergeron\" also wrote about a character that alternates between Tralfamadore and the fire bombings of Dresden after becoming \"unstuck in time\". Name this author of Cat's Cradle, who wrote about Billy Pilgrim in Slaughterhouse Five.",
+            "answers": ["Kurt Vonnegut"],
+            "incorrect1": "Philip K. Dick",
+            "incorrect2": "Ray Bradbury",
+            "incorrect3": "Isaac Asimov",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This puzzle game's unique gun, also known as the Aperture Science Handheld Portal Device, allows players to create interconnected portals between two flat surfaces, revolutionizing puzzle-solving in video games. The game's antagonist, GLaDOS, a sarcastic and malevolent artificial intelligence, provides darkly humorous commentary and challenges throughout the game. Its innovative gameplay mechanics and its witty writing have earned it critical acclaim and a dedicated fanbase. What is the name of this game, developed by Valve, known for its iconic portals and its memorable characters?",
+            "answers": ["Portal"],
+            "incorrect1": "Half-Life",
+            "incorrect2": "BioShock",
+            "incorrect3": "Fallout",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 TAILS",
+            "question": "One building in this city is home to six captive ravens, which are said to guard the security of the nation. Piccadilly Circus is located in this city's West End. This city, home to landmarks such as Trafalgar Square and Hyde Park, also contains the Tower Bridge, which crosses the River Thames. What city, home to Buckingham Palace and the British Museum, is the capital of the United Kingdom?",
+            "answers": ["London", "City of London"],
+            "incorrect1": "Paris",
+            "incorrect2": "Berlin",
+            "incorrect3": "Madrid",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "According to the US Census Bureau, the top two fastest-growing metro areas between 2023-24 were located in this US state. This state, known for its extensive coastline and its warm, sunny climate, is home to Walt Disney World, a major tourist attraction that draws millions of visitors each year. Its Everglades National Park, a unique ecosystem of wetlands and mangrove forests, is home to a diverse array of wildlife. What is the name of this state, located in the southeastern United States?",
+            "answers": ["Florida"],
+            "incorrect1": "Georgia",
+            "incorrect2": "Alabama",
+            "incorrect3": "Louisiana",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This cue sport, played on a large table covered with a green cloth, features a set of colored balls and a white cue ball, with players aiming to pot the balls in a specific sequence. Its highest possible break, a score of 147, is achieved by potting all the red balls with blacks and then all the colored balls. The sport's origins can be traced back to the British Army in India in the late 19th century. What is the name of this cue sport, known for its strategic gameplay and its iconic green table?",
+            "answers": ["Snooker"],
+            "incorrect1": "Pool",
+            "incorrect2": "Billiards",
+            "incorrect3": "Croquet",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "In these objects an outside observer can only observe angular momentum, electric charge, and mass via the No-Hair theorem. They are surrounded by an accretion disk and are thought to contain a point of infinite density, or singularity, at their center. Their event horizon is the point inside which the escape velocity exceeds the speed of light. What objects are so massive that even light cannot escape them?",
+            "answers": ["black holes"],
+            "incorrect1": "white dwarfs",
+            "incorrect2": "neutron stars",
+            "incorrect3": "quasars",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2020 ERIS",
+            "question": "This man's military career began in disaster when his forces killed a neutral French commander at Jumonville Glen, sparking a war. This former aide to Edward Braddock was forced to surrender Fort Necessity. The Conway Cabal failed to depose this general, who later personally put down the Whiskey Rebellion during his presidency. Name this commander-in-chief of the Continental Army.",
+            "answers": ["George Washington"],
+            "incorrect1": "Thomas Jefferson",
+            "incorrect2": "Abraham Lincoln",
+            "incorrect3": "Benjamin Franklin",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2016 Pennsylvania Novice",
+            "question": "While serving as Chancellor of the Exchequer under Stanley Baldwin, his man controversially returned his country to the gold standard. As Lord of the Admiralty, he oversaw the disastrous Gallipoli landings during World War One. He said \"I have nothing to offer but blood, toil, tears, and sweat\" in his first speech in his highest office, and he reached that post upon the resignation of Neville Chamberlain. Name this Prime Minister of Britain during World War II.",
+            "answers": [
+                "Winston Churchill",
+                "Sir Winston Leonard Spencer Churchill"
+            ],
+            "incorrect1": "Franklin D. Roosevelt",
+            "incorrect2": "Joseph Stalin",
+            "incorrect3": "Adolf Hitler",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "This figure ordered the Goliad Massacre, and he was severely injured by French cannon fire at Veracruz during the Pastry War. The Treaties of Velasco were signed following this leader's capture after the Battle of San Jacinto, and he was responsible for the deaths of Jim Bowie and Davy Crockett. Name this self-styled \"Napoleon of the West,\" a Mexican general infamous for his attempt to seize the Alamo.",
+            "answers": ["Antonio Lopez de Santa Anna", "Napoleon of the West"],
+            "incorrect1": "Benito Juárez",
+            "incorrect2": "Porfirio Díaz",
+            "incorrect3": "Emiliano Zapata",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This American fashion brand recently filed for bankruptcy for the second time. This fashion retailer, known for its trendy and affordable clothing, originally began as a small store in Los Angeles. Its fast-fashion business model, characterized by quickly adapting to the latest trends and offering a wide variety of styles, has made it a popular destination for young shoppers. What is the name of this clothing chain, often associated with a youthful and budget-conscious demographic?",
+            "answers": ["Forever 21"],
+            "incorrect1": "H&M",
+            "incorrect2": "Zara",
+            "incorrect3": "Gap",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2021 CERES",
+            "question": "A ruler with this first name employed Francis Drake as an admiral in a conflict against the Spanish Armada and declared she had the \"heart and stomach of a king.\" Shakespeare lived during the \"era\" of that ruler with this name. Another ruler with this name lost her daughter in-law Diana in a car crash and is the mother of Charles, Prince of Wales. Give this name of the current queen of the United Kingdom.",
+            "answers": [
+                "Elizabeth",
+                "Elizabeth I",
+                "Elizabeth Tudor",
+                "Elizabeth II"
+            ],
+            "incorrect1": "Mary",
+            "incorrect2": "Victoria",
+            "incorrect3": "Anne",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2021 CERES",
+            "question": "This country's walled port city of Saint-Malo was a historic center of piracy and is the starting point for a sailing race that ends at this country's overseas territory of Guadeloupe. The only Celtic language in mainland Europe is spoken in this country's region of Brittany, which is west of Normandy. The Seine River passes through this nation's capital city. In what country is the Eiffel Tower found?",
+            "answers": [
+                "France",
+                "Fifth French Republic",
+                "Republique francaise"
+            ],
+            "incorrect1": "Germany",
+            "incorrect2": "Italy",
+            "incorrect3": "Spain",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This sport involves using a small, narrow boat propelled by a double-bladed paddle. It can be practiced in various settings, including rivers, lakes, and oceans. Different types of this sport include whitewater, sea, and recreational versions. What is the name of this activity which is competed at the Olympics?",
+            "answers": ["Kayaking", "Kayak"],
+            "incorrect1": "Swimming",
+            "incorrect2": "Rowing",
+            "incorrect3": "Sailing",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This toy's iconic interlocking bricks, designed with studs and tubes, allow for endless creative possibilities and have become a symbol of imaginative play. Its name is derived from the Danish phrase \"leg godt,\" meaning \"play well.\" The company that produces it has expanded into various themes, including licensed properties like Star Wars and Harry Potter, alongside its own original creations. What is the name of this popular construction toy, enjoyed by children and adults worldwide?",
+            "answers": ["LEGO"],
+            "incorrect1": "K'NEX",
+            "incorrect2": "Mega Bloks",
+            "incorrect3": "Lincoln Logs",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2013 SCOP Novice 4",
+            "question": "One author with this surname wrote a novel in which a clergyman's daughter works for the Bloomfield and Murray families, and another described the death of Helen Burns at Lowood. Agnes Grey is a work by one of these authors, whose sister wrote about Catherine Earnshaw's doomed love for Heathcliff. Name these literary sisters, including Emily and Charlotte, whose collective novels include Jane Eyre and Wuthering Heights.",
+            "answers": ["Bronte sisters", "the Bronte family"],
+            "incorrect1": "Austen sisters",
+            "incorrect2": "Alcott sisters",
+            "incorrect3": "Mitford sisters",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "The coelom forms the haemal systems of members of this phylum, which is the second largest phylum of deuterosomes. Some members of the Ophiuroidea class in this phylum have a double row of ambulacra. Organisms in this phylum contain ampullae, which form tube feet, and a water vascular system. All members of this phylum exhibit fivefold radial symmetry, and its name derives from the Greek for \"spiny skin.\" Name this phylum, which includes sand dollars, sea urchins, and starfish.",
+            "answers": ["Echinodermata", "Echinoderms"],
+            "incorrect1": "Mollusca",
+            "incorrect2": "Arthropoda",
+            "incorrect3": "Cnidaria",
+            "used": "FALSE"
+        }
     ]
 ]
