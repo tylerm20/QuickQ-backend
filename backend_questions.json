@@ -28809,7 +28809,7 @@
         {
             "category": "Geography",
             "source": "2016 Pennsylvania Novice",
-            "question": "This country contains the ruins of Catalhoyuk [cha\u00adtal\u00adho\u00adyuuk], a Neolithic city north of the Taurus Mountains. Mount Arafat, the traditional landing site of Noah's Ark, is in this country. The northwestern tip of this country is separated by the Dardanelles and the Bosporus from the rest of this country on the Anatolian Plateau in Asia Minor. Bordered on the north by the Black Sea and on the south by the Mediterranean Sea, name this country that spans two continents, and whose most populous city is Istanbul.",
+            "question": "This country contains the ruins of Catalhoyuk, a Neolithic city north of the Taurus Mountains. Mount Arafat, the traditional landing site of Noah's Ark, is in this country. The northwestern tip of this country is separated by the Dardanelles and the Bosporus from the rest of this country on the Anatolian Plateau in Asia Minor. Bordered on the north by the Black Sea and on the south by the Mediterranean Sea, name this country that spans two continents, and whose most populous city is Istanbul.",
             "answers": ["Turkey"],
             "incorrect1": "Greece",
             "incorrect2": "Syria",
@@ -28819,7 +28819,7 @@
         {
             "category": "US History",
             "source": "2012 Fall Kickoff Tournament (FKT)",
-            "question": "This city's tallest building, completed in 2001, is the 974-foot Comcast Center, and Lancaster Avenue runs through this city's \"Main Line\", including its suburbs of Wayne and Bryn Mawr. Universities in this city lying along the Delaware and Schuylkill Rivers include Drexel, Temple, and the University of Pennsylvania. Name this fifth-largest city in the United States, the \"city of brotherly love\" and cheesesteaks which is home to Independence Hall and the Liberty Bell.",
+            "question": "This city's tallest building, completed in 2017, is the Comcast Technology Center, and Lancaster Avenue runs through this city's \"Main Line\", including its suburbs of Wayne and Bryn Mawr. Universities in this city lying along the Delaware and Schuylkill Rivers include Drexel, Temple, and the University of Pennsylvania. Name this fifth-largest city in the United States, the \"city of brotherly love\" and cheesesteaks which is home to Independence Hall and the Liberty Bell.",
             "answers": ["Philadelphia", "Philly", "Philadelphia, Pennsylvania"],
             "incorrect1": "Pittsburgh",
             "incorrect2": "Baltimore",
@@ -28910,7 +28910,7 @@
         },
         {
             "category": "Sports",
-            "question": "This boxer turned businessman recently passed away at the age of 76. This boxer, known for his devastating punching power, made a remarkable comeback in his later career, winning the heavyweight championship again at the age of 45, becoming the oldest heavyweight champion in history. He achieved legendary status with his \"Rumble in the Jungle\" fight against Muhammad Ali in 1974. He is also known for his successful line of grilling products. Who is this former heavyweight boxing champion?",
+            "question": "This boxer turned businessman recently passed away at the age of 76. Known for his devastating punching power, he made a remarkable comeback in his later career, winning the heavyweight championship again at the age of 45, becoming the oldest heavyweight champion in history. He achieved legendary status with his \"Rumble in the Jungle\" fight against Muhammad Ali in 1974. He is also known for his successful line of grilling products. Who is this former heavyweight boxing champion?",
             "answers": ["George Foreman"],
             "incorrect1": "Muhammad Ali",
             "incorrect2": "Joe Frazier",
@@ -28921,7 +28921,7 @@
         {
             "category": "World History",
             "source": "2009 Fall Kickoff Tournament (FKT)",
-            "question": "This man was originally only supposed to act as regent for his infant nephew, Amyntas IV. Held as a hostage in his youth by Thebes, he received his military and diplomatic education from Epaminondas of Thebes. While in power, this man intervened in the Social War to gain land and resources for his kingdom, fought the Third Sacred War, and made threats on Sparta. However his reign over Greece ended in 336 BC when he was assassinated by one of his bodyguards. For 10 Points, name this King of Macedonia, father of Alexander.",
+            "question": "This man was originally only supposed to act as regent for his infant nephew, Amyntas IV. Held as a hostage in his youth by Thebes, he received his military and diplomatic education from Epaminondas of Thebes. While in power, this man intervened in the Social War to gain land and resources for his kingdom, fought the Third Sacred War, and made threats on Sparta. However his reign over Greece ended in 336 BC when he was assassinated by one of his bodyguards. Name this King of Macedonia, father of Alexander.",
             "answers": ["Philip II of Macedon", "Philip"],
             "incorrect1": "Alexander the Great",
             "incorrect2": "Pericles",
