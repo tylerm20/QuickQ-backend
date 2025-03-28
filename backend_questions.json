@@ -28986,7 +28986,7 @@
             "question": "Adrian Smith used a Y-shaped design for one of these structures located next to the Dubai Fountain. An early architect of these structures, Louis Sullivan, designed one of them named for Elias Wainwright. William Van Alen designed the Chrysler Building, one of these structures in New York. The Burj Khalifa is the tallest of what towering buildings often found in large cities?",
             "answers": ["skyscrapers", "towers"],
             "incorrect1": "pyramids",
-            "incorrect2": "towers",
+            "incorrect2": "pools",
             "incorrect3": "castles",
             "used": "TRUE"
         },
@@ -29102,7 +29102,7 @@
         {
             "category": "Arts & Literature",
             "source": "2016 PLATO",
-            "question": "This poet wrote that \"the Windows failed \u00ad and then I could not see to see,\" in one poem where this poet \"heard a Fly buzz when\" she \"died.\" In another poem, this poet wrote that she \"paused before a House that seemed A Swelling of the Ground\" and \"surmised the Horses' Heads Were toward Eternity\" in a \"Carriage\" that \"held but just Ourselves \u00ad And Immortality.\" Name this author of \"Because I could not stop for death,\" known as the \"Belle of Amherst.\"",
+            "question": "This poet wrote that \"the Windows failed and then I could not see to see,\" in one poem where this poet \"heard a Fly buzz when\" she \"died.\" In another poem, this poet wrote that she \"paused before a House that seemed A Swelling of the Ground\" and \"surmised the Horses' Heads Were toward Eternity\" in a \"Carriage\" that \"held but just Ourselves And Immortality.\" Name this author of \"Because I could not stop for death,\" known as the \"Belle of Amherst.\"",
             "answers": ["Emily Dickinson"],
             "incorrect1": "Walt Whitman",
             "incorrect2": "Edgar Allan Poe",
