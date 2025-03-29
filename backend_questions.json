@@ -29134,7 +29134,11 @@
         {
             "category": "Sports",
             "question": "This annual long-distance sled dog race, held in Alaska, covers a grueling course of approximately 1,000 miles, testing the endurance and resilience of both mushers and their dog teams. The race commemorates a historic trail which was a former supply route that once connected communities in Alaska. Mushers face extreme weather conditions, challenging terrain, and the need for exceptional dog care throughout the race. What is the name of this iconic race, which typically begins in Anchorage and ends in Nome?",
-            "answers": ["Iditarod", "The Iditarod Trail Sled Dog Race"],
+            "answers": [
+                "The Iditarod",
+                "The Iditarod Trail Sled Dog Race",
+                "Iditarod"
+            ],
             "incorrect1": "Tour de France",
             "incorrect2": "Dakar Rally",
             "incorrect3": "Ironman Triathlon",
@@ -29174,7 +29178,7 @@
         {
             "category": "US History",
             "source": "2009 Fall Kickoff Tournament (FKT)",
-            "question": "1: After he was freed, this man studied at the Hampton Institute and the Wayland Seminary before ascending to his most well-known position. He was assisted by Henry Rogers of Standard Oil, who funded schools in the south, although this man garnered criticism from the NAACP and W.E.B. DuBois over his ideas of integrating African-Americans into society. Name this African-American who delivered the Atlanta Address and who founded the Tuskegee Institute.",
+            "question": "After he was freed, this man studied at the Hampton Institute and the Wayland Seminary before ascending to his most well-known position. He was assisted by Henry Rogers of Standard Oil, who funded schools in the south, although this man garnered criticism from the NAACP and W.E.B. DuBois over his ideas of integrating African-Americans into society. Name this African-American who delivered the Atlanta Address and who founded the Tuskegee Institute.",
             "answers": ["Booker T. Washington"],
             "incorrect1": "W.E.B. Du Bois",
             "incorrect2": "Marcus Garvey",
@@ -29221,7 +29225,7 @@
         {
             "category": "Arts & Literature",
             "source": "2017 HIGS",
-            "question": "The title character in one of this man's works is killed by Diana Moon Glampers, while in another work Felix Hoenikker's [HAW-nick-ur]'s invention of \"ice-nine\" leads to the destruction of the world. This author of \"Harrison Bergeron\" also wrote about a character that alternates between Tralfamadore and the fire bombings of Dresden after becoming \"unstuck in time\". Name this author of Cat's Cradle, who wrote about Billy Pilgrim in Slaughterhouse Five.",
+            "question": "The title character in one of this man's works is killed by Diana Moon Glampers, while in another work Felix Hoenikker's invention of \"ice-nine\" leads to the destruction of the world. This author of \"Harrison Bergeron\" also wrote about a character that alternates between Tralfamadore and the fire bombings of Dresden after becoming \"unstuck in time\". Name this author of Cat's Cradle, who wrote about Billy Pilgrim in Slaughterhouse Five.",
             "answers": ["Kurt Vonnegut"],
             "incorrect1": "Philip K. Dick",
             "incorrect2": "Ray Bradbury",
@@ -29291,7 +29295,7 @@
         {
             "category": "World History",
             "source": "2016 Pennsylvania Novice",
-            "question": "While serving as Chancellor of the Exchequer under Stanley Baldwin, his man controversially returned his country to the gold standard. As Lord of the Admiralty, he oversaw the disastrous Gallipoli landings during World War One. He said \"I have nothing to offer but blood, toil, tears, and sweat\" in his first speech in his highest office, and he reached that post upon the resignation of Neville Chamberlain. Name this Prime Minister of Britain during World War II.",
+            "question": "While serving as Chancellor of the Exchequer under Stanley Baldwin, this man controversially returned his country to the gold standard. As Lord of the Admiralty, he oversaw the disastrous Gallipoli landings during World War One. He said \"I have nothing to offer but blood, toil, tears, and sweat\" in his first speech in his highest office, and he reached that post upon the resignation of Neville Chamberlain. Name this Prime Minister of Britain during World War II.",
             "answers": [
                 "Winston Churchill",
                 "Sir Winston Leonard Spencer Churchill"
