@@ -29330,7 +29330,7 @@
         {
             "category": "World History",
             "source": "2021 CERES",
-            "question": "A ruler with this first name employed Francis Drake as an admiral in a conflict against the Spanish Armada and declared she had the \"heart and stomach of a king.\" Shakespeare lived during the \"era\" of that ruler with this name. Another ruler with this name lost her daughter in-law Diana in a car crash and is the mother of Charles, Prince of Wales. Give this name of the current queen of the United Kingdom.",
+            "question": "A ruler with this first name employed Francis Drake as an admiral in a conflict against the Spanish Armada and declared she had the \"heart and stomach of a king.\" Shakespeare lived during the \"era\" of that ruler with this name. Another ruler with this name lost her daughter in-law Diana in a car crash and is the mother of Charles, Prince of Wales. Give this name of the most recent queen of the United Kingdom.",
             "answers": [
                 "Elizabeth",
                 "Elizabeth I",
@@ -29395,6 +29395,502 @@
             "incorrect2": "Arthropoda",
             "incorrect3": "Cnidaria",
             "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2018 SCOP Novice 9",
+            "question": "The hydrocarbon haze surrounding Titan contributes to the \"anti-\" form of this process. The termite fumigant sulfuryl fluoride is 160 times more potent an emitter than methane in this process. Svante Arrhenius linked this effect to a rise in carbon dioxide concentration, and a \"runaway\" form of it caused Venus to develop extreme global warming. Name this effect in which atmospheric gases absorb thermal radiation and redirect it back to Earth's surface, generating higher average temperatures.",
+            "answers": [
+                "greenhouse effect",
+                "global warming",
+                "climate change"
+            ],
+            "incorrect1": "drought",
+            "incorrect2": "flood",
+            "incorrect3": "acid rain",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This Formula One driver, known for his intense rivalry with James Hunt in the 1970s, made a remarkable comeback after a horrific crash at the 1976 German Grand Prix, suffering severe burns and inhaling toxic fumes. He won three Formula One World Championships, driving for Ferrari and McLaren. He later became an airline entrepreneur, founding Lauda Air. Who is this Austrian racing legend?",
+            "answers": ["Niki Lauda"],
+            "incorrect1": "Ayrton Senna",
+            "incorrect2": "Michael Schumacher",
+            "incorrect3": "Lewis Hamilton",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2012 SCOP Novice 3",
+            "question": "Three days before this battle, Jubal Early's troops turned the tide at Blackburn's Ford. Wilmer McLean's house served as headquarters for one side in this battle, which was decided when Irvin McDowell's forces retreated after Joseph Johnston reinforced P.G.T. Beauregard. Stonewall Jackson earned his nickname at what first major battle of the Civil War, also the site of a second battle one year later?",
+            "answers": ["First Battle of Bull Run", "First Battle of Manassas"],
+            "incorrect1": "Battle of Gettysburg",
+            "incorrect2": "Battle of Antietam",
+            "incorrect3": "Battle of Vicksburg",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2015 SCOP Novice 6",
+            "question": "In this novel, Madame de Thoux [duh THOH] and Cassy reunite with their lost relatives and Ophelia is charged with educating Topsy. Eliza escapes with her son over the frozen Ohio River in this novel, and reunites with her husband, George, who had been owned by Mr Harris. This novel's protagonist rescues Eva St Clare and dies after being sold to Simon Legree. Name this novel about a title slave, written by Harriet Beecher Stowe.",
+            "answers": ["Uncle Tom's Cabin", "Life Among the Lowly"],
+            "incorrect1": "The Scarlet Letter",
+            "incorrect2": "Moby-Dick",
+            "incorrect3": "The Adventures of Huckleberry Finn",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This science fiction series, set in a future where humanity has colonized the solar system, features a unique and diverse cast of characters, including the crew of the Rocinante and various political factions from Earth, Mars, and the asteroid belt. The show's realistic portrayal of space travel, with its emphasis on physics and the challenges of living in zero gravity, sets it apart from other science fiction series. The discovery of the protomolecule, a mysterious alien substance, drives the central plot and introduces complex moral and philosophical dilemmas. What is the name of this critically acclaimed television series, based on the book series by James S.A. Corey?",
+            "answers": ["The Expanse"],
+            "incorrect1": "Battlestar Galactica",
+            "incorrect2": "Theory of Time",
+            "incorrect3": "Firefly",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "Jair Bolsonaro, this country's former president, will face trial for an attempted coup. This South American country, known for its vibrant Carnival celebrations, is home to the Amazon rainforest, the world's largest tropical rainforest. Its iconic Christ the Redeemer statue overlooks the city of Rio de Janeiro. It is also the birthplace of samba music and the martial art Capoeira. What is the name of this country, the largest in South America?",
+            "answers": ["Brazil"],
+            "incorrect1": "Argentina",
+            "incorrect2": "Mexico",
+            "incorrect3": "Spain",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2015 SCOP Novice 6",
+            "question": "This province's city of Gatineau is part of its National Capital Region. This province forms the majority of the Labrador Peninsula. Its largest city, on an island in the confluence of the Ottawa and St. Lawrence Rivers, hosted the opening ceremonies of the 1976 Summer Olympics in the Stade Olympique. Name this French-speaking Canadian province, home to Montreal.",
+            "answers": ["Quebec"],
+            "incorrect1": "Ontario",
+            "incorrect2": "Alberta",
+            "incorrect3": "British Columbia",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2019 SCOP Novice 10",
+            "question": "Congressman Charles Wilson pushed to covertly supply this country with Stinger missiles in Operation Cyclone. The Saur Revolution installed a socialist regime in this country, leading to an ill-fated 1979 Soviet invasion that was countered by its mujahideen. In the wake of the September 11th attacks, a US-led NATO coalition invaded what country that was liberated by the 2001 ousting of the Taliban from its capital, Kabul?",
+            "answers": ["Afghanistan", "Islamic Republic of Afghanistan"],
+            "incorrect1": "Pakistan",
+            "incorrect2": "Iran",
+            "incorrect3": "Iraq",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2015 SCOP Novice 6",
+            "question": "Each of these structures has a different angular momentum described by its azimuthal quantum number. One variety of this concept is dumbbell- shaped as it has two lobes, while the lowest configuration of these objects are spherical. The plum pudding model preceded the atomic model of this structure. Name these electron-housing probability regions which come in s, p, d and f varieties.",
+            "answers": ["orbitals"],
+            "incorrect1": "electrons",
+            "incorrect2": "protons",
+            "incorrect3": "neutrons",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This Formula One driver, known for his charismatic personality and his playboy lifestyle, won the 1976 Formula One World Championship in a dramatic season-long battle with Niki Lauda. He drove for teams like Hesketh and McLaren, and his rivalry with Lauda was famously portrayed in the 2013 film \"Rush.\" He retired from racing in 1979 and became a commentator for BBC television. Who is this British racing driver?",
+            "answers": ["James Hunt"],
+            "incorrect1": "James Stewart",
+            "incorrect2": "James Mason",
+            "incorrect3": "James Dean",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "Several U.S. officials, including the vice president and the defense secretary, disclosed plans to attack Houthi rebels in Yemen in a group chat in this app that accidentally including a journalist. This messaging app, known for its strong emphasis on privacy and security, uses end-to-end encryption by default for all messages, ensuring that only the sender and recipient can read them. It was endorsed by Edward Snowden, who highlighted its commitment to user privacy. What is the name of this app?",
+            "answers": ["Signal"],
+            "incorrect1": "WhatsApp",
+            "incorrect2": "Telegram",
+            "incorrect3": "Facebook Messenger",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film, directed by Wes Anderson, is known for its meticulous and symmetrical set design, its pastel color palette, and its quirky characters. It tells the story of a legendary concierge and his lobby boy at a famous European hotel between the first and second World Wars. The film's ensemble cast includes Ralph Fiennes, Tony Revolori, F. Murray Abraham, and Willem Dafoe. It won four Academy Awards, primarily in technical and design categories, including Best Production Design and Best Costume Design. What is the title of this visually stunning and whimsical 2014 film?",
+            "answers": ["The Grand Budapest Hotel"],
+            "incorrect1": "The Royal Tenenbaums",
+            "incorrect2": "Moonrise Kingdom",
+            "incorrect3": "The Life Aquatic with Steve Zissou",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2020 TAILS",
+            "question": "The last words of one person attempting to reach this location were \"I'm just going outside and may be some time.\" The Endurance and Nimrod expeditions to reach this location were captained by Ernest Shackleton. After attempting to use horses to reach this location, Robert Smith was beaten to this location by the Norwegian explorer Roald Amundsen. Name this location near the center of Antarctica..",
+            "answers": ["the South Pole", "Antarctica"],
+            "incorrect1": "the North Pole",
+            "incorrect2": "the equator",
+            "incorrect3": "the prime meridian",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2020 SCOP A",
+            "question": "In this country, Walter Burley Griffin designed a planned city focused around a Parliamentary Triangle. The Carlton Gardens, in one of this nation's state capitals, contains a hall that hosted this country's 1888 centennial celebration. A through-arch bridge nicknamed \"the coathanger\" and a white-sailed opera house are in this country, in the capital city of New South Wales. Name this country governed from Canberra, whose largest cities include Melbourne and Sydney.",
+            "answers": ["Australia", "Commonwealth of Australia"],
+            "incorrect1": "Austria",
+            "incorrect2": "New Zealand",
+            "incorrect3": "Indonesia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2016 PLATO",
+            "question": "This country's Chubut province is home to the largest Welsh community outside of the British Isles. To this day, it disputes the Falklands, a group of islands in the southern Atlantic Ocean, with the United Kingdom. The Rio de la Plata separates this country from Uruguay, and it controls the eastern half of Tierra del Fuego. Name this South American country whose capital is Buenos Aires.",
+            "answers": ["Argentina"],
+            "incorrect1": "Brazil",
+            "incorrect2": "Chile",
+            "incorrect3": "Uruguay",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2016 PLATO",
+            "question": "In one poem by this author, a character is said to be \"all pine\" while the narrator is \"all apple orchard,\" and \"good fences\" are said to make \"good neighbors.\" This poet of \"Mending Wall\" has \"miles to go before\" he sleeps in his \"Stopping by Woods on a Snowy Evening.\" This poet's most famous work sees a young man take a path which \"has made all the difference\" after \"two roads diverged in a yellow wood.\" Name this poet of \"The Road Not Taken.\"",
+            "answers": ["Robert Frost"],
+            "incorrect1": "Walt Whitman",
+            "incorrect2": "Emily Dickinson",
+            "incorrect3": "Langston Hughes",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This baseball player, whose rare T206 baseball card is one of the most valuable and sought-after collectibles in the world, was nicknamed \"The Flying Dutchman\" for his speed and agility on the basepaths. He was one of the first five players inducted into the Baseball Hall of Fame in 1936. He played shortstop for the Pittsburgh Pirates for most of his career, winning eight batting titles. Who is this baseball legend, considered one of the greatest shortstops of all time?",
+            "answers": ["Honus Wagner"],
+            "incorrect1": "Babe Ruth",
+            "incorrect2": "Ty Cobb",
+            "incorrect3": "Jackie Robinson",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2016 Pennsylvania Novice",
+            "question": "Beehive-shaped rock formations are found in this country's Bungle Bungle Range, while crocodile attacks are common in its Kakadu National Park. Rock art in this country often includes images of the Rainbow Serpent. This country's longest river, the Murray, flows into the Indian Ocean just outside Adelaide. A large sandstone rock that appears to glow red at sunset named Uluru is found in this country's arid interior, the Outback. Name this country with many native marsupials such as koalas and kangaroos.",
+            "answers": ["Australia"],
+            "incorrect1": "Austria",
+            "incorrect2": "New Zealand",
+            "incorrect3": "Indonesia",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2015 SCOP Novice 6",
+            "question": "This man authorized John Sullivan to attack the Iroquois. This man was defeated by Louis Coulon de Villiers, and was forced to surrender Fort Necessity, a move which prompted the Braddock expedition. This general was criticised by Thomas Conway after failing to defend against the Philadelphia Campaign, and he surprised Hessian soldiers after crossing the Delaware River. Name this first President of the United States.",
+            "answers": ["George Washington"],
+            "incorrect1": "Thomas Jefferson",
+            "incorrect2": "Abraham Lincoln",
+            "incorrect3": "John Adams",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2021 CERES",
+            "question": "s Tossups: 1. A civilization in this modern-day country employed elite jaguar knights that fought for three city-states called the Triple Alliance. El Castillo is a step pyramid in this country's Chichen Itza temple complex. This modern-day country's cities of Tlacopan and Tenochtitlan were destroyed in Hernan Cortes' conquest. What modern-day country was home to the northern part of the Maya and the Aztecs?",
+            "answers": ["Mexico"],
+            "incorrect1": "Spain",
+            "incorrect2": "Colombia",
+            "incorrect3": "Peru",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2012 Collaborative Middle School Tournament #3",
+            "question": "R. A. Fisher suggested this scientist falsified data because of the exactness of his ratios, and his most significant paper was Experiments in Plant Hybridization. One result of this man's work was the law of independent assortment, discovered by examining traits like tall vs. dwarf and round vs. wrinkled. Name this biologist and monk whose breeding of pea plants led to the basic principles of heredity.",
+            "answers": ["Gregor Mendel"],
+            "incorrect1": "Charles Darwin",
+            "incorrect2": "Louis Pasteur",
+            "incorrect3": "Marie Curie",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This dark fantasy film, set in post-Civil War Spain, weaves together a realistic portrayal of the political climate with a fantastical story of a young girl's escape into a magical world. It features creatures designed by Guillermo del Toro, including the Pale Man and the Faun, which are both terrifying and mesmerizing. The film explores themes of innocence, obedience, and the struggle between good and evil, using symbolism and allegory to convey its message. What is the title of this 2006 Spanish-language film, directed by Guillermo del Toro?",
+            "answers": ["Pan's Labyrinth"],
+            "incorrect1": "The Shape of Water",
+            "incorrect2": "Spirited Away",
+            "incorrect3": "Pan's Labyrinth",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This chemical was legally banned from being added to drinking water in Utah. This naturally occurring mineral, found in water, soil, and rocks, is added to many public water supplies and dental products due to its effectiveness in preventing tooth decay. It strengthens tooth enamel, making it more resistant to acid attacks from bacteria and sugars in the mouth. While beneficial in small amounts, excessive intake can lead to fluorosis, a condition that affects tooth and bone development. What is the name of this mineral, commonly associated with dental health?",
+            "answers": ["Fluoride"],
+            "incorrect1": "Chlorine",
+            "incorrect2": "Iodine",
+            "incorrect3": "Bromine",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "Due to illness, this novel's protagonist moves to the small country town of Yonville. In one scene in this novel, the title character's husband Charles ruins his reputation as a country doctor after a botched operation on Hippolyte's club foot. The title character is frequently bored of her humdrum life, leading her to engage in extravagant affairs with men like Leon Dupis and Rodolphe Boulanger, who will not help her with her debts, leading to the title character's suicide. Name this novel centering around Emma, a work by Gustave Flaubert.",
+            "answers": ["Madame Bovary"],
+            "incorrect1": "Anna Karenina",
+            "incorrect2": "Pride and Prejudice",
+            "incorrect3": "Wuthering Heights",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This baseball player, a legend of the Negro Leagues, was known for his flamboyant personality and his colorful nicknames, including \"Satchelfoot\" and \"The Midnight Rider.\" He claimed to have invented the \"hesitation pitch,\" a changeup delivery that disrupted batters' timing. He finally made his Major League Baseball debut at the age of 42, pitching for the Cleveland Indians. Who is this Hall of Fame pitcher, whose career spanned several decades and whose talent and showmanship captivated audiences?",
+            "answers": ["Satchel Paige"],
+            "incorrect1": "Jackie Robinson",
+            "incorrect2": "Cy Young",
+            "incorrect3": "Bob Feller",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "Two men associated with the development of this tactic are British officers Liddell Hart and JFC Fuller, and another early proponent of this idea was the author of The Army of the Future, Charles de Gaulle. This tactic includes the creation of a center of gravity, or Schwerpunkt, on a front, as well as the coordinated use of artillery and air power to take out strong points in a line, leading to encirclement by armor. Famously put into use by the Nazis in their invasions of Poland, France and Russia name this combined-arms tactic from World War II, German for \"lightning war.\"",
+            "answers": ["Blitzkrieg", "lightning war"],
+            "incorrect1": "Trench warfare",
+            "incorrect2": "Naval blockade",
+            "incorrect3": "Guerrilla warfare",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This first-person shooter game, set in the underwater city of Rapture, a failed utopia built by Andrew Ryan, explores themes of objectivism, free will, and moral choice. The player character can use plasmids, genetic enhancements that grant superhuman abilities, and various weapons to combat mutated splicers and Big Daddies. The game's narrative is heavily influenced by the philosophies of Ayn Rand and George Orwell. What is the name of this critically acclaimed 2007 game, developed by Irrational Games?",
+            "answers": ["BioShock"],
+            "incorrect1": "Half-Life",
+            "incorrect2": "System Shock",
+            "incorrect3": "Deus Ex",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This country was the epicenter of a magnitude 7.7 earthquake leading to over 1000 deaths. This Southeast Asian country, formerly known as Burma, is home to the ancient city of Bagan, a UNESCO World Heritage Site with thousands of Buddhist temples and pagodas. Its Irrawaddy River is a major waterway, vital for transportation and trade. The country is known for its production of jade and teak. What is the name of this country, bordered by India, Bangladesh, China, Laos, and Thailand?",
+            "answers": ["Myanmar"],
+            "incorrect1": "Thailand",
+            "incorrect2": "Vietnam",
+            "incorrect3": "Laos",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2016 SAGES",
+            "question": "These animals build nests called drays. Some species of this animal can rotate their back paws and go down a tree head-first. The flying type of this animal glides using its skin like a parachute. Name these furry rodents, whose diets mostly consist of nuts and acorns that these animals hide.",
+            "answers": ["squirrels"],
+            "incorrect1": "rats",
+            "incorrect2": "mice",
+            "incorrect3": "chipmunks",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "In the buildup to this battle, the losing commander set up a fortification at Gloucester shortly after retreating from Williamsburg. A key turning point in this battle was the arrival of reinforcements under Count Rochambeau. British naval forces under Thomas Graves failed to break through the French blockade. Name this final Revolutionary War battle, after which Lord Cornwallis surrendered.",
+            "answers": ["Battle of Yorktown"],
+            "incorrect1": "Battle of Saratoga",
+            "incorrect2": "Battle of Bunker Hill",
+            "incorrect3": "Battle of Gettysburg",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2022 KICKOFF Novice",
+            "question": "In one story by this author, a man is told that his wife died \"in a fit of passion\" after finding people playing nine pins in a tavern. In another story by this author, a horse named Gunpowder refuses to cross a bridge. A character created by this author discovers he has fallen asleep for 20 years. This author of \"Rip Van Winkle\" wrote about discovering the only remains of the love rival of Brom Bones in a smashed pumpkin and a hat. Name this author, who wrote about Ichabod Crane in \"The Legend of Sleepy Hollow.\"",
+            "answers": ["Washington Irving"],
+            "incorrect1": "Edgar Allan Poe",
+            "incorrect2": "Nathaniel Hawthorne",
+            "incorrect3": "Herman Melville",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "Uros, Amantani, Taquile, and Isla del Sol are a few islands located in this body of water, and the Taraco and Yampupata Peninsula protrude into this body of water. This body of water is fed by the Ilave, Coata, and Ramis Rivers among others, and it empties into the Desaguadero River. Divided into two parts by the Strait of Tiquina, it has the highest elevation of any major lake in the world. Located on the border of Peru and Bolivia is what second largest lake by area and largest by volume in South America?",
+            "answers": ["Lake Titicaca"],
+            "incorrect1": "Lake Baikal",
+            "incorrect2": "Lake Victoria",
+            "incorrect3": "Lake Superior",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2020 SCOP MS 10",
+            "question": "The smallest type of this value is represented by aleph null. In a thought experiment, David Hilbert's\"Grand Hotel\" features this many rooms, all occupied, and is still able to accommodate more guests. The set of whole numbers has a \"countable\" type of this size. Give this value, the number of digits in the decimal expansion of pi, that is represented by a sideways eight.",
+            "answers": ["infinity", "infinite"],
+            "incorrect1": "zero",
+            "incorrect2": "one",
+            "incorrect3": "pi",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "This state's ski resort of Lake Placid, the site of the 1980 Winter Olympics, and its highest point, Mount Marcy, are both located in the Adirondack Mountains. In the 19th century, its growth was aided by the Erie Canal, which brought settlers west from the Hudson River valley. This state's largest city is composed of five boroughs, including Staten Island, Queens, and the Bronx. Name this Empire State.",
+            "answers": ["New York"],
+            "incorrect1": "New Jersey",
+            "incorrect2": "Pennsylvania",
+            "incorrect3": "Massachusetts",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This handheld digital pet, created in Japan by Akihiro Yokoi of WiZ and Aki Maita of Bandai, requires users to feed, clean, and play with it to ensure its survival. Its popularity sparked a global craze in the late 1990s, with millions of units sold worldwide. The toy's name is a portmanteau of the Japanese word \"tamago\" (egg) and \"watch.\" What is the name of this virtual pet, known for its pixelated display and its demanding care requirements?",
+            "answers": ["Tamagotchi"],
+            "incorrect1": "Furby",
+            "incorrect2": "Tickle Me Elmo",
+            "incorrect3": "Beanie Babies",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2011 SCOP Novice 2",
+            "question": "The Sigsbee Deep is the lowest point in this body of water, and oil is produced in its Bay of Campeche. Rivers that empty into this body of water include the Coosa, Pearl, and Sabine, and cities on its shore include Tampico, Veracruz, and Corpus Christi. Home to Galveston Island and the end of the Rio Grande and Mississippi River name this site of the 2010 Deepwater Horizon oil spill.",
+            "answers": ["Gulf of Mexico", "Gulf of America"],
+            "incorrect1": "Gulf of California",
+            "incorrect2": "Caribbean Sea",
+            "incorrect3": "Mediterranean Sea",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This basketball player, nicknamed \"The Big O,\" is the first player in NBA history to average a triple-double (at least 10 points, 10 rebounds, and 10 assists) for an entire season, a feat he accomplished in 1961-62. He was a member of the 1960 U.S. Olympic gold medal-winning team and won an NBA championship with the Milwaukee Bucks in 1971. He is known for his all-around skills, excelling in scoring, rebounding, and passing. Who is this Hall of Fame guard?",
+            "answers": ["Oscar Robertson"],
+            "incorrect1": "Jerry West",
+            "incorrect2": "Bill Russell",
+            "incorrect3": "Wilt Chamberlain",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "This holiday occurred on March 30, 2025. This Islamic holiday, celebrated at the end of Ramadan, the holy month of fasting, is marked by festive gatherings, the sharing of meals, and the giving of gifts. The exact date of the holiday varies each year, as it is determined by the sighting of the new crescent moon. It is a time for Muslims to express gratitude to Allah for the strength and blessings received during Ramadan. What is the name of this joyous celebration, often referred to as the \"Festival of Breaking the Fast\"?",
+            "answers": ["Eid al-Fitr", "Eid"],
+            "incorrect1": "Lent",
+            "incorrect2": "Ramadan",
+            "incorrect3": "Ashura",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2013 SCOP Novice 4",
+            "question": "One character in this work robs her father and runs away on a ship with Mercy Lewis. In one scene of this play, Ezekiel Cheever finds a doll which was a gift from Mary Warren, and Giles Corey dies asking for \"more weight.\" Ruth and Betty fall into a stupor that is blamed on Tituba, and Abigail Williams accuses John Proctor's wife, Elizabeth, of being a witch. Communism is represented by the Salem Witch Trials in this play by Arthur Miller.",
+            "answers": ["The Crucible"],
+            "incorrect1": "The Scarlet Letter",
+            "incorrect2": "The Salem Witch Trials",
+            "incorrect3": "Death of a Salesman",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2012 Fall Kickoff Tournament (FKT)",
+            "question": "Edward Oxford tried to assassinate this ruler, whose early reign also witnessed the Hastings scandal. This monarch succeeded William IV to the throne and would be the last member of the House of Hanover to rule the United Kingdom. The grandmother of Kaiser Wilhelm II, she favored the Conservative Party under Benjamin Disraeli. In 1876, this queen became the first Empress of India, and she was the wife of Prince consort Albert. Identify this 19th century British queen who reigned for 63 years.",
+            "answers": ["Queen Victoria", "Victoria of the United Kingdom"],
+            "incorrect1": "Queen Elizabeth I",
+            "incorrect2": "Queen Amanda",
+            "incorrect3": "Catherine the Great",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "This Christian holiday, celebrated in the spring, commemorates the resurrection of Jesus Christ from the dead, described in the New Testament as having occurred on the third day after his crucifixion. Its date varies each year, determined by the lunisolar calendar, falling on the first Sunday after the first full moon following the spring equinox. Traditional symbols associated with the holiday include eggs, representing new life, and rabbits, symbols of fertility. What is the name of this major Christian festival?",
+            "answers": ["Easter"],
+            "incorrect1": "Christmas",
+            "incorrect2": "Good Friday",
+            "incorrect3": "Lent",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "This state contains the Tongass National Forest and the \"Valley of Ten Thousand Smokes.\" The Alexander Archipelago is on one side of its \"Inside Passage;\" on the other side is this state's panhandle. The Brooks Range is an extension of the Rocky Mountains into this state. This state's city of Wasilla is a suburb of its largest city, Anchorage. Name this largest and northernmost U.S. state.",
+            "answers": ["Alaska"],
+            "incorrect1": "Hawaii",
+            "incorrect2": "Greenland",
+            "incorrect3": "Siberia",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This basketball player, known for his explosive athleticism and powerful dunks, was the first overall pick in the 2019 NBA draft by the New Orleans Pelicans. He gained national attention for his highlight-reel plays during his college career at Duke University. Despite facing early career challenges with injuries, he has showcased his potential as a dominant force in the league. Who is this forward/center, whose high-flying style and impressive physicality have made him a captivating player?",
+            "answers": ["Zion Williamson"],
+            "incorrect1": "Ja Morant",
+            "incorrect2": "Luka Dončić",
+            "incorrect3": "LeBron James",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2010 Fall Novice Tournament",
+            "question": "Several characters in this novel discuss the proper way of cracking open eggs, while the protagonist visits the struldbrugs who are immortal but continue to age. Its title character visits horses who rule over people called Yahoos in the country of Houyhnhnms, and in one episode of this novel the protagonist is tied up by men one-twelfth his size. Describing the title character's voyages to places like Brobdingnag and Lilliput name this novel by Jonathan Swift.",
+            "answers": ["Gulliver's Travels"],
+            "incorrect1": "Robinson Crusoe",
+            "incorrect2": "A Modest Proposal",
+            "incorrect3": "Pride and Prejudice",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2017 HIGS",
+            "question": "This quantity squared divided by six is equal to the sum of the reciprocals of all square numbers. The equality e to the i times this quantity equals negative one is known as Euler's identity. Tau is equal to two times this constant, and 180 degrees is equal to this many radians. The area of a circle is equal to it times radius squared, and it is proportional to circumference by diameter. Name this constant estimated as 3.14.",
+            "answers": ["pi"],
+            "incorrect1": "e",
+            "incorrect2": "zero",
+            "incorrect3": "tau",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This hip-hop duo, from Atlanta, Georgia, is known for their eclectic and experimental sound, blending elements of funk, soul, and psychedelia with their Southern rap roots. Their album Aquemini, released in 1998, is often considered a masterpiece and a landmark in hip-hop history. They won the Grammy Award for Album of the Year in 2004 for their double album Speakerboxxx/The Love Below. Who are this duo, comprised of Andr\u00e9 3000 and Big Boi?",
+            "answers": ["OutKast"],
+            "incorrect1": "A Tribe Called Quest",
+            "incorrect2": "Goodie Mob",
+            "incorrect3": "N.W.A",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "This man overthrew General Ahmed Hassan al-Bakr in 1979. Under his government, the town of Halabja was bombed during his nation's war with Iran. He ordered an invasion of Kuwait that sparked the First Gulf War. He was captured by American forces on December 13, 2003. Name this former leader of Iraq who was executed in 2006.",
+            "answers": ["Saddam Hussein"],
+            "incorrect1": "Ayatollah Khomeini",
+            "incorrect2": "Hafez al-Assad",
+            "incorrect3": "Muammar Gaddafi",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2022 SCOP MS 11",
+            "question": "One of this group's fatalities, Karl Volfinger, was killed while burying his supplies. James Reed survived this expedition after being expelled for killing John Snyder, one of this group's wagon drivers. Other members of this group died crossing the Sierra Nevada after they used the Hastings Cutoff to leave the Oregon Trail. Name this infamous party that resorted to cannibalism while snowed-in in a namesake pass.",
+            "answers": ["Donner Party"],
+            "incorrect1": "Lewis and Clark Expedition",
+            "incorrect2": "Oregon Trail",
+            "incorrect3": "Roanoke Colony",
+            "used": "TRUE"
         }
     ]
 ]
