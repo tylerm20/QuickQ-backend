@@ -29506,7 +29506,7 @@
         },
         {
             "category": "Current Events",
-            "question": "Several U.S. officials, including the vice president and the defense secretary, disclosed plans to attack Houthi rebels in Yemen in a group chat in this app that accidentally including a journalist. This messaging app, known for its strong emphasis on privacy and security, uses end-to-end encryption by default for all messages, ensuring that only the sender and recipient can read them. It was endorsed by Edward Snowden, who highlighted its commitment to user privacy. What is the name of this app?",
+            "question": "Several U.S. officials, including the vice president and the defense secretary, used this app to discuss plans to attack Houthi rebels in Yemen. This messaging app, known for its strong emphasis on privacy and security, uses end-to-end encryption by default for all messages, ensuring that only the sender and recipient can read them. It was endorsed by Edward Snowden, who highlighted its commitment to user privacy. What is the name of this app?",
             "answers": ["Signal"],
             "incorrect1": "WhatsApp",
             "incorrect2": "Telegram",
@@ -29527,7 +29527,7 @@
         {
             "category": "World History",
             "source": "2020 TAILS",
-            "question": "The last words of one person attempting to reach this location were \"I'm just going outside and may be some time.\" The Endurance and Nimrod expeditions to reach this location were captained by Ernest Shackleton. After attempting to use horses to reach this location, Robert Smith was beaten to this location by the Norwegian explorer Roald Amundsen. Name this location near the center of Antarctica..",
+            "question": "The last words of one person attempting to reach this location were \"I'm just going outside and may be some time.\" The Endurance and Nimrod expeditions to reach this location were captained by Ernest Shackleton. After attempting to use horses to reach this location, Robert Smith was beaten to this location by the Norwegian explorer Roald Amundsen. Name this location near the center of Antarctica.",
             "answers": ["the South Pole", "Antarctica"],
             "incorrect1": "the North Pole",
             "incorrect2": "the equator",
@@ -29599,7 +29599,7 @@
         {
             "category": "World History",
             "source": "2021 CERES",
-            "question": "s Tossups: 1. A civilization in this modern-day country employed elite jaguar knights that fought for three city-states called the Triple Alliance. El Castillo is a step pyramid in this country's Chichen Itza temple complex. This modern-day country's cities of Tlacopan and Tenochtitlan were destroyed in Hernan Cortes' conquest. What modern-day country was home to the northern part of the Maya and the Aztecs?",
+            "question": "A civilization in this modern-day country employed elite jaguar knights that fought for three city-states called the Triple Alliance. El Castillo is a step pyramid in this country's Chichen Itza temple complex. This modern-day country's cities of Tlacopan and Tenochtitlan were destroyed in Hernan Cortes' conquest. What modern-day country was home to the northern part of the Maya and the Aztecs?",
             "answers": ["Mexico"],
             "incorrect1": "Spain",
             "incorrect2": "Colombia",
@@ -29622,7 +29622,7 @@
             "answers": ["Pan's Labyrinth"],
             "incorrect1": "The Shape of Water",
             "incorrect2": "Spirited Away",
-            "incorrect3": "Pan's Labyrinth",
+            "incorrect3": "Gone with the Wind",
             "used": "TRUE",
             "source": "Marty Heavey"
         },
