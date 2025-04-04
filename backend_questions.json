@@ -29680,7 +29680,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This country was the epicenter of a magnitude 7.7 earthquake leading to over 1000 deaths. This Southeast Asian country, formerly known as Burma, is home to the ancient city of Bagan, a UNESCO World Heritage Site with thousands of Buddhist temples and pagodas. Its Irrawaddy River is a major waterway, vital for transportation and trade. The country is known for its production of jade and teak. What is the name of this country, bordered by India, Bangladesh, China, Laos, and Thailand?",
+            "question": "This country was the epicenter of a magnitude 7.7 earthquake leading to over 2000 deaths. This Southeast Asian country, formerly known as Burma, is home to the ancient city of Bagan, a UNESCO World Heritage Site with thousands of Buddhist temples and pagodas. Its Irrawaddy River is a major waterway, vital for transportation and trade. The country is known for its production of jade and teak. What is the name of this country, bordered by India, Bangladesh, China, Laos, and Thailand?",
             "answers": ["Myanmar"],
             "incorrect1": "Thailand",
             "incorrect2": "Vietnam",
@@ -29733,7 +29733,7 @@
         {
             "category": "Science",
             "source": "2020 SCOP MS 10",
-            "question": "The smallest type of this value is represented by aleph null. In a thought experiment, David Hilbert's\"Grand Hotel\" features this many rooms, all occupied, and is still able to accommodate more guests. The set of whole numbers has a \"countable\" type of this size. Give this value, the number of digits in the decimal expansion of pi, that is represented by a sideways eight.",
+            "question": "The smallest type of this value is represented by aleph null. In a thought experiment, David Hilbert's \"Grand Hotel\" features this many rooms, all occupied, and is still able to accommodate more guests. The set of whole numbers has a \"countable\" type of this size. Give this value, the number of digits in the decimal expansion of pi, that is represented by a sideways eight.",
             "answers": ["infinity", "infinite"],
             "incorrect1": "zero",
             "incorrect2": "one",
@@ -29828,8 +29828,8 @@
             "question": "This state contains the Tongass National Forest and the \"Valley of Ten Thousand Smokes.\" The Alexander Archipelago is on one side of its \"Inside Passage;\" on the other side is this state's panhandle. The Brooks Range is an extension of the Rocky Mountains into this state. This state's city of Wasilla is a suburb of its largest city, Anchorage. Name this largest and northernmost U.S. state.",
             "answers": ["Alaska"],
             "incorrect1": "Hawaii",
-            "incorrect2": "Greenland",
-            "incorrect3": "Siberia",
+            "incorrect2": "Montana",
+            "incorrect3": "Tennessee",
             "used": "TRUE"
         },
         {
