@@ -29892,5 +29892,427 @@
             "incorrect3": "Roanoke Colony",
             "used": "TRUE"
         }
+    ],
+    [
+        {
+            "category": "Geography",
+            "source": "2013 SCOP Novice 4",
+            "question": "This city's oldest hospital was funded by Governor MacQuarie's imported rum. The world's tallest steel arch bridge spans this city's harbor just northwest of Bennelong Point, home to a Jorn Utzon-designed building with seven white concrete shells. This city lies on Botany Bay, where, in 1770, James Cook landed the HMS Endeavour. Name this home to a notable Opera House, the capital of New South Wales and most populous city in Australia.",
+            "answers": ["Sydney"],
+            "incorrect1": "Melbourne",
+            "incorrect2": "Brisbane",
+            "incorrect3": "Perth",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This man gave a record 25 hour speech in the US Senate criticizing the Trump administration. This politician, known for his advocacy for social justice and criminal justice reform, served as the 38th Mayor of Newark, New Jersey, from 2006 to 2013. He gained national attention for his innovative use of social media to connect with constituents and address community issues. He is a Rhodes Scholar and a graduate of Yale Law School. Who is this current U.S. Senator from New Jersey?",
+            "answers": ["Cory Booker"],
+            "incorrect1": "Kamala Harris",
+            "incorrect2": "Tim Scott",
+            "incorrect3": "Raphael Warnock",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2021 CERES",
+            "question": "A Buddhist sect centered in this country engages in contemplation of koans. This country's city of Ise contains its holiest shrine, which is rebuilt every twenty years. Gates called torii sit at the entrances to shrines in this country. Amaterasu is among the spirits, or kami, venerated by this country's indigenous religion, Shintoism. Which Zen Buddhism is practiced in what Asian island country?",
+            "answers": ["Japan", "Nippon-koku", "Nihon-koku"],
+            "incorrect1": "China",
+            "incorrect2": "South Korea",
+            "incorrect3": "Vietnam",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This team won the 2025 Ligue 1 title. This French football club, plays its home games at the Parc des Princes. The club is owned by a company controlled by the Emir of Qatar. The club is known for attracting high-profile players like Neymar, Kylian Mbapp\u00e9, and Lionel Messi. What is the name of this club, based in the capital of France?",
+            "answers": ["Paris Saint-Germain", "PSG"],
+            "incorrect1": "Olympique de Marseille",
+            "incorrect2": "AS Monaco",
+            "incorrect3": "Olympique Lyonnais",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2017 SCOP Novice 8",
+            "question": "Politicians used the candida variety of this object to show their honesty. The Etruscans originally invented this object, whose heavy weight made it unpopular among the lower classes, who were forced to use it at triumphs. The pulla type of this object was worn in mourning, and the picta was dyed purple to be worn by Emperors. Name this large, white, wool garment that was draped and folded over ancient Roman men.",
+            "answers": ["togas", "toga candida", "toga pulla", "toga picta"],
+            "incorrect1": "tunics",
+            "incorrect2": "chitons",
+            "incorrect3": "peplos",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actor recently passed away at the age of 65. This actor, known for his intense and transformative performances, famously lost a significant amount of weight to portray Doc Holliday in the 1993 Western \"Tombstone.\" He gained early recognition for his role as Iceman in the 1986 action film \"Top Gun.\" He also portrayed Jim Morrison in the 1991 biopic \"The Doors,\" immersing himself in the role by singing all of Morrison's songs. Who is this actor, whose career spans stage and screen, with notable roles in films like \"Heat\" and \"Kiss Kiss Bang Bang\"?",
+            "answers": ["Val Kilmer"],
+            "incorrect1": "Michael Madsen",
+            "incorrect2": "Kurt Russell",
+            "incorrect3": "Sam Elliott",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2016 SAGES",
+            "question": "A Texas grand jury declined to indict this organization in 2016, although it did indict a man who secretly filmed this organization. The U.S. Senate voted to defund this organization in December 2015, even though less than 3% of its services are related to abortions. Name this healthcare organization.",
+            "answers": [
+                "Planned Parenthood Federation of America",
+                "PPFA",
+                "Planned Parenthood"
+            ],
+            "incorrect1": "American Red Cross",
+            "incorrect2": "Doctors Without Borders",
+            "incorrect3": "Salvation Army",
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "source": "2010 Fall Kickoff Tournament (FKT)",
+            "question": "Pearson's syndrome, Leber's hereditary optic neuropathy, and Kearns-Sayre syndrome are all caused by faults in this cellular organelle. The namesake DNA of this organelle is usually inherited from an organism's mother. Cytochrome C is found here to aid the process of the electron transport chain, and this organelle's origin is the focus of endosymbiotic theory. The inner membrane contains folds called cristae form matrices in which cellular organelle that primarily produces ATP?",
+            "answers": ["mitochondrion", "mitochondria"],
+            "incorrect1": "nucleus",
+            "incorrect2": "endoplasmic reticulum",
+            "incorrect3": "golgi apparatus",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "This shape names a law for adding vectors. In a namesake illusion, diagonals of two of these figures appear to be different lengths, though they are not. Though not necessarily the same length, the diagonals of this quadrilateral bisect each other. If all four sides of this type of figure are of equal length, the figure is a rhombus. Name this shape drawn from two intersecting sets of parallel lines.",
+            "answers": ["parallelogram"],
+            "incorrect1": "trapezoid",
+            "incorrect2": "rhombus",
+            "incorrect3": "triangle",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "A sequel was recently announced for this gaming console. This video game console, released in 2017, is known for its hybrid design, allowing it to be used both as a handheld device and a home console connected to a TV. Its detachable controllers, called Joy-Cons, can be used in various configurations, enabling different gameplay styles. The console has become Nintendo's fastest-selling home console of all time, driven by popular games like The Legend of Zelda: Breath of the Wild and Super Mario Odyssey. What is the name of this console?",
+            "answers": ["Nintendo Switch", "Switch"],
+            "incorrect1": "PlayStation 5",
+            "incorrect2": "Xbox Series X",
+            "incorrect3": "Steam Deck",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This hockey player recently set the all time NHL scoring record, passing Wayne Gretsky. This hockey player, known for his powerful shot and his exuberant goal celebrations, generally plays as a left-winger. He has spent his entire NHL career with the Washington Capitals, leading them to their first Stanley Cup championship in 2018. His signature move, a one-timer from the left faceoff circle, has become a feared weapon in the league. Who is this Russian-born forward, nicknamed \"The Great Eight\"?",
+            "answers": ["Alexander Ovechkin", "Alex Ovechkin"],
+            "incorrect1": "Sidney Crosby",
+            "incorrect2": "Connor McDavid",
+            "incorrect3": "Wayne Gretzky",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2013 SCOP Novice 4",
+            "question": "While traveling, this composer was inspired by dancehall music and folk songs like \"El Palo Verde\" to write El Salon Mexico. This student of Nadia Boulanger wrote the film score to Of Mice and Men and a work where the tomboyish Cowgirl kisses the Roper during the Hoe-Down. Rodeo and Fanfare for the Common Man were composed by what American composer who used the Shaker tune \"Simple Gifts\" in Appalachian Spring?",
+            "answers": ["Aaron Copland"],
+            "incorrect1": "George Gershwin",
+            "incorrect2": "Leonard Bernstein",
+            "incorrect3": "Philip Glass",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 ERIS",
+            "question": "Part of the Western border of this state is formed by the Red River of the North. This state's \"Northwest Angle\" is formed by an unusual border along the Lake of the Woods, which this state shares with Canada. This state is home to the source of the Mississippi River, which forms part of its border with Wisconsin. Name this \"land of ten thousand lakes\" whose capital is St. Paul.",
+            "answers": ["Minnesota"],
+            "incorrect1": "Wisconsin",
+            "incorrect2": "Michigan",
+            "incorrect3": "Iowa",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2020 ERIS",
+            "question": "Ironically, violence escalated in this country after a president gave a speech about it under a \"Mission Accomplished\" banner. Because of tensions over oil, this country invaded its neighbor to begin the First Gulf War. In 1980 this country invaded Iran under the leadership of Saddam Hussein. The terrorist group ISIS is named for Syria and what country led from Baghdad?",
+            "answers": ["Iraq", "Republic of Iraq"],
+            "incorrect1": "Iran",
+            "incorrect2": "Syria",
+            "incorrect3": "Kuwait",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "President Donald Trump announced a 46% tariff on goods from this nation, a manufacturing hub for US companies including Nike. This Southeast Asian country, known for its vibrant street food and its bustling cities, is home to Ha Long Bay, a UNESCO World Heritage Site featuring thousands of limestone islands and islets. Its capital, Hanoi, boasts a rich history and French colonial architecture. It is a major exporter of rice, coffee, and seafood. What is the name of this country, bordered by China, Laos, and Cambodia?",
+            "answers": ["Vietnam"],
+            "incorrect1": "Thailand",
+            "incorrect2": "Cambodia",
+            "incorrect3": "Indonesia",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "US History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "As the Secretary of War, he signed a secret diplomatic memorandum with then-Japanese Prime Minister Katsura Taro. He gained some unpopularity within his party after he fired Gifford Pinchot, who alleged that his Secretary of Interior, Richard Ballinger, was in league with timber interests. He proposed an income tax for corporations which became the 16th Amendment, and he pursued \"Dollar Diplomacy\" in Latin America and Asia. His former ally ran against him on the Bull Moose ticket in 1912, both losing to Woodrow Wilson. Identify this president who succeeded Teddy Roosevelt.",
+            "answers": ["William Howard Taft"],
+            "incorrect1": "Theodore Roosevelt",
+            "incorrect2": "Woodrow Wilson",
+            "incorrect3": "William McKinley",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "source": "2020 SCOP A",
+            "question": "This mythical creature was returned to its home by a hero who rescued Theseus from a \"Chair of Forgetfulness.\" While traveling with Aeneas, the Cumaean Sibyl used a drugged honey cake to subdue this animal. This child of Typhon and Echidna was often depicted with snakes for a tail. During one of his last labors, Heracles either captured this animal or was given it by Persephone. Name this three-headed dog that guarded the underworld in Greek myth.",
+            "answers": ["Cerberus", "Kerberos"],
+            "incorrect1": "Hydra",
+            "incorrect2": "Minotaur",
+            "incorrect3": "Medusa",
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "source": "2020 TAILS",
+            "question": "During this ruler's reign, universal male suffrage was enacted by the Second Reform Act. This ruler's prime ministers Gladstone and Disraeli were political rivals. After the death of her husband, Prince Albert, this ruler only ever wore black. In 1876, this ruler was given the title Empress of India, in recognition of her vast colonial expansion of the British empire. Name this English queen who ruled for most of the 19th century.",
+            "answers": ["Queen Victoria"],
+            "incorrect1": "Queen Elizabeth I",
+            "incorrect2": "Queen Elizabeth II",
+            "incorrect3": "Catherine the Great",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2011 Fall Kickoff Tournament (FKT)",
+            "question": "This man said \"There is no right to strike against the public safety by anyone, anywhere, any time\" in a telegram to Samuel Gompers while putting down the Boston Police Strike during his time as Governor of Massachusetts. The first Vice President to attend cabinet meetings, this man succeeded to the Presidency after his predecessor died suddenly while on a speaking tour. This man appointed Harlan Stone to the Supreme Court and his cabinet included Treasury Secretary Andrew Mellon and Vice President Charles Dawes. Identify this 30th U.S. President who served from 1923-1928 following the death of Warren G. Harding.",
+            "answers": ["Calvin Coolidge", "John Calvin Coolidge"],
+            "incorrect1": "Warren G. Harding",
+            "incorrect2": "Herbert Hoover",
+            "incorrect3": "Franklin D. Roosevelt",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 TAILS",
+            "question": "A monument in this city features a Stone of Hope emerging from a Mountain of Despair in memory of Martin Luther King. The Three Soldiers statue stands next to this city's Maya Lin-designed Vietnam Veterans Memorial. Most of the Smithsonian museums lie on this city's National Mall, whose ends contain the Washington Monument and the Lincoln Memorial. Name this capital city of the United States.",
+            "answers": [
+                "Washington, DC",
+                "Washington, District of Columbia",
+                "District of Columbia"
+            ],
+            "incorrect1": "New York City",
+            "incorrect2": "Philadelphia",
+            "incorrect3": "Boston",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This animated film features a memorable song, \"A Whole New World,\" which won an Academy Award for Best Original Song. The protagonist, a street urchin, discovers a magic lamp containing a genie who grants him three wishes. The film's antagonist, Jafar, is a powerful sorcerer who seeks to overthrow",
+            "answers": ["Aladdin"],
+            "incorrect1": "The Lion King",
+            "incorrect2": "Beauty and the Beast",
+            "incorrect3": "Mulan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Current Events",
+            "question": "Susan Crawford defeated Brad Schimel who was backed by more than $20 million in donations from Elon Musk in a judicial election in this US state. The state, known as \"America's Dairyland,\" is a leading producer of cheese and other dairy products. It's also home to the iconic Harley-Davidson motorcycle company, headquartered in Milwaukee. Its largest city, Milwaukee, is famous for its brewing history. What is the name of this state, bordered by two Great Lakes and known for its cheeseheads?",
+            "answers": ["Wisconsin"],
+            "incorrect1": "Minnesota",
+            "incorrect2": "Michigan",
+            "incorrect3": "Illinois",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2017 SCOP MS 7",
+            "question": "Odd numbers are multiplied by this value then added to one in the Collatz conjecture's computation. This value is the smallest Mersenne prime and the second triangular number. An integer is divisible by this value if the sum of its digits is also divisible by this number. This value follows 1, 1, 2 in the Fibonacci sequence. Name this smallest odd prime number.",
+            "answers": ["three", "3"],
+            "incorrect1": "two",
+            "incorrect2": "four",
+            "incorrect3": "five",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "A player from this university's college basketball team won the AP and Naismith player of the year awards. This university's men's basketball program, led by legendary coach Mike Krzyzewski (\"Coach K\") for over four decades, has produced numerous NBA stars, including Grant Hill, Christian Laettner, and Kyrie Irving. They have won five NCAA championships, solidifying their place as one of the most successful programs in college basketball history. Name this team that was led by Cooper Flagg in 2025.",
+            "answers": ["Duke University", "Duke"],
+            "incorrect1": "University of North Carolina",
+            "incorrect2": "North Carolina State University",
+            "incorrect3": "Wake Forest University",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "source": "2010 Fall Novice Tournament",
+            "question": "The Acclamation War in this nation installed John IV as king. Its capital, rebuilt by several Braganzan leaders, was destroyed in a 1755 earthquake. This country's Carnation Revolution overthrew dictator Antonio Salazar, whose colonies included Mozambique. This nation's flag flew over Vasco da Gama, and Prince Henry the Navigator expanded its trade with Africa. Name this European nation whose language is spoken in Brazil, with capital at Lisbon.",
+            "answers": ["Portugal"],
+            "incorrect1": "Spain",
+            "incorrect2": "Italy",
+            "incorrect3": "France",
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 MOQBA Novice",
+            "question": "Examples of the \"New\" type of this genre include Menander's The Grouch and Plautus's The Pot of Gold. In a play of this type, Xanthias and Dionysus try to bring Euripides back from the underworld. In a different play of this type, the women of Athens try to end the Peloponnesian War by refusing to sleep with their husbands. The best-known author of this genre wrote The Frogs and Lysistrata and lampooned Socrates in The Clouds. Name this genre of drama, the Greek version of which was exemplified by the works of Aristophanes, often contrasted with tragedy.",
+            "answers": ["comedy", "New Comedy"],
+            "incorrect1": "tragedy",
+            "incorrect2": "drama",
+            "incorrect3": "romance",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2018 SCOP Novice 9",
+            "question": "This man was betrayed by James Wilkinson in their attempt to invade Mexico and form a new country in 1806. The Essex Junto tried to get this man elected Governor of New York in 1804, after he was dropped as Vice President by Thomas Jefferson; shortly after losing that election, this man became a fugitive for shooting a man at Weehawken, New Jersey. Name this politician who dueled and killed Alexander Hamilton.",
+            "answers": ["Aaron Burr"],
+            "incorrect1": "Alexander Hamilton",
+            "incorrect2": "Thomas Jefferson",
+            "incorrect3": "John Adams",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This stock index dropped more than 10% on April 3 and 4, 2025 after President Trump announced tariffs on what he called \"Liberation Day\". This stock market index, widely regarded as a benchmark for the overall health of the U.S. economy, tracks the performance of 500 large-cap companies listed on the stock exchanges in the United States. Its components are selected by a committee that aims to represent the leading companies in leading industries of the U.S. economy. It is a market-capitalization-weighted index, meaning that companies with larger market caps have a greater influence on its value. What is the name of this stock market index?",
+            "answers": ["S&P 500", "Standard and Poor's 500", "S and P 500"],
+            "incorrect1": "Dow Jones Industrial Average",
+            "incorrect2": "Nasdaq Composite",
+            "incorrect3": "Russell 2000",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Sports",
+            "question": "This university's women's basketball team recently won their record 12th national championship. This university's women's basketball program is led by coach Geno Auriemma. They hold the record for the longest winning streak in NCAA history, with 111 consecutive victories. Their alums have gone on to become some of the biggest stars in the WNBA, including Diana Taurasi, Sue Bird, and Maya Moore. What is the name of this university, whose women's basketball team is often considered the most dominant dynasty in the history of the sport?",
+            "answers": ["UConn", "University of Connectcut"],
+            "incorrect1": "Duke University",
+            "incorrect2": "University of North Carolina",
+            "incorrect3": "University of Kentucky",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Science",
+            "source": "2010 Collaborative Middle School Tournament",
+            "question": "The size of these objects is given by the Schwarzschild radius. According to quantum mechanics, these objects emit Hawking radiation. One of them, Sagittarius A Star, sits at the center of our galaxy and has four million times the mass of our sun. What are these objects in outer space from which supposedly nothing, not even light, can escape?",
+            "answers": ["black holes"],
+            "incorrect1": "white dwarfs",
+            "incorrect2": "neutron stars",
+            "incorrect3": "quasars",
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This animated film features a memorable scene where the protagonist's animal friends help her prepare for the ball, creating a beautiful gown. The protagonist's fairy godmother uses magic to transform her appearance and provide transportation to the royal ball. The film's antagonist is the protagonist's cruel stepmother, Lady Tremaine, and her two stepsisters, Drizella and Anastasia. What is the name of this Disney classic, based on a French fairy tale?",
+            "answers": ["Cinderella"],
+            "incorrect1": "Snow White",
+            "incorrect2": "Sleeping Beauty",
+            "incorrect3": "Mulan",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Geography",
+            "source": "2020 TAILS",
+            "question": "This body of water is the primary source of Beluga Caviar. The Absheron Peninsula, which juts into this body of water, contains the world's lowest-altitude capital city. That city, Baku, has grown rich off of the oil reserves in this body of water. The Volga and Ural Rivers empty into this largest inland lake in the world. What body of water lies north of Iran, between the Caucasus Mountains and Kazakhstan?",
+            "answers": ["Caspian Sea"],
+            "incorrect1": "Black Sea",
+            "incorrect2": "Aral Sea",
+            "incorrect3": "Dead Sea",
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "This man found that nothing would grow in nutrient broth unless it was exposed to the air, thereby rejecting the theory of spontaneous generation and providing evidence for germ theory. He generalized Edward Jenner's work with smallpox immunity to develop vaccines for anthrax and rabies. Name this French scientist who engineered a namesake process to destroy microorganisms in milk and other food products.",
+            "answers": ["Louis Pasteur", "pasteurization"],
+            "incorrect1": "Marie Curie",
+            "incorrect2": "Albert Einstein",
+            "incorrect3": "Isaac Newton",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2017 HIGS",
+            "question": "The first bill passed by this president was the Lilly Ledbetter Fair Pay Act, and Shepard Fairey [fairy] designed his \"Hope\" poster. This man, who appointed Elena Kagan and Sonia Sotomayor to the Supreme Court, passed the Affordable Care Act, and ran with the slogan \"Yes We Can\" to defeat John McCain in the 2008 presidential election. Name this first African-American president of the United States.",
+            "answers": ["Barack Obama", "Barack Hussein Obama II"],
+            "incorrect1": "Bill Clinton",
+            "incorrect2": "George W. Bush",
+            "incorrect3": "Donald Trump",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Marine Le Pen was recently convicted of embezzlement in this nation where she was leading in presidential polls. This European country, known for its haute cuisine and its rich artistic heritage, is home to the Louvre Museum, one of the world's largest and most visited art museums. Its capital city, Paris, is renowned for its iconic Eiffel Tower and its romantic atmosphere. It is also famous for its fashion industry and its influence on global trends. What is the name of this country, where the French language is spoken?",
+            "answers": ["France"],
+            "incorrect1": "Germany",
+            "incorrect2": "Italy",
+            "incorrect3": "Spain",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This leader signed a peace treaty with Khosrau I in 532 to end his empire's Iberian War with the Sassanid Empire. The partisans of the chariot racing factions in his capital rose up against him in the Nika riots, and he appointed Tribonian to review and draft new laws. He waged wars against the Visigoths and the Vandals and gained Italy and parts of North Africa, with much thanks to the ability of his general, Belisarius. Rebuilding the Hagia Sophia and rewriting Roman laws identify this 483 to 565 ruler of the Byzantine Empire.",
+            "answers": [
+                "Justinian I",
+                "Justinian the Great",
+                "Flavius Petrus Sabbatius Iustinianus"
+            ],
+            "incorrect1": "Constantine I",
+            "incorrect2": "Charlemagne",
+            "incorrect3": "Julius Caesar",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This university's men's basketball team recently won the NCAA title. They achieved back-to-back NCAA championships in 2006 and 2007, a feat accomplished by only a few teams in NCAA history. They are known for their \"Gator Chomp\" hand gesture, a symbol of school spirit and pride. They have produced NBA stars such as Joakim Noah, Al Horford, and Bradley Beal. What is the name of this university, whose men's basketball team has experienced significant success in the 21st century?",
+            "answers": ["University of Florida", "Florida", "UF"],
+            "incorrect1": "Florida State University",
+            "incorrect2": "University of Miami",
+            "incorrect3": "University of Central Florida",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This show's creator, Stephen Hillenburg, was a marine science educator who drew inspiration from the ocean and its creatures. The animated series, set in the underwater city of Bikini Bottom, features a protagonist who works as a fry cook at the Krusty Krab restaurant. The show's creator, Stephen Hillenburg, was a marine science educator who drew inspiration from the ocean and its creatures. The show's main characters include a starfish named Patrick, a squid named Squidward, and a tiny plankton named Plankton who constantly tries to steal the Krusty Krab's secret formula. What is the name of this popular Nickelodeon series?",
+            "answers": ["SpongeBob SquarePants", "Spongebob"],
+            "incorrect1": "The Simpsons",
+            "incorrect2": "Family Guy",
+            "incorrect3": "Adventure Time",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 SCOP MS 10",
+            "question": "This novel satirizes minor religious arguments with Big- and Little-Endians, who disagree over how to break a boiled egg. This novel's protagonist visits Laputa, Luggnag, and Japan, and meets six-inch-tall humans who inhabit Liliput. The title doctor is sold to the giant queen of Brobdingnag in what satirical novel by Jonathan Swift?",
+            "answers": ["Gulliver's Travels"],
+            "incorrect1": "Robinson Crusoe",
+            "incorrect2": "Treasure Island",
+            "incorrect3": "Moby-Dick",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2018 SCOP Novice 9",
+            "question": "This river empties into the Atlantic Ocean from Banana after traveling in a counterclockwise arc. A series of 32 cataracts, including Inga Falls, makes much of this river unnavigable. The Lualaba and Chambeshi Rivers are two major tributaries of this second-longest river on its continent. The capital cities of Brazzaville and Kinshasa are on what African river that shares its name with both those cities'home countries, a Republic and a Democratic Republic?",
+            "answers": ["Congo River"],
+            "incorrect1": "Nile River",
+            "incorrect2": "Amazon River",
+            "incorrect3": "Mississippi River",
+            "used": "TRUE"
+        }
     ]
 ]
