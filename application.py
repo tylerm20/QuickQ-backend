@@ -12,7 +12,7 @@ cors = CORS(application)
 is_dev_mode = os.getenv('FLASK_ENV') == 'development'
 
 def get_questions_for_date(date):
-    with open('backend_questions.json', 'r') as f:
+    with open(os.path.join('questions', 'backend_questions.json'), 'r') as f:
         questions_list = json.load(f)
         question_set_to_use = calculate_days_past_april_14_2024(date)
         return questions_list[question_set_to_use % len(questions_list)]
