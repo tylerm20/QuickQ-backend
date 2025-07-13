@@ -30171,7 +30171,7 @@
         {
             "category": "US History",
             "source": "2018 SCOP Novice 9",
-            "question": "This man was betrayed by James Wilkinson in their attempt to invade Mexico and form a new country in 1806. The Essex Junto tried to get this man elected Governor of New York in 1804, after he was dropped as Vice President by Thomas Jefferson; shortly after losing that election, this man became a fugitive for shooting a man at Weehawken, New Jersey. Name this politician who dueled and killed Alexander Hamilton.",
+            "question": "TAGThis man was betrayed by James Wilkinson in their attempt to invade Mexico and form a new country in 1806. The Essex Junto tried to get this man elected Governor of New York in 1804, after he was dropped as Vice President by Thomas Jefferson; shortly after losing that election, this man became a fugitive for shooting a man at Weehawken, New Jersey. Name this politician who dueled and killed Alexander Hamilton.",
             "answers": ["Aaron Burr"],
             "incorrect1": "Alexander Hamilton",
             "incorrect2": "Thomas Jefferson",
@@ -30180,7 +30180,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This stock index dropped more than 10% on April 3 and 4, 2025 after President Trump announced tariffs on what he called \"Liberation Day\". This stock market index, widely regarded as a benchmark for the overall health of the U.S. economy, tracks the performance of 500 large-cap companies listed on the stock exchanges in the United States. Its components are selected by a committee that aims to represent the leading companies in leading industries of the U.S. economy. It is a market-capitalization-weighted index, meaning that companies with larger market caps have a greater influence on its value. What is the name of this stock market index?",
+            "question": "TAGTAGThis stock index dropped more than 10% on April 3 and 4, 2025 after President Trump announced tariffs on what he called \"Liberation Day\". This stock market index, widely regarded as a benchmark for the overall health of the U.S. economy, tracks the performance of 500 large-cap companies listed on the stock exchanges in the United States. Its components are selected by a committee that aims to represent the leading companies in leading industries of the U.S. economy. It is a market-capitalization-weighted index, meaning that companies with larger market caps have a greater influence on its value. What is the name of this stock market index?",
             "answers": ["S&P 500", "Standard and Poor's 500", "S and P 500"],
             "incorrect1": "Dow Jones Industrial Average",
             "incorrect2": "Nasdaq Composite",
