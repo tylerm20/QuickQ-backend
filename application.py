@@ -14,22 +14,22 @@ is_dev_mode = os.getenv('FLASK_ENV') == 'development'
 def get_questions_for_date(date):
     with open(os.path.join('questions', 'backend_questions.json'), 'r') as f:
         questions_list = json.load(f)
-        question_set_to_use = calculate_days_past_april_14_2024(date)
+        question_set_to_use = calculate_days_past_july_14_2025(date)
         return questions_list[question_set_to_use % len(questions_list)]
 
-def calculate_days_past_april_14_2024(input_date):
+def calculate_days_past_july_14_2025(input_date):
     """
-    Calculates the number of days that have passed since April 14, 2024.
+    Calculates the number of days that have passed since July 14, 2025.
     Args:
         input_date (date): date object
     Returns:
-        int: The number of days past April 14, 2024, or None if the input date is invalid.
+        int: The number of days past July 14, 2025, or None if the input date is invalid.
     """
     try:
-        start_date = date(2024, 4, 14)
+        start_date = date(2025, 6, 14)
 
         if input_date < start_date:
-            return None  # Return None if the input date is before April 14, 2024
+            return None  # Return None if the input date is before July 14, 2025
 
         days_passed = (input_date - start_date).days
         return days_passed
